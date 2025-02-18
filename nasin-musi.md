@@ -6,38 +6,52 @@ redirect_from: /cairn-srd/
 nav_order: 1
 ---
 
-# Cairn System Reference Document (v.1.0)
+<!--# Cairn System Reference Document (v.1.0)-->
+# Lipu nasin pi musi Cairn (n.1.0)
 {: .no_toc }
 
 <p></p>
 
-**Cairn** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc.).
+<!--**Cairn** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc.).-->
+**musi Cairn** li awen sona tan [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+o lukin e [tomo ilo sona](https://github.com/yochaigal/cairn). anu la o kama jo e musi pi [lipu ante](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc.).
 
-**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
-Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
+<!--**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
+Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.-->
+**musi Cairn** li musi pi tawa weka li tawa jan lawa wan li tawa jan ante wan anu jan ante mute.
+jan li musi nasin e jan wawa pi tawa weka. ona li kama lukin e ma pimeja pi kasi suli. ma pi kasi suli ni li jo e jan nasa e mani len e soweli ike pi ken ala toki.
 
 <details close markdown="block">
   <summary id="index">
-    Table of contents
+    <!--Table of contents-->
+    jo lipu
   </summary>
   {: .text-delta }
 - TOC
 {:toc}
 </details>
 
-## Overview
+<!--## Overview
+**Cairn** was written with the following design philosophies in mind:-->
+## lukin selo
+**musi Cairn** li pali la kon nasin ni o lon:
 
-**Cairn** was written with the following design philosophies in mind:
+<!--### Neutrality
+The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.-->
+### nasin pi pona ala ike ala
+insa musi la jan lawa o toki e nasin musi e ma e jan musi ante. ona o pana toki e sona suli. tenpo sama la ona o pana e pona ala e ike ala.
 
-### Neutrality
-The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
+<!--### Classless
+A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences define their specialty.-->
+### musi ni li jo ala e nasin pi kulupu jan pali
+ken pi jan musi li mute. ona li ken kama e ijo ale. taso, ilo pi jan musi en sona ona li wawa jan li ken pali.
 
-### Classless
-A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences define their specialty.
-
-### Death
-Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.
+<!--### Death
+Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.-->
+<!--jan musi li wawa. taso, ona li ken pakala pi nasin mute. moli li poka lon tenpo ale. taso, moli o ken ala nasa ike. jan o ken sona e kama moli.-->
+### moli
+jan musi li ken wawa. taso, ona li ken kama pakala pi nasin mute. moli li poka lon tenpo ale. taso, moli o ken ala nasa ike. jan o ken sona e kama moli.
 
 ### Fiction First
 Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are arbitrated by the Warden in dialogue with the players, based on in-world elements.
@@ -142,14 +156,23 @@ Players trust one another to engage with the shared setting, character goals, an
 [back to index](#index)
 <p></p>
 
-## Character Creation
+<!--## Character Creation-->
+## nasin pali pi jan musi
 
-#### Name, Background & Traits
+<!--#### Name, Background & Traits
 First, choose or roll your PC’s **name** and **background** from their respective [tables](#name--background-d20). A PC’s background informs their potential knowledge and skills.
 
 Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables.
 
-Finally, roll for their **age** (2d20+10).
+Finally, roll for their **age** (2d20+10).-->
+
+#### nimi en pali en ijo jan
+
+open la o nimi e jan musi sina o alasa e pali ona. nimi en pali li lon e lipu ona. pali pi jan musi li pana e sona ken tawa ona. 
+
+ni pini la o luka e kiwen ken tawa ijo jan pi jan musi sina. lukin sijelo en toki en wile lili en pilin suli li ijo jan. ijo jan li lon e lipu pi ijo jan, taso o luka e kiwen tawa alasa ona. 
+
+ni pini la o luka e kiwen ken tawa tenpo sike pi jan musi sina. kiwen 2 pi sinpin 20 en 10 li tenpo sike ona.
 
 #### Ability Scores
 Player Characters (PCs) have just three attributes:  
