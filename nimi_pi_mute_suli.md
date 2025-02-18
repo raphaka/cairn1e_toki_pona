@@ -22,7 +22,7 @@ Please use the suggestions from the "toki pona" column. If you prefer the altern
 | class                   | nasin pi kulupu jan pali  | nasin pi jan musi    |
 | Critical Damage         | pakala ike                | pakala ale/wawa/suli |
 | damage                  | pakala                    |                      |
-| Deprived                |                           |                      |
+| Deprived                | pilin ike                 |                      |
 | Detachment              | kulupu                    | "party" li sama      |
 | DEX                     | TAW                       |                      |
 | die/dice                | kiwen ken                 | kiwen nanpa          |
@@ -40,6 +40,7 @@ Please use the suggestions from the "toki pona" column. If you prefer the altern
 | Player                  | jan                       | jan lon |
 | Player Character        | jan musi                  ||
 | roll                    | o tawa e kiwen ken / o tawa e 3k6 | o pana/luka e kiwen ken |
+| rules                   | nasin musi                ||
 | Save / Saving Throw     | utala e WAW               ||
 | Scar                    | pakala sijelo             ||
 | Spellbook               | lipu pi nasa wawa         | lipu nasa |
