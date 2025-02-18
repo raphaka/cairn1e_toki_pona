@@ -15,7 +15,7 @@ Please use the suggestions from the "toki pona" column. If you prefer the altern
 | Armor                   | nanpa awen                | (nanpa pi) len kiwen / nanpa kiwen |
 | Background              | pali (pi jan musi)        | tenpo pini pi jan musi |
 | backpack                | poki monsi                |                      |
-| Blast                   | pakala ma?                |                      |
+| Blast                   | pakala suli               | pakala ma            |
 | bulky                   | suli a                    |                      |
 | Cairn                   | Cairn (Main title)        | kiwen pi jan moli (Subtitle ) |
 | cart                    | poki tawa                 |                      |
@@ -25,11 +25,11 @@ Please use the suggestions from the "toki pona" column. If you prefer the altern
 | Deprived                |                           |                      |
 | Detachment              | kulupu                    |                      |
 | DEX                     | TAW                       |                      |
-| die/dice                | kiwen nanpa               | kiwen ken            |
+| die/dice                | kiwen ken                 | kiwen nanpa          |
 | Enhanced (Attack)       | (utala pi) wawa suli      | wawa pona            | 
 | Fatigue                 | lape                      |                      |
 | horse                   | soweli tawa               |                      |
-| HP / Hit protection     | ken utala (KU)            | awen pakala (AP) / awen utala (AU) |
+| HP / Hit protection     | nanpan pi ken utala (KU)  | awen pakala (AP) / awen utala (AU) |
 | Impaired (attack)       | (utala pi) wawa lili      | wawa ike             |
 | Inventory               | poki jo                   | jo pi jan musi       |
 | Inventory slot/Item slot| lupa ijo                  |                      |
@@ -39,8 +39,8 @@ Please use the suggestions from the "toki pona" column. If you prefer the altern
 | Party                   |                           ||
 | Player                  | jan                       | jan lon |
 | Player Character        | jan musi                  ||
-| roll                    | o tawa e kiwen nanpa      | o pana/luka e kiwen nanpa |
-| Save / Saving Throw     |                           ||
+| roll                    | o tawa e kiwen ken / o tawa e 3k6 | o pana/luka e kiwen ken |
+| Save / Saving Throw     | utala e WAW               ||
 | Scar                    | pakala sijelo             ||
 | Spellbook               | lipu pi nasa wawa         | lipu nasa |
 | SRD                     | lipu nasin                ||
