@@ -35,7 +35,7 @@ Please use the suggestions from the "toki pona" column. If you prefer the altern
 | Inventory slot/Item slot| lupa ijo                  |                      |
 | Item                    | ijo                       ||
 | magic                   | nasa wawa                 | nasa |
-| NPC                     | jan pi musi ala (JpMA)    | jan ante / jan pi lon ala / jan pi jan musi ala (JPJMA) |
+| NPC                     | jan musi ante             | jan pi musi ala (JpMA) / jan pi lon ala / jan pi jan musi ala (JPJMA) |
 | Party                   | kulupu                    | "detachment li sama" |
 | Player                  | jan                       | jan lon |
 | Player Character        | jan musi                  ||
