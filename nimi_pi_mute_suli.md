@@ -23,7 +23,7 @@ Please use the suggestions from the "toki pona" column. If you prefer the altern
 | Critical Damage         | pakala ike                | pakala ale/wawa/suli |
 | damage                  | pakala                    |                      |
 | Deprived                |                           |                      |
-| Detachment              | kulupu                    |                      |
+| Detachment              | kulupu                    | "party" li sama      |
 | DEX                     | TAW                       |                      |
 | die/dice                | kiwen ken                 | kiwen nanpa          |
 | Enhanced (Attack)       | (utala pi) wawa suli      | wawa pona            | 
@@ -36,7 +36,7 @@ Please use the suggestions from the "toki pona" column. If you prefer the altern
 | Item                    | ijo                       ||
 | magic                   | nasa wawa                 | nasa |
 | NPC                     | jan pi musi ala (JpMA)    | jan ante / jan pi lon ala / jan pi jan musi ala (JPJMA) |
-| Party                   |                           ||
+| Party                   | kulupu                    | "detachment li sama" |
 | Player                  | jan                       | jan lon |
 | Player Character        | jan musi                  ||
 | roll                    | o tawa e kiwen ken / o tawa e 3k6 | o pana/luka e kiwen ken |
