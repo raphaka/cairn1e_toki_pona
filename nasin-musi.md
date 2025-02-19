@@ -56,10 +56,12 @@ jan musi li ken wawa. taso, ona li ken kama pakala pi nasin mute. moli li poka l
 <!--### Fiction First
 Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are arbitrated by the Warden in dialogue with the players, based on in-world elements.-->
 ### toki musi li suli a
-ijo li lon nasi pi jan musi la kiwen ken li ken ala toki e wile wawa e kama lon tenpo ale. ante la jan lawa li toki e kama pona e kama ike kepeken ijo lon insa musi.
+ijo li lon nasin pi jan musi la kiwen ken li ken ala toki e wile wawa e kama lon tenpo ale. ante la jan lawa li toki e kama pona e kama ike kepeken ijo lon insa musi.
 
-### Growth
-Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.
+<!--### Growth
+Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.-->
+### kama wawa
+jan musi li ante tan tawa lon insa musi la ona li kama sona e ken sin tan ni: ona li awen lon tenpo pi ken pakala li tawa lon nasin pi ken utala.
 
 ### Player Choice
 Players should always understand the reasons behind the choices they've made, and information about potential risks should be provided freely and frequently.
