@@ -19,8 +19,8 @@ o lukin e [tomo ilo sona](https://github.com/yochaigal/cairn). anu la o kama jo 
 
 <!--**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
 Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.-->
-**musi Cairn** li musi pi tawa weka li tawa jan lawa wan li tawa jan ante wan anu jan ante mute.
-jan li musi nasin e jan wawa pi tawa weka. ona li kama lukin e ma pimeja pi kasi suli. ma pi kasi suli ni li jo e jan nasa e mani len e soweli ike pi ken ala toki.
+**musi Cairn** li musi pi tawa ma sin li tawa jan lawa wan li tawa jan ante wan anu jan ante mute.
+insa musi la jan li jan wawa pi tawa ma sin. ona li kama lukin e ma pimeja pi kasi suli. ma pi kasi suli ni li jo e jan nasa e mani len e soweli ike pi ken ala toki.
 
 <details close markdown="block">
   <summary id="index">
