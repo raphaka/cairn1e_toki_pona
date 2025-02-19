@@ -67,7 +67,7 @@ jan musi li ante tan tawa lon insa musi la ona li kama sona e ken sin tan ni: on
 Players should always understand the reasons behind the choices they've made, and information about potential risks should be provided freely and frequently.-->
 <!-- hard to translate. some people use 'anu' as a noun to translate 'choice' but I don't think that's common-->
 ### jan li pali wile
-jan li pali lon e wile ona la ona o sona e tan pi pali wile ni lon tenpo ale. toki sona pi ken pakala li kama lon tenpo mute tan jan lawa li wile ala e ijo.
+jan li pali lon e wile ona la ona o sona e tan pi pali wile ni lon tenpo ale. toki sona pi ken pakala o kama lon tenpo mute tan jan lawa o wile ala e ijo.
 
 ### Principles
 The Warden and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
