@@ -216,8 +216,10 @@ sina wile lukin e toki lili la o suli e lipu
 jan Inesu li tawa e kiwen ken tawa WAW pi jan musi ona. nanpa li **2** li **4** li **6** la kulupu ona li **12**. ante la nanpa wawa **TAW** li **9**. nanpa wawa **LAW** li **13** ona li wile ante e **12** e **9** la nanpa wawa la jan musi li jo e **9 WAW** e **12 TAW** e **13 LAW**.
 </details>
 
-### Hit Protection
-Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](/cairn-srd#scars-1) table.
+<!--### Hit Protection
+Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](/cairn-srd#scars-1) table.-->
+### nanpa pi ken utala
+o tawa e 1k6 la nanpa ona li kama **ken utala** (KU) open pi jan musi sina. nanpa ni li toki e ken pi jan musi ni: utala la ona li pakala ala. nanpa ni li toki ala e pona sijelo e wawa sijelo. kin la ona li weka ala lon tenpo suli (o lukin **kama pona sin**). KU pi jan musi li kama 0 tan utala, jan o lukin e supa [**pakala sijelo**](/cairn-srd#scars-1) kepeken kiwen ken.
 
 #### Inventory
 Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
