@@ -14,7 +14,7 @@ nav_order: 1
 
 <!--**Cairn** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc.).-->
-**musi Cairn** li awen sona tan [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+lipu nasin pi jo sona [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) li awen e **musi Cairn**.
 o lukin e [tomo ilo sona](https://github.com/yochaigal/cairn). anu la o kama jo e musi pi [lipu ante](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc.).
 
 <!--**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
@@ -174,15 +174,28 @@ ni pini la o luka e kiwen ken tawa ijo jan pi jan musi sina. lukin sijelo en tok
 
 ni pini la o luka e kiwen ken tawa tenpo sike pi jan musi sina. kiwen 2 pi sinpin 20 en 10 li tenpo sike ona.
 
-#### Ability Scores
+<!--#### Ability Scores
 Player Characters (PCs) have just three attributes:  
-**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
+**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.-->
 
-<details markdown="block">
+#### nanpa wawa 
+jan musi li jo nanpa wawa 3 ni:
+**wawa sijelo (WAW)**, **tawa (TAW)**, en **lawa sona (LAW)**. sina pali e jan musi la o tawa e 3k6 la nanpa wawa WAW li kama lon. pini la o pali e nanpa wawa TAW e nanpa wawa LAW kepeken nasin sama. sina wile la o ante e nanpa wawa tu. ni la nanpa wawa wan li kama nanpa wawa ante en nanpa wawa ante li kama nanpa wawa wan.
+
+<!--<details markdown="block">
   <summary>
 Expand For Example
  </summary>
  Ines rolls for her character's **STR**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL**. She decides to swap the **12** and the **9**, for a character with **9 STR**, **12 DEX** and **13** **WIL**.
+</details>-->
+
+<details markdown="block">
+  <summary>
+<!--sina wile lukin e lipu la o kama suli-->
+sina wile lukin e toki lili la o suli e lipu
+ </summary>
+<!--jan Inesu li tawa e kiwen ken tawa wawa sijelo pi jan musi ona. nanpa li 2 li 4 li 6 li kulupu tawa 12…-->
+jan Inesu li tawa e kiwen ken tawa WAW pi jan musi ona. nanpa li **2** li **4** li **6** la kulupu ona li **12**. ante la nanpa wawa **TAW** li **9**. nanpa wawa **LAW** li **13** ona li wile ante e **12** e **9** la nanpa wawa la jan musi li jo e **9 WAW** e **12 TAW** e **13 LAW**.
 </details>
 
 ### Hit Protection
