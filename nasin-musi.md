@@ -53,8 +53,10 @@ Characters may be powerful, but they are also vulnerable to harm in its many for
 ### moli
 jan musi li ken wawa. taso, ona li ken kama pakala pi nasin mute. moli li poka lon tenpo ale. taso, moli o ken ala nasa ike. jan o ken sona e kama moli.
 
-### Fiction First
-Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are arbitrated by the Warden in dialogue with the players, based on in-world elements.
+<!--### Fiction First
+Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are arbitrated by the Warden in dialogue with the players, based on in-world elements.-->
+### toki musi li suli a
+ijo li lon nasi pi jan musi la kiwen ken li ken ala toki e wile wawa e kama lon tenpo ale. ante la jan lawa li toki e kama pona e kama ike kepeken ijo lon insa musi.
 
 ### Growth
 Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.
