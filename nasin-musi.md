@@ -69,11 +69,15 @@ Players should always understand the reasons behind the choices they've made, an
 ### jan li pali wile
 jan li pali lon e wile ona la ona o sona e tan pi pali wile ni lon tenpo ale. toki sona pi ken pakala o kama lon tenpo mute tan jan lawa o wile ala e ijo.
 
-### Principles
-The Warden and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
+<!--### Principles
+The Warden and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.-->
+### nasin kon
+jan lawa en jan ante li jo e nasin la nasin ni li pali e pilin wan. tan pilin ni li toki insa wawa li lukin e ijo sin li toki musi suli.
 
-### Shared Objectives
-Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore, the party is typically working together towards a common goal, as a team.
+<!--### Shared Objectives
+Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore, the party is typically working together towards a common goal, as a team.-->
+### wile kulupu
+pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, kepeken nasin utala kulupu. ni la, jan ale li pali tawa wile kulupu.
 
 [back to index](#index)
 <p></p>
