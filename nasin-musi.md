@@ -77,17 +77,24 @@ jan lawa en jan ante li jo e nasin la nasin ni li pali e pilin wan. tan pilin ni
 <!--### Shared Objectives
 Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore, the party is typically working together towards a common goal, as a team.-->
 ### wile kulupu
-pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, kepeken nasin utala kulupu. ni la, jan ale li pali tawa wile kulupu.
+pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, kepeken nasin utala kulupu. ni la jan ale li pali tawa wile kulupu.
 
-[back to index](#index)
+[o tawa pi lukin lipu sin](#index)
 <p></p>
 
-## Principles for Wardens
-### Information
+<!--## Principles for Wardens-->
+## nasin pi jan lawa
+
+<!--### Information
 - Provide useful information about the game world as the characters explore it.
 - Players do not need to roll dice to learn about their circumstances.
 - Be helpful and direct with your answers to their questions.
-- Respond honestly, describe consistently, and always let them know they can keep asking questions.
+- Respond honestly, describe consistently, and always let them know they can keep asking questions.-->
+### sona
+- o pana e sona pona pi ma musi tan lukin pi jan musi.
+- jan li ken sona e lon ona. ni li wile ala e tawa pi kiwen ken.
+- jan li wile sona la toki sina o pana pona o pana lon.
+- o toki e sona lon tenpo ale. o toki e ni tawa jan: ona li ken toki e wile sona.
 
 ### Difficulty
 - Default to context and realism rather than numbers and mechanics.
@@ -129,7 +136,7 @@ pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, k
 - In these situations, roll 1d6. A roll of 4 or more generally favors the players.
 - A roll of 3 or under tends to mean bad luck for the PCs or their allies.
 
-[back to index](#index)
+[o tawa pi lukin lipu sin](#index)
 <p></p>
 
 ## Principles for Players
