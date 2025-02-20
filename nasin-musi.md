@@ -460,7 +460,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4    | Chain (10ft)           | 9    | Large Trap     | 14   | Pulley      | 19   | Tinderbox   |
 | 5    | Dowsing Rod            | 10   | Lockpicks      | 15   | Repellent   | 20   | Wolfsbane   |
 
-#### Tools
+<!--#### Tools
 
 |      |          |      |                |      |            |      |         |
 | ---- | -------- | ---- | -------------- | ---- | ---------- | ---- | ------- |
@@ -468,7 +468,16 @@ If you would like something closer to traditional classes, refer to the list of 
 | 2    | Bucket   | 7    | Crowbar        | 12   | Hammer     | 17   | Saw     |
 | 3    | Caltrops | 8    | Drill (Manual) | 13   | Hour Glass | 18   | Sealant |
 | 4    | Chalk    | 9    | Fishing Rod    | 14   | Metal File | 19   | Shovel  |
-| 5    | Chisel   | 10   | Glue           | 15   | Nails      | 20   | Tongs   |
+| 5    | Chisel   | 10   | Glue           | 15   | Nails      | 20   | Tongs   |-->
+
+#### Tools
+|      |          |      |                |      |            |      |         |
+| ---- | -------- | ---- | -------------- | ---- | ---------- | ---- | ------- |
+| 1    | ilo  | 6    | ilo      | 11   | ilo     | 16   | ilo     |
+| 2    | ilo   | 7    | ilo        | 12   | ilo     | 17   | ilo     |
+| 3    | ilo | 8    | ilo | 13   | ilo | 18   | ilo |
+| 4    | ilo    | 9    | ilo    | 14   | ilo  | 19   | ilo  |
+| 5    | ilo   | 10   | ilo           | 15   | ilo      | 20   | ilo   |
 
 #### Trinkets
 
