@@ -300,26 +300,34 @@ If you would like something closer to traditional classes, refer to the list of 
 #### pali
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |jan pi telo wawa |6          |jan lawa sewi     |11        |ja pi nasa wawa |16    |jan pi kalama musi |
+|1           |jan pi telo wawa |6          |jan lawa sewi     |11        |jan pi nasa wawa |16    |jan pi kalama musi |
 |2           |jan pi pali ilo|7          |Gambler    |12        |jan utala|17    |jan ike pi kama jo|
 |3           |Burglar   |8          |jan pi lupa moli|13        |jan esun |18    |Smuggler  |
 |4           |jan pali pi muko sijelo   |9          |jan kasi  |14        |jan pali nena    |19    |Servant   |
-|5           |jan pi pali supa |10         |jan alasa     |15        |Outlaw   |20    |Ranger    |
+|5           |jan pi pali supa |10         |jan alasa     |15        |jan pi nasin lawa ala   |20    |Ranger    |
 <p></p>
 
 <!--## Character traits (d10)-->
 ## ijo jan (d10)
 
-<!--#### Physique-->
-#### lukin sijelo
-
+<!--#### Physique
 |  |          |      |            |
 | -------- | -------- | ---- | ---------- |
 | 1        | Athletic | 6    | Scrawny   |
 | 2        | Brawny   | 7    | Short      |
 | 3        | Flabby   | 8    | Statuesque |
 | 4        | Lanky    | 9    | Stout      |
-| 5        | Rugged   | 10   | Towering   |
+| 5        | Rugged   | 10   | Towering   |-->
+
+<!--o pona e ni aaaaaa-->
+#### lukin sijelo
+|  |          |      |            |
+| -------- | -------- | ---- | ---------- |
+| 1        | wawa | 6    | wawa lili   |
+| 2        | wawa suli   | 7    | lili      |
+| 3        | ko   | 8    | pona |
+| 4        | sewi    | 9    | sike      |
+| 5        | kiwen   | 10   | sewi wawa   |
 
 <!--#### Skin-->
 #### selo sijelo
