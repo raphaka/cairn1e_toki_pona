@@ -131,10 +131,14 @@ pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, k
 - Work together using this conversational method to keep the game moving.
 - Ensure that the player character's actions leave their mark on the game world.
 
-### Die of Fate
+<!--### Die of Fate
 - Occasionally you will want an element of randomness (e.g. the weather, unique character knowledge, etc.).
 - In these situations, roll 1d6. A roll of 4 or more generally favors the players.
-- A roll of 3 or under tends to mean bad luck for the PCs or their allies.
+- A roll of 3 or under tends to mean bad luck for the PCs or their allies.-->
+### kiwen pi lon suli
+- tenpo ken la sina wile e ijo pi ken ala sona (ken la suno sewi, sona nasa pi jan musi, ijo ante).
+- tenpo ni la o tawa e 1k6. nanpa 4 en nanpa suli li pona tawa jan.
+- nanpa 3 en nanpa lili li ike tawa jan tawa jan poka ona
 
 [o tawa pi lukin lipu sin](#index)
 <p></p>
@@ -186,11 +190,11 @@ Finally, roll for their **age** (2d20+10).-->
 
 #### nimi en pali en ijo jan
 
-open la o nimi e jan musi sina o alasa e pali ona. nimi en pali li lon e lipu ona. pali pi jan musi li pana e sona ken tawa ona. 
+open la o **nimi** e jan musi sina o alasa e **pali** ona. nimi en pali li lon [**supa nimi** en **supa pali**](#name--background-d20). pali pi jan musi li pana e sona ken tawa ona.
 
-ni pini la o luka e kiwen ken tawa ijo jan pi jan musi sina. lukin sijelo en toki en wile lili en pilin suli li ijo jan. ijo jan li lon e lipu pi ijo jan, taso o luka e kiwen tawa alasa ona. 
+ni li pini la o tawa e kiwen ken tan ijo jan pi jan musi sina. lukin sijelo en nasin toki en wile lili en pilin suli li ijo jan. ijo jan li lon [**supa pi ijo jan**](#character-traits-d10) la o tawa e kiwen ken tan alasa ona.
 
-ni pini la o luka e kiwen ken tawa tenpo sike pi jan musi sina. kiwen 2 pi sinpin 20 en 10 li tenpo sike ona.
+pini ni la o tawa e kiwen ken tan **tenpo sike** pi jan musi sina (2k20+10). <!-- kiwen 2 pi sinpin 20 en 10 li tenpo sike ona.-->
 
 <!--#### Ability Scores
 Player Characters (PCs) have just three attributes:  
