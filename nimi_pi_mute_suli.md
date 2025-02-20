@@ -48,6 +48,7 @@ Please use the suggestions from the "toki pona" column. If you prefer the altern
 | SRD                     | lipu nasin                ||
 | STR                     | WAW                       ||
 | torch                   | palisa suno               ||
+| trait / character trait | ijo jan                   ||
 | turn                    | tenpo tawa                | tenpo musi |
 | Warden                  | jan lawa                  ||
 | weapon                  | ilo utala                 ||
