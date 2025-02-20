@@ -249,7 +249,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-## Name & Background (d20)
+## nimi en pali (k20)
 
 #### Female Names
 
@@ -281,7 +281,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |4           |Candlewick|9          |Glass      |14        |Smythe   |19    |Weaver    |
 |5           |Cormick   |10         |Harkness   |15        |Sunderman|20    |Wolder    |
 
-#### Background
+<!--#### background
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
@@ -290,22 +290,34 @@ If you would like something closer to traditional classes, refer to the list of 
 |3           |Burglar   |8          |Gravedigger|13        |Merchant |18    |Smuggler  |
 |4           |Butcher   |9          |Herbalist  |14        |Miner    |19    |Servant   |
 |5           |Carpenter |10         |Hunter     |15        |Outlaw   |20    |Ranger    |
+-->
 
+#### pali
+|||||||||
+|------|-----------|-----------|-----------|----------|---------|------|----------|
+|1           |jan pi telo wawa |6          |jan lawa sewi     |11        |ja pi nasa wawa |16    |jan pi kalama musi |
+|2           |jan pi pali ilo|7          |Gambler    |12        |jan utala|17    |jan ike pi kama jo|
+|3           |Burglar   |8          |jan pi lupa moli|13        |jan esun |18    |Smuggler  |
+|4           |jan pali pi muko sijelo   |9          |jan kasi  |14        |jan pali nena    |19    |Servant   |
+|5           |jan pi pali supa |10         |jan alasa     |15        |Outlaw   |20    |Ranger    |
 <p></p>
 
-## Character Traits (d10)
+<!--## Character traits (d10)-->
+## ijo jan (d10)
 
-#### Physique
+<!--#### Physique-->
+#### lukin sijelo
 
 |  |          |      |            |
 | -------- | -------- | ---- | ---------- |
-| 1        | Athletic | 6    | Scrawny    |
+| 1        | Athletic | 6    | Scrawny   |
 | 2        | Brawny   | 7    | Short      |
 | 3        | Flabby   | 8    | Statuesque |
 | 4        | Lanky    | 9    | Stout      |
 | 5        | Rugged   | 10   | Towering   |
 
-#### Skin
+<!--#### Skin-->
+#### selo sijelo
 
 |  |            |      |           |
 | ---- | ---------- | ---- | --------- |
@@ -315,7 +327,8 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4    | Pockmarked | 9    | Tattooed  |
 | 5    | Rosy       | 10   | Weathered |
 
-#### Hair
+<!--#### Hair-->
+#### linja lawa
 
 |  |         |      |           |
 | ---- | ------- | ---- | --------- |
@@ -325,7 +338,8 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4    | Filthy  | 9    | Wavy      |
 | 5    | Frizzy  | 10   | Wispy     |
 
-#### Face
+<!--#### Face-->
+#### sinpin lawa
 
 |  |           |      |          |
 | ---- | --------- | ---- | -------- |
@@ -335,7 +349,8 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4    | Elongated | 9    | Square   |
 | 5    | Pale      | 10   | Sunken   |
 
-#### Speech
+<!--#### Speech-->
+#### nasin toki
 
 |  |         |      |            |
 | ------ | ------- | ---- | ---------- |
@@ -345,7 +360,8 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4      | Droning | 9    | Stuttering |
 | 5      | Formal  | 10   | Whispery   |
 
-#### Clothing
+<!--#### Clothes-->
+#### len sijelo
 
 |  |         |      |        |
 | -------- | ------- | ---- | ------ |
@@ -355,7 +371,8 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4        | Filthy  | 9    | Rancid |
 | 5        | Foreign | 10   | Soiled |
 
-#### Virtue
+<!--#### Virtue-->
+#### nasin pona
 
 |  |             |      |           |
 | ------ | ----------- | ---- | --------- |
