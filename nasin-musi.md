@@ -96,11 +96,16 @@ pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, k
 - jan li wile sona la toki sina o pana pona o pana lon.
 - o toki e sona lon tenpo ale. o toki e ni tawa jan: ona li ken toki e wile sona.
 
-### Difficulty
+<!--### Difficulty
 - Default to context and realism rather than numbers and mechanics.
 - If something the players want to do is sincerely impossible, no roll will allow them to do it.
 - Is what the player describes and how they leverage the situation sensible? Let it happen.
-- Saves cover a great deal of uncertain situations and are often all that is necessary for risky actions.
+- Saves cover a great deal of uncertain situations and are often all that is necessary for risky actions.-->
+### wile e ken wawa
+- tenpo pi nasa ala la o toki e kon e lon pi nasa ala o toki ala e nanpa.
+- jan li wile e ijo pi ken ala la kiwen ken o ala lon e ijo ni.
+- ijo pi toki jan li ken ala ken? ken la o lon e ijo
+- utala pi nanpa wawa li toki e ijo mute pi sona ala. mute la tenpo pi ken pakala li wile e utala ni taso.
 
 ### Preparation
 - The game world is organic, malleable and random. It intuits and makes sharp turns.
