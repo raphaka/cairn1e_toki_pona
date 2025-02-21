@@ -113,10 +113,16 @@ pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, k
 - NPCs remember what the PCs say and do, and how they affect the world.
 - NPCs don't want to die. Infuse their own self-interest and will to live into every personality.
 
-### Narrative Focus
+<!--### Narrative Focus
 - Emergent experience of play is what matters, not math or character abilities. Give the players weapon trainers and personal quests to facilitate improvement and specialization.
 - Pay attention to the needs and wants of the players, then put realistic opportunities in their path.
-- A dagger to your throat will kill you, regardless of your expensive armor and impressive training.
+- A dagger to your throat will kill you, regardless of your expensive armor and impressive training.-->
+
+### wile musi
+- wile suli li ni: pilin musi tan ijo ale musi. nasin nanpa en ken pi jan musi li suli ala. o pana e jan pana pi sona utala e utala pona. ona li pona e jan musi e ken suli pi jan musi.
+- o lukin pona e wile jan e alasa jan. o pana e ken pona tawa ona
+- sina jo e len awen ale li sona ken suli la moli li awen tan ni: ilo palisa pakala li tawa lawa anpa.
+
 
 ### Danger
 - The game world produces real risk of pain and death for the player characters.
