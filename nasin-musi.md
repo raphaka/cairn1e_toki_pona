@@ -762,8 +762,11 @@ jan musi li alasa e jan ante la pilin pi jan ante ni li ken pona anu ike la jan 
 |    2    | 3-5  |   6-8   | 9-11 | 12      |
 | pilin utala | pilin monsuta | pilin pi wile sona | pilin pona | pilin pona tawa sina |
 
-### Morale
-Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
+<!--### Morale
+Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.-->
+
+### monsuta pi jan ante
+jan ante utala o utala e LAW ona tan ni: ona li wile ala tawa lon tenpo moli nanpa wan ona anu ni: moli ona li mute tawa jan utala ona. kulupu jan li ken kepeken LAW pi lawa kulupu. nanpa KU pi jan ante utala wan li ala la ona o utala e LAW ona. jan musi li monsuta ni lon tenpo ala.
 
 ### Hirelings
 PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
