@@ -741,13 +741,20 @@ Before calculating damage to HP, subtract the target's **Armor** value from the 
 No one can have more than 3 Armor.  
 Shields, gauntlets, and helms may provide additional benefits according to their use.
 
-### Reactions
+<!--### Reactions
 When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
 
 | | | | | |
 | :-----: | :--: | :-----: | :--: | :--: |
 |    2    | 3-5  |   6-8   | 9-11 | 12      |
-| Hostile | Wary | Curious | Kind | Helpful |
+| Hostile | Wary | Curious | Kind | Helpful |-->
+
+### pilin pi jan ante
+jan musi li alasa e jan ante la pilin pi jan ante ni li ken pona anu ike la jan lawa o tawa e 2k6 o lukin e lipu ni:
+| | | | | |
+| :-----: | :--: | :-----: | :--: | :--: |
+|    2    | 3-5  |   6-8   | 9-11 | 12      |
+| pilin utala | pilin monsuta | pilin pi wile sona | pilin pona | pilin pona tawa sina |
 
 ### Morale
 Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
