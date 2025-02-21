@@ -107,12 +107,18 @@ pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, k
 - ijo pi toki jan li ken ala ken? ken la o lon e ijo
 - utala pi nanpa wawa li toki e ijo mute pi sona ala. mute la tenpo pi ken pakala li wile e utala ni taso.
 
-### Preparation
+<!--### Preparation
 - The game world is organic, malleable and random. It intuits and makes sharp turns.
 - Use random tables and generators to develop situations, not stories or plots.
 - NPCs remember what the PCs say and do, and how they affect the world.
-- NPCs don't want to die. Infuse their own self-interest and will to live into every personality.
+- NPCs don't want to die. Infuse their own self-interest and will to live into every personality.-->
 
+### pali lon tenpo pini tawa musi
+- ma musi li ken ante li ken kama sin li nasa. ma ni li sona pilin li tawa wawa nasa.
+- o kepeken lipu pi ken nasa anu nasin ante. o pali e ma e ijo e wile jan o pali ala e nasin pi toki musi anu nasin pi tenpo kama.
+- jan ante o sona e toki pi jan musi e ante pi jan musi tawa ma musi.
+- jan ante li wile ala moli. o pana e wile ni pi jan ante tawa kon lawa ona.
+  
 <!--### Narrative Focus
 - Emergent experience of play is what matters, not math or character abilities. Give the players weapon trainers and personal quests to facilitate improvement and specialization.
 - Pay attention to the needs and wants of the players, then put realistic opportunities in their path.
