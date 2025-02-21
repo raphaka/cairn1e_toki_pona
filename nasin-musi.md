@@ -230,14 +230,20 @@ Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects
 ### nanpa pi ken utala
 o tawa e 1k6 la nanpa ona li kama **ken utala** (KU) open pi jan musi sina. nanpa ni li toki e ken pi jan musi ni: utala la ona li pakala ala. nanpa ni li toki ala e pona sijelo e wawa sijelo. kin la ona li weka ala lon tenpo suli (o lukin **kama pona sin**). KU pi jan musi li kama 0 tan utala, jan o lukin e supa [**pakala sijelo**](/cairn-srd#scars-1) kepeken kiwen ken.
 
-#### Inventory
-Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
+<!--#### Inventory
+Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.-->
 
-Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden's discretion.
+#### poki jo
+jan musi li ken jo e ijo kepeken lupa ijo 10: poki monsi ona li jo e lupa ijo 6. luka tu ona li jo e lupa ijo wan la lupa ijo tu li lon. sijelo ona li jo e lupa ijo tu. tenpo ike la jan li ken weka e ijo ale tan poki monsi ona la ona li ken lape lon insa poki.
 
-**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP.
+<!--Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden's discretion.-->
+ijo mute li wile e lupa ijo wan. ijo li lili a la ijo mute li ken tawa ijo lupa wan. wile pi jan lawa la lupa ijo li ken tawa ante.
 
-A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory. **Hirelings** can also be paid to carry equipment.
+<!--**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP.-->
+**ijo suli a** li wile e lupa ijo tu. jan musi li kepeken ijo suli a la ona o kepeken luka tu. jan musi li wile tawa e ijo suli a la ni li ken ike. poki jo pi jan musi li ale (ijo ona li wile e lupa ijo 10) la KU pi jan musi li kama 0.
+
+<!--A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory. **Hirelings** can also be paid to carry equipment.-->
+poki jo li ale la jan musi li ken ala jo e ijo ante. poki tawa (o tawa e ona kepeken luka tu) en soweli tawa li ken suli e poki jo. **jan pali** li ken tawa e ijo pi jan musi la ona li wile e mani.
 
 #### Starting Gear
 All PCs begin with:
