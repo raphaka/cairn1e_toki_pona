@@ -15,7 +15,7 @@ nav_order: 1
 <!--**Cairn** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc.).-->
 lipu nasin pi jo sona [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) li awen e **musi Cairn**.
-o lukin e [tomo ilo sona](https://github.com/yochaigal/cairn). anu la o kama jo e musi pi [lipu ante](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc.).
+o lukin e [tomo ilo sona](https://github.com/yochaigal/cairn). anu la o kama jo e musi kepeken [lipu ante](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc.).
 
 <!--**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
 Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.-->
