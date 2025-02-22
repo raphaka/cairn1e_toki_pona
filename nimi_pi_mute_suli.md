@@ -47,7 +47,7 @@ Please use the suggestions from the "toki pona" column. If you prefer the altern
 | Spellbook               | lipu pi nasa wawa         | lipu nasa |
 | SRD                     | lipu nasin                ||
 | STR                     | WAW                       ||
-| table                   | supa                      ||
+| table                   | lipu                      ||
 | torch                   | palisa suno               ||
 | trait / character trait | ijo jan                   ||
 | turn                    | tenpo tawa                | tenpo musi |
