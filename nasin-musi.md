@@ -207,9 +207,9 @@ Finally, roll for their **age** (2d20+10).-->
 
 #### nimi en pali en ijo jan
 
-open la o **nimi** e jan musi sina o alasa e **pali** ona. nimi en pali li lon [**supa nimi** en **supa pali**](#name--background-d20). pali pi jan musi li pana e sona ken tawa ona.
+open la o **nimi** e jan musi sina o alasa e **pali** ona. nimi en pali li lon [**lipu nimi** en **lipu pali**](#name--background-d20). pali pi jan musi li pana e sona ken tawa ona.
 
-ni li pini la o tawa e kiwen ken tan ijo jan pi jan musi sina. lukin sijelo en nasin toki en wile lili en pilin suli li ijo jan. ijo jan li lon [**supa pi ijo jan**](#character-traits-d10) la o tawa e kiwen ken tan alasa ona.
+ni li pini la o tawa e kiwen ken tan ijo jan pi jan musi sina. lukin sijelo en nasin toki en wile lili en pilin suli li ijo jan. ijo jan li lon [**lipu pi ijo jan**](#character-traits-d10) la o tawa e kiwen ken tan alasa ona.
 
 pini ni la o tawa e kiwen ken tan **tenpo sike** pi jan musi sina (2k20+10). <!-- kiwen 2 pi sinpin 20 en 10 li tenpo sike ona.-->
 
@@ -240,7 +240,7 @@ jan Inesu li tawa e kiwen ken tawa WAW pi jan musi ona. nanpa li **2** li **4** 
 <!--### Hit Protection
 Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](/cairn-srd#scars-1) table.-->
 ### nanpa pi ken utala
-o tawa e 1k6 la nanpa ona li kama **ken utala** (KU) open pi jan musi sina. nanpa ni li toki e ken pi jan musi ni: utala la ona li pakala ala. nanpa ni li toki ala e pona sijelo e wawa sijelo. kin la ona li weka ala lon tenpo suli (o lukin **kama pona sin**). KU pi jan musi li kama 0 tan utala, jan o lukin e supa [**pakala sijelo**](/cairn-srd#scars-1) kepeken kiwen ken.
+o tawa e 1k6 la nanpa ona li kama **ken utala** (KU) open pi jan musi sina. nanpa ni li toki e ken pi jan musi ni: utala la ona li pakala ala. nanpa ni li toki ala e pona sijelo e wawa sijelo. kin la ona li weka ala lon tenpo suli (o lukin **kama pona sin**). KU pi jan musi li kama 0 tan utala, jan o lukin e lipu [**pakala sijelo**](/cairn-srd#scars-1) kepeken kiwen ken.
 
 <!--#### Inventory
 Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.-->
