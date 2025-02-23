@@ -148,6 +148,7 @@ pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, k
 ### ijo mani
 - ijo li ijo mani la ona li sama ma pi tan ona. ona li toki e toki sona.
 - tenpo mute la ijo mani li pana e mani a li suli a li pana ala e ken pona. jan li jo e ijo mani la jan ante li pona tawa ona.
+- ilo nasa li ijo mani ala. taso ona li ken wawa li ken ijo pi sona pona.
 - o pana e jan musi tawa nasin nasa pi ken utala tan ijo mani.
 
 <!--### Choice
@@ -192,14 +193,21 @@ pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, k
 - sina wile tawa wawa e musi la o toki e wile sina tawa jan ante li kute e wile ona.
 - pilin pi jan ale la alasa en pini ken o sama. jan ale li pali sama kulupu li pilin pona e ale ante la kulupu li ken mute. jan li pali sama jan wan la kulupu li ken mute ala.
 
-### Exploration
+<!--### Exploration
 - Asking questions and listening to detail is more useful than any stats, items, or skills you have.
 - Take the Warden's description without suspicion, but don't shy away from seeking more information.
-- There is no single correct way forward.
+- There is no single correct way forward.-->
+### lukin e ma sin
+- toki pi wile sona en kute sona li wawa suli la nanpa en ijo e ken pi jan musi li wawa lili.
+- o sona e ni: jan lawa li toki lon. taso sina wile sona e mute la o toki e wile ni.
+- nasin mute li ken li pona.
 
-### Talking
+<!--### Talking
 - Treat NPCs as if they were real people, and rely on your curiosity to safely gain information and solve problems.
-- You'll find that most people are interesting and will want to talk things through before getting violent.
+- You'll find that most people are interesting and will want to talk things through before getting violent.-->
+### toki
+- sina toki tawa jan musi ante la toki sina o sama pi toki tawa jan lon. o kama sona e sona wawa kepeken wile sona sina. sona ni li ken pona e sina.
+- sina kama lukin li kasa sona e ni: jan mute a li wile toki li wile utala ala.
 
 ### Caution
 - Fighting is a choice and rarely a wise one; consider whether violence is the best way to achieve your goals.
