@@ -126,21 +126,29 @@ pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, k
 
 ### wile musi
 - wile suli li ni: pilin musi tan ijo ale musi. nasin nanpa en ken pi jan musi li suli ala. o pana e jan pana pi sona utala e utala pona. ona li pona e jan musi e ken suli pi jan musi.
-- o lukin pona e wile jan e alasa jan. o pana e ken pona tawa ona
-- sina jo e len awen ale li sona ken suli la moli li awen tan ni: ilo palisa pakala li tawa lawa anpa.
+- o lukin pona e wile jan e alasa jan. o pana e ken pona tawa ona.
+- musi la, sina jo e len awen ale li sona ken suli la moli li awen tan ni: ilo palisa utala lon lawa sina li awen ken moli e sina.
 
 
-### Danger
+<!--### Danger
 - The game world produces real risk of pain and death for the player characters.
 - Telegraph serious danger to players when it is present. The more dangerous, the more obvious.
 - Put traps in plain sight and let the players take time to figure out a solution.
-- Give players opportunities to solve problems and interact with the world.
+- Give players opportunities to solve problems and interact with the world.-->
+### ken moli
+- musi la ken pakala en ken moli li lon suli.
+- ken pakala en ken moli li suli la o toki e ni tawa jan. ken li suli a la o toki wawa e ni.
+- ijo li ken pakala e jan musi la o pana e ijo ni tawa nasin pi jan musi. jan musi o ken weka e ijo, o ken pali lon ma.
 
-### Treasure
+<!--### Treasure
 - A Treasure is specific to the environment from where it is recovered. It tells a story.
 - Treasure is highly valuable, almost always bulky, and rarely useful beyond its worth and prestige.
 - Relics are not Treasure, though they are useful and interesting.
-- Use Treasure as a lure to exotic locations under the protection of intimidating foes.
+- Use Treasure as a lure to exotic locations under the protection of intimidating foes.-->
+### ijo mani
+- ijo li ijo mani la ona li sama ma pi tan ona. ona li toki e toki sona.
+- tenpo mute la ijo mani li pana e mani a li suli a li pana ala e ken pona. jan li jo e ijo mani la jan ante li pona tawa ona.
+- o pana e jan musi tawa nasin nasa pi ken utala tan ijo mani.
 
 ### Choice
 - Give players a solid choice to force outcomes when the situation lulls.
