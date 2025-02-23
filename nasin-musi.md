@@ -136,7 +136,7 @@ pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, k
 - Put traps in plain sight and let the players take time to figure out a solution.
 - Give players opportunities to solve problems and interact with the world.-->
 ### ken moli
-- musi la ken pakala en ken moli li lon suli.
+- musi la ken pakala en ken moli li lon a.
 - ken pakala en ken moli li suli la o toki e ni tawa jan. ken li suli a la o toki wawa e ni.
 - ijo li ken pakala e jan musi la o pana e ijo ni tawa nasin pi jan musi. jan musi o ken weka e ijo, o ken pali lon ma.
 
@@ -176,14 +176,21 @@ pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, k
 <!--## Principles for Players-->
 ## nasin pi jan musi
 
-### Agency
+<!--### Agency
 - Attributes and related saves do not define your character. They are tools.
 - Don't ask only what your character would do, ask what you would do, too.
-- Be creative with your intuition, items, and connections.
+- Be creative with your intuition, items, and connections.-->
+### wawa pali
+- nanpa wawa en utala pi nanpa wawa li toki ala e ale pi jan musi sina. ona li ilo taso.
+- o toki insa pi taso ala e ni: "jan musi mi li wile seme?" o toki insa kin e wile sina.
+- nasin nasa pona la, o kepeken e sona sina e ijo sina e sona jan sina.
 
-### Teamwork
+<!--### Teamwork
 - Seek consensus from the other players before barreling forward.
-- Stay on the same page about goals and limits, respecting each other and accomplishing more as a group than alone.
+- Stay on the same page about goals and limits, respecting each other and accomplishing more as a group than alone.-->
+### pali kulupu
+- sina wile tawa wawa e musi la o toki e wile sina tawa jan ante li kute e wile ona.
+- pilin pi jan ale la alasa en pini ken o sama. jan ale li pali sama kulupu li pilin pona e ale ante la kulupu li ken mute. jan li pali sama jan wan la kulupu li ken mute ala.
 
 ### Exploration
 - Asking questions and listening to detail is more useful than any stats, items, or skills you have.
