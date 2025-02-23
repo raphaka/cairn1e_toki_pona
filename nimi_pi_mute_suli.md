@@ -40,7 +40,7 @@ Please use the suggestions from the "toki pona" column. If you prefer the altern
 | Party                   | kulupu                    | "detachment li sama" |
 | Player                  | jan                       | jan lon |
 | Player Character        | jan musi                  ||
-| relic                   |              ||
+| relic                   | ilo nasa     ||
 | roll                    | o tawa e kiwen ken / o tawa e 3k6 | o pana/luka e kiwen ken |
 | rules                   | nasin musi                ||
 | Save / Saving Throw     | utala e WAW               ||
