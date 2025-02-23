@@ -150,11 +150,16 @@ pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, k
 - tenpo mute la ijo mani li pana e mani a li suli a li pana ala e ken pona. jan li jo e ijo mani la jan ante li pona tawa ona.
 - o pana e jan musi tawa nasin nasa pi ken utala tan ijo mani.
 
-### Choice
+<!--### Choice
 - Give players a solid choice to force outcomes when the situation lulls.
 - Use binary "so, A or B?" responses when their intentions are vague.
 - Work together using this conversational method to keep the game moving.
-- Ensure that the player character's actions leave their mark on the game world.
+- Ensure that the player character's actions leave their mark on the game world.-->
+### pali wile
+- nasin musi li kama wawa ala la o pana e nasin pi pali wile tawa jan.
+- toki pi jan musi li nasa la sina sona ala e wile ona la o toki kepeken nasin tu e ni: "sina wile e A anu e B?"
+- o pali sama kulupu kepeken nasin ni la musi li tawa.
+- o awen e ni: pali pi jan musi li awen lon ma musi.
 
 <!--### Die of Fate
 - Occasionally you will want an element of randomness (e.g. the weather, unique character knowledge, etc.).
@@ -168,7 +173,9 @@ pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, k
 [o tawa pi lukin lipu sin](#index)
 <p></p>
 
-## Principles for Players
+<!--## Principles for Players-->
+## nasin pi jan musi
+
 ### Agency
 - Attributes and related saves do not define your character. They are tools.
 - Don't ask only what your character would do, ask what you would do, too.
