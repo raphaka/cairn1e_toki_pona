@@ -50,6 +50,7 @@ Please use the suggestions from the "toki pona" column. If you prefer the altern
 | table                   | lipu                      ||
 | torch                   | palisa suno               ||
 | trait / character trait | ijo jan                   ||
+| treasure                | ijo mani                ||
 | turn                    | tenpo tawa                | tenpo musi |
 | Warden                  | jan lawa                  ||
 | weapon                  | ilo utala                 ||
