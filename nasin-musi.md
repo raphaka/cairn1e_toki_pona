@@ -207,11 +207,14 @@ pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, k
 - You'll find that most people are interesting and will want to talk things through before getting violent.-->
 ### toki
 - sina toki tawa jan musi ante la toki sina o sama pi toki tawa jan lon. o kama sona e sona wawa kepeken wile sona sina. sona ni li ken pona e sina.
-- sina kama lukin li kasa sona e ni: jan mute a li wile toki li wile utala ala.
+- sina kama lukin li kama sona e ni: jan mute a li wile toki li wile utala ala.
 
-### Caution
+<!--### Caution
 - Fighting is a choice and rarely a wise one; consider whether violence is the best way to achieve your goals.
-- Try to stack the odds in your favor and retreat when things seem unfavorable.
+- Try to stack the odds in your favor and retreat when things seem unfavorable.-->
+### lukin wawa
+- utala la nasin ante li ken lon tenpo mute. mute kin la utala li ike tawa wile sina la nasin ante li pona.
+- o lukin alasa e ijo pona mute. utala li ken pakala suli e sina la o weka tan utala.
 
 ### Planning
 - Think of ways to avoid your obstacles through reconnaissance, subtlety, and fact-finding.
