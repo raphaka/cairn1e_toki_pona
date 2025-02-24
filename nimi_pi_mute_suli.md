@@ -28,6 +28,7 @@ Please use the suggestions from the "toki pona" column. If you prefer the altern
 | die/dice                | kiwen ken                 | kiwen nanpa          |
 | Enhanced (Attack)       | (utala pi) wawa suli      | wawa pona            | 
 | Fatigue                 | lape                      |                      |
+| gold piece              | mani               | sike mani? |
 | healing                 | kama pona sin             ||
 | horse                   | soweli tawa               |                      |
 | HP / Hit protection     | nanpan pi ken utala (KU)  | awen pakala (AP) / awen utala (AU) |
