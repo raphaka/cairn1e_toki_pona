@@ -1019,13 +1019,16 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 [back to index](#index)
 <p></p>
 
-## 100 Spells
+## nasa wawa 100
 
 |      |                                         |                                                              |
 | ---- | --------------------------------------- | ------------------------------------------------------------ |
-| 1    | [Adhere](#adhere)                       | An object is covered in extremely sticky slime.              |
-| 2    | [Anchor](#anchor)                       | A strong wire sprouts from your arms, affixing itself to two points within 50ft on each side. |
-| 3    | [Animate Object](#animate-object)       | An object obeys your commands as best it can.                |
+<!--| 1    | [Adhere](#adhere)                       | An object is covered in extremely sticky slime.              |-->
+| 1    | [Ko Awen](#adhere)                       | ko li len e ijo wan. ijo ni li awen li ken ala tawa.                |
+<!--| 2    | [Anchor](#anchor)                       | A strong wire sprouts from your arms, affixing itself to two points within 50ft on each side. |-->
+| 2    | [Linja Awen](#anchor)                  | linja wawa li kama tan luka sina. ona li awen lon poka tu. poka wan li ken weka 50ft/15m tan poka ante.       |
+<!--| 3    | [Animate Object](#animate-object)       | An object obeys your commands as best it can.                |-->
+| 3    | [Lon E Ijo](#animate-object)          | ijo wan li lon li kute e wile sina li pali pi ken ale ona e wile ni.|
 | 4    | [Anthropomorphize](#anthropomorphize)   | An animal either gains human intelligence or human appearance for one day. |
 | 5    | [Arcane Eye](#arcane-eye)               | You can see through a magical floating eyeball that flies around at your command. |
 | 6    | [Astral Prison](#astral-prison)         | An object is frozen in time and space within an invulnerable crystal shell. |
