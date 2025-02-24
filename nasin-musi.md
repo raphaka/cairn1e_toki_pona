@@ -216,16 +216,24 @@ pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, k
 - utala la nasin ante li ken lon tenpo mute. mute kin la utala li ike tawa wile sina la nasin ante li pona.
 - o lukin alasa e ijo pona mute. utala li ken pakala suli e sina la o weka tan utala.
 
-### Planning
+<!--### Planning
 - Think of ways to avoid your obstacles through reconnaissance, subtlety, and fact-finding.
-- Do some research and ask around about your objectives.
+- Do some research and ask around about your objectives.-->
+### pali pi nasin kama
+- o alasa tawa lon nasin pi ike ala kepeken lukin sona.
+<!-- how the hell would you translate subtlety?-->
+- musi la, o alasa kama sona kepeken toki e ijo pi alasa sina
 
-### Ambition
+<!--### Ambition
 - Set goals and use your meager means to take steps forward.
 - Expect nothing. Earn your reputation.
-- Keep things moving forward and play to see what happens.
+- Keep things moving forward and play to see what happens.-->
+### wile wawa
+- o pali e alasa sina. o tawa kepeken ken sina pi wawa ala.
+- o lukin wile e ala. wile sina la jan musi ante o pilin pona tan sina la o pali wawa.
+- o tawa sinpin e ijo la o lukin e kama.
 
-[back to index](#index)
+[o tawa pi lukin lipu sin](#index)
 <p></p>
 
 <!--## Character Creation-->
