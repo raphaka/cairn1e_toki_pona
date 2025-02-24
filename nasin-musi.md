@@ -314,9 +314,14 @@ open la jan musi ale li jo e ni:
 <!--Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Spellbooks**](#spellbooks-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result.-->
 lipu ale pi **ijo open** la o tawa e kiwen ken wan la o kama sona e len awen e ilo utala e ilo ante. ken la jan musi sina li kama jo e lipu **lipu pi nasa wawa** la sina o tawa e k100 tan ni. (k100 la sina ken tawa e 2k10 la kiwen ken wan li pana e nanpa pi suli LL la kiwen ken ante li pana e nanpa lili). lipu ken ale la sina o jo e ijo wan taso.
 
-See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
 
-If you would like something closer to traditional classes, refer to the list of [**Optional Gear Packages**](#optional-gear-packages).
+<!--See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
+
+If you would like something closer to traditional classes, refer to the list of [**Optional Gear Packages**](#optional-gear-packages).-->
+
+o lukin e **lipu ijo** la nanpa awen en nanpa utala en nanpa pi lupa ijo li lon. tenpo ken la sina ken kulupu e ijo lili mute.
+
+wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu ijo ken**](#optional-gear-packages).
 
 <p></p>
 
