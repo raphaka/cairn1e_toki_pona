@@ -12,7 +12,7 @@ Please use the suggestions from the "toki pona" column. If you prefer the altern
 | (1) d12                 | k12                       | kLLT                 |
 | 40ft                    |                           |                      |
 | Ability Score           | nanpa wawa                | nanpa ken            |
-| Armor                   | nanpa awen                | (nanpa pi) len kiwen / nanpa kiwen |
+| Armor                   | nanpa awen/len awen     | (nanpa pi) len kiwen / nanpa kiwen |
 | Background              | pali (pi jan musi)        | tenpo pini pi jan musi |
 | backpack                | poki monsi                |                      |
 | Blast                   | pakala suli               | pakala ma            |
