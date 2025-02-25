@@ -1064,11 +1064,11 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 4    | [Jan E Soweli](#anthropomorphize)  | tenpo suno wan la soweli wan li kama sona sama jan anu kama lukin sama jan |
 | 5    | [Sike Lukin Pi Nasa Wawa](#arcane-eye) | sina ken lukin kepeken sike lukin pi nasa wawa. sike ni li ken tawa kon tan wile sina. |
 | 6    | [Poki pi weka sewi](#astral-prison)| ijo wan li awen lon tenpo lon ma ale. ona li jo e len pi kiwen lukin li ken ala pakala. |
-| 7    | [Attract](#attract)                     | Two objects are strongly magnetically attracted to each other if they come within 10 feet. |
-| 8    | [Auditory Illusion](#auditory-illusion) | You create illusory sounds that seem to come from a direction of your choice. |
-| 9    | [Babble](#babble)                       | A creature must loudly and clearly repeat everything you think. It is otherwise mute. |
-| 10   | [Bait Flower](#bait-flower)             | A plant sprouts from the ground that emanates the smell of decaying flesh. |
-| 11   | [Beast Form](#beast-form)               | You and your possessions transform into a mundane animal.    |
+| 7    | [Kama Poka](#attract)                     | ijo tu li kama poka pi 10ft/3m la wawa li tawa e ona la ona li lon poka sama li pilin e ante ona |
+| 8    | [Kalama Pi Ken Nasa](#auditory-illusion) | sina pali e kalama pi wile sina. ona li kama tan poka pi wile sina.|
+| 9    | [Toki Lawa](#babble)                       | sina toki insa la jan ante anu soweli ante o toki kalama e toki insa sina. ona li ken ala wile ante li ken ala kalama ante.|
+| 10   | [Kasi Kama](#bait-flower)             | kasi wan li kama tan ma. ona li pana e kon pilin pi soweli moli.|
+| 11   | [Sijelo Soweli](#beast-form)               | sina en jo sina li kama soweli (anu akesi anu waso anu pipi) pi nasa ala.|
 | 12   | [Befuddle](#befuddle)                   | A creature of your choice is unable to form new short-term memories for the duration of the spell. |
 | 13   | [Body Swap](#body-swap)                 | You switch bodies with a creature you touch. If one body dies, the other dies as well. |
 | 14   | [Charm](#charm)                         | A creature you can see treats you as a friend.               |
