@@ -368,14 +368,41 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |5           |Carpenter |10         |Hunter     |15        |Outlaw   |20    |Ranger    |
 -->
 
+<!-- mi o weka e lipu 'pali' wan -->
+
 #### pali
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
 |1           |jan pi telo wawa |6          |jan lawa sewi     |11        |jan pi nasa wawa |16    |jan pi kalama musi |
-|2           |jan pi pali ilo|7          |Gambler    |12        |jan utala|17    |jan ike pi kama jo|
-|3           |Burglar   |8          |jan pi lupa moli|13        |jan esun |18    |Smuggler  |
-|4           |jan pali pi muko sijelo   |9          |jan kasi  |14        |jan pali nena    |19    |Servant   |
-|5           |jan pi pali supa |10         |jan alasa     |15        |jan pi nasin lawa ala   |20    |Ranger    |
+|2           |jan pi pali ilo|7          |jan musi pi ken weka mani    |12        |jan utala|17    |jan ike pi kama jo|
+|3           |jan ike pi insa tomo   |8          |jan pi lupa moli|13        |jan esun |18    |jan tawa pi nasin lawa ala  |
+|4           |jan pali pi moku sijelo   |9          |jan kasi  |14        |jan pali nena    |19    |jan pali pi jan ante   |
+|5           |jan pi pali supa |10         |jan alasa     |15        |jan pi nasin lawa ala   |20    |jan pi mama soweli    |
+
+#### pali
+|||||||||
+|------|-----------|
+|1           |ona li pali e telo pi nasa wawa|
+|2           |ona li pali e ilo |
+|3           |jan ike ni li tawa insa pi tomo ante li kama jo e ijo |
+|4           |jan ni li pali e moku pi sijelo soweli|
+|5           |ona li pali e supa lape e supa monsi kepeken kiwen kasi |
+|6          |tomo pi nasin sewi la ona li jan lawa|
+|7          |ona li musi, taso mani ona li ken weka|
+|8          |jan li moli la, ona li pali e lupa lon ma moli|
+|9          |ona li mama e kasi li telo e ona|
+|10         |ona li alasa e soweli|
+|11         |ona li sona suli e nasa wawa |
+|12        |jan ante li pana e mani la, ona li utala lon poka ona|
+|13        |ona li jan esun |
+|14        |jan li pali e kiwen lon nena|
+|15        |ona li kute ala e nasin lawa |
+|16        |ona li kalama musi li pana e musi tawa jan ante |
+|17    |jan ike ni li kama jo e poki mani pi jan ante|
+|18    |ona li tawa pi ma ante e ijo pi nasin lawa ala |
+|19    |ona li pali tan jan pi mani mute   |
+|20    |ma pi kasi suli la, ona li lawa li alasa li mama e soweli |
+
 <p></p>
 
 <!--## Character traits (d10)-->
