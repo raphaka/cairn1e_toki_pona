@@ -382,26 +382,26 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 #### pali
 |||
 |------|-----------|
-|1           |ona li pali e telo pi nasa wawa|
-|2           |ona li pali e ilo |
-|3           |jan ike ni li tawa insa pi tomo ante li kama jo e ijo |
-|4           |jan ni li pali e moku pi sijelo soweli|
-|5           |ona li pali e supa lape e supa monsi kepeken kiwen kasi |
-|6          |tomo pi nasin sewi la ona li jan lawa|
+|1           |ona li pali e telo pi nasa wawa.|
+|2           |ona li pali e ilo. |
+|3           |jan ike ni li tawa insa pi tomo ante li kama jo e ijo. |
+|4           |jan ni li pali e moku pi sijelo soweli.|
+|5           |ona li pali e supa lape e supa monsi kepeken kiwen kasi. |
+|6          |tomo pi nasin sewi la ona li jan lawa.|
 |7          |ona li musi, taso mani ona li ken weka|
-|8          |jan li moli la, ona li pali e lupa lon ma moli|
-|9          |ona li mama e kasi li telo e ona|
-|10         |ona li alasa e soweli|
-|11         |ona li sona suli e nasa wawa |
-|12        |jan ante li pana e mani la, ona li utala lon poka ona|
-|13        |ona li jan esun |
-|14        |jan li pali e kiwen lon nena|
-|15        |ona li kute ala e nasin lawa |
-|16        |ona li kalama musi li pana e musi tawa jan ante |
-|17    |jan ike ni li kama jo e poki mani pi jan ante|
-|18    |ona li tawa pi ma ante e ijo pi nasin lawa ala |
-|19    |ona li pali tan jan pi mani mute   |
-|20    |ma pi kasi suli la, ona li lawa li alasa li mama e soweli |
+|8          |jan li moli la, ona li pali e lupa lon ma moli.|
+|9          |ona li mama e kasi li telo e kasi.|
+|10         |ona li alasa e soweli.|
+|11         |ona li sona suli e nasa wawa. |
+|12        |jan ante li pana e mani la, ona li utala lon poka ona.|
+|13        |ona li jan esun. |
+|14        |jan li pali e kiwen lon nena.|
+|15        |ona li kute ala e nasin lawa. |
+|16        |ona li kalama musi li pana e musi tawa jan ante. |
+|17    |jan ike ni li kama jo e poki mani pi jan ante.|
+|18    |ona li tawa pi ma ante e ijo pi nasin lawa ala. |
+|19    |ona li pali tan jan pi mani mute.   |
+|20    |ma pi kasi suli la, ona li lawa li alasa li mama e soweli. |
 
 <p></p>
 
@@ -428,8 +428,6 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 5        | kiwen   | 10   | sewi wawa   |
 
 <!--#### Skin-->
-#### selo sijelo
-
 |  |            |      |           |
 | ---- | ---------- | ---- | --------- |
 | 1    | Birthmark  | 6    | Round     |
@@ -437,6 +435,15 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 3    | Elongated  | 8    | Tanned    |
 | 4    | Pockmarked | 9    | Tattooed  |
 | 5    | Rosy       | 10   | Weathered |
+#### selo sijelo
+
+|  |            |      |           |
+| ---- | ---------- | ---- | --------- |
+| 1    | sike lili li lon  | 6    | Round     |
+| 2    | pimeja       | 7    | suwi      |
+| 3    | Elongated  | 8    | pimeja a    |
+| 4    | pakala lili | 9    | sitelen li lon  |
+| 5    | loje lili       | 10   | weathered |
 
 <!--#### Hair-->
 #### linja lawa
