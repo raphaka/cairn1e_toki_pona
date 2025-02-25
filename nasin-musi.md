@@ -380,7 +380,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |5           |jan pi pali supa |10         |jan alasa     |15        |jan pi nasin lawa ala   |20    |jan pi mama soweli    |
 
 #### pali
-|||||||||
+|||
 |------|-----------|
 |1           |ona li pali e telo pi nasa wawa|
 |2           |ona li pali e ilo |
