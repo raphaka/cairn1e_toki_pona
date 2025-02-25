@@ -427,14 +427,15 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 4        | sewi    | 9    | sike      |
 | 5        | kiwen   | 10   | sewi wawa   |
 
-<!--#### Skin-->
+<!--#### Skin
 |  |            |      |           |
 | ---- | ---------- | ---- | --------- |
 | 1    | Birthmark  | 6    | Round     |
 | 2    | Dark       | 7    | Soft      |
 | 3    | Elongated  | 8    | Tanned    |
 | 4    | Pockmarked | 9    | Tattooed  |
-| 5    | Rosy       | 10   | Weathered |
+| 5    | Rosy       | 10   | Weathered |-->
+
 #### selo sijelo
 
 |  |            |      |           |
@@ -1063,9 +1064,12 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 2    | [Linja Awen](#anchor)                  | linja wawa li kama tan luka sina. ona li awen lon poka tu. poka wan li ken weka 50ft/15m tan poka ante.       |
 <!--| 3    | [Animate Object](#animate-object)       | An object obeys your commands as best it can.                |-->
 | 3    | [Lon E Ijo](#animate-object)          | ijo wan li lon li kute e wile sina li pali pi ken ale ona e wile ni.|
-| 4    | [Anthropomorphize](#anthropomorphize)   | An animal either gains human intelligence or human appearance for one day. |
-| 5    | [Arcane Eye](#arcane-eye)               | You can see through a magical floating eyeball that flies around at your command. |
-| 6    | [Astral Prison](#astral-prison)         | An object is frozen in time and space within an invulnerable crystal shell. |
+<!--| 4    | [Anthropomorphize](#anthropomorphize)   | An animal either gains human intelligence or human appearance for one day. |-->
+| 4    | [Jan E Soweli](#anthropomorphize)  | tenpo suno wan la soweli wan li kama sona sama jan anu kama lukin sama jan |
+<!--| 5    | [Arcane Eye](#arcane-eye)               | You can see through a magical floating eyeball that flies around at your command. |-->
+| 5    | [Sike Lukin Pi Nasa Wawa](#arcane-eye) | sina ken lukin kepeken sike lukin pi nasa wawa. sike ni li ken tawa kon tan wile sina. |
+<!--| 6    | [Astral Prison](#astral-prison)         | An object is frozen in time and space within an invulnerable crystal shell. |-->
+| 6    | [Poki pi weka sewi](#astral-prison)| ijo wan li awen lon tenpo lon ma ale. ona li jo e len pi kiwen lukin li ken ala pakala. |
 | 7    | [Attract](#attract)                     | Two objects are strongly magnetically attracted to each other if they come within 10 feet. |
 | 8    | [Auditory Illusion](#auditory-illusion) | You create illusory sounds that seem to come from a direction of your choice. |
 | 9    | [Babble](#babble)                       | A creature must loudly and clearly repeat everything you think. It is otherwise mute. |
