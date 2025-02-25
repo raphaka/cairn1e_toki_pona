@@ -1088,17 +1088,17 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 28   | [Sinpin Pi Ijo Ale](#elemental-wall)       | sinpin seli anu sinpin pi kiwen lete li sewi tan ma li suli poka 50ft/15m li suli sewi 10ft/3m. |
 | 29   | [Kama Jo](#filch)                         | sina lukin e la tenpo ni la ona li lon luka sina.                      |
 | 30   | [Sike Suno](#flare)                         | sike li suno wawa li sitelen e linja suno tawa sewi. jan pona sina en jan ike sina li ken lukin e ma sina. |
-| 31   | [Fog Cloud](#fog-cloud)                 | A dense fog spreads out from you.                            |
-| 32   | [Frenzy](#frenzy)                       | A nearby creature erupts in a frenzy of violence.            |
-| 33   | [Gate](#gate)                           | A portal to a random plane opens.                            |
-| 34   | [Gravity Shift](#gravity-shift)         | You can change the direction of gravity, but only for yourself. |
-| 35   | [Greed](#greed)                         | A creature develops the overwhelming urge to possess a visible item of your choice. |
-| 36   | [Haste](#haste)                         | Your movement speed is tripled.                              |
-| 37   | [Hatred](#hatred)                       | A creature develops a deep hatred of another creature or group and wishes to destroy them. |
-| 38   | [Hear Whispers](#hear-whispers)         | You can hear faint sounds clearly.                           |
-| 39   | [Hover](#hover)                         | An object hovers, frictionless, 2ft above the ground. It can hold up to one humanoid. |
-| 40   | [Hypnotize](#hypnotize)                 | A creature enters a trance and will truthfully answer one yes or no question you ask it. |
-| 41   | [Icy Touch](#icy-touch)                 | A thick ice layer spreads across a touched surface, up to 10ft in radius. |
+| 31   | [Kon Pi Lukin Ala](#fog-cloud)                 | kon len li tawa tan sina. insa ona la jan li ken ala lukin.                           |
+| 32   | [Pilin Utala Wawa](#frenzy)                       | jan anu soweli lon poka sina li open pilin utala li open wile pakala e mute.            |
+| 33   | [Lupa Lon](#gate)                           | lupa li open. kepeken ona la jan li ken tawa lon ante.              |
+| 34   | [Ante Pi Wawa Ma](#gravity-shift)         | sina ken ante e wawa ma. anpa la sina ni la sina open tawa sewi. sewi la sina ni la sina open tawa anpa. wawa ma li ante taso tawa sina li ante ala tawa jan ante.  |
+| 35   | [Wile Jo](#greed)                         | sina lukin e ijo la jan ante li open wile jo e ijo ni. wile ona li wawa a. |
+| 36   | [Tawa Wawa](#haste)                         | sina ken tawa kepeken tenpo lili a. tenpo ante la sina tawa kepeken 40ft/12m lon tenpo tawa wan. tenpo pi nasa wawa ni la sina tawa kepeken 120ft/36m lon tenpo tawa wan.       |
+| 37   | [Pilin Ike Wawa](#hatred)                       | jan anu soweli li pilin ike a tan jan ante anu soweli ante anu kulupu ante li wile pakala moli e ona. |
+| 38   | [Kute E Kalama Lili](#hear-whispers)         | kalama li wawa ala la taso sina ken kute wawa pona e ona.              |
+| 39   | [Tawa Kon](#hover)                         | 2ft/0,5m pi sewi ma la ijo wan li tawa kon. ona li ken awen e jan wan lon kon. |
+| 40   | [Pilin Lape Nasa](#hypnotize)                 | jan ante li open pilin e lape nasa. sina toki e wile sona la ona li toki lon. toki kon pi wile sona li ken 'lon' li ken 'ala'. |
+| 41   | [Pilin Lete](#icy-touch)                 | sina pilin e supa ma la kiwen lete suli li len e ona lon ma 10ft/3m. |
 | 42   | [Identify Owner](#identify-owner)       | Letters appear over the object you touch, spelling out the name of the object's owners, if there are any. |
 | 43   | [Illuminate](#illuminate)               | A floating light moves as you command.                       |
 | 44   | [Invisible Tether](#invisible-tether)   | Two objects within 10ft of each other cannot be moved more than 10ft apart. |
