@@ -1069,25 +1069,25 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 9    | [Toki Lawa](#babble)                       | sina toki insa la jan ante anu soweli ante o toki kalama e toki insa sina. ona li ken ala wile ante li ken ala kalama ante.|
 | 10   | [Kasi Kama](#bait-flower)             | kasi wan li kama tan ma. ona li pana e kon pilin pi soweli moli.|
 | 11   | [Sijelo Soweli](#beast-form)               | sina en jo sina li kama soweli (anu akesi anu waso anu pipi) pi nasa ala.|
-| 12   | [Befuddle](#befuddle)                   | A creature of your choice is unable to form new short-term memories for the duration of the spell. |
-| 13   | [Body Swap](#body-swap)                 | You switch bodies with a creature you touch. If one body dies, the other dies as well. |
-| 14   | [Charm](#charm)                         | A creature you can see treats you as a friend.               |
-| 15   | [Command](#command)                     | A target obeys a single three-word command that does not cause it harm. |
-| 16   | [Comprehend](#comprehend)               | You become fluent in all languages for a short while.        |
-| 17   | [Cone of Foam](#cone-of-foam)           | Dense foam sprays from your hand, coating the target.        |
-| 18   | [Control Plants](#control-plants)       | Nearby plants and trees obey you and gain the ability to move at a slow pace. |
-| 19   | [Control Weather](#control-weather)     | You may alter the type of weather at will, but you do not otherwise control it. |
-| 20   | [Cure Wounds](#cure-wounds)             | Restore 1d4 STR per day to a creature you can touch.         |
-| 21   | [Deafen](#deafen)                       | All nearby creatures are deafened.                           |
-| 22   | [Detect Magic](#detect-magic)           | You can see or hear nearby magical auras.                    |
-| 23   | [Disassemble](#disassemble)             | Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. |
-| 24   | [Disguise](#disguise)                   | You may alter the appearance of one character at will as long as they remain humanoid. Attempts to duplicate other characters will seem uncanny. |
-| 25   | [Displace](#displace)                   | An object appears to be up to 15ft from its actual position. |
-| 26   | [Earthquake](#earthquake)               | The ground begins shaking violently. Structures may be damaged or collapse. |
-| 27   | [Elasticity](#elasticity)               | Your body can stretch up to 10ft.                            |
-| 28   | [Elemental Wall](#elemental-wall)       | A straight wall of ice or fire 50ft long and 10ft high rises from the ground. |
-| 29   | [Filch](#filch)                         | A visible item teleports to your hands.                      |
-| 30   | [Flare](#flare)                         | A bright ball of energy fires a trail of light into the sky, revealing your location to friend or foe. |
+| 12   | [Weka Nasa E Sona](#befuddle)                   | tenpo pi nasa wawa la jan wan anu soweli wan li ken ala pali e sona pi tenpo lili. ijo li lon tenpo lili la jan ni anu soweli ni weka e sona. |
+| 13   | [Ante E Sijelo](#body-swap)                 | sina pilin luka e jan ante anu soweli ante la sijelo ona li kama sijelo sina la sijelo sina li kama sijelo ona. sijelo wan li moli la sijelo ante li moli kin. |
+| 14   | [Pilin Pona](#charm)                         | sina lukin e jan anu soweli la ona li pilin e ni: sina jan pona.               |
+| 15   | [Toki Wawa](#command)                     | sina toki e toki pi nimi tu wan la jan ante wa anu soweli ante wan o ni. taso toki sina o pakala ala e jan ni anu soweli ni. |
+| 16   | [Kute sona](#comprehend)               | tenpo lili la sina sona e toki ale la sina ken toki wawa li ken kute sona.        |
+| 17   | [Ko Tan Luka](#cone-of-foam)           | ko telo wawa li kama ta luka sina li len e wan alasa.        |
+| 18   | [Lawa E Kasi](#control-plants)       | Kasi lon poka sina li kute e sina li pali tan wile sina. ona li open ken tawa kepeken tenpo suli. |
+| 19   | [Lawa e Suno Sewi](#control-weather)     | sina ken ante e kule pi suno seli. ona li ken telo sewi li ken ko walo lete sewi li ken seli li ken lete. sina ken ante e kule taso la sina ken ala lawa e ante pi suno sewi. |
+| 20   | [Pona E Pakala Sijelo](#cure-wounds)             | tenpo suno wan la sina luka e jan anu soweli la WAW 1k4 ona li kama sin.         |
+| 21   | [Weka E Kute](#deafen)                       | poka sina la jan ale en soweli ale li ken ala kute e kalama ale.              |
+| 22   | [Lukin E Nasa Wawa](#detect-magic)           | sina ken lukin anu kute e kon ale pi nasa wawa lon poka.                      |
+| 23   | [Weka E Ijo Sijelo](#disassemble)             | ijo pi sijelo sina li ken weka tan sijelo sina. ni li pali ala e pakala e pilin ike. sina awen ken lawa e ijo sijelo ni. |
+| 24   | [Len E Lukin](#disguise)                   | sina ken ante e lukin pi jan musi wan tan wile sina. ona o awen lukin sama jan o ken ala soweli. sina wile sama e lukin pi jan ante la lukin li kama nasa ike lili. |
+| 25   | [Ante E Ma](#displace)                   | lukin la ijo li lon ma ante tan ma pi lon ona. ma ante li ken weka 15ft/5m tan ma lon. |
+| 26   | [Tawa Ma Wawa](#earthquake)               | ma li open tawa pi wawa suli. ijo en ijo li ken pakala li ken anpa. |
+| 27   | [Sijelo Linja](#elasticity)               | sijelo sina li ken linja pi 10ft/3m.      |
+| 28   | [Sinpin Pi Ijo Ale](#elemental-wall)       | sinpin seli anu sinpin pi kiwen lete li sewi tan ma li suli poka 50ft/15m li suli sewi 10ft/3m. |
+| 29   | [Kama Jo](#filch)                         | sina lukin e la tenpo ni la ona li lon luka sina.                      |
+| 30   | [Sike Suno](#flare)                         | sike li suno wawa li sitelen e linja suno tawa sewi. jan pona sina en jan ike sina li ken lukin e ma sina. |
 | 31   | [Fog Cloud](#fog-cloud)                 | A dense fog spreads out from you.                            |
 | 32   | [Frenzy](#frenzy)                       | A nearby creature erupts in a frenzy of violence.            |
 | 33   | [Gate](#gate)                           | A portal to a random plane opens.                            |
