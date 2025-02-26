@@ -312,7 +312,7 @@ open la jan musi ale li jo e ni:
 - 3k6 mani
 
 <!--Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Spellbooks**](#spellbooks-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result.-->
-lipu ale pi **jo open** la o tawa e kiwen ken wan la o kama sona e len awen e ilo utala e ilo ante. ken la jan musi sina li kama jo e lipu **lipu pi nasa wawa** la sina o tawa e k100 tan ni. (k100 la sina ken tawa e 2k10 la kiwen ken wan li pana e nanpa pi suli LL la kiwen ken ante li pana e nanpa lili). lipu ken ale la sina o jo e ijo wan taso.
+lipu ale pi **jo open** la o tawa e kiwen ken wan la o kama sona e len awen e ilo utala e ilo ante. ken la jan musi sina li kama jo e **lipu pi nasa wawa** la sina o tawa e k100 lon lipu [**lipu pi nasa wawa**](#spellbooks-d100). (k100 la sina ken tawa e 2k10 la kiwen ken wan li pana e nanpa pi suli LL la kiwen ken ante li pana e nanpa lili). lipu ken ale la sina o jo e ijo wan taso.
 
 
 <!--See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
@@ -901,8 +901,9 @@ PCs can hire **hirelings** to aid them in their expeditions. To create a hirelin
 The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).-->
 
 ### mani en ijo mani
-tenpo pi mute wawa la, jan li jo e mani sike ni: mani sike pi kiwen jelo. mani jelo (mj) li sama mani walo (mw) 10 li sama mani loje (ml) 100. 
+tenpo pi mute wawa la jan li jo e mani sike ni: mani sike pi kiwen jelo. mani jelo (mj) li sama mani walo (mw) 10 li sama mani loje (ml) 100. 
 
+<!--this text is basically a copy from the start of the document, copypast translation as well-->
 Treasure is highly valuable, usually bulky, and rarely useful beyond its value. It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
 
 Villages, strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
@@ -913,7 +914,7 @@ Villages, strongholds, and ports of call barter and trade based on the local rar
 
 
 ## nasa wawa
-**lipu pi nasa wawa** li suli sama ijo wan li poki e nasin wan nasa. jan li ken ala sitelen anu pali e lipu ni. taso, ona li lon tomo moli anu lupa nasa anu tomo suli wawa.
+**lipu pi nasa wawa** li wile e lupa ijo wan li toki e sona pi nasa wawa wan. jan li ken ala sitelen anu pali e lipu ni. taso, jan musi li ken kama jo e ona lon tomo moli anu lupa nasa anu tomo suli wawa.
 
 Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or being legible only when held in moonlight.
 
