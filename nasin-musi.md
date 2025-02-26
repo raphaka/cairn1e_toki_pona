@@ -1099,15 +1099,15 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 39   | [Tawa Kon](#hover)                         | 2ft/0,5m pi sewi ma la ijo wan li tawa kon. ona li ken awen e jan wan lon kon. |
 | 40   | [Pilin Lape Nasa](#hypnotize)                 | jan ante li open pilin e lape nasa. sina toki e wile sona la ona li toki lon. toki kon pi wile sona li ken 'lon' li ken 'ala'. |
 | 41   | [Pilin Lete](#icy-touch)                 | sina pilin e supa ma la kiwen lete suli li len e ona lon ma 10ft/3m. |
-| 42   | [Identify Owner](#identify-owner)       | Letters appear over the object you touch, spelling out the name of the object's owners, if there are any. |
-| 43   | [Illuminate](#illuminate)               | A floating light moves as you command.                       |
-| 44   | [Invisible Tether](#invisible-tether)   | Two objects within 10ft of each other cannot be moved more than 10ft apart. |
-| 45   | [Knock](#knock)                         | A nearby mundane or magical lock unlocks loudly.             |
-| 46   | [Leap](#leap)                           | You jump up to 10ft high, once.                              |
-| 47   | [Liquid Air](#liquid-air)               | The air around you becomes swimmable .                       |
-| 48   | [Magic Dampener](#magic-dampener)       | All nearby magical effects have their effectiveness halved.  |
-| 49   | [Manse](#manse)                         | A sturdy, furnished cottage appears for 12 hours. You can permit and forbid entry to it at will. |
-| 50   | [Marble Craze](#marble-craze)           | Your pockets are full of marbles, and will refill every 30 seconds. |
+| 42   | [Sona E Jan Jo](#identify-owner)       | sina pilin luka e ijo la sitelen toki li kama lon. sitelen li toki e nimi pi jan ni: ijo li jo ona. ken la ijo li jo pi jan ala. |
+| 43   | [Suno A](#illuminate)               | sike suno li tawa kon tan wile sina.         |
+| 44   | [Linja Pi Lukin Ala](#invisible-tether)   | ijo tu li weka 10ft/3m tan ona la ona li ken ala weka suli. |
+| 45   | [Mu](#knock)                         | ilo li awen pini e lupa tomo anu poki la ona li open kepeken ilo open ala. taso ona li kalama mu.             |
+| 46   | [Tawa Akesi Telo](#leap)                           | sama akesi telo la sina ken tawa kon sewi. wan la sina tawa sewi 10ft/3m.            |
+| 47   | [Kon Telo](#liquid-air)               | sama tawa pi insa telo la ale li ken tawa insa kon.                       |
+| 48   | [Lili E Nasa Wawa](#magic-dampener)       | wawa pi nasa wawa ale lon poka sina li kama lili sama ni: tu li kama wan. |
+| 49   | [Tomo](#manse)                         | tenpo ilo 12h la tomo li kama lon. ona li wawa li kiwen. insa ona la supa li lon. wile sina la jan li ken tawa insa anu ken ala ni.|
+| 50   | [Nasa Pi Sike Lili](#marble-craze)           | poki sina li jo ale e sike lili. sike lili li sama ilo musi. sike lili li weka tan poki sina la tenpo ilo lili lili 30s li tawa la poki sina li jo sin e sike lili. |
 | 51   | [Masquerade](#masquerade)               | A character's appearance and voice becomes identical to those of a character you touch. |
 | 52   | [Miniaturize](#miniaturize)             | A creature you touch is shrunk down to the size of a mouse.  |
 | 53   | [Mirror Image](#mirror-image)           | An illusory duplicate of yourself appears and is under your control. |
