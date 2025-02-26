@@ -20,6 +20,7 @@ Please use the suggestions from the "toki pona" column. If you prefer the altern
 | Cairn                   | Cairn (Main title)        | kiwen pi jan moli (Subtitle ) |
 | cart                    | poki tawa                 |                      |
 | class                   | nasin pi kulupu jan pali  | nasin pi jan musi    |
+| Copper Piece            | mani                      | mani sike pi kiwen loje / mani loje (ml) |
 | Critical Damage         | pakala ike                | pakala ale/wawa/suli |
 | damage                  | pakala                    |                      |
 | Deprived                | pilin ike                 |                      |
@@ -28,7 +29,7 @@ Please use the suggestions from the "toki pona" column. If you prefer the altern
 | die/dice                | kiwen ken                 | kiwen nanpa          |
 | Enhanced (Attack)       | (utala pi) wawa suli      | wawa pona            | 
 | Fatigue                 | lape                      |                      |
-| gold piece              | mani               | sike mani? |
+| gold piece              | mani               | mani sike pi kiwen jelo / mani jelo (mj) |
 | healing                 | kama pona sin             ||
 | horse                   | soweli tawa               |                      |
 | HP / Hit protection     | nanpan pi ken utala (KU)  | awen pakala (AP) / awen utala (AU) |
@@ -46,6 +47,7 @@ Please use the suggestions from the "toki pona" column. If you prefer the altern
 | rules                   | nasin musi                ||
 | Save / Saving Throw     | utala e WAW               ||
 | Scar                    | pakala sijelo             ||
+| Silver Piece            | mani                      | mani sike pi kiwen walo / mani walo (mw) |
 | Spellbook               | lipu pi nasa wawa         | lipu nasa |
 | SRD                     | lipu nasin                ||
 | STR                     | WAW                       ||
