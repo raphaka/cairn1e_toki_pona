@@ -1152,14 +1152,14 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 51   | [Len Pi Jan Ante](#masquerade)               | sina pilin luka e jan ante la lukin pi jan wan li kama sama lukin pi jan ante ni. kalama toki ona li kama sama kalama toki pi jan ante ni kin. |
 | 52   | [Lili](#miniaturize)             | sina lukin e jan wan anu soweli wan la ona li kama lili a sama soweli pipi. |
 | 53   | [Sitelen Sama](#mirror-image)           | sina lon e sitelen jan. ona li lukin sama sina. sina wile e ijo la sitelen jan li ni. |
-| 54   | [Nasin Pi Sinpin Sama](#mirrorwalk)               | ilo sinpin pi lukin sama li kama nasin tawa ilo sama ante. tenpo pini pi tenpo suno ni la sina o lukin e ilo sama ante.|
-| 55   | [Multiarm](#multiarm)                   | You temporarily gain an extra arm.                           |
-| 56   | [Night Sphere](#night-sphere)           | A 50ft wide sphere of darkness displaying the night sky appears before you. |
-| 57   | [Objectify](#objectify)                 | You become any inanimate object between the size of a grand piano and an apple. |
-| 58   | [Ooze Form](#ooze-form)                 | You become a living jelly.                                   |
-| 59   | [Pacify](#pacify)                       | A creature near you has an aversion to violence.             |
-| 60   | [Phobia](#phobia)                       | A nearby creature becomes terrified of an object of your choice. |
-| 61   | [Pit](#pit)                             | A pit 10ft wide and 10ft deep opens in the ground.           |
+| 54   | [Nasin Pi Sinpin Sama](#mirrorwalk)               | ilo sinpin pi lukin sama li nasin tawa ilo sama ante. tenpo pini pi tenpo suno ni la sina o lukin e ilo sama ante.|
+| 55   | [Luka Tu Wan](#multiarm)                   | luka wan sin li kama lon sijelo sina la sina jo e luka tu wan.                         |
+| 56   | [Sike Pimeja](#night-sphere)           | sike suli 50ft pi kon pimeja li lon sinpin sina. ona li pana lukin e sewi pi tenpo pimeja. |
+| 57   | [Ijo](#objectify)                 | sina ijo pi ken ala tawa. suli sina li ken sama kili li ken sama ilo kalama pimeja walo.|
+| 58   | [Sijelo Ko](#ooze-form)                 | sijelo sina li kama ko.                   |
+| 59   | [Utala Ala](#pacify)                       | jan anu soweli wan lon poka sina li wile ala utala. pilin ona la utata li ike a.       |
+| 60   | [Monsuta](#phobia)                       | jan anu soweli wan li plilin monsuta a tan ijo pi wile sina. |
+| 61   | [Lupa](#pit)                             | lupa li open lon ma. ona li suli poka 10ft/3m li suli anpa 10ft/3m.          |
 | 62   | [Primal Surge](#primal-surge)           | A creature rapidly evolves into a future version of its species. |
 | 63   | [Push/Pull](#push/pull)                 | An object of any size is pulled directly towards you or pushed directly away from you with the strength of one man. |
 | 64   | [Raise Dead](#raise-dead)               | A skeleton rises from the ground to serve you. They are incredibly stupid and can only obey simple orders. |
