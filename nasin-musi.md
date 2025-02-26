@@ -312,7 +312,7 @@ open la jan musi ale li jo e ni:
 - 3k6 mani
 
 <!--Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Spellbooks**](#spellbooks-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result.-->
-lipu ale pi **ijo open** la o tawa e kiwen ken wan la o kama sona e len awen e ilo utala e ilo ante. ken la jan musi sina li kama jo e lipu **lipu pi nasa wawa** la sina o tawa e k100 tan ni. (k100 la sina ken tawa e 2k10 la kiwen ken wan li pana e nanpa pi suli LL la kiwen ken ante li pana e nanpa lili). lipu ken ale la sina o jo e ijo wan taso.
+lipu ale pi **jo open** la o tawa e kiwen ken wan la o kama sona e len awen e ilo utala e ilo ante. ken la jan musi sina li kama jo e lipu **lipu pi nasa wawa** la sina o tawa e k100 tan ni. (k100 la sina ken tawa e 2k10 la kiwen ken wan li pana e nanpa pi suli LL la kiwen ken ante li pana e nanpa lili). lipu ken ale la sina o jo e ijo wan taso.
 
 
 <!--See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
@@ -406,7 +406,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 <p></p>
 
 <!--## Character traits (d10)-->
-## ijo jan (d10)
+## ijo jan (k10)
 
 <!--#### Physique
 |  |          |      |            |
@@ -419,13 +419,13 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 
 <!--o pona e ni aaaaaa-->
 #### lukin sijelo
-|  |          |      |            |
+|||||
 | -------- | -------- | ---- | ---------- |
-| 1        | wawa | 6    | wawa lili   |
-| 2        | wawa suli   | 7    | lili      |
-| 3        | ko   | 8    | pona |
-| 4        | sewi    | 9    | sike      |
-| 5        | kiwen   | 10   | sewi wawa   |
+| 1        | wawa     | 6    | wawa lili  |
+| 2        | wawa suli| 7    | lili       |
+| 3        | ko       | 8    | pona       |
+| 4        | palisa   | 9    | sike       |
+| 5        | kiwen    | 10   | sama nena  |
 
 <!--#### Skin
 |  |            |      |           |
@@ -438,24 +438,45 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 
 #### selo sijelo
 
-|  |            |      |           |
+|||||
 | ---- | ---------- | ---- | --------- |
-| 1    | sike lili li lon  | 6    | Round     |
-| 2    | pimeja       | 7    | suwi      |
-| 3    | Elongated  | 8    | pimeja a    |
-| 4    | pakala lili | 9    | sitelen li lon  |
-| 5    | loje lili       | 10   | weathered |
+| 1    | sike lili li lon | 6 | Round  |
+| 2    | pimeja     | 7    | suwi      |
+| 3    | pana sin e suno |8| pimeja a  |
+| 4    | pakala lili| 9|sitelen li lon |
+| 5    | loje lili  | 10   | telo ala  |
 
-<!--#### Hair-->
-#### linja lawa
-
+<!--#### Hair
 |  |         |      |           |
 | ---- | ------- | ---- | --------- |
 | 1    | Bald    | 6    | Long      |
 | 2    | Braided | 7    | Luxurious |
 | 3    | Curly   | 8    | Oily      |
 | 4    | Filthy  | 9    | Wavy      |
-| 5    | Frizzy  | 10   | Wispy     |
+| 5    | Frizzy  | 10   | Wispy     |-->
+
+#### linja lawa
+<!--|  |         |      |           |
+| ---- | ------- | ---- | --------- |
+| 1    | ala     | 6    | suli      |
+| 2    | linja mute li kama linja wan | 7 | mani a    |
+| 3    |tawa sike| 8    | ko        |
+| 4    | jaki    | 9    |tawa sama telo|
+| 5    | Frizzy  | 10   | Wispy     |-->
+
+|||
+| --- | --- |
+| 1   | ona li jo ala e linja lawa |
+| 2   | linja mute li kama linja wan |
+| 3   | linja mute li tawa sike lili |
+| 4   | ona li jo e linja jaki       |
+| 5   | |
+| 6   | linja li suli a              |
+| 7   | jan pi mani mute li jo e linja lawa sama ni|
+| 8   | telo ko li lon li pana sin e suno|
+| 9   | lukin linja li sama telo tawa |
+| 10  | |
+
 
 <!--#### Face-->
 #### sinpin lawa
@@ -533,21 +554,31 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 
 <p></p>
 
-## Starting Gear (d20)
+<!--## Starting Gear (d20)->>
+## jo open
 
-#### Armor
+<!--#### Armor
 
 |  |            |           |       |
 | :---: | :--------: | :-------: | :---: |
 |  1-3  |    4-14    |   15-19   |  20   |
-| None  | Brigandine | Chainmail | Plate |
+| None  | Brigandine | Chainmail | Plate |-->
+#### len awen
+|       |            |           |       |
+| :---: | :--------: | :-------: | :---: |
+|  1-3  |    4-14    |   15-19   |  20   |
+| ala   | selo soweli | linja kiwen | lipu kiwen |
 
-#### Helmets & Shields
-
+<!--#### Helmets & Shields
 |  |        |        |                 |
 | :---------------: | :----: | :----: | :-------------: |
 |       1-13        | 14-16  | 17-19  |       20        |
-|       None        | Helmet | Shield | Helmet & Shield |
+|       None        | Helmet | Shield | Helmet & Shield |-->
+#### len lawa kiwen en supa kiwen luka
+|  |        |        |                 |
+| :---------------: | :----: | :----: | :-------------: |
+|       1-13        | 14-16  | 17-19  |       20        |
+|       ala        | len lawa kiwen | supa kiwen luka | len lawa kiwen & supa kiwen luka  |
 
 #### Weapons
 
@@ -1103,7 +1134,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 43   | [Suno A](#illuminate)               | sike suno li tawa kon tan wile sina.         |
 | 44   | [Linja Pi Lukin Ala](#invisible-tether)   | ijo tu li weka 10ft/3m tan ona la ona li ken ala weka suli. |
 | 45   | [Mu](#knock)                         | ilo li awen pini e lupa tomo anu poki la ona li open kepeken ilo open ala. taso ona li kalama mu.             |
-| 46   | [Tawa Akesi Telo](#leap)                           | sama akesi telo la sina ken tawa kon sewi. wan la sina tawa sewi 10ft/3m.            |
+| 46   | [Tawa Pi Akesi Telo](#leap)                           | sama akesi telo la sina ken tawa kon sewi. wan la sina tawa sewi 10ft/3m.            |
 | 47   | [Kon Telo](#liquid-air)               | sama tawa pi insa telo la ale li ken tawa insa kon.                       |
 | 48   | [Lili E Nasa Wawa](#magic-dampener)       | wawa pi nasa wawa ale lon poka sina li kama lili sama ni: tu li kama wan. |
 | 49   | [Tomo](#manse)                         | tenpo ilo 12h la tomo li kama lon. ona li wawa li kiwen. insa ona la supa li lon. wile sina la jan li ken tawa insa anu ken ala ni.|
