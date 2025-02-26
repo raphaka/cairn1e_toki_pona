@@ -900,7 +900,7 @@ PCs can hire **hirelings** to aid them in their expeditions. To create a hirelin
 <!--### Wealth & Treasure
 The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).-->
 
-### mani en ijo pona
+### mani en ijo mani
 tenpo pi mute wawa la, jan li jo e mani sike ni: mani sike pi kiwen jelo. mani jelo (mj) li sama mani walo (mw) 10 li sama mani loje (ml) 100. 
 
 Treasure is highly valuable, usually bulky, and rarely useful beyond its value. It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
