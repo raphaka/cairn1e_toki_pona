@@ -904,8 +904,13 @@ Treasure is highly valuable, usually bulky, and rarely useful beyond its value. 
 
 Villages, strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
 
+<!--
 ## Magic
-**Spellbooks** contain a single spell and take up one slot. They cannot be transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
+**Spellbooks** contain a single spell and take up one slot. They cannot be transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.-->
+
+
+## nasa wawa
+**lipu pi nasa wawa** li suli sama ijo wan li poki e nasin wan nasa. jan li ken ala sitelen anu pali e lipu ni. taso, ona li lon tomo moli anu lupa nasa anu tomo suli wawa.
 
 Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or being legible only when held in moonlight.
 
