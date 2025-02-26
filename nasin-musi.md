@@ -1147,12 +1147,12 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 46   | [Tawa Pi Akesi Telo](#leap)                           | sama akesi telo la sina ken tawa kon sewi. wan la sina tawa sewi 10ft/3m.            |
 | 47   | [Kon Telo](#liquid-air)               | sama tawa pi insa telo la ale li ken tawa insa kon.                       |
 | 48   | [Lili E Nasa Wawa](#magic-dampener)       | wawa pi nasa wawa ale lon poka sina li kama lili sama ni: tu li kama wan. |
-| 49   | [Tomo](#manse)                         | tenpo ilo 12h la tomo li kama lon. ona li wawa li kiwen. insa ona la supa li lon. wile sina la jan li ken tawa insa anu ken ala ni.|
+| 49   | [Tomo](#manse)                         | tenpo ilo 12h la tomo li kama lon. ona li wawa li kiwen. insa ona la supa li lon. wile sina la jan li ken insa anu ken ala insa e tomo. |
 | 50   | [Nasa Pi Sike Lili](#marble-craze)           | poki sina li jo ale e sike lili. sike lili li sama ilo musi. sike lili li weka tan poki sina la tenpo ilo lili lili 30s li tawa la poki sina li jo sin e sike lili. |
-| 51   | [Masquerade](#masquerade)               | A character's appearance and voice becomes identical to those of a character you touch. |
-| 52   | [Miniaturize](#miniaturize)             | A creature you touch is shrunk down to the size of a mouse.  |
-| 53   | [Mirror Image](#mirror-image)           | An illusory duplicate of yourself appears and is under your control. |
-| 54   | [Mirrorwalk](#mirrorwalk)               | A mirror becomes a gateway to another mirror that you looked into today. |
+| 51   | [Len Pi Jan Ante](#masquerade)               | sina pilin luka e jan ante la lukin pi jan wan li kama sama lukin pi jan ante ni. kalama toki ona li kama sama kalama toki pi jan ante ni kin. |
+| 52   | [Lili](#miniaturize)             | sina lukin e jan wan anu soweli wan la ona li kama lili a sama soweli pipi. |
+| 53   | [Sitelen Sama](#mirror-image)           | sina lon e sitelen jan. ona li lukin sama sina. sina wile e ijo la sitelen jan li ni. |
+| 54   | [Nasin Pi Sinpin Sama](#mirrorwalk)               | ilo sinpin pi lukin sama li kama nasin tawa ilo sama ante. tenpo pini pi tenpo suno ni la sina o lukin e ilo sama ante.|
 | 55   | [Multiarm](#multiarm)                   | You temporarily gain an extra arm.                           |
 | 56   | [Night Sphere](#night-sphere)           | A 50ft wide sphere of darkness displaying the night sky appears before you. |
 | 57   | [Objectify](#objectify)                 | You become any inanimate object between the size of a grand piano and an apple. |
