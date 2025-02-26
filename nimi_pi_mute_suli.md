@@ -47,6 +47,7 @@ Please use the suggestions from the "toki pona" column. If you prefer the altern
 | rules                   | nasin musi                ||
 | Save / Saving Throw     | utala e WAW               ||
 | Scar                    | pakala sijelo             ||
+| scroll                  | lipu lili pi nasa wawa          ||
 | Silver Piece            | mani                      | mani sike pi kiwen walo / mani walo (mw) |
 | Spellbook               | lipu pi nasa wawa         | lipu nasa |
 | SRD                     | lipu nasin                ||
