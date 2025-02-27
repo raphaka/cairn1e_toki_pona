@@ -1177,7 +1177,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 76   | [Sijelo Kon](#smoke-form)               | sijelo sina li kama kon pimeja li tawa tan wile sina.   |
 | 77   | [Pilin Kon Wawa](#sniff)                         | kepeken nena pi sinpin lawa sina la sina ken pilin e kon ale. pilin kon li ken lili a la taso sina awen ken pilin e ona.             |
 | 78   | [Weka E Suno](#snuff)                         | suno ale pi nasa ala lon lukin sina li pini la ale li kama pimeja. taso tan suno li nasa wawa la ona li pini ala.  |
-| 79   | [Sort](#sort)                           | Inanimate items sort themselves according to categories you set. |
+| 79   | [Nasin Nanpa](#sort)                           | nasin nanpa li toki e ni: kulupu ijo la nasin tan lili tawa suli la ijo ale li nanpa seme. sina toki e nasin nanpa suli anu nasin nanpa tenpo anu nasin nanpa pi kule ante la kulupu ijo li tawa kepeken nasin ni. |
 | 80   | [Spectacle](#spectacle)                 | A clearly false but impressive illusion of your choice appears, under your control. It may be up to the size of a palace and has full motion and sound. |
 | 81   | [Spellsaw](#spellsaw)                   | A whirling blade flies from your chest, clearing any plant material in its way. It is otherwise harmless. |
 | 82   | [Spider Climb](#spider-climb)           | You can climb surfaces like a spider.                        |
