@@ -1123,7 +1123,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 22   | [Lukin E Nasa Wawa](#detect-magic)           | sina ken lukin anu kute e kon ale pi nasa wawa lon poka.                      |
 | 23   | [Weka E Ijo Sijelo](#disassemble)             | ijo pi sijelo sina li ken weka tan sijelo sina. ni li pali ala e pakala e pilin ike. sina awen ken lawa e ijo sijelo ni. |
 | 24   | [Len E Lukin](#disguise)                   | sina ken ante e lukin pi jan musi wan tan wile sina. ona o awen lukin sama jan o ken ala soweli. sina wile sama e lukin pi jan ante la lukin li kama nasa ike lili. |
-| 25   | [Ante E Ma](#displace)                   | lukin la ijo li lon ma ante tan ma pi lon ona. ma ante li ken weka 15ft/5m tan ma lon. |
+| 25   | [Ante E Lukin Ma](#displace)                   | ijo li lon ma wan la taso lukin la ijo li lon ma ante tan nasa wawa ni. ma ante li ken weka 15ft/5m tan ma lon. |
 | 26   | [Tawa Ma Wawa](#earthquake)               | ma li open tawa pi wawa suli. ijo en ijo li ken pakala li ken anpa. |
 | 27   | [Sijelo Linja](#elasticity)               | sijelo sina li ken linja pi 10ft/3m.      |
 | 28   | [Sinpin Pi Ijo Ale](#elemental-wall)       | sinpin seli anu sinpin pi kiwen lete li sewi tan ma li suli poka 50ft/15m li suli sewi 10ft/3m. |
@@ -1160,23 +1160,23 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 59   | [Utala Ala](#pacify)                       | jan wan anu soweli wan lon poka sina li wile ala utala. pilin ona la utata li ike a.       |
 | 60   | [Monsuta](#phobia)                       | jan wan anu soweli wan li pilin monsuta a tan ijo pi wile sina. |
 | 61   | [Lupa](#pit)                             | lupa li open lon ma. ona li suli poka 10ft/3m li suli anpa 10ft/3m.          |
-| 62   | [](#primal-surge)           | jan wan anu soweli wan la ona li kama sama ona pi tenpo kama. |
+| 62   | [Sijelo Pi Tenpo Kama](#primal-surge)           | jan wan anu soweli wan la ona li kama sama ona pi tenpo kama. |
 | 63   | [Tawa Kama/Tawa Weka](#push/pull)                 | ijo li tawa sina anu tawa weka tan sina. wawa pi tawa ni li sama wawa pi jan wan. ijo li ken lili li ken suli.|
 | 64   | [Lon E Jan Moli](#raise-dead)               | sina lon e jan moli pi palisa walo. ona li pali tan wile sina. sona lawa la ona li wawa pi lili a. ona li ken sona e ijo pi lili a taso li ken pali e ijo pi lili pona.|
 | 65   | [Lon E Kon Moli](#raise-spirit)           | kon pi jan moli wan lon poka sina li kama. sina ken toki e wile sona wan tawa ona la ona li toki e sona pi wile sona ni tawa sina. |
 | 66   | [Kute Pi Insa Lawa](#read-mind)                 | poa sina la jan anu soweli li toki pi insa lawa la sina ken kute e ni. taso sina ken ala kute e toki ale. toki li insa a la sina ken ala kute e ona. toki li insa pi mute lili la sina ken kute e ona. |
 | 67   | [Wawa Weka](#repel)                         | ijo tu li lon poka 10ft/3m la ona li tawa weka tan ante pi ona tu. |
-| 68   | [Scry](#scry)                           | You can see through the eyes of a creature you touched earlier today. |
-| 69   | [Sculpt Elements](#sculpt-elements)     | Inanimate material behaves like clay in your hands.          |
-| 70   | [Sense](#sense)                         | Choose one kind of object (key, gold, arrow, jug, etc). You can sense the nearest example. |
-| 71   | [Shield](#shield)                       | A creature you touch is protected from mundane attacks for one minute. |
-| 72   | [Shroud](#shroud)                       | A creature you touch is invisible until they move.           |
-| 73   | [Shuffle](#shuffle)                     | Two creatures you can see instantly switch places.           |
-| 74   | [Sleep](#sleep)                         | A creature you can see falls into a light sleep.             |
-| 75   | [Slick](#slick)                         | Every surface in a 30ft radius becomes extremely slippery.   |
-| 76   | [Smoke Form](#smoke-form)               | Your body becomes a living smoke that you can control.       |
-| 77   | [Sniff](#sniff)                         | You can smell even the faintest traces of scents.            |
-| 78   | [Snuff](#snuff)                         | The source of any mundane light you can see is instantly snuffed out. |
+| 68   | [Lukin Tan Sike Ante](#scry)                           | tenp pini pi tenpo suno ni la sina pilin luka e jan anu soweli la sina ken lukin tan sike lukin sijelo ona. |
+| 69   | [Pali Ko](#sculpt-elements)     | ijo pi lon ala li sama ko tawa luka sina la sina ken ante e sijelo ona.          |
+| 70   | [Pilin E Ijo](#sense)                         | o toki e ijo wan (ken la ilo open, mani jelo, palisa alasa, poki telo, ijo ante...). sina ken pilin e lon pi ijo sama ni lon poka sina. |
+| 71   | [Awen Tan Pakala](#shield)                       | sina pilin luka e jan wan anu soweli wan la ona li kama awen tan pakala ale pi nasa ala. nasa wawa ni li awen lon tenpo ilo lili 1min. |
+| 72   | [Lukin Ala](#shroud)                       | sina pilin luka e jan wan anu soweli wan la ona li kama lukin sama kon. ni la jan ante en soweli ante li ken ala lukin e ona. ona li tawa la, nasa wawa ni li pini.           |
+| 73   | [Ante E Ma Jan](#shuffle)                     | sina ken lukin e jan tu la tenpo pi lili ale la jan nanpa wan li lon ma pi jan ante la jan ante li lon ma pi jan nanpa wan.          |
+| 74   | [Lape](#sleep)                         | sina lukin e jan wan anu soweli wan la ona li open lape. taso lape ni li wawa ala la ona li ken weka tan kalama anu ijo ante.         |
+| 75   | [Ma Pi Nena Ala](#slick)                         | ma ale lon sike suli li kama pilin pi nena ala. nena lili ale lon ma ni li weka la luka en noka li wile ala awen lon ma la jan en soweli ale li ken ala tawa pona lon ma ni. sike suli li suli linja 30ft/9m tan insa ona tawa poka ale ona.   |
+| 76   | [Sijelo Kon](#smoke-form)               | sijelo sina li kama kon pimeja li tawa tan wile sina.   |
+| 77   | [Pilin Kon Wawa](#sniff)                         | kepeken nena pi sinpin lawa sina la sina ken pilin e kon ale. pilin kon li ken lili a la taso sina awen ken pilin e ona.             |
+| 78   | [Weka E Suno](#snuff)                         | suno ale pi nasa ala lon lukin sina li pini la ale li kama pimeja. taso tan suno li nasa wawa la ona li pini ala.  |
 | 79   | [Sort](#sort)                           | Inanimate items sort themselves according to categories you set. |
 | 80   | [Spectacle](#spectacle)                 | A clearly false but impressive illusion of your choice appears, under your control. It may be up to the size of a palace and has full motion and sound. |
 | 81   | [Spellsaw](#spellsaw)                   | A whirling blade flies from your chest, clearing any plant material in its way. It is otherwise harmless. |
@@ -1203,6 +1203,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 [back to index](#index)
 <p></p>
 
+<!-- once we get to this point we should make sure to copy relevant parts from above to be as consistent as possible-->
 # Rules Summary
 
 **ACTIONS**  
