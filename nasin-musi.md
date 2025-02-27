@@ -1157,15 +1157,15 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 56   | [Sike Pimeja](#night-sphere)           | sike suli 50ft pi kon pimeja li lon sinpin sina. ona li pana lukin e sewi pi tenpo pimeja. |
 | 57   | [Ijo](#objectify)                 | sina ijo pi ken ala tawa. suli sina li ken sama kili li ken sama ilo kalama pimeja walo.|
 | 58   | [Sijelo Ko](#ooze-form)                 | sijelo sina li kama ko.                   |
-| 59   | [Utala Ala](#pacify)                       | jan anu soweli wan lon poka sina li wile ala utala. pilin ona la utata li ike a.       |
-| 60   | [Monsuta](#phobia)                       | jan anu soweli wan li plilin monsuta a tan ijo pi wile sina. |
+| 59   | [Utala Ala](#pacify)                       | jan wan anu soweli wan lon poka sina li wile ala utala. pilin ona la utata li ike a.       |
+| 60   | [Monsuta](#phobia)                       | jan wan anu soweli wan li pilin monsuta a tan ijo pi wile sina. |
 | 61   | [Lupa](#pit)                             | lupa li open lon ma. ona li suli poka 10ft/3m li suli anpa 10ft/3m.          |
-| 62   | [Primal Surge](#primal-surge)           | A creature rapidly evolves into a future version of its species. |
-| 63   | [Push/Pull](#push/pull)                 | An object of any size is pulled directly towards you or pushed directly away from you with the strength of one man. |
-| 64   | [Raise Dead](#raise-dead)               | A skeleton rises from the ground to serve you. They are incredibly stupid and can only obey simple orders. |
-| 65   | [Raise Spirit](#raise-spirit)           | The spirit of a nearby corpse manifests and will answer 1 question. |
-| 66   | [Read Mind](#read-mind)                 | You can hear the surface thoughts of nearby creatures.       |
-| 67   | [Repel](#repel)                         | Two objects are strongly magnetically repelled from each other within 10 feet. |
+| 62   | [](#primal-surge)           | jan wan anu soweli wan la ona li kama sama ona pi tenpo kama. |
+| 63   | [Tawa Kama/Tawa Weka](#push/pull)                 | ijo li tawa sina anu tawa weka tan sina. wawa pi tawa ni li sama wawa pi jan wan. ijo li ken lili li ken suli.|
+| 64   | [Lon E Jan Moli](#raise-dead)               | sina lon e jan moli pi palisa walo. ona li pali tan wile sina. sona lawa la ona li wawa pi lili a. ona li ken sona e ijo pi lili a taso li ken pali e ijo pi lili pona.|
+| 65   | [Lon E Kon Moli](#raise-spirit)           | kon pi jan moli wan lon poka sina li kama. sina ken toki e wile sona wan tawa ona la ona li toki e sona pi wile sona ni tawa sina. |
+| 66   | [Kute Pi Insa Lawa](#read-mind)                 | poa sina la jan anu soweli li toki pi insa lawa la sina ken kute e ni. taso sina ken ala kute e toki ale. toki li insa a la sina ken ala kute e ona. toki li insa pi mute lili la sina ken kute e ona. |
+| 67   | [Wawa Weka](#repel)                         | ijo tu li lon poka 10ft/3m la ona li tawa weka tan ante pi ona tu. |
 | 68   | [Scry](#scry)                           | You can see through the eyes of a creature you touched earlier today. |
 | 69   | [Sculpt Elements](#sculpt-elements)     | Inanimate material behaves like clay in your hands.          |
 | 70   | [Sense](#sense)                         | Choose one kind of object (key, gold, arrow, jug, etc). You can sense the nearest example. |
