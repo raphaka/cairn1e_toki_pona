@@ -635,7 +635,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 
 <p></p>
 
-#### 																						Spellbooks (d100)
+#### 																						lipu pi nasa wawa (k100)
 
 |||||||||
 |---|-----------------|---|----------------|---|---------------|---|---------------|
