@@ -79,7 +79,7 @@ Players trust one another to engage with the shared setting, character goals, an
 ### wile kulupu
 pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, kepeken nasin utala kulupu. ni la jan ale li pali tawa wile kulupu.
 
-[o tawa pi lukin lipu sin](#index)
+[o tawa sin pi lukin lipu](#index)
 <p></p>
 
 <!--## Principles for Wardens-->
@@ -171,7 +171,7 @@ pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, k
 - tenpo ni la o tawa e 1k6. nanpa 4 en nanpa suli li pona tawa jan.
 - nanpa 3 en nanpa lili li ike tawa jan tawa jan poka ona
 
-[o tawa pi lukin lipu sin](#index)
+[o tawa sin pi lukin lipu](#index)
 <p></p>
 
 <!--## Principles for Players-->
@@ -233,7 +233,7 @@ pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, k
 - o lukin wile e ala. wile sina la jan musi ante o pilin pona tan sina la o pali wawa.
 - o tawa sinpin e ijo la o lukin e kama.
 
-[o tawa pi lukin lipu sin](#index)
+[o tawa sin pi lukin lipu](#index)
 <p></p>
 
 <!--## Character Creation-->
@@ -1191,16 +1191,16 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 90   | [Lon E Sitelen Kiwen](#summon-idol)             | sitelen kiwen li kama tan ma. ona li ken lukin sama jan anu soweli li suli sama soweli tawa. |
 | 91   | [Ante E Tenpo](#time-control)           | tenpo ilo lili lili 30s la tenpo li tawa nasa lon sike suli. tenpo li ken weka anu suli e 10% tan mute ona. sike suli li suli linja 50ft/15m tan insa ona tawa poka ale ona.  |
 | 92   | [Lukin Lon](#true-sight)               | sina lukin e ijo pi lon ala tan nasa wawa la sina lukin tawa poka ante ona.  |
-| 93   | [Upwell](#upwell)                       | A spring of seawater appears.                                |
-| 94   | [Vision](#vision)                       | You completely control what a creature sees.                 |
-| 95   | [Visual Illusion](#visual-illusion)     | A silent, immobile, room-sized illusion of your choice appears. |
-| 96   | [Ward](#ward)                           | A silver circle 50ft across appears on the ground. Choose one species that cannot cross it. |
-| 97   | [Web](#web)                             | Your wrists shoot thick webbing.                             |
-| 98   | [Widget](#widget)                       | A primitive version of a drawn tool or item appears before you and disappears after a short time. |
-| 99   | [Wizard Mark](#wizard-mark)             | Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you and can be seen at any distance, even through solid objects. |
-| 100  | [X-Ray Vision](#x-ray-vision)           | You can see through walls, dirt, clothing, etc.              | 
+| 93   | [Kama telo](#upwell)                       | telo li open kama tan ma. ona li sama telo tan telo suli.                               |
+| 94   | [Lukin Pana](#vision)                       | jan wan anu soweli wan li lukin e ale tan wile sina.                 |
+| 95   | [Sitelen Lukin](#visual-illusion)     |  jan ale li ken lukin e ijo. ijo ni li lon ala li sitelen pi nasa wawa taso. ona li suli sama poki tomo li ken ala kalama li ken ala tawa. |
+| 96   | [Sike Awen](#ward)                           | sike pi suli poka 50ft/15m li kama lon ma. o toki e nimi kulupu soweli. soweli ale sama li ken ala tawa poka ante pi sike ni. |
+| 97   | [Linja Pipi](#web)                             | luka sina li pana e linja. linja li wawa li sama kulupu linja tan pipi ni: pipi li jo e noka mute li pana e linja tan monsi ona. |
+| 98   | [Ilo Lili](#widget)                       | sina sitelen e ilo la ona li kama lon. ilo ni li pona ala li nasa lili. tenpo lili li tawa la ilo li weka. |
+| 99   | [Kule Pi Nasa Wawa](#wizard-mark)             | palisa luka sina li ken pana e kule. sina taso li ken lukin e kule ni. kule li weka tan sina la sina awen ken lukin e kule. kin la ijo li insa e sina e kule la sina awen ken lukin e kule. |
+| 100  | [Lukin Insa](#x-ray-vision)           | sina ken lukin insa e ijo e sinpin e len e ma e ante. sina ken lukin tawa poka ante ona.| 
 
-[back to index](#index)
+[o tawa sin pi lukin lipu](#index)
 <p></p>
 
 <!-- once we get to this point we should make sure to copy relevant parts from above to be as consistent as possible-->
