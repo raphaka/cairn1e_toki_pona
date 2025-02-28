@@ -1189,8 +1189,8 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 88   | [Alasa Pi Nasa Wawa](#target-lure)             | sina pilin luka e ijo wan la ona li nasa wawa ale lon poka li alasa e ona.  |
 | 89   | [Ma Kasi](#thicket)                     | kasi li kama tan ma kepeken tenpo lili a. ona li suli poka 50ft/15m. sina lon poka an ona la sina ken lukin ike a tawa poka ante ona. |
 | 90   | [Lon E Sitelen Kiwen](#summon-idol)             | sitelen kiwen li kama tan ma. ona li ken lukin sama jan anu soweli li suli sama soweli tawa. |
-| 91   | [Time Control](#time-control)           | Time in a 50ft bubble slows down or increases by 10% for 30 seconds. |
-| 92   | [True Sight](#true-sight)               | You see through all nearby illusions.                        |
+| 91   | [Ante E Tenpo](#time-control)           | tenpo ilo lili lili 30s la tenpo li tawa nasa lon sike suli. tenpo li ken weka anu suli e 10% tan mute ona. sike suli li suli linja 50ft/15m tan insa ona tawa poka ale ona.  |
+| 92   | [Lukin Lon](#true-sight)               | sina lukin e ijo pi lon ala tan nasa wawa la sina lukin tawa poka ante ona.  |
 | 93   | [Upwell](#upwell)                       | A spring of seawater appears.                                |
 | 94   | [Vision](#vision)                       | You completely control what a creature sees.                 |
 | 95   | [Visual Illusion](#visual-illusion)     | A silent, immobile, room-sized illusion of your choice appears. |
