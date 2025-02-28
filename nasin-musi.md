@@ -1178,17 +1178,17 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 77   | [Pilin Kon Wawa](#sniff)                         | kepeken nena pi sinpin lawa sina la sina ken pilin e kon ale. pilin kon li ken lili a la taso sina awen ken pilin e ona.             |
 | 78   | [Weka E Suno](#snuff)                         | suno ale pi nasa ala lon lukin sina li pini la ale li kama pimeja. taso tan suno li nasa wawa la ona li pini ala.  |
 | 79   | [Nasin Nanpa](#sort)                           | nasin nanpa li toki e ni: kulupu ijo la nasin tan lili tawa suli la ijo ale li nanpa seme. sina toki e nasin nanpa suli anu nasin nanpa tenpo anu nasin nanpa pi kule ante la kulupu ijo li tawa kepeken nasin ni. |
-| 80   | [Spectacle](#spectacle)                 | A clearly false but impressive illusion of your choice appears, under your control. It may be up to the size of a palace and has full motion and sound. |
-| 81   | [Spellsaw](#spellsaw)                   | A whirling blade flies from your chest, clearing any plant material in its way. It is otherwise harmless. |
-| 82   | [Spider Climb](#spider-climb)           | You can climb surfaces like a spider.                        |
-| 83   | [Summon Cube](#summon-cube)             | Once per second you may summon or banish a 3-foot-wide cube of earth. New cubes must be affixed to the earth or to other cubes. |
-| 84   | [Swarm](#swarm)                         | You become a swarm of crows, rats, or piranhas. You can only be harmed by blast attacks. |
-| 85   | [Telekinesis](#telekinesis)             | You may mentally 1 move item under 60lbs.                    |
-| 86   | [Telepathy](#telepathy)                 | Two creatures can hear each other's thoughts, no matter how far apart. |
-| 87   | [Teleport](#teleport)                   | An object or person you can see is transported from one place to another in a 50ft radius. |
-| 88   | [Target Lure](#target-lure)             | An object you touch becomes the target of any nearby spell.  |
-| 89   | [Thicket](#thicket)                     | A thicket of trees and dense brush up to 50ft wide suddenly sprouts up. |
-| 90   | [Summon Idol](#summon-idol)             | A carved stone statue the size of a mule rises from the ground. |
+| 80   | [Lukin Pona](#spectacle)                 | jan ale li ken lukin e ijo sin li sona e ni: ijo li lon ala. kin la ona li pilin e ni: ijo li lukin pona a. ijo ni li ken suli a sama tomo li ken kalama li tawa tan wile sina. |
+| 81   | [Ilo Kasi Pi Nasa Wawa](#spellsaw)                   | ilo li tawa tan sinpin sijelo sina li tawa sike lon kon li tu e kasi ale lon nasin sina li weka e ona. ona li ken ala pakala e jan e soweli. |
+| 82   | [Tawa Pipi](#spider-climb)           | sina ken tawa lon sinpin ale sama pipi pi pali linja.      |
+| 83   | [Lon E Sijelo Pi Sike Ala](#summon-cube)             | sina ken lon e sijelo pi sike ala. tenpo ilo lili lili 1s li tawa la sina ken lon e sijelo wan sin li ken weka e sijelo wan. sijelo ale li suli poka 3ft/1m li ma. sijelo sin ale o poka ma anu poka sijelo ante. |
+| 84   | [Kulupu](#swarm)                         | sina kama kulupu pi waso mute anu kulupu pi soweli lili mute pi linja monsi anu kulupu pi kala utala mute. sina ken pakala tan **pakala suli** taso. |
+| 85   | [Tawa Tan Wile](#telekinesis)             | kepeken wile sina taso la sina ken tawa e ijo wan. ijo o lili 60lbs/30kg.       |
+| 86   | [Kute Insa](#telepathy)                 | jan anu soweli la tu li ken kute e toki insa lawa pi ante ona. ona li weka a la ona li awen ken ni. |
+| 87   | [Tawa Kepeken Tenpo Ala](#teleport)                   | sina lukin e ijo wan anu jan wan la ona li weka tan ma ona li kama lon ma ante kepeken tenpo ala. ma sin li ken weka 50ft/15m tan ma jan. |
+| 88   | [Alasa Pi Nasa Wawa](#target-lure)             | sina pilin luka e ijo wan la ona li nasa wawa ale lon poka li alasa e ona.  |
+| 89   | [Ma Kasi](#thicket)                     | kasi li kama tan ma kepeken tenpo lili a. ona li suli poka 50ft/15m. sina lon poka an ona la sina ken lukin ike a tawa poka ante ona. |
+| 90   | [Lon E Sitelen Kiwen](#summon-idol)             | sitelen kiwen li kama tan ma. ona li ken lukin sama jan anu soweli li suli sama soweli tawa. |
 | 91   | [Time Control](#time-control)           | Time in a 50ft bubble slows down or increases by 10% for 30 seconds. |
 | 92   | [True Sight](#true-sight)               | You see through all nearby illusions.                        |
 | 93   | [Upwell](#upwell)                       | A spring of seawater appears.                                |
