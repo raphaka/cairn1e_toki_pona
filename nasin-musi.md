@@ -326,36 +326,44 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 <p></p>
 
 ## nimi en pali (k20)
+#### nimi
+||||||
+|--|--|--|--|--|--|
+|1|puwiman|35|sija|69|mijun|
+|2|mapu|36|lesijo|70|pupajen|
+|3|walanten|37|mulon|71|lesa|
+|4|utun|38|sekosen|72|jete|
+|5|nipewi|39|jewinli|73|wenoton|
+|6|naka|40|mape|74|kejune|
+|7|lenose|41|ikalo|75|lujeton|
+|8|tona|42|sonine|76|kapo|
+|9|jepo|43|lepo|77|jene|
+|10|lupanje|44|koto|78|popi|
+|11|setulu|45|lasa|79|wepen|
+|12|ose|46|lejo|80|komu|
+|13|tetaju|47|pamu|81|tepun|
+|14|tetenko|48|nepoli|82|tuwiwe|
+|15|ekanu|49|wetu|83|koma|
+|16|wanowen|50|tope|84|sumi|
+|17|lekule|51|wipunu|85|muwansun|
+|18|mawitu|52|kinonan|86|pamujan|
+|19|mumato|53|makulen|87|melimon|
+|20|wasi|54|tunun|88|sumunka|
+|21|sokon|55|kenu|89|sile|
+|22|napilu|56|peli|90|sowi|
+|23|wije|57|owe|91|leki|
+|24|simonu|58|wete|92|isa|
+|25|wata|59|tolo|93|nulu|
+|26|nikumon|60|pile|94|lojopa|
+|27|nono|61|mejuke|95|komansu|
+|28|tewake|62|sepala|96|mamawa|
+|29|petan|63|pino|97|uja|
+|30|kisawa|64|ejanpa|98|palan|
+|31|jokuki|65|ajenla|99|tamen|
+|32|juje|66|sejeton|100|lujupu|
+|33|nosensen|67|lojekin|101|mapojo|
+|34|ninasi|68|kima|102|mawi|
 
-#### Female Names
-
-|||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-|1     | Agune     |6          |Drelil     |11        |Lirann   |16    |Sybil     |
-|2     | Beatrice  |7          |Elgile     |12        |Lirathil |17    |Theune    |
-|3     | Breagan   |8          |Esme       |13        |Lisabeth |18    |Wenain    |
-|4     | Bronwyn   |9          |Griya      |14        |Moralil  |19    |Ygwal     |
-|5     | Cannora   |10         |Henaine    |15        |Morgwen  |20    |Yslen     |
-
-#### Male Names
-
-|||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Arwel     |6          |Breglor    |11        |Grinwit  |16    |Melnax    |
-|2           |Bevan     |7          |Canhoreal  |12        |Gruwid   |17    |Orthax    |
-|3           |Boroth    |8          |Emrys      |13        |Gruwth   |18    |Triunein  |
-|4           |Borrid    |9          |Ethex      |14        |Gwestin  |19    |Wenlan    |
-|5           |Breagle   |10         |Gringle    |15        |Mannog   |20    |Yirmeor   |
-
-#### Surnames
-
-|||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Abernathy |6          |Crumwaller |11        |Harper   |16    |Swinney   |
-|2           |Addercap  |7          |Dunswallow |12        |Loomer   |17    |Thatcher  |
-|3           |Burl      |8          |Getri      |13        |Malksmilk|18    |Tolmen    |
-|4           |Candlewick|9          |Glass      |14        |Smythe   |19    |Weaver    |
-|5           |Cormick   |10         |Harkness   |15        |Sunderman|20    |Wolder    |
 
 <!--#### background
 
@@ -368,16 +376,16 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |5           |Carpenter |10         |Hunter     |15        |Outlaw   |20    |Ranger    |
 -->
 
-<!-- mi o weka e lipu 'pali' wan -->
+<!-- lipu 'pali' la nasin tu li ken -->
 
-#### pali
+<!--#### pali
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
 |1           |jan pi telo wawa |6          |jan lawa sewi     |11        |jan pi nasa wawa |16    |jan pi kalama musi |
 |2           |jan pi pali ilo|7          |jan musi pi ken weka mani    |12        |jan utala|17    |jan ike pi kama jo|
 |3           |jan ike pi insa tomo   |8          |jan pi lupa moli|13        |jan esun |18    |jan tawa pi nasin lawa ala  |
 |4           |jan pali pi moku sijelo   |9          |jan kasi  |14        |jan pali nena    |19    |jan pali pi jan ante   |
-|5           |jan pi pali supa |10         |jan alasa     |15        |jan pi nasin lawa ala   |20    |jan pi mama soweli    |
+|5           |jan pi pali supa |10         |jan alasa     |15        |jan pi nasin lawa ala   |20    |jan pi mama soweli    |-->
 
 #### pali
 |||
