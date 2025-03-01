@@ -530,7 +530,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 4      | Disciplined | 9    | Serene    |
 | 5      | Gregarious  | 10   | Tolerant  |
 
-#### Vice
+<!--#### Vice
 
 |  |            |      |          |
 | ---- | ---------- | ---- | -------- |
@@ -539,6 +539,17 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 3    | Craven     | 8    | Rude     |
 | 4    | Deceitful  | 9    | Vain     |
 | 5    | Greedy     | 10   | Vengeful |
+-->
+
+#### nasin jaki
+
+|  |            |      |          |
+| ---- | ---------- | ---- | -------- |
+| 1    | utala mute | 6    | wile pi pali ala |
+| 2    | pilin jaki     | 7    | pilin monsuta  |
+| 3    | wile pi utala ala     | 8    | toki ike     |
+| 4    | toki pi lon ala  | 9    | olin pi lukin ona     |
+| 5    | wile mani     | 10   | utala pi jan ike |
 
 #### Reputation
 
@@ -588,12 +599,20 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |       1-13        | 14-16  | 17-19  |       20        |
 |       ala        | len lawa kiwen | supa kiwen luka | len lawa kiwen & supa kiwen luka  |
 
-#### Weapons
+<!-- #### Weapons
 
 |                |                  |                          |                                |
 | :-------------------: | :--------------: | :------------------: | :------------------------------: |
 |          1-5          |       6-14       |          15-19       |               20               |
 | Dagger, Cudgel, Staff | Sword, Mace, Axe | Bow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
+
+-->
+#### Weapons
+
+|                |                  |                          |                                |
+| :-------------------: | :--------------: | :------------------: | :------------------------------: |
+|          1-5          |       6-14       |          15-19       |               20               |
+| palisa pakala lili, palisa, palisa suli | palisa pakala, palisa utala, palisa pi pakala kasi | palisa alasa, palisa alasa supa, linja alasa | palisa pakala suli, palisa ilo utala, palisa utala pi pakala kasi|
 
 #### Expeditionary Gear
 
