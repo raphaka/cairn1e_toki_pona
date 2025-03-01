@@ -327,7 +327,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 
 ## nimi en pali (k20)
 #### nimi
-||||||
+|||||||
 |--|--|--|--|--|--|
 |1|puwiman|35|sija|69|mijun|
 |2|mapu|36|lesijo|70|pupajen|
@@ -361,8 +361,8 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |30|kisawa|64|ejanpa|98|palan|
 |31|jokuki|65|ajenla|99|tamen|
 |32|juje|66|sejeton|100|lujupu|
-|33|nosensen|67|lojekin|101|mapojo|
-|34|ninasi|68|kima|102|mawi|
+|33|nosensen|67|lojekin|||
+|34|ninasi|68|kima|||
 
 
 <!--#### background
