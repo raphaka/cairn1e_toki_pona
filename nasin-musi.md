@@ -303,7 +303,7 @@ All PCs begin with:
 
 - Three days' rations (one slot)
 - A torch (one slot)
-- 3d6 gold pieces->>
+- 3d6 gold pieces-->
 #### jo open
 open la jan musi ale li jo e ni:
 
@@ -396,7 +396,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |4           |jan ni li pali e moku pi sijelo soweli.|
 |5           |ona li pali e supa lape e supa monsi kepeken kiwen kasi. |
 |6          |tomo pi nasin sewi la ona li jan lawa.|
-|7          |ona li musi, taso mani ona li ken weka|
+|7          |ona li musi, taso mani ona li ken weka.|
 |8          |jan li moli la, ona li pali e lupa lon ma moli.|
 |9          |ona li mama e kasi li telo e kasi.|
 |10         |ona li alasa e soweli.|
@@ -478,24 +478,33 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 2   | linja mute li kama linja wan |
 | 3   | linja mute li tawa sike lili |
 | 4   | ona li jo e linja jaki       |
-| 5   | |
+| 5   | ona li sike lili mute|
 | 6   | linja li suli a              |
 | 7   | jan pi mani mute li jo e linja lawa sama ni|
 | 8   | telo ko li lon li pana sin e suno|
 | 9   | lukin linja li sama telo tawa |
-| 10  | |
+| 10  | ona li mute ala li sama telo kon |
 
 
 <!--#### Face-->
 #### sinpin lawa
 
-|  |           |      |          |
+<!--|  |           |      |          |
 | ---- | --------- | ---- | -------- |
 | 1    | Bony      | 6    | Perfect  |
 | 2    | Broken    | 7    | Rat-like |
 | 3    | Chiseled  | 8    | Sharp    |
 | 4    | Elongated | 9    | Square   |
-| 5    | Pale      | 10   | Sunken   |
+| 5    | Pale      | 10   | Sunken   |-->
+
+
+|  |           |      |          |
+| ---- | --------- | ---- | -------- |
+| 1    | ona li ko ala      | 6    | ona li pona li ike ala  |
+| 2    | ona li pakala    | 7    |  ona li sama soweli pip |
+| 3    | ona li sama kiwen | 8    | ona li sama kiwen pakala    |
+| 4    | ona li suli li palisa | 9    | ona li sijelo lipu   |
+| 5    | ona li kule walo      | 10   | ona li sama lupa li sama wile lape   |
 
 <!--#### Speech-->
 #### nasin toki
