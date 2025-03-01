@@ -506,16 +506,23 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 4    | ona li suli li palisa | 9    | ona li sijelo lipu   |
 | 5    | ona li kule walo      | 10   | ona li sama lupa li sama wile lape   |
 
-<!--#### Speech-->
-#### nasin toki
+<!--#### Speech
 
-|  |         |      |            |
 | ------ | ------- | ---- | ---------- |
 | 1      | Blunt   | 6    | Gravelly   |
 | 2      | Booming | 7    | Precise    |
 | 3      | Cryptic | 8    | Squeaky    |
 | 4      | Droning | 9    | Stuttering |
-| 5      | Formal  | 10   | Whispery   |
+| 5      | Formal  | 10   | Whispery   |-->
+#### nasin toki
+
+|  |         |      |            |
+| ------ | ------- | ---- | ---------- |
+| 1      | ona li pona kute sona   | 6    | ona li sama kiwen lili mute   |
+| 2      | ona li kalama | 7    | ona li pona lon li kepeken nimi mute    |
+| 3      | ona li ike kute sona | 8    | ona li kalama suwi lili    |
+| 4      | ona li musi ala | 9    | ona li awen li awen ala |
+| 5      | ona li suli wawa  | 10   | ona li kalama ala   |
 
 <!--#### Clothes-->
 #### len sijelo
