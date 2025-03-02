@@ -28,6 +28,7 @@ Please use the suggestions from the "toki pona" column. If you prefer the altern
 | DEX                     | TAW                       |                      |
 | die/dice                | kiwen ken                 | kiwen nanpa          |
 | Enhanced (Attack)       | (utala pi) wawa suli      | wawa pona            | 
+| Expeditionary Gear | ilo pi jan tawa ||
 | Fatigue                 | lape                      |                      |
 | gold piece              | mani               | mani sike pi kiwen jelo / mani jelo (mj) |
 | healing                 | kama pona sin             ||
@@ -36,28 +37,29 @@ Please use the suggestions from the "toki pona" column. If you prefer the altern
 | Impaired (attack)       | (utala pi) wawa lili      | wawa ike             |
 | Inventory               | poki jo                   | jo pi jan musi       |
 | Inventory slot/Item slot| lupa ijo                  |                      |
-| Item                    | ijo                       ||
+| Item                    | ijo        ||
 | magic                   | nasa wawa                 | nasa |
 | NPC                     | jan musi ante             | jan pi musi ala (JpMA) / jan pi lon ala / jan pi jan musi ala (JPJMA) |
 | Party                   | kulupu                    | "detachment li sama" |
 | Player                  | jan                       | jan lon |
-| Player Character        | jan musi                  ||
+| Player Character        | jan musi  ||
 | relic                   | ilo nasa     ||
 | roll                    | o tawa e kiwen ken / o tawa e 3k6 | o pana/luka e kiwen ken |
-| rules                   | nasin musi                ||
-| Save / Saving Throw     | utala e WAW               ||
+| rules                   | nasin musi ||
+| Save / Saving Throw     | utala e WAW||
 | Scar                    | pakala sijelo             ||
 | scroll                  | lipu lili pi nasa wawa          ||
 | Silver Piece            | mani                      | mani sike pi kiwen walo / mani walo (mw) |
 | Spellbook               | lipu pi nasa wawa         | lipu nasa |
-| SRD                     | lipu nasin                ||
-| STR                     | WAW                       ||
-| table                   | lipu                      ||
-| torch                   | palisa suno               ||
-| trait / character trait | ijo jan                   ||
-| treasure                | ijo mani                ||
+| SRD                     | lipu nasin ||
+| STR                     | WAW        ||
+| table                   | lipu       ||
+| torch                   | palisa suno||
+| trait / character trait | ijo jan  ||
+| treasure                | ijo mani ||
+| trinket                 | ijo lili ||
 | turn                    | tenpo tawa                | tenpo musi |
-| Warden                  | jan lawa                  ||
-| weapon                  | ilo utala                 ||
-| WIL                     | LAW                       ||
+| Warden                  | jan lawa  ||
+| weapon                  | ilo utala ||
+| WIL                     | LAW       ||
 
