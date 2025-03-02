@@ -448,7 +448,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 
 |||||
 | ---- | ---------- | ---- | --------- |
-| 1    | sike lili li lon | 6 | Round  |
+| 1    | sike lili li lon | 6 | pakala kule li lon  |
 | 2    | pimeja     | 7    | suwi      |
 | 3    | pana sin e suno |8| pimeja a  |
 | 4    | pakala lili| 9|sitelen li lon |
@@ -478,7 +478,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 2   | linja mute li kama linja wan |
 | 3   | linja mute li tawa sike lili |
 | 4   | ona li jo e linja jaki       |
-| 5   | ona li sike lili mute|
+| 5   | linja li tawa poka ale |
 | 6   | linja li suli a              |
 | 7   | jan pi mani mute li jo e linja lawa sama ni|
 | 8   | telo ko li lon li pana sin e suno|
@@ -498,13 +498,22 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 5    | Pale      | 10   | Sunken   |-->
 
 
-|  |           |      |          |
+<--|  |           |      |          |
 | ---- | --------- | ---- | -------- |
 | 1    | ona li ko ala      | 6    | ona li pona li ike ala  |
-| 2    | ona li pakala    | 7    |  ona li sama soweli pip |
+| 2    | ona li pakala    | 7    |  ona li sama soweli pipi |
 | 3    | ona li sama kiwen | 8    | ona li sama kiwen pakala    |
 | 4    | ona li suli li palisa | 9    | ona li sijelo lipu   |
-| 5    | ona li kule walo      | 10   | ona li sama lupa li sama wile lape   |
+| 5    | ona li kule walo      | 10   | ona li sama lupa li sama wile lape   |-->
+
+|           |      |          |
+| ---- | --------- | ---- | -------- |
+| 1    | ko ala      | 6    | pona ale  |
+| 2    | pakala     | 7    |  ona li sama soweli pipi |
+| 3    | sama kiwen | 8    | sama kiwen pakala    |
+| 4    | suli li palisa | 9    | sijelo lipu   |
+| 5    | kule walo      | 10   | sama lupa li sama wile lape   |
+
 
 <!--#### Speech
 
