@@ -633,7 +633,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | Dagger, Cudgel, Staff | Sword, Mace, Axe | Bow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
 
 -->
-#### Weapons
+#### ilo utala
 
 |                |                  |                          |                                |
 | :-------------------: | :--------------: | :------------------: | :------------------------------: |
@@ -660,7 +660,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 4    | Chalk    | 9    | Fishing Rod    | 14   | Metal File | 19   | Shovel  |
 | 5    | Chisel   | 10   | Glue           | 15   | Nails      | 20   | Tongs   |-->
 
-#### Tools
+#### ilo
 |      |          |      |                |      |            |      |         |
 | ---- | -------- | ---- | -------------- | ---- | ---------- | ---- | ------- |
 | 1    | bellows  | 6    | poki pi pali moku      | 11   | ko moku     | 16   | kulupu linja alasa |
@@ -679,9 +679,10 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 4    | Face Paint  | 9    | Lens       | 14   | Salt Pack   | 19   | Twine   |
 | 5    | Fake Jewels | 10   | Marbles    | 15   | Small Bell  | 20   | Whistle |
 
-#### 																		Bonus Item (roll on table indicated)
+<!--#### Bonus Item (roll on table indicated)-->
+#### ijo pona (o lukin e lipu pi kiwen ken)
 
-|                 |                    |                 |           |
+|   |        |         |           |
 | :-------------: | :----------------: | :-------------: | :-------: |
 |       1-5       |        6-13        |      14-17      |   18-20   |
 | Tool or Trinket | Expeditionary Gear | Armor or Weapon | Spellbook |
