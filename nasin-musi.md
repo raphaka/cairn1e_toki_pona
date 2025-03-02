@@ -509,10 +509,10 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |      |           |      |     |
 | ---- | --------- | ---- | -------- |
 | 1    | ko ala      | 6    | pona ale  |
-| 2    | pakala     | 7    |  ona li sama soweli pipi |
+| 2    | pakala     | 7    |  sama soweli pipi |
 | 3    | sama kiwen | 8    | sama kiwen pakala    |
-| 4    | suli li palisa | 9    | sijelo lipu   |
-| 5    | kule walo      | 10   | sama lupa li sama wile lape   |
+| 4    | li suli li palisa | 9    | sijelo lipu   |
+| 5    | kule walo      | 10   | li sama lupa li sama wile lape   |
 
 
 <!--#### Speech
@@ -576,7 +576,8 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 4    | toki pi lon ala  | 9    | olin pi lukin ona     |
 | 5    | wile mani     | 10   | utala pi jan ike |
 
-#### Reputation
+<!--#### Reputation-->
+#### pilin pi jan ante la jan musi sina li ni:
 
 |  |             |      |           |
 | ---------- | ----------- | ---- | --------- |
@@ -662,11 +663,11 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 #### Tools
 |      |          |      |                |      |            |      |         |
 | ---- | -------- | ---- | -------------- | ---- | ---------- | ---- | ------- |
-| 1    | ilo  | 6    | ilo      | 11   | ilo     | 16   | ilo     |
-| 2    | ilo   | 7    | ilo        | 12   | ilo     | 17   | ilo     |
-| 3    | ilo | 8    | ilo | 13   | ilo | 18   | ilo |
-| 4    | ilo    | 9    | ilo    | 14   | ilo  | 19   | ilo  |
-| 5    | ilo   | 10   | ilo           | 15   | ilo      | 20   | ilo   |
+| 1    | bellows  | 6    | poki pi pali moku      | 11   | ko moku     | 16   | kulupu linja alasa |
+| 2    | poki telo suli  | 7    | palisa kiwen pi open lupa        | 12   | ilo kiwen     | 17   | ilo pi tu kasi     |
+| 3    | caltrops | 8    | ilo pi pali lupa lili | 13   | ilo tenpo | 18   | sealant |
+| 4    | palisa sitelen   | 9    | palisa pi alasa kala    | 14   | file  | 19   | ilo pi lupa ma |
+| 5    | chisel   | 10   | ko awen           | 15   | palisa lili kiwen      | 20   | tongs   |
 
 #### Trinkets
 
