@@ -611,7 +611,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |       |            |           |       |
 | :---: | :--------: | :-------: | :---: |
 |  1-3  |    4-14    |   15-19   |  20   |
-| ala   | selo soweli | linja kiwen | lipu kiwen |
+| ala   | len utala | linja kiwen | lipu kiwen |
 
 <!--#### Helmets & Shields
 |  |        |        |                 |
@@ -725,13 +725,12 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 
 ||     |
 |--------------------------------------------------------------|-----|
-|Shield (+1 Armor)            |10   |
-|Helmet (+1 Armor)            |10   |
-|Gambeson (+1 Armor)          |15   |
-|Brigandine (1 Armor, bulky)  |20   |
-|Chainmail (2 Armor, bulky)   |40   |
-|Plate (3 Armor, bulky)       |60   |
-
+|supa kiwen luka (nanpa awen +1)            |10   |
+|len lawa kiwen (nanpa awen +1)            |10   |
+|len utala insa (nanpa awen +1)          |15   |
+|len utala (nanpa awen 1, suli a)  |20   |
+|len pi linja kiwen (anpa awen 2, suli a)   |40   |
+|len pi lipu kiwen (nanpa awen 3, suli a)       |60   |
 #### Weapons
 
 | |     |
