@@ -506,7 +506,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 4    | ona li suli li palisa | 9    | ona li sijelo lipu   |
 | 5    | ona li kule walo      | 10   | ona li sama lupa li sama wile lape   |-->
 
-|           |      |          |
+|      |           |      |     |
 | ---- | --------- | ---- | -------- |
 | 1    | ko ala      | 6    | pona ale  |
 | 2    | pakala     | 7    |  ona li sama soweli pipi |
