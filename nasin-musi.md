@@ -498,7 +498,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 5    | Pale      | 10   | Sunken   |-->
 
 
-<--|  |           |      |          |
+<!--|  |           |      |          |
 | ---- | --------- | ---- | -------- |
 | 1    | ona li ko ala      | 6    | ona li pona li ike ala  |
 | 2    | ona li pakala    | 7    |  ona li sama soweli pipi |
