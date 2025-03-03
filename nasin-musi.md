@@ -510,8 +510,8 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | ---- | --------- | ---- | -------- |
 | 1    | ko ala      | 6    | pona ale  |
 | 2    | pakala     | 7    |  sama soweli pipi |
-| 3    | sama kiwen | 8    | sama kiwen pakala    |
-| 4    | li suli li palisa | 9    | sijelo lipu   |
+| 3    | sama kiwen | 8    | sama kiwen pakala |
+| 4    | suli palisa | 9    | sijelo lipu   |
 | 5    | kule walo      | 10   | li sama lupa li sama wile lape   |
 
 
@@ -536,13 +536,20 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 <!--#### Clothes-->
 #### len sijelo
 
-|  |         |      |        |
+<!--|  |         |      |        |
 | -------- | ------- | ---- | ------ |
 | 1        | Antique | 6    | Frayed |
 | 2        | Bloody  | 7    | Frumpy |
 | 3        | Elegant | 8    | Livery |
 | 4        | Filthy  | 9    | Rancid |
-| 5        | Foreign | 10   | Soiled |
+| 5        | Foreign | 10   | Soiled |-->
+|  |         |      |        |
+| -------- | ------- | ---- | ------ |
+| 1        | tan tenpo pini weka | 6    | poka len li kama linja |
+| 2        | telo sijelo loje li lon  | 7    | tan tenpo pini mama |
+| 3        | pona a | 8    | nasin len kulupu |
+| 4        | jaki lili | 9    | jaki a |
+| 5        | tan ma weka | 10   | pakala |
 
 <!--#### Virtue-->
 #### nasin pona
@@ -570,19 +577,26 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 
 |  |            |      |          |
 | ---- | ---------- | ---- | -------- |
-| 1    | utala mute | 6    | wile pi pali ala |
+| 1    | wile pi utala mute | 6    | wile pi pali ala |
 | 2    | pilin jaki     | 7    | pilin monsuta  |
 | 3    | wile pi utala ala     | 8    | toki ike     |
 | 4    | toki pi lon ala  | 9    | olin pi lukin ona     |
-| 5    | wile mani     | 10   | utala pi jan ike |
+| 5    | wile mani     | 10   | wile utala tan tenpo pini |
 
 <!--#### Reputation-->
 #### pilin pi jan ante la jan musi sina li ni:
 
-|  |             |      |           |
+<!--|  |             |      |           |
 | ---------- | ----------- | ---- | --------- |
 | 1          | Ambitious   | 6    | Loafer    |
 | 2          | Boor        | 7    | Oddball   |
+| 3          | Dangerous   | 8    | Repulsive |
+| 4          | Entertainer | 9    | Respected |
+| 5          | Honest      | 10   | Wise      |-->
+|  |             |      |           |
+| ---------- | ----------- | ---- | --------- |
+| 1 | wile wawa   | 6 | jan pi wile ala pali    |
+| 2 | Boor        | 7 | Oddball   |
 | 3          | Dangerous   | 8    | Repulsive |
 | 4          | Entertainer | 9    | Respected |
 | 5          | Honest      | 10   | Wise      |
