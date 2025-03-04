@@ -527,11 +527,11 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 
 |  |         |      |            |
 | ------ | ------- | ---- | ---------- |
-| 1      | ona li pona kute sona   | 6    | ona li sama kiwen lili mute   |
-| 2      | ona li kalama | 7    | ona li pona lon li kepeken nimi mute    |
-| 3      | ona li ike kute sona | 8    | ona li kalama suwi lili    |
-| 4      | ona li musi ala | 9    | ona li awen li awen ala |
-| 5      | ona li suli wawa  | 10   | ona li kalama ala   |
+| 1      | pona kute sona   | 6    | sama kiwen lili mute   |
+| 2      | kalama wawa | 7    | pona lon kepeken nimi mute    |
+| 3      | ike kute sona | 8    | kalama suwi lili    |
+| 4      | musi ala | 9    | ona li awen li awen ala |
+| 5      | suli wawa  | 10   | kalama lili  |
 
 <!--#### Clothes-->
 #### len sijelo
@@ -546,7 +546,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |  |         |      |        |
 | -------- | ------- | ---- | ------ |
 | 1        | tan tenpo pini weka | 6    | poka len li kama linja |
-| 2        | telo sijelo loje li lon  | 7    | tan tenpo pini mama |
+| 2        | telo sijelo loje li lon  | 7    | tan tenpo pini lili |
 | 3        | pona a | 8    | nasin len kulupu |
 | 4        | jaki lili | 9    | jaki a |
 | 5        | tan ma weka | 10   | pakala |
@@ -573,7 +573,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 5    | Greedy     | 10   | Vengeful |
 -->
 
-#### nasin jaki
+#### nasin ike
 
 |  |            |      |          |
 | ---- | ---------- | ---- | -------- |
