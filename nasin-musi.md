@@ -708,8 +708,8 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |   |        |         |           |
 | :-------------: | :----------------: | :-------------: | :-------: |
 |       1-5       |        6-13        |      14-17      |   18-20   |
-<!--| Tool or Trinket | Expeditionary Gear | Armor or Weapon | Spellbook |-->
 |ilo anu ilo lili | ilo pi jan tawa | len awen anu ilo utala | lipu pi nasa wawa |
+<!--| Tool or Trinket | Expeditionary Gear | Armor or Weapon | Spellbook |-->
 
 <p></p>
 
@@ -717,11 +717,11 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 
 |||||||||
 |---|-----------------|---|----------------|---|---------------|---|---------------|
-|1  |Adhere           |26 |Earthquake      |51 |Masquerade     |76 |Smoke Form     |
-|2  |Anchor           |27 |Elasticity      |52 |Miniaturize    |77 |Sniff          |
-|3  |Animate Object   |28 |Elemental Wall  |53 |Mirror Image   |78 |Snuff          |
-|4  |Anthropomorphize |29 |Filch           |54 |Mirrorwalk     |79 |Sort           |
-|5  |Arcane Eye       |30 |Flare           |55 |Multiarm       |80 |Spectacle      |
+|1  |Ko Awen           |26 |Earthquake      |51 |Masquerade     |76 |Smoke Form     |
+|2  |Linja Awen           |27 |Elasticity      |52 |Miniaturize    |77 |Sniff          |
+|3  |Lon E Ijo   |28 |Elemental Wall  |53 |Mirror Image   |78 |Snuff          |
+|4  |Jan E Soweli |29 |Filch           |54 |Mirrorwalk     |79 |Sort           |
+|5  |Sike Lukin Pi Nasa Wawa|30 |Flare           |55 |Multiarm       |80 |Spectacle      |
 |6  |Astral Prison    |31 |Fog Cloud       |56 |Night Sphere   |81 |Spellsaw       |
 |7  |Attract          |32 |Frenzy          |57 |Objectify      |82 |Spider Climb   |
 |8  |Auditory Illusion|33 |Gate            |58 |Ooze Form      |83 |Summon Cube    |
