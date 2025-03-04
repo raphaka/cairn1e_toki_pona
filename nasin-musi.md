@@ -652,9 +652,10 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |                |                  |                          |                                |
 | :-------------------: | :--------------: | :------------------: | :------------------------------: |
 |          1-5          |       6-14       |          15-19       |               20               |
-| palisa pakala lili, palisa, palisa suli | palisa pakala, palisa utala, palisa pi pakala kasi | palisa alasa, palisa alasa supa, linja alasa | palisa pakala suli, palisa ilo utala, palisa utala pi pakala kasi|
+| ilo moli lili, palisa sike, palisa suli | palisa pakala, ilo utala pi pini sike, palisa pi pakala kasi | palisa pi alasa weka, palisa supa pi alasa weka, linja alasa pi pana kiwen | palisa pakala suli, ilo utala kiwen, palisa utala pi pakala kasi|
 
-#### Expeditionary Gear
+<!--#### Expeditionary Gear-->
+#### ilo pi jan tawa
 
 |      |                        |      |                |      |             |      |             |
 | ---- | ---------------------- | ---- | -------------- | ---- | ----------- | ---- | ----------- |
@@ -665,7 +666,6 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 5    | Dowsing Rod            | 10   | Lockpicks      | 15   | Repellent   | 20   | Wolfsbane   |
 
 <!--#### Tools
-
 |      |          |      |                |      |            |      |         |
 | ---- | -------- | ---- | -------------- | ---- | ---------- | ---- | ------- |
 | 1    | Bellows  | 6    | Cook Pots      | 11   | Grease     | 16   | Net     |
@@ -677,21 +677,30 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 #### ilo
 |      |          |      |                |      |            |      |         |
 | ---- | -------- | ---- | -------------- | ---- | ---------- | ---- | ------- |
-| 1    | bellows  | 6    | poki pi pali moku      | 11   | ko moku     | 16   | kulupu linja alasa |
-| 2    | poki telo suli  | 7    | palisa kiwen pi open lupa        | 12   | ilo kiwen     | 17   | ilo pi tu kasi     |
-| 3    | caltrops | 8    | ilo pi pali lupa lili | 13   | ilo tenpo | 18   | sealant |
-| 4    | palisa sitelen   | 9    | palisa pi alasa kala    | 14   | file  | 19   | ilo pi lupa ma |
-| 5    | chisel   | 10   | ko awen           | 15   | palisa lili kiwen      | 20   | tongs   |
+| 1    | ilo pi pana kon  | 6    | poki pi pali moku | 11   | ko moku     | 16   | kulupu linja alasa |
+| 2    | poki telo suli  | 7    | palisa kiwen pi open lupa | 12   | ilo kiwen | 17   | ilo pi tu kasi     |
+| 3    | kiwen palisa lili pi pakala noka | 8    | ilo pi pali lupa lili | 13   | ilo tenpo | 18   | ko pali |
+| 4    | palisa sitelen   | 9    | palisa pi alasa kala    | 14   | palisa lili pi pakala kiwen | 19   | ilo pi lupa ma |
+| 5    | ilo pi pali sijelo kiwen | 10   | ko pi awen poka | 15   | palisa lili kiwen mute | 20   | ilo palisa luka   |
 
-#### Trinkets
-
+<!--#### Trinkets
 |      |             |      |            |      |             |      |         |
 | ---- | ----------- | ---- | ---------- | ---- | ----------- | ---- | ------- |
 | 1    | Bottle      | 6    | Horn       | 11   | Mirror      | 16   | Soap    |
 | 2    | Card Deck   | 7    | Incense    | 12   | Perfume     | 17   | Sponge  |
 | 3    | Dice Set    | 8    | Instrument | 13   | Quill & Ink | 18   | Tar Pot |
 | 4    | Face Paint  | 9    | Lens       | 14   | Salt Pack   | 19   | Twine   |
-| 5    | Fake Jewels | 10   | Marbles    | 15   | Small Bell  | 20   | Whistle |
+| 5    | Fake Jewels | 10   | Marbles    | 15   | Small Bell  | 20   | Whistle |-->
+
+#### ijo lili
+
+|      |             |      |            |      |             |      |         |
+| ---- | ----------- | ---- | ---------- | ---- | ----------- | ---- | ------- |
+| 1    | poki telo | 6    | palisa pi lawa soweli | 11   | ilo sinpin pi lukin sama | 16   | kiwen pi weka jaki |
+| 2    | musi lipu | 7    | palisa kasi pi kon seli | 12   | telo pi pilin kon pona | 17   | ko pi lupa mute |
+| 3    | musi pi kiwen ken | 8    | ilo pi kalama musi | 13   | palisa sitelen en ilo sitelen | 18   | poki wan la ko pi kama kiwen|
+| 4    | kule pi sinpin lawa  | 9    | ilo pi lukin suli | 14   | poki lili pi ko walo moku   | 19   | linja lili |
+| 5    | kiwen mani pi lon ala | 10   | sike lili mute pi ilo musi | 15   | ilo mu lili  | 20   | ilo kalama kon |
 
 <!--#### Bonus Item (roll on table indicated)-->
 #### ijo pona (o lukin e lipu pi kiwen ken)
@@ -699,11 +708,12 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |   |        |         |           |
 | :-------------: | :----------------: | :-------------: | :-------: |
 |       1-5       |        6-13        |      14-17      |   18-20   |
-| Tool or Trinket | Expeditionary Gear | Armor or Weapon | Spellbook |
+<!--| Tool or Trinket | Expeditionary Gear | Armor or Weapon | Spellbook |-->
+|ilo anu ilo lili | ilo pi jan tawa | len awen anu ilo utala | lipu pi nasa wawa |
 
 <p></p>
 
-#### 																						lipu pi nasa wawa (k100)
+####	lipu pi nasa wawa (k100)
 
 |||||||||
 |---|-----------------|---|----------------|---|---------------|---|---------------|
