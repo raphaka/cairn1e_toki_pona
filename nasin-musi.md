@@ -508,11 +508,11 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 
 |      |           |      |     |
 | ---- | --------- | ---- | -------- |
-| 1    | ko ala      | 6    | pona ale  |
-| 2    | pakala     | 7    |  sama soweli pipi |
-| 3    | sama kiwen | 8    | sama kiwen pakala |
-| 4    | suli palisa | 9    | sijelo lipu   |
-| 5    | kule walo      | 10   | li sama lupa li sama wile lape   |
+| 1    | kiwen     | 6    | pona ale |
+| 2    | pakala    | 7    |sama soweli pipi|
+| 3    | wawa      | 8    | sike ala |
+| 4    | suli palisa | 9  | sijelo lipu |
+| 5    | kule walo | 10   | lukin lape |
 
 
 <!--#### Speech
@@ -527,11 +527,12 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 
 |  |         |      |            |
 | ------ | ------- | ---- | ---------- |
-| 1      | pona kute sona   | 6    | sama kiwen lili mute   |
-| 2      | kalama wawa | 7    | pona lon kepeken nimi mute    |
-| 3      | ike kute sona | 8    | kalama suwi lili    |
-| 4      | musi ala | 9    | ona li awen li awen ala |
-| 5      | suli wawa  | 10   | kalama lili  |
+| 1  | pona kute sona   | 6    | suwi ala   |
+| 2  | kalama wawa | 7 | pona lon kepeken nimi mute    |
+| 3  | toki len  | 8  | kalama suwi lili    |
+| 4  | suli wawa | 9  | pakala lili |
+| 5  | musi ala  | 10 | kalama lili  |
+
 
 <!--#### Clothes-->
 #### len sijelo
