@@ -527,7 +527,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 
 |  |         |      |            |
 | ------ | ------- | ---- | ---------- |
-| 1  | pona kute sona   | 6    | suwi ala   |
+| 1  | kepeken nimi lili | 6    | suwi ala   |
 | 2  | kalama wawa | 7 | pona lon kepeken nimi mute    |
 | 3  | toki len  | 8  | kalama suwi lili    |
 | 4  | suli wawa | 9  | pakala lili |
@@ -562,6 +562,11 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 3      | Courageous  | 8    | Merciful  |
 | 4      | Disciplined | 9    | Serene    |
 | 5      | Gregarious  | 10   | Tolerant  |
+
+|||||
+| --- | --- | --- | --- | --- |
+| 1 | wile wawa | 6 | |
+<!-- this might need a table with whole sentences -->
 
 <!--#### Vice
 
