@@ -555,15 +555,15 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 <!--#### Virtue-->
 #### nasin pona
 
-|  |             |      |           |
+<!--|  |             |      |           |
 | ------ | ----------- | ---- | --------- |
 | 1      | Ambitious   | 6    | Honorable |
 | 2      | Cautious    | 7    | Humble    |
 | 3      | Courageous  | 8    | Merciful  |
 | 4      | Disciplined | 9    | Serene    |
-| 5      | Gregarious  | 10   | Tolerant  |
+| 5      | Gregarious  | 10   | Tolerant  |-->
 
-|||||
+|||
 | --- | --- |
 | 1 | wile pali ona li wawa |
 | 2 | ona li lukin wawa la ona li pakala ala |
