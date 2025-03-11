@@ -564,9 +564,18 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 5      | Gregarious  | 10   | Tolerant  |
 
 |||||
-| --- | --- | --- | --- | --- |
-| 1 | wile wawa | 6 | |
-<!-- this might need a table with whole sentences -->
+| --- | --- |
+| 1 | wile pali ona li wawa |
+| 2 | ona li lukin wawa la ona li pakala ala |
+| 3 | utala la ona li pilin ala e monsuta |
+| 4 | ona li pali lon tenpo mute |
+| 5 | jan mute li pona tawa ona. ona en kulupu li musi. |
+| 6 | toki ona li lon. pali ona li pona |
+| 7 | ona li wile e ijo pi mute ala e mani lili|
+| 8 | jan li utala e ona la taso ona li ike ala tawa jan ni |
+| 9 | ona li pana e pilin lape pona tawa jan ante|
+|10 | ona li pilin ala ike tan jan ale |
+
 
 <!--#### Vice
 
@@ -603,7 +612,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | ---------- | ----------- | ---- | --------- |
 | 1 | wile wawa   | 6 | jan pi wile ala pali    |
 | 2 | ike tawa jan ante        | 7 | nasa suli  |
-| 3          | ken utala wawa   | 8    | Repulsive |
+| 3          | ken utala wawa   | 8    | jaki |
 | 4          | jan musi | 9    | pona tawa jan ante |
 | 5          | toki lon      | 10   | jan pi sona wawa      |
 
