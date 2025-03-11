@@ -602,10 +602,10 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |  |             |      |           |
 | ---------- | ----------- | ---- | --------- |
 | 1 | wile wawa   | 6 | jan pi wile ala pali    |
-| 2 | Boor        | 7 | Oddball   |
-| 3          | Dangerous   | 8    | Repulsive |
-| 4          | Entertainer | 9    | Respected |
-| 5          | Honest      | 10   | Wise      |
+| 2 | ike tawa jan ante        | 7 | nasa suli  |
+| 3          | ken utala wawa   | 8    | Repulsive |
+| 4          | jan musi | 9    | pona tawa jan ante |
+| 5          | toki lon      | 10   | jan pi sona wawa      |
 
 #### Misfortunes
 
