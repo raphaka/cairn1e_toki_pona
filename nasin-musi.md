@@ -737,25 +737,25 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |3  |Lon E Ijo   |28 |Elemental Wall  |53 |Mirror Image   |78 |Snuff          |
 |4  |Jan E Soweli |29 |Filch           |54 |Mirrorwalk     |79 |Sort           |
 |5  |Sike Lukin Pi Nasa Wawa|30 |Flare           |55 |Multiarm       |80 |Spectacle      |
-|6  |Astral Prison    |31 |Fog Cloud       |56 |Night Sphere   |81 |Spellsaw       |
-|7  |Attract          |32 |Frenzy          |57 |Objectify      |82 |Spider Climb   |
-|8  |Auditory Illusion|33 |Gate            |58 |Ooze Form      |83 |Summon Cube    |
-|9  |Babble           |34 |Gravity Shift   |59 |Pacify         |84 |Swarm          |
-|10 |Bait Flower      |35 |Greed           |60 |Phobia         |85 |Telekinesis    |
-|11 |Beast Form       |36 |Haste           |61 |Pit            |86 |Telepathy      |
-|12 |Befuddle         |37 |Hatred          |62 |Primal Surge   |87 |Teleport       |
-|13 |Body Swap        |38 |Hear Whispers   |63 |Push/Pull      |88 |Target Lure    |
-|14 |Charm            |39 |Hover           |64 |Raise Dead     |89 |Thicket        |
-|15 |Command          |40 |Hypnotize       |65 |Raise Spirit   |90 |Summon Idol    |
-|16 |Comprehend       |41 |Icy Touch       |66 |Read Mind      |91 |Time Control   |
-|17 |Cone of Foam     |42 |Identify Owner  |67 |Repel          |92 |True Sight     |
-|18 |Control Plants   |43 |Illuminate      |68 |Scry           |93 |Upwell         |
-|19 |Control Weather  |44 |Invisible Tether|69 |Sculpt Elements|94 |Vision         |
-|20 |Cure Wounds      |45 |Knock           |70 |Sense          |95 |Visual Illusion|
-|21 |Deafen           |46 |Leap            |71 |Shield         |96 |Ward           |
-|22 |Detect Magic     |47 |Liquid Air      |72 |Shroud         |97 |Web            |
-|23 |Disassemble      |48 |Magic Dampener  |73 |Shuffle        |98 |Widget         |
-|24 |Disguise         |49 |Manse           |74 |Sleep          |99 |Wizard Mark    |
+|6  |Poki Pi Weka Sewi    |31 |Fog Cloud       |56 |Night Sphere   |81 |Spellsaw       |
+|7  |Kama Poka          |32 |Frenzy          |57 |Objectify      |82 |Spider Climb   |
+|8  |Kalama Pi Ken Nasa|33 |Gate            |58 |Ooze Form      |83 |Summon Cube    |
+|9  |Toki Lawa           |34 |Gravity Shift   |59 |Pacify         |84 |Swarm          |
+|10 |Kasi Kama      |35 |Greed           |60 |Phobia         |85 |Telekinesis    |
+|11 |Sijelo Soweli      |36 |Haste           |61 |Pit            |86 |Telepathy      |
+|12 |Weka Nasa E Sona         |37 |Hatred          |62 |Primal Surge   |87 |Teleport       |
+|13 |Ante E Sijelo        |38 |Hear Whispers   |63 |Push/Pull      |88 |Target Lure    |
+|14 |Pilin Pona           |39 |Hover           |64 |Raise Dead     |89 |Thicket        |
+|15 |Toki Wawa         |40 |Hypnotize       |65 |Raise Spirit   |90 |Summon Idol    |
+|16 |Kute Sona       |41 |Icy Touch       |66 |Read Mind      |91 |Time Control   |
+|17 |Ko Tan Luka     |42 |Identify Owner  |67 |Repel          |92 |True Sight     |
+|18 |Lawa E Kasi   |43 |Illuminate      |68 |Scry           |93 |Upwell         |
+|19 |Lawa E Suno Sewi  |44 |Invisible Tether|69 |Sculpt Elements|94 |Vision         |
+|20 |Pona E Pakala Sijelo    |45 |Knock           |70 |Sense          |95 |Visual Illusion|
+|21 |Weka E Kute          |46 |Leap            |71 |Shield         |96 |Ward           |
+|22 |Lukin E Nasa Wawa    |47 |Liquid Air      |72 |Shroud         |97 |Web            |
+|23 |Weka E Ijo Sijelo      |48 |Magic Dampener  |73 |Shuffle        |98 |Widget         |
+|24 |Len E Lukin         |49 |Manse           |74 |Sleep          |99 |Wizard Mark    |
 |25 |Displace         |50 |Marble Craze    |75 |Slick          |100|X-Ray Vision   |
 
 <p></p>
