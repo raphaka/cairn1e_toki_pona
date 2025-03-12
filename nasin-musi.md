@@ -732,11 +732,11 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 
 |||||||||
 |---|-----------------|---|----------------|---|---------------|---|---------------|
-|1  |Ko Awen           |26 |Earthquake      |51 |Masquerade     |76 |Smoke Form     |
-|2  |Linja Awen           |27 |Elasticity      |52 |Miniaturize    |77 |Sniff          |
-|3  |Lon E Ijo   |28 |Elemental Wall  |53 |Mirror Image   |78 |Snuff          |
-|4  |Jan E Soweli |29 |Filch           |54 |Mirrorwalk     |79 |Sort           |
-|5  |Sike Lukin Pi Nasa Wawa|30 |Flare           |55 |Multiarm       |80 |Spectacle      |
+|1  |Ko Awen           |26 |Tawa Ma Wawa      |51 |Masquerade     |76 |Smoke Form     |
+|2  |Linja Awen           |27 |Sijelo Linja      |52 |Miniaturize    |77 |Sniff          |
+|3  |Lon E Ijo   |28 |Sinpin Pi Ijo Ale  |53 |Mirror Image   |78 |Snuff          |
+|4  |Jan E Soweli |29 |Kama Jo           |54 |Mirrorwalk     |79 |Sort           |
+|5  |Sike Lukin Pi Nasa Wawa|30 |Sike Suno          |55 |Multiarm       |80 |Spectacle      |
 |6  |Poki Pi Weka Sewi    |31 |Fog Cloud       |56 |Night Sphere   |81 |Spellsaw       |
 |7  |Kama Poka          |32 |Frenzy          |57 |Objectify      |82 |Spider Climb   |
 |8  |Kalama Pi Ken Nasa|33 |Gate            |58 |Ooze Form      |83 |Summon Cube    |
@@ -756,7 +756,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |22 |Lukin E Nasa Wawa    |47 |Liquid Air      |72 |Shroud         |97 |Web            |
 |23 |Weka E Ijo Sijelo      |48 |Magic Dampener  |73 |Shuffle        |98 |Widget         |
 |24 |Len E Lukin         |49 |Manse           |74 |Sleep          |99 |Wizard Mark    |
-|25 |Displace         |50 |Marble Craze    |75 |Slick          |100|X-Ray Vision   |
+|25 |Ante E Lukin Ma    |50 |Marble Craze    |75 |Slick          |100|X-Ray Vision   |
 
 <p></p>
 
@@ -1196,7 +1196,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 3    | [Lon E Ijo](#animate-object)          | ijo wan li lon li kute e wile sina li pali pi ken ale ona e wile ni.|
 | 4    | [Jan E Soweli](#anthropomorphize)  | tenpo suno wan la soweli wan li kama sona sama jan anu kama lukin sama jan |
 | 5    | [Sike Lukin Pi Nasa Wawa](#arcane-eye) | sina ken lukin kepeken sike lukin pi nasa wawa. sike ni li ken tawa kon tan wile sina. |
-| 6    | [Poki pi weka sewi](#astral-prison)| ijo wan li awen lon tenpo lon ma ale. ona li jo e len pi kiwen lukin li ken ala pakala. |
+| 6    | [Poki Pi Weka Sewi](#astral-prison)| ijo wan li awen lon tenpo lon ma ale. ona li jo e len pi kiwen lukin li ken ala pakala. |
 | 7    | [Kama Poka](#attract)                     | ijo tu li kama poka pi 10ft/3m la wawa li tawa e ona la ona li lon poka sama li pilin e ante ona |
 | 8    | [Kalama Pi Ken Nasa](#auditory-illusion) | sina pali e kalama pi wile sina. ona li kama tan poka pi wile sina.|
 | 9    | [Toki Lawa](#babble)                       | sina toki insa la jan ante anu soweli ante o toki kalama e toki insa sina. ona li ken ala wile ante li ken ala kalama ante.|
@@ -1206,10 +1206,10 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 13   | [Ante E Sijelo](#body-swap)                 | sina pilin luka e jan ante anu soweli ante la sijelo ona li kama sijelo sina la sijelo sina li kama sijelo ona. sijelo wan li moli la sijelo ante li moli kin. |
 | 14   | [Pilin Pona](#charm)                         | sina lukin e jan anu soweli la ona li pilin e ni: sina jan pona.               |
 | 15   | [Toki Wawa](#command)                     | sina toki e toki pi nimi tu wan la jan ante wa anu soweli ante wan o ni. taso toki sina o pakala ala e jan ni anu soweli ni. |
-| 16   | [Kute sona](#comprehend)               | tenpo lili la sina sona e toki ale la sina ken toki wawa li ken kute sona.        |
+| 16   | [Kute Sona](#comprehend)               | tenpo lili la sina sona e toki ale la sina ken toki wawa li ken kute sona.        |
 | 17   | [Ko Tan Luka](#cone-of-foam)           | ko telo wawa li kama ta luka sina li len e wan alasa.        |
 | 18   | [Lawa E Kasi](#control-plants)       | Kasi lon poka sina li kute e sina li pali tan wile sina. ona li open ken tawa kepeken tenpo suli. |
-| 19   | [Lawa e Suno Sewi](#control-weather)     | sina ken ante e kule pi suno seli. ona li ken telo sewi li ken ko walo lete sewi li ken seli li ken lete. sina ken ante e kule taso la sina ken ala lawa e ante pi suno sewi. |
+| 19   | [Lawa E Suno Sewi](#control-weather)     | sina ken ante e kule pi suno seli. ona li ken telo sewi li ken ko walo lete sewi li ken seli li ken lete. sina ken ante e kule taso la sina ken ala lawa e ante pi suno sewi. |
 | 20   | [Pona E Pakala Sijelo](#cure-wounds)             | tenpo suno wan la sina luka e jan anu soweli la WAW 1k4 ona li kama sin.         |
 | 21   | [Weka E Kute](#deafen)                       | poka sina la jan ale en soweli ale li ken ala kute e kalama ale.              |
 | 22   | [Lukin E Nasa Wawa](#detect-magic)           | sina ken lukin anu kute e kon ale pi nasa wawa lon poka.                      |
