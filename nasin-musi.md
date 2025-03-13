@@ -737,24 +737,24 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |3  |Lon E Ijo   |28 |Sinpin Pi Ijo Ale  |53 |Mirror Image   |78 |Snuff          |
 |4  |Jan E Soweli |29 |Kama Jo           |54 |Mirrorwalk     |79 |Sort           |
 |5  |Sike Lukin Pi Nasa Wawa|30 |Sike Suno          |55 |Multiarm       |80 |Spectacle      |
-|6  |Poki Pi Weka Sewi    |31 |Fog Cloud       |56 |Night Sphere   |81 |Spellsaw       |
-|7  |Kama Poka          |32 |Frenzy          |57 |Objectify      |82 |Spider Climb   |
-|8  |Kalama Pi Ken Nasa|33 |Gate            |58 |Ooze Form      |83 |Summon Cube    |
-|9  |Toki Lawa           |34 |Gravity Shift   |59 |Pacify         |84 |Swarm          |
-|10 |Kasi Kama      |35 |Greed           |60 |Phobia         |85 |Telekinesis    |
-|11 |Sijelo Soweli      |36 |Haste           |61 |Pit            |86 |Telepathy      |
-|12 |Weka Nasa E Sona         |37 |Hatred          |62 |Primal Surge   |87 |Teleport       |
-|13 |Ante E Sijelo        |38 |Hear Whispers   |63 |Push/Pull      |88 |Target Lure    |
-|14 |Pilin Pona           |39 |Hover           |64 |Raise Dead     |89 |Thicket        |
-|15 |Toki Wawa         |40 |Hypnotize       |65 |Raise Spirit   |90 |Summon Idol    |
-|16 |Kute Sona       |41 |Icy Touch       |66 |Read Mind      |91 |Time Control   |
-|17 |Ko Tan Luka     |42 |Identify Owner  |67 |Repel          |92 |True Sight     |
-|18 |Lawa E Kasi   |43 |Illuminate      |68 |Scry           |93 |Upwell         |
-|19 |Lawa E Suno Sewi  |44 |Invisible Tether|69 |Sculpt Elements|94 |Vision         |
-|20 |Pona E Pakala Sijelo    |45 |Knock           |70 |Sense          |95 |Visual Illusion|
-|21 |Weka E Kute          |46 |Leap            |71 |Shield         |96 |Ward           |
-|22 |Lukin E Nasa Wawa    |47 |Liquid Air      |72 |Shroud         |97 |Web            |
-|23 |Weka E Ijo Sijelo      |48 |Magic Dampener  |73 |Shuffle        |98 |Widget         |
+|6  |Poki Pi Weka Sewi    |31 |Kon Pi Lukin Ala      |56 |Night Sphere   |81 |Spellsaw       |
+|7  |Kama Poka          |32 |Pilin Utala Wawa          |57 |Objectify      |82 |Spider Climb   |
+|8  |Kalama Pi Ken Nasa|33 |Lupa Lon            |58 |Ooze Form      |83 |Summon Cube    |
+|9  |Toki Lawa           |34 |Ante Pi Wawa Ma |59 |Pacify         |84 |Swarm          |
+|10 |Kasi Kama      |35 |Wile Jo          |60 |Phobia         |85 |Telekinesis    |
+|11 |Sijelo Soweli      |36 |Tawa Wawa          |61 |Pit            |86 |Telepathy      |
+|12 |Weka Nasa E Sona         |37 |Pilin Ike Wawa        |62 |Primal Surge   |87 |Teleport       |
+|13 |Ante E Sijelo        |38 |Kute E Kalama Lili   |63 |Push/Pull      |88 |Target Lure    |
+|14 |Pilin Pona           |39 |Tawa Kon         |64 |Raise Dead     |89 |Thicket        |
+|15 |Toki Wawa         |40 |Pilin Lape Nasa       |65 |Raise Spirit   |90 |Summon Idol    |
+|16 |Kute Sona       |41 |Pilin Lete      |66 |Read Mind      |91 |Time Control   |
+|17 |Ko Tan Luka     |42 |Sona E Jan Jo  |67 |Repel          |92 |True Sight     |
+|18 |Lawa E Kasi   |43 |Suno A     |68 |Scry           |93 |Upwell         |
+|19 |Lawa E Suno Sewi  |44 |Linja Pi Lukin Ala|69 |Sculpt Elements|94 |Vision         |
+|20 |Pona E Pakala Sijelo    |45 |Mu Open     |70 |Sense          |95 |Visual Illusion|
+|21 |Weka E Kute          |46 |Tawa Pi Akesi Telo          |71 |Shield         |96 |Ward           |
+|22 |Lukin E Nasa Wawa    |47 |Kon Telo    |72 |Shroud         |97 |Web            |
+|23 |Weka E Ijo Sijelo      |48 |Lili E Nasa Wawa  |73 |Shuffle        |98 |Widget         |
 |24 |Len E Lukin         |49 |Manse           |74 |Sleep          |99 |Wizard Mark    |
 |25 |Ante E Lukin Ma    |50 |Marble Craze    |75 |Slick          |100|X-Ray Vision   |
 
@@ -1235,7 +1235,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 42   | [Sona E Jan Jo](#identify-owner)       | sina pilin luka e ijo la sitelen toki li kama lon. sitelen li toki e nimi pi jan ni: ijo li jo ona. ken la ijo li jo pi jan ala. |
 | 43   | [Suno A](#illuminate)               | sike suno li tawa kon tan wile sina.         |
 | 44   | [Linja Pi Lukin Ala](#invisible-tether)   | ijo tu li weka 10ft/3m tan ona la ona li ken ala weka suli. |
-| 45   | [Mu](#knock)                         | ilo li awen pini e lupa tomo anu poki la ona li open kepeken ilo open ala. taso ona li kalama mu.             |
+| 45   | [Mu Open](#knock)                         | ilo li awen pini e lupa tomo anu poki la ona li open kepeken ilo open ala. taso ona li kalama mu.             |
 | 46   | [Tawa Pi Akesi Telo](#leap)                           | sama akesi telo la sina ken tawa kon sewi. wan la sina tawa sewi 10ft/3m.            |
 | 47   | [Kon Telo](#liquid-air)               | sama tawa pi insa telo la ale li ken tawa insa kon.                       |
 | 48   | [Lili E Nasa Wawa](#magic-dampener)       | wawa pi nasa wawa ale lon poka sina li kama lili sama ni: tu li kama wan. |
