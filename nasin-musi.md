@@ -732,24 +732,24 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 
 |||||||||
 |---|-----------------|---|----------------|---|---------------|---|---------------|
-|1  |Ko Awen           |26 |Tawa Ma Wawa      |51 |Lukin Pi Jan Ante   |76 |Smoke Form     |
-|2  |Linja Awen           |27 |Sijelo Linja      |52 |Lili    |77 |Sniff          |
-|3  |Lon E Ijo        |28 |Sinpin Pi Ijo Ale  |53 |Sitelen Sama   |78 |Snuff          |
-|4  |Jan E Soweli      |29 |Kama Jo           |54 |Nasin Pi Sinpin Sama   |79 |Sort        |
-|5  |Sike Lukin Pi Nasa Wawa|30 |Sike Suno          |55 |Luka Tu Wan       |80 |Spectacle      |
-|6  |Poki Pi Weka Sewi |31 |Kon Pi Lukin Ala      |56 |Sike Pimeja  |81 |Spellsaw       |
-|7  |Kama Poka          |32 |Pilin Utala Wawa          |57 |Ijo     |82 |Spider Climb   |
-|8  |Kalama Pi Ken Nasa|33 |Lupa Lon            |58 |Sijelo Ko     |83 |Summon Cube    |
-|9  |Toki Lawa           |34 |Ante Pi Wawa Ma |59 |Utala Ala         |84 |Swarm          |
-|10 |Kasi Kama          |35 |Wile Jo          |60 |Monsuta        |85 |Telekinesis    |
-|11 |Sijelo Soweli      |36 |Tawa Wawa          |61 |Lupa           |86 |Telepathy      |
-|12 |Weka Nasa E Sona      |37 |Pilin Ike Wawa        |62 |Sijelo Pi Tenpo Kama|87 |Teleport    |
+|1  |Ko Awen           |26 |Tawa Ma Wawa      |51 |Lukin Pi Jan Ante   |76 |Sijelo Kon   |
+|2  |Linja Awen           |27 |Sijelo Linja      |52 |Lili    |77 |Pilin Kon Wawa         |
+|3  |Lon E Ijo        |28 |Sinpin Pi Ijo Ale  |53 |Sitelen Sama   |78 |Weka E Suno       |
+|4  |Jan E Soweli      |29 |Kama Jo           |54 |Nasin Pi Sinpin Sama |79 |Nasin Nanpa   |
+|5  |Sike Lukin Pi Nasa Wawa|30 |Sike Suno          |55 |Luka Tu Wan       |80 |Lukin Pona    |
+|6  |Poki Pi Weka Sewi |31 |Kon Pi Lukin Ala      |56 |Sike Pimeja |81 |Ilo Kasi Pi Nasa Wawa |
+|7  |Kama Poka          |32 |Pilin Utala Wawa          |57 |Ijo     |82 |Tawa Pipi  |
+|8  |Kalama Pi Ken Nasa|33 |Lupa Lon            |58 |Sijelo Ko |83 |Lon E Sijelo Pi Sike Ala |
+|9  |Toki Lawa           |34 |Ante Pi Wawa Ma |59 |Utala Ala         |84 |Kulupu     |
+|10 |Kasi Kama          |35 |Wile Jo          |60 |Monsuta        |85 |Tawa Tan Wile  |
+|11 |Sijelo Soweli      |36 |Tawa Wawa          |61 |Lupa       |86 |Kute Insa Ante    |
+|12 |Weka Nasa E Sona      |37 |Pilin Ike Wawa        |62 |Sijelo Pi Tenpo Kama |87 |Teleport    |
 |13 |Ante E Sijelo     |38 |Kute E Kalama Lili   |63 |Tawa Kama/Tawa Weka |88 |Target Lure    |
 |14 |Pilin Pona           |39 |Tawa Kon         |64 |Lon E Jan Moli     |89 |Thicket        |
 |15 |Toki Wawa         |40 |Pilin Lape Nasa       |65 |Lon E Kon Moli  |90 |Summon Idol    |
 |16 |Kute Sona       |41 |Pilin Lete          |66 |Kute Pi Insa Lawa   |91 |Time Control   |
 |17 |Ko Tan Luka     |42 |Sona E Jan Jo       |67 |Wawa Weka          |92 |True Sight     |
-|18 |Lawa E Kasi   |43 |Suno A     |68 |Scry           |93 |Upwell         |
+|18 |Lawa E Kasi   |43 |Suno A                 |68 |Lukin Tan Sike Ante |93 |Upwell       |
 |19 |Lawa E Suno Sewi  |44 |Linja Pi Lukin Ala |69 |Pali Ko |94 |Vision         |
 |20 |Pona E Pakala Sijelo    |45 |Mu Open     |70 |Pilin E Ijo         |95 |Visual Illusion|
 |21 |Weka E Kute      |46 |Tawa Pi Akesi Telo      |71 |Awen Tan Pakala  |96 |Ward           |
@@ -1256,7 +1256,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 63   | [Tawa Kama/Tawa Weka](#push/pull)                 | ijo li tawa sina anu tawa weka tan sina. wawa pi tawa ni li sama wawa pi jan wan. ijo li ken lili li ken suli.|
 | 64   | [Lon E Jan Moli](#raise-dead)               | sina lon e jan moli pi palisa walo. ona li pali tan wile sina. sona lawa la ona li wawa pi lili a. ona li ken sona e ijo pi lili a taso li ken pali e ijo pi lili pona.|
 | 65   | [Lon E Kon Moli](#raise-spirit)           | kon pi jan moli wan lon poka sina li kama. sina ken toki e wile sona wan tawa ona la ona li toki e sona pi wile sona ni tawa sina. |
-| 66   | [Kute Pi Insa Lawa](#read-mind)                 | poa sina la jan anu soweli li toki pi insa lawa la sina ken kute e ni. taso sina ken ala kute e toki ale. toki li insa a la sina ken ala kute e ona. toki li insa pi mute lili la sina ken kute e ona. |
+| 66   | [Kute Pi Insa Lawa](#read-mind)                 | poka sina la jan anu soweli li toki pi insa lawa la sina ken kute e ni. taso sina ken ala kute e toki ale. toki li insa a la sina ken ala kute e ona. toki li insa pi mute lili la sina ken kute e ona. |
 | 67   | [Wawa Weka](#repel)                         | ijo tu li lon poka 10ft/3m la ona li tawa weka tan ante pi ona tu. |
 | 68   | [Lukin Tan Sike Ante](#scry)                           | tenp pini pi tenpo suno ni la sina pilin luka e jan anu soweli la sina ken lukin tan sike lukin sijelo ona. |
 | 69   | [Pali Ko](#sculpt-elements)     | ijo pi lon ala li sama ko tawa luka sina la sina ken ante e sijelo ona.          |
@@ -1276,7 +1276,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 83   | [Lon E Sijelo Pi Sike Ala](#summon-cube)             | sina ken lon e sijelo pi sike ala. tenpo ilo lili lili 1s li tawa la sina ken lon e sijelo wan sin li ken weka e sijelo wan. sijelo ale li suli poka 3ft/1m li ma. sijelo sin ale o poka ma anu poka sijelo ante. |
 | 84   | [Kulupu](#swarm)                         | sina kama kulupu pi waso mute anu kulupu pi soweli lili mute pi linja monsi anu kulupu pi kala utala mute. sina ken pakala tan **pakala suli** taso. |
 | 85   | [Tawa Tan Wile](#telekinesis)             | kepeken wile sina taso la sina ken tawa e ijo wan. ijo o lili 60lbs/30kg.       |
-| 86   | [Kute Insa](#telepathy)                 | jan anu soweli la tu li ken kute e toki insa lawa pi ante ona. ona li weka a la ona li awen ken ni. |
+| 86   | [Kute Insa Ante](#telepathy)                 | jan anu soweli la tu li ken kute e toki insa lawa pi ante ona. ona li weka a la ona li awen ken ni. |
 | 87   | [Tawa Kepeken Tenpo Ala](#teleport)                   | sina lukin e ijo wan anu jan wan la ona li weka tan ma ona li kama lon ma ante kepeken tenpo ala. ma sin li ken weka 50ft/15m tan ma jan. |
 | 88   | [Alasa Pi Nasa Wawa](#target-lure)             | sina pilin luka e ijo wan la ona li nasa wawa ale lon poka li alasa e ona.  |
 | 89   | [Ma Kasi](#thicket)                     | kasi li kama tan ma kepeken tenpo lili a. ona li suli poka 50ft/15m. sina lon poka an ona la sina ken lukin ike a tawa poka ante ona. |
