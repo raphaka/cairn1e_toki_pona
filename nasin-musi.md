@@ -743,20 +743,20 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |9  |Toki Lawa           |34 |Ante Pi Wawa Ma |59 |Utala Ala         |84 |Kulupu     |
 |10 |Kasi Kama          |35 |Wile Jo          |60 |Monsuta        |85 |Tawa Tan Wile  |
 |11 |Sijelo Soweli      |36 |Tawa Wawa          |61 |Lupa       |86 |Kute Insa Ante    |
-|12 |Weka Nasa E Sona      |37 |Pilin Ike Wawa        |62 |Sijelo Pi Tenpo Kama |87 |Teleport    |
-|13 |Ante E Sijelo     |38 |Kute E Kalama Lili   |63 |Tawa Kama/Tawa Weka |88 |Target Lure    |
-|14 |Pilin Pona           |39 |Tawa Kon         |64 |Lon E Jan Moli     |89 |Thicket        |
-|15 |Toki Wawa         |40 |Pilin Lape Nasa       |65 |Lon E Kon Moli  |90 |Summon Idol    |
-|16 |Kute Sona       |41 |Pilin Lete          |66 |Kute Pi Insa Lawa   |91 |Time Control   |
-|17 |Ko Tan Luka     |42 |Sona E Jan Jo       |67 |Wawa Weka          |92 |True Sight     |
-|18 |Lawa E Kasi   |43 |Suno A                 |68 |Lukin Tan Sike Ante |93 |Upwell       |
-|19 |Lawa E Suno Sewi  |44 |Linja Pi Lukin Ala |69 |Pali Ko |94 |Vision         |
-|20 |Pona E Pakala Sijelo    |45 |Mu Open     |70 |Pilin E Ijo         |95 |Visual Illusion|
-|21 |Weka E Kute      |46 |Tawa Pi Akesi Telo      |71 |Awen Tan Pakala  |96 |Ward           |
-|22 |Lukin E Nasa Wawa    |47 |Kon Telo       |72 |Lukin Ala        |97 |Web            |
-|23 |Weka E Ijo Sijelo   |48 |Lili E Nasa Wawa  |73 |Ante E Ma Jan       |98 |Widget       |
-|24 |Len E Lukin          |49 |Tomo           |74 |Lape         |99 |Wizard Mark    |
-|25 |Ante E Lukin Ma    |50 |Nasa Pi Sike Lili    |75 |Ma Pi Nena Ala      |100|X-Ray Vision   |
+|12 |Weka Nasa E Sona      |37 |Pilin Ike Wawa        |62 |Sijelo Pi Tenpo Kama |87 |Tawa Kepeken Tenpo Ala  |
+|13 |Ante E Sijelo     |38 |Kute E Kalama Lili   |63 |Tawa Kama/Tawa Weka |88 |Alasa Pi Nasa Wawa |
+|14 |Pilin Pona           |39 |Tawa Kon         |64 |Lon E Jan Moli     |89 |Ma Kasi      |
+|15 |Toki Wawa         |40 |Pilin Lape Nasa       |65 |Lon E Kon Moli |90 |Lon E Sitelen Kiwen|
+|16 |Kute Sona       |41 |Pilin Lete          |66 |Kute Pi Insa Lawa   |91 |Ante E Tenpo   |
+|17 |Ko Tan Luka     |42 |Sona E Jan Jo       |67 |Wawa Weka          |92 |Lukin Lon   |
+|18 |Lawa E Kasi   |43 |Suno A                 |68 |Lukin Tan Sike Ante |93 |Kama Telo      |
+|19 |Lawa E Suno Sewi  |44 |Linja Pi Lukin Ala |69 |Pali Ko |94 |Lukin Pana |
+|20 |Pona E Pakala Sijelo    |45 |Mu Open     |70 |Pilin E Ijo         |95 |Sitelen Lukin|
+|21 |Weka E Kute      |46 |Tawa Pi Akesi Telo      |71 |Awen Tan Pakala  |96 |Sike Awen        |
+|22 |Lukin E Nasa Wawa    |47 |Kon Telo       |72 |Lukin Ala        |97 |Linja Pipi       |
+|23 |Weka E Ijo Sijelo   |48 |Lili E Nasa Wawa  |73 |Ante E Ma Jan       |98 |Ilo Lili    |
+|24 |Len E Lukin          |49 |Tomo           |74 |Lape         |99 |Kule Pi Nasa Wawa   |
+|25 |Ante E Lukin Ma    |50 |Nasa Pi Sike Lili    |75 |Ma Pi Nena Ala      |100|Lukin Insa   |
 
 <p></p>
 
@@ -1283,7 +1283,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 90   | [Lon E Sitelen Kiwen](#summon-idol)             | sitelen kiwen li kama tan ma. ona li ken lukin sama jan anu soweli li suli sama soweli tawa. |
 | 91   | [Ante E Tenpo](#time-control)           | tenpo ilo lili lili 30s la tenpo li tawa nasa lon sike suli. tenpo li ken weka anu suli e 10% tan mute ona. sike suli li suli linja 50ft/15m tan insa ona tawa poka ale ona.  |
 | 92   | [Lukin Lon](#true-sight)               | sina lukin e ijo pi lon ala tan nasa wawa la sina lukin tawa poka ante ona.  |
-| 93   | [Kama telo](#upwell)                       | telo li open kama tan ma. ona li sama telo tan telo suli.                               |
+| 93   | [Kama Telo](#upwell)                       | telo li open kama tan ma. ona li sama telo tan telo suli.                               |
 | 94   | [Lukin Pana](#vision)                       | jan wan anu soweli wan li lukin e ale tan wile sina.                 |
 | 95   | [Sitelen Lukin](#visual-illusion)     |  jan ale li ken lukin e ijo. ijo ni li lon ala li sitelen pi nasa wawa taso. ona li suli sama poki tomo li ken ala kalama li ken ala tawa. |
 | 96   | [Sike Awen](#ward)                           | sike pi suli poka 50ft/15m li kama lon ma. o toki e nimi kulupu soweli. soweli ale sama li ken ala tawa poka ante pi sike ni. |
