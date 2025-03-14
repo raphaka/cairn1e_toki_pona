@@ -732,31 +732,31 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 
 |||||||||
 |---|-----------------|---|----------------|---|---------------|---|---------------|
-|1  |Ko Awen           |26 |Tawa Ma Wawa      |51 |Masquerade     |76 |Smoke Form     |
-|2  |Linja Awen           |27 |Sijelo Linja      |52 |Miniaturize    |77 |Sniff          |
-|3  |Lon E Ijo   |28 |Sinpin Pi Ijo Ale  |53 |Mirror Image   |78 |Snuff          |
-|4  |Jan E Soweli |29 |Kama Jo           |54 |Mirrorwalk     |79 |Sort           |
-|5  |Sike Lukin Pi Nasa Wawa|30 |Sike Suno          |55 |Multiarm       |80 |Spectacle      |
-|6  |Poki Pi Weka Sewi    |31 |Kon Pi Lukin Ala      |56 |Night Sphere   |81 |Spellsaw       |
-|7  |Kama Poka          |32 |Pilin Utala Wawa          |57 |Objectify      |82 |Spider Climb   |
-|8  |Kalama Pi Ken Nasa|33 |Lupa Lon            |58 |Ooze Form      |83 |Summon Cube    |
-|9  |Toki Lawa           |34 |Ante Pi Wawa Ma |59 |Pacify         |84 |Swarm          |
-|10 |Kasi Kama      |35 |Wile Jo          |60 |Phobia         |85 |Telekinesis    |
-|11 |Sijelo Soweli      |36 |Tawa Wawa          |61 |Pit            |86 |Telepathy      |
-|12 |Weka Nasa E Sona         |37 |Pilin Ike Wawa        |62 |Primal Surge   |87 |Teleport       |
-|13 |Ante E Sijelo        |38 |Kute E Kalama Lili   |63 |Push/Pull      |88 |Target Lure    |
-|14 |Pilin Pona           |39 |Tawa Kon         |64 |Raise Dead     |89 |Thicket        |
-|15 |Toki Wawa         |40 |Pilin Lape Nasa       |65 |Raise Spirit   |90 |Summon Idol    |
-|16 |Kute Sona       |41 |Pilin Lete      |66 |Read Mind      |91 |Time Control   |
-|17 |Ko Tan Luka     |42 |Sona E Jan Jo  |67 |Repel          |92 |True Sight     |
+|1  |Ko Awen           |26 |Tawa Ma Wawa      |51 |Lukin Pi Jan Ante   |76 |Smoke Form     |
+|2  |Linja Awen           |27 |Sijelo Linja      |52 |Lili    |77 |Sniff          |
+|3  |Lon E Ijo        |28 |Sinpin Pi Ijo Ale  |53 |Sitelen Sama   |78 |Snuff          |
+|4  |Jan E Soweli      |29 |Kama Jo           |54 |Nasin Pi Sinpin Sama   |79 |Sort        |
+|5  |Sike Lukin Pi Nasa Wawa|30 |Sike Suno          |55 |Luka Tu Wan       |80 |Spectacle      |
+|6  |Poki Pi Weka Sewi |31 |Kon Pi Lukin Ala      |56 |Sike Pimeja  |81 |Spellsaw       |
+|7  |Kama Poka          |32 |Pilin Utala Wawa          |57 |Ijo     |82 |Spider Climb   |
+|8  |Kalama Pi Ken Nasa|33 |Lupa Lon            |58 |Sijelo Ko     |83 |Summon Cube    |
+|9  |Toki Lawa           |34 |Ante Pi Wawa Ma |59 |Utala Ala         |84 |Swarm          |
+|10 |Kasi Kama          |35 |Wile Jo          |60 |Monsuta        |85 |Telekinesis    |
+|11 |Sijelo Soweli      |36 |Tawa Wawa          |61 |Lupa           |86 |Telepathy      |
+|12 |Weka Nasa E Sona      |37 |Pilin Ike Wawa        |62 |Sijelo Pi Tenpo Kama|87 |Teleport    |
+|13 |Ante E Sijelo     |38 |Kute E Kalama Lili   |63 |Tawa Kama/Tawa Weka |88 |Target Lure    |
+|14 |Pilin Pona           |39 |Tawa Kon         |64 |Lon E Jan Moli     |89 |Thicket        |
+|15 |Toki Wawa         |40 |Pilin Lape Nasa       |65 |Lon E Kon Moli  |90 |Summon Idol    |
+|16 |Kute Sona       |41 |Pilin Lete          |66 |Kute Pi Insa Lawa   |91 |Time Control   |
+|17 |Ko Tan Luka     |42 |Sona E Jan Jo       |67 |Wawa Weka          |92 |True Sight     |
 |18 |Lawa E Kasi   |43 |Suno A     |68 |Scry           |93 |Upwell         |
-|19 |Lawa E Suno Sewi  |44 |Linja Pi Lukin Ala|69 |Sculpt Elements|94 |Vision         |
-|20 |Pona E Pakala Sijelo    |45 |Mu Open     |70 |Sense          |95 |Visual Illusion|
-|21 |Weka E Kute          |46 |Tawa Pi Akesi Telo          |71 |Shield         |96 |Ward           |
-|22 |Lukin E Nasa Wawa    |47 |Kon Telo    |72 |Shroud         |97 |Web            |
-|23 |Weka E Ijo Sijelo      |48 |Lili E Nasa Wawa  |73 |Shuffle        |98 |Widget         |
-|24 |Len E Lukin         |49 |Manse           |74 |Sleep          |99 |Wizard Mark    |
-|25 |Ante E Lukin Ma    |50 |Marble Craze    |75 |Slick          |100|X-Ray Vision   |
+|19 |Lawa E Suno Sewi  |44 |Linja Pi Lukin Ala |69 |Pali Ko |94 |Vision         |
+|20 |Pona E Pakala Sijelo    |45 |Mu Open     |70 |Pilin E Ijo         |95 |Visual Illusion|
+|21 |Weka E Kute      |46 |Tawa Pi Akesi Telo      |71 |Awen Tan Pakala  |96 |Ward           |
+|22 |Lukin E Nasa Wawa    |47 |Kon Telo       |72 |Lukin Ala        |97 |Web            |
+|23 |Weka E Ijo Sijelo   |48 |Lili E Nasa Wawa  |73 |Ante E Ma Jan       |98 |Widget       |
+|24 |Len E Lukin          |49 |Tomo           |74 |Lape         |99 |Wizard Mark    |
+|25 |Ante E Lukin Ma    |50 |Nasa Pi Sike Lili    |75 |Ma Pi Nena Ala      |100|X-Ray Vision   |
 
 <p></p>
 
@@ -1241,7 +1241,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 48   | [Lili E Nasa Wawa](#magic-dampener)       | wawa pi nasa wawa ale lon poka sina li kama lili sama ni: tu li kama wan. |
 | 49   | [Tomo](#manse)                         | tenpo ilo 12h la tomo li kama lon. ona li wawa li kiwen. insa ona la supa li lon. wile sina la jan li ken insa anu ken ala insa e tomo. |
 | 50   | [Nasa Pi Sike Lili](#marble-craze)           | poki sina li jo ale e sike lili. sike lili li sama ilo musi. sike lili li weka tan poki sina la tenpo ilo lili lili 30s li tawa la poki sina li jo sin e sike lili. |
-| 51   | [Len Pi Jan Ante](#masquerade)               | sina pilin luka e jan ante la lukin pi jan wan li kama sama lukin pi jan ante ni. kalama toki ona li kama sama kalama toki pi jan ante ni kin. |
+| 51   | [Lukin Pi Jan Ante](#masquerade)               | sina pilin luka e jan ante la lukin pi jan wan li kama sama lukin pi jan ante ni. kalama toki ona li kama sama kalama toki pi jan ante ni kin. |
 | 52   | [Lili](#miniaturize)             | sina lukin e jan wan anu soweli wan la ona li kama lili a sama soweli pipi. |
 | 53   | [Sitelen Sama](#mirror-image)           | sina lon e sitelen jan. ona li lukin sama sina. sina wile e ijo la sitelen jan li ni. |
 | 54   | [Nasin Pi Sinpin Sama](#mirrorwalk)               | ilo sinpin pi lukin sama li nasin tawa ilo sama ante. tenpo pini pi tenpo suno ni la sina o lukin e ilo sama ante.|
