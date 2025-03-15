@@ -1019,8 +1019,11 @@ Enemies must pass a WIL save to avoid fleeing when they take their first casualt
 jan musi sina li utala e jan ante la jan ante o utala e LAW ona tan ni: ona li wile weka anu wile awen utala. jan wan ona li moli la ona o utala ni e LAW. moli ona li mute tawa jan utala ona la ona o utala ni kin e LAW. utala LAW ni li pona la jan li pilin monsuta ala li awen utala. utala LAW ni li ike la jan li wile weka.
 tenpo ken la kulupu li ken utala ni kepeken LAW pi lawa kulupu. jan ante li utala wan la nanpa KU ona li ala la ona o utala e LAW ona. jan musi li monsuta ni lon tenpo ala.
 
-### Hirelings
-PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
+<!--### Hirelings
+PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.-->
+
+### jan pali
+jan musi li ken pana e mani tawa **jan pali**. **jan pali** li pali pona e tawa pi jana musi. jan lawa li wile pali e jan pali sin la o pali e nanpa ken pi jan pali. o tawa e 3k6 tawa nanpa ken ale. o tawa e 1k6 tawa awen utala o pana e ilo utala pona kepeken k6 tawa ona. o kepeken lipu nasin ni: [**nasin pali pi jan musi**](#character-creation) tawa ijo ante pi jan pali. ona li wile e mj 1 anu mj 2 anu mj 3 tawa pali pi tenpo suno wan. ante la, ona li wile e ijo mani lili.
 
 <!--### Wealth & Treasure
 The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).-->
