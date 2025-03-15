@@ -474,16 +474,16 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 
 |||
 | --- | --- |
-| 1   | ona li jo ala e linja lawa |
-| 2   | linja mute li kama linja wan |
-| 3   | linja mute li tawa sike lili |
-| 4   | ona li jo e linja jaki       |
-| 5   | linja li tawa poka ale |
-| 6   | linja li suli a              |
-| 7   | jan pi mani mute li jo e linja lawa sama ni|
-| 8   | telo ko li lon li pana sin e suno|
-| 9   | lukin linja li sama telo tawa |
-| 10  | ona li mute ala li sama telo kon |
+| 1   | ona li jo ala e linja lawa. |
+| 2   | linja mute li kama linja wan. |
+| 3   | linja mute li tawa sike lili. |
+| 4   | ona li jo e linja jaki.       |
+| 5   | linja li tawa poka ale. |
+| 6   | linja li suli a.              |
+| 7   | jan pi mani mute li jo e linja lawa sama ni.|
+| 8   | telo ko li lon li pana sin e suno.|
+| 9   | lukin linja li sama telo tawa. |
+| 10  | ona li mute ala li sama telo kon. |
 
 
 <!--#### Face-->
@@ -565,16 +565,16 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 
 |||
 | --- | --- |
-| 1 | wile pali ona li wawa |
-| 2 | ona li lukin wawa la ona li pakala ala |
-| 3 | utala la ona li pilin ala e monsuta |
-| 4 | ona li pali lon tenpo mute |
+| 1 | wile pali ona li wawa. |
+| 2 | ona li lukin wawa la ona li pakala ala. |
+| 3 | utala la ona li pilin ala e monsuta. |
+| 4 | ona li pali lon tenpo mute. |
 | 5 | jan mute li pona tawa ona. ona en kulupu li musi. |
 | 6 | toki ona li lon. pali ona li pona |
-| 7 | ona li wile e ijo pi mute ala e mani lili|
-| 8 | jan li utala e ona la taso ona li ike ala tawa jan ni |
-| 9 | ona li pana e pilin lape pona tawa jan ante|
-|10 | ona li pilin ala ike tan jan ale |
+| 7 | ona li wile e ijo pi mute ala e mani lili.|
+| 8 | jan li utala e ona la taso ona li ike ala tawa jan ni. |
+| 9 | ona li pana e pilin lape pona tawa jan ante.|
+|10 | ona li pilin ala ike tan jan ale. |
 
 
 <!--#### Vice
@@ -589,14 +589,25 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 -->
 
 #### nasin ike
-
-|  |            |      |          |
+<!--|  |            |      |          |
 | ---- | ---------- | ---- | -------- |
 | 1    | wile pi utala mute | 6    | wile pi pali ala |
 | 2    | pilin jaki     | 7    | pilin monsuta  |
 | 3    | wile pi utala ala     | 8    | toki ike     |
 | 4    | toki pi lon ala  | 9    | olin pi lukin ona     |
-| 5    | wile mani     | 10   | wile utala tan tenpo pini |
+| 5    | wile mani     | 10   | wile utala tan tenpo pini |-->
+|||
+| --- | --- |
+|1|tenpo mute la ona li wile utala.|
+|2|ona li pilin jaki li ike lili tawa jan ante.|
+|3|monsuta la ona li wile ala utala.|
+|4|toki ona li lon ala.|
+|5|ona li wile e mani mute e ijo mute.|
+|6|tenpo ala la ona li wile pali. ona li wile lape taso.|
+|7|ona li pilin monsuta lili tan ijo mute.|
+|8|ona li toki ike tawa jan ale. ken la kepeken nimi jaki.|
+|9|ona li pali mute taso pali ona li pona ala.|
+|10|ike pi tenpo pini li weka taso ona li awen pilin e wile utala.|
 
 <!--#### Reputation-->
 #### pilin pi jan ante la jan musi sina li ni:
@@ -616,15 +627,28 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 4          | jan musi | 9    | pona tawa jan ante |
 | 5          | toki lon      | 10   | jan pi sona wawa      |
 
-#### Misfortunes
-
-|  |             |      |             |
+<!--#### Misfortunes-->
+#### tenpo pini ike
+<!--|  |             |      |             |
 | ----------- | ----------- | ---- | ----------- |
 | 1           | Abandoned   | 6    | Defrauded   |
 | 2           | Addicted    | 7    | Demoted     |
 | 3           | Blackmailed | 8    | Discredited |
 | 4           | Condemned   | 9    | Disowned    |
-| 5           | Cursed      | 10   | Exiled      |
+| 5           | Cursed      | 10   | Exiled      |-->
+
+|||
+| --- | --- |
+|1|jan ante ale li weka tan ona.|
+|2|ona li ken ala pini e ijo ike. ijo ike li ken telo nasa li ken musi pi weka mani li ken ante. |
+|3|ona li pali tan wile pi jan ante. ala la jan ante ni li ike e ona.|
+|4|jan lawa la ona li ike.|
+|5|nasa wawa ike li lon ona.|
+|6|jan ante li ike e ona kepeken toki pi lon ala.|
+|7|pali la jan lawa li lili e ken ona.|
+|8|sona pi jan ante la ona li ike.|
+|9|jan li weka e jo ona e kon jo ona.|
+|10|jan li weka e ona tan ma mama ona.|
 
 <p></p>
 
@@ -760,9 +784,11 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 
 <p></p>
 
-## Equipment List (Prices in Gold Pieces)
+<!--## Equipment List (Prices in Gold Pieces)
+#### Armor-->
 
-#### Armor
+## ijo ale (nanpa li wile ona pi mani jelo pi)
+#### 
 
 ||     |
 |--------------------------------------------------------------|-----|
