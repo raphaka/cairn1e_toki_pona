@@ -693,16 +693,23 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |          1-5          |       6-14       |          15-19       |               20               |
 | ilo moli lili, palisa sike, palisa suli | palisa pakala, ilo utala pi pini sike, palisa pi pakala kasi | palisa pi alasa weka, palisa supa pi alasa weka, linja alasa pi pana kiwen | palisa pakala suli, ilo utala kiwen, palisa utala pi pakala kasi|
 
-<!--#### Expeditionary Gear-->
-#### ilo pi jan tawa
-
+<!--#### Expeditionary Gear
 |      |                        |      |                |      |             |      |             |
 | ---- | ---------------------- | ---- | -------------- | ---- | ----------- | ---- | ----------- |
 | 1    | Air Bladder            | 6    | Fire Oil       | 11   | Manacles    | 16   | Rope (25ft) |
 | 2    | Antitoxin              | 7    | Grappling Hook | 12   | Pick        | 17   | Spirit Ward |
 | 3    | Cart (+4 slots, bulky) | 8    | Large Sack     | 13   | Pole (10ft) | 18   | Spyglass    |
 | 4    | Chain (10ft)           | 9    | Large Trap     | 14   | Pulley      | 19   | Tinderbox   |
-| 5    | Dowsing Rod            | 10   | Lockpicks      | 15   | Repellent   | 20   | Wolfsbane   |
+| 5    | Dowsing Rod            | 10   | Lockpicks      | 15   | Repellent   | 20   | Wolfsbane   |-->
+
+#### ilo pi jan tawa
+|||||||||
+| --- | --- | --- | --- | ---- | --- | --- | --- |
+|1|poki kon |6|telo ko pi pali seli|11|ilo pi awen luka|16|linja wawa (25ft/8m)|
+|2|telo pi awen tan telo moli|7|luka palisa kiwen lon pini linja|12|ilo pi pakala kiwen|17|sitelen awen|
+|3| poki tawa (lupa ijo +4, suli a) |8|poki len suli|13| palisa suli (10ft/3m)|18|ilo palisa pi lukin weka|
+|4| linja kiwen (10ft/3m)|9|ilo alasa awen suli|14|sike tawa pi linja wawa|19|poki lili pi open seli|
+|5|ilo nasa pi alasa kiwen|10|ilo palisa open nasa|15|telo pi weka soweli/akesi/pipi|20|kasi pi ken moli|
 
 <!--#### Tools
 |      |          |      |                |      |            |      |         |
