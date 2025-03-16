@@ -808,7 +808,8 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |ilo pi alasa weka (pakala k6, suli a)                                     |20   |
 |ilo supa pi alasa weka (pakala k8, suli a)                                |30   |
 
-#### Gear & Tools
+<!--#### Gear & Tools-->
+#### ijo en ilo
 
 | | | |  |
 |---|---|---|---|
@@ -843,7 +844,8 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 
 <p></p>
 
-## Optional Gear Packages
+<!--## Optional Gear Packages-->
+## kulupu ijo ken
 
 #### Cleric
 
