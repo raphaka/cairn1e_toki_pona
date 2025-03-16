@@ -17,7 +17,7 @@ nav_order: 1
 <!--**Cairn** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc.).-->
 lipu nasin pi jo sona [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) li awen e **musi Cairn**.
-o lukin e [tomo ilo sona](https://github.com/yochaigal/cairn). anu la o kama jo e musi kepeken [lipu ante](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc.).
+o lukin e [tomo ilo sona](https://github.com/yochaigal/cairn). ante la o kama jo e musi kepeken [lipu ante](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (toki Inli taso lon Word, Affinity, Google Docs, etc.).
 
 <!--**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
 Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.-->
@@ -847,8 +847,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 <!--## Optional Gear Packages-->
 ## kulupu ijo ken
 
-#### Cleric
-
+<!--#### Cleric
 |                                   |
 | --------------------------------- |
 | War Hammer (d10, bulky)           |
@@ -856,10 +855,20 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | Gauntlets (+1 Armor)              |
 | Cleansing Blade (d6)              |
 | Holy Symbol (_Ward_ once per day) |
-| Cloak of the Order                |
+| Cloak of the Order                |-->
 
-#### Dowser
+#### jan utala pi nasin sewi
+jan ni li tawa ma ante li pana e sona pi nasin sewi ona. jan sewi ona li awen e ona tan ike.
+|                                   |
+| --------------------------------- |
+| ilo utala kiwen (k10, suli a)     |
+| len awen pi linja kiwen (nanpa awen 2, suli a) |
+| len luka awen (nanpa awen +1)     |
+| ilo utala lili pi weka ike (k6)   |
+| sitelen sewi (tenpo wan pi tenpo suno la ona li ken nasa wawa e _sike awen_)     |
+| len pi kulupu sewi                |
 
+<!--#### Dowser
 |                                           |
 |-------------------------------------------|
 |Sickle (d6)                                |
@@ -867,10 +876,20 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |Dowsing Rod                                |
 |Eyestone (_Sense_ if placed in fresh water)|
 |Worn Map                                   |
-|Spyglass                                   |
+|Spyglass                                   |-->
 
-#### Dwarf
+#### jan pi alasa kiwen
+jan ni li tawa ma li lukin e ni: ma seme la kiwen pona en kiwen mani li lon.
+|                                           |
+|-------------------------------------------|
+|palisa sike (k6)                           |
+|len tan len ante mute (nanpa awen +1)      |
+|ilo nasa pi alasa kiwen                    |
+|kiwen nasa pi sike lukin (ona li insa pi telo pona la ona li nasa wawa e _Pilin E Ijo_)|
+|lipu pi sona ma (ona li pakala lili)       |
+|ilo palisa pi lukin weka                   |
 
+<!--#### Dwarf
 ||
 |-----------------------------------------|
 |Prickly Root (d6)                        |
@@ -878,10 +897,21 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |Trowel                                   |
 |Jar of Forest Ants                       |
 |Poisonous mushroom                       |
-|Hand Drill                               |
+|Hand Drill                               |-->
 
-#### Elf
+#### jan nasa lili
+jan nasa lili li wawa li lili li lon pi tenpo suli a. tenpo mute la ona li pali lon insa nena li jo e linja suli pi sinpin lawa.
+||
+|-----------------------------------------|
+|palisa pakala pi anpa kasi (k6)          |
+|len kasi kiwen (nanpa awen 1)            |
+|ilo lili pi pali tomo                    |
+|poki pi pipi lili mute                   |
+|kasi sike lili pi ken moli               |
+|ilo pi pali lupa lili                    |
 
+
+<!--#### Elf
 ||
 |-----------------------------------------|
 |Elegant Sword (d8)                       |
@@ -889,9 +919,20 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |Gilt Clothing (1 Armor)                  |
 |Spellbook (_Charm_ or _Detect Magic_)    |
 |Golden Flute                             |
-|Air Bladder                              |
+|Air Bladder                              |-->
 
-#### Fighter
+#### jan nasa pi kute palisa
+kute pi jan ni li sike ala li palisa. ona li suli li sona pona e nasa wawa.
+||
+|-----------------------------------------|
+|palisa pakala pi lukin pona (k8)         |
+|ilo sike pi alasa weka (k8)              |
+|len mani (nanpa awen 1)                  |
+|lipu pi nasa wawa (_Pilin Pona_ anu _Luin E Nasa Wawa_) |
+|ilo mani pi kalama musi                  |
+|poki kon                                 |
+
+<!--#### Fighter
 
 ||
 |---------------------------------------|
@@ -900,7 +941,18 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |Shortsword (d6)                        |
 |Shortsword (d6)                        |
 |Tobacco Pouch & Pipe                   |
-|Dice Set                               |
+|Dice Set                               |-->
+
+#### jan utala
+ona li sona wawa e ilo utala ale e nasin utala ale. ken suli la ona li pilin monsuta ala.
+||
+|---------------------------------------|
+|palisa utala suli (k10, suli a)        |
+|palisa pakala sike (k8)                |
+|palisa pakala lili (k6)                |
+|palisa pakala lili (k6)                |
+|ilo pi moku kon seli en kasi pi kon seli |
+|musi pi kiwen ken                      |
 
 #### Friar
 
