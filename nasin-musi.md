@@ -858,7 +858,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | Cloak of the Order                |-->
 
 #### jan utala pi nasin sewi
-jan ni li tawa ma ante li pana e sona pi nasin sewi ona. jan sewi ona li awen e ona tan ike.
+jan ni li tawa ma ante li pana e sona pi nasin sewi ona. jan sewi ona li awen e ona lon utala.
 |                                   |
 | --------------------------------- |
 | ilo utala kiwen (k10, suli a)     |
@@ -933,7 +933,6 @@ kute pi jan ni li sike ala li palisa. ona li suli li sona pona e nasa wawa.
 |poki kon                                 |
 
 <!--#### Fighter
-
 ||
 |---------------------------------------|
 |Glaive (d10, bulky)                    |
@@ -954,8 +953,7 @@ ona li sona wawa e ilo utala ale e nasin utala ale. ken suli la ona li pilin mon
 |ilo pi moku kon seli en kasi pi kon seli |
 |musi pi kiwen ken                      |
 
-#### Friar
-
+<!--#### Friar
 ||
 |-------------------------------|
 |Scepter (d6)                   |
@@ -963,10 +961,20 @@ ona li sona wawa e ilo utala ale e nasin utala ale. ken suli la ona li pilin mon
 |Censer & Holy Water            |
 |Jug of Honey Wine              |
 |Folk Songbook                  |
-|Cart (+4 slots, bulky)         |
+|Cart (+4 slots, bulky)         |-->
 
-#### Knight
+#### jan lawa pi nasin sewi
+jan ni li pali lon tomo pi nasin sewi li pona e jan pi jo mani lili.
+||
+|-------------------------------|
+|palisa pi sitelen sewi (k6)    |
+|len pisona ala (nanpa awen +1) |
+|poki telo pi nasin sewi        |
+|poki pi telo nasa suwi         |
+|lipu pi kalama musi            |
+|poki tawa (lupa ijo +4, suli a)|
 
+<!--#### Knight
 |                            |
 | -------------------------- |
 | Longsword (d10, bulky)     |
@@ -974,10 +982,20 @@ ona li sona wawa e ilo utala ale e nasin utala ale. ken suli la ona li pilin mon
 | Helmet (+1 Armor)          |
 | Heraldic Cape              |
 | Manacles                   |
-| Fine Rope                  |
+| Fine Rope                  |-->
 
-#### Magic User
+#### jan utala pi kulupu lawa
+jan pi kulupu ni li awen e jan pi lawa ma. jan pi lawa ma li pana e mani mute tawa ona.
+|                            |
+| -------------------------- |
+| palisa pakala suli (k10, suli a)|
+| len awen pi linja kiwen (nanpa awen 2, suli a)|
+| len lawa awen (nanpa awen +1)          |
+| len monsi pi sitelen suli  |
+| ilo pi awen luka           |
+| linja wawa pona            |
 
+<!--#### Magic User
 ||
 |-----------------------------------------|
 |Fizzled Staff (d8, bulky)                |
@@ -985,10 +1003,20 @@ ona li sona wawa e ilo utala ale e nasin utala ale. ken suli la ona li pilin mon
 |Spellbook (random spell)                 |
 |Spellbook (random spell)                 |
 |Ragged Clothing (hidden pockets)         |
-|Leycap (x2, see **Relics**)              |
+|Leycap (x2, see **Relics**)              |-->
 
-#### Thief
+#### jan pi nasa wawa
+jan ni li sona pona e nasa wawa e ilo nasa e soweli nasa.
+||
+|-----------------------------------------|
+|palisa pi suno nasa (k8, suli a)         |
+|ilo moli lili (k6)                       |
+|lipu pi nasa wawa (o tawa e kiwen ken)   |
+|lipu pi nasa wawa (o tawa e kiwen ken)   |
+|len pakala (poki pi ken ala lukin li lon)|
+|kasi Lika (tu li lon, o lukin e **ilo nasa**)|
 
+<!--#### Thief
 ||
 |-----------------------------------------|
 |Two daggers (d6+d6)                      |
@@ -996,10 +1024,20 @@ ona li sona wawa e ilo utala ale e nasin utala ale. ken suli la ona li pilin mon
 |Lockpicks                                |
 |Caltrops                                 |
 |Grappling Hook                           |
-|Metal File                               |
+|Metal File                               |-->
 
-#### Ranger
+#### jan ike pi kama jo
+jan ni li insa e tomo pi jan ante li kama jo e ijo ona e mani ona.
+||
+|-----------------------------------------|
+|ilo moli lili tu (k6+k6)                 |
+|len pi len lawa kin (nanpa awen 1)       |
+|ilo open ken pi lupa ale                 |
+|kiwen palisa lili pi pakala noka         |
+|luka palisa kiwen lon pini linja         |
+|palisa lili pi pakala kiwen              |
 
+<!--#### Ranger
 ||
 |------------------------------------------|
 |Longbow (d8, bulky)                       |
@@ -1007,9 +1045,20 @@ ona li sona wawa e ilo utala ale e nasin utala ale. ken suli la ona li pilin mon
 |Padded Leathers (1 Armor)                 |
 |Large Trap                                |
 |Bloodhound &#124; 2 HP, 12 DEX, bite (d6) |
-|Thundering Horn                           |
+|Thundering Horn                           |-->
 
-[back to index](#index)
+#### jan pi mama soweli
+jan ni li awen e soweli e waso e akesi. ona li pana e moku tawa ona li utala e soweli ike.
+||
+|------------------------------------------|
+|ilo suli pi alasa weka (k8, suli a)       |
+|palisa lili pi pakala kasi (k6)           |
+|len pi selo kiwen sijelo (nanpa awen 1)   |
+|ilo alasa awen suli                       |
+|soweli alasa KU 2, TAW 12, kiwen uta (k6) |
+|palisa kalama kon pi lawa soweli          |
+
+[o tawa sin pi lukin lipu](#index)
 <p></p>
 
 ## Rules
@@ -1111,7 +1160,9 @@ Anyone can cast a spell by holding a Spellbook in both hands and reading its con
 
 **Staff of Silence** , 1 charge. This blackened rod temporarily disables all magic within 50ft. Recharge: bathe in the light of a full moon.
 
-**Leycap** , 1 use. Anyone ingesting this green-flecked mushroom loses a Fatigue, but is then required to make a WIL save to avoid its addictive properties. A fail leaves the PC deprived and unable to focus until they can eat another leycap, providing only a brief reprieve from the addiction.
+<!--**Leycap** , 1 use. Anyone ingesting this green-flecked mushroom loses a Fatigue, but is then required to make a WIL save to avoid its addictive properties. A fail leaves the PC deprived and unable to focus until they can eat another leycap, providing only a brief reprieve from the addiction.-->
+
+**kasi Lika** , ken kepeken 1. kasi ni li kasi sike lon anpa pi kasi suli li jo e sike lili laso. jan li moku e kasi ni la ona li weka e lape wan taso ona o utala e LAW tan ni: ken la ona li kama wile e mute li ken ala pini. utala LAW ni li ike la lawa pi jan musi li wawa ala. jan li moku e kasi Lika sin la ona li pona sin lon tenpo lili. taso ona li awen wile e kasi lon tenpo kama.
 
 ## Combat
 
@@ -1271,8 +1322,8 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 
 ## nasa wawa 100
 
-|      |                                         |                                                              |
-| ---- | --------------------------------------- | ------------------------------------------------------------ |
+||||
+| ---- | ---- | ---- |
 | 1    | [Ko Awen](#adhere)                       | ko li len e ijo wan. ijo ni li awen li ken ala tawa.                |
 | 2    | [Linja Awen](#anchor)                  | linja wawa li kama tan luka sina. ona li awen lon poka tu. poka wan li ken weka 50ft/15m tan poka ante.       |
 | 3    | [Lon E Ijo](#animate-object)          | ijo wan li lon li kute e wile sina li pali pi ken ale ona e wile ni.|
