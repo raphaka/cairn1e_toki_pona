@@ -691,7 +691,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |                |                  |                          |                                |
 | :-------------------: | :--------------: | :------------------: | :------------------------------: |
 |          1-5          |       6-14       |          15-19       |               20               |
-| ilo moli lili, palisa sike, palisa suli | palisa pakala, ilo utala pi pini sike, palisa pi pakala kasi | palisa pi alasa weka, palisa supa pi alasa weka, linja alasa pi pana kiwen | palisa pakala suli, ilo utala kiwen, palisa utala pi pakala kasi|
+| ilo moli lili, palisa sike, palisa suli | palisa pakala, ilo utala pi pini sike, palisa pi pakala kasi | ilo pi alasa weka, ilo supa pi alasa weka, linja alasa pi pana kiwen | palisa pakala suli, ilo utala kiwen, palisa utala pi pakala kasi|
 
 <!--#### Expeditionary Gear
 |      |                        |      |                |      |             |      |             |
@@ -709,7 +709,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |2|telo pi awen tan telo moli|7|luka palisa kiwen lon pini linja|12|ilo pi pakala kiwen|17|sitelen awen|
 |3| poki tawa (lupa ijo +4, suli a) |8|poki len suli|13| palisa suli (10ft/3m)|18|ilo palisa pi lukin weka|
 |4| linja kiwen (10ft/3m)|9|ilo alasa awen suli|14|sike tawa pi linja wawa|19|poki lili pi open seli|
-|5|ilo nasa pi alasa kiwen|10|ilo palisa open nasa|15|telo pi weka soweli/akesi/pipi|20|kasi pi ken moli|
+|5|ilo nasa pi alasa kiwen|10|ilo open ken pi lupa ale|15|telo pi weka soweli|20|kasi pi ken moli|
 
 <!--#### Tools
 |      |          |      |                |      |            |      |         |
@@ -805,16 +805,16 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |len utala (nanpa awen 1, suli a)  |20   |
 |len pi linja kiwen (anpa awen 2, suli a)   |40   |
 |len pi lipu kiwen (nanpa awen 3, suli a)       |60   |
-#### Weapons
+#### ilo utala
 
 | |     |
 |-----------------------------------------------------------|-----|
-|Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)            |5    |
-|Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)           |10   |
-|Halberd, War Hammer, Long Sword, etc. (d10 damage, bulky)  |20   |
-|Sling (d4 damage)                                          |5    |
-|Bow (d6 damage, bulky)                                     |20   |
-|Crossbow (d8 damage, bulky)                                |30   |
+|ilo moli lili, palisa sike, palisa suli (pakala k6)            |5    |
+|palisa suli utala, palisa pakala, ilo utala pi pini sike, palisa pi pakala kasi. (pakala k8)           |10   |
+|palisa pakala suli, ilo utala kiwen, palisa utala pi pakala kasi (pakala k10, suli a)  |20   |
+|linja alasa pi pana kiwen (pakala k4)                                          |5    |
+|ilo pi alasa weka (pakala k6, suli a)                                     |20   |
+|ilo supa pi alasa weka (pakala k8, suli a)                                |30   |
 
 #### Gear & Tools
 
