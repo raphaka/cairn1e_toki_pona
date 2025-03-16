@@ -327,43 +327,33 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 
 ## nimi en pali (k20)
 #### nimi
-|||||||
+||||||
 |--|--|--|--|--|--|
-|1|puwiman|35|sija|69|mijun|
-|2|mapu|36|lesijo|70|pupajen|
-|3|walanten|37|mulon|71|lesa|
-|4|utun|38|sekosen|72|jete|
-|5|nipewi|39|jewinli|73|wenoton|
-|6|naka|40|mape|74|kejune|
-|7|lenose|41|ikalo|75|lujeton|
-|8|tona|42|sonine|76|kapo|
-|9|jepo|43|lepo|77|jene|
-|10|lupanje|44|koto|78|popi|
-|11|setulu|45|lasa|79|wepen|
-|12|ose|46|lejo|80|komu|
-|13|tetaju|47|pamu|81|tepun|
-|14|tetenko|48|nepoli|82|tuwiwe|
-|15|ekanu|49|wetu|83|koma|
-|16|wanowen|50|tope|84|sumi|
-|17|lekule|51|wipunu|85|muwansun|
-|18|mawitu|52|kinonan|86|pamujan|
-|19|mumato|53|makulen|87|melimon|
-|20|wasi|54|tunun|88|sumunka|
-|21|sokon|55|kenu|89|sile|
-|22|napilu|56|peli|90|sowi|
-|23|wije|57|owe|91|leki|
-|24|simonu|58|wete|92|isa|
-|25|wata|59|tolo|93|nulu|
-|26|nikumon|60|pile|94|lojopa|
-|27|nono|61|mejuke|95|komansu|
-|28|tewake|62|sepala|96|mamawa|
-|29|petan|63|pino|97|uja|
-|30|kisawa|64|ejanpa|98|palan|
-|31|jokuki|65|ajenla|99|tamen|
-|32|juje|66|sejeton|100|lujupu|
-|33|nosensen|67|lojekin|||
-|34|ninasi|68|kima|||
-
+|1|talosan|26|lapo|51|nunan|76|piko|
+|2|lanule|27|jukeku|52|uwanse|77|poseson|
+|3|sepan|28|lesi|53|lomewa|78|jajawa|
+|4|jasi|29|jete|54|kena|79|unen|
+|5|nimen|30|moten|55|kita|80|luku|
+|6|pule|31|wisutu|56|muma|81|neliku|
+|7|kakun|32|mona|57|une|82|kopon|
+|8|situn|33|nuton|58|lusu|83|nanan|
+|9|lulu|34|muluka|59|wilujen|84|kowe|
+|10|pepe|35|lamenpun|60|muje|85|luwin|
+|11|jola|36|liwisen|61|nemapa|86|meko|
+|12|kimawa|37|niton|62|junen|87|samo|
+|13|seno|38|naju|63|simo|88|pema|
+|14|lunon|39|oneja|64|lamanton|89|amo|
+|15|jonan|40|wijeja|65|mowalo|90|nulin|
+|16|laninki|41|nujunwin|66|toninpan|91|wapapin|
+|17|talinlu|42|koje|67|muka|92|kimupi|
+|18|jatalon|43|kekon|68|telu|93|pepapun|
+|19|saneta|44|meso|69|munela|94|anon|
+|20|tenike|45|mujamin|70|wisonsun|95|lanoni|
+|21|jasana|46|maken|71|sawe|96|kimu|
+|22|kolen|47|numa|72|kuneso|97|mulanu|
+|23|supito|48|kawan|73|setumi|98|jusu|
+|24|pula|49|tumopu|74|teki|99|winin|
+|25|iko|50|nani|75|potunpu|100|tupi|
 
 <!--#### background
 
