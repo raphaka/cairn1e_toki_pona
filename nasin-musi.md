@@ -1,3 +1,4 @@
+<!--
 ---
 layout: default
 title: SRD
@@ -5,10 +6,11 @@ parent: First Edition
 redirect_from: /cairn-srd/
 nav_order: 1
 ---
+-->
 
 <!--# Cairn System Reference Document (v.1.0)-->
 # Lipu nasin pi musi Cairn (n.1.0)
-{: .no_toc }
+<!--{: .no_toc }-->
 
 <p></p>
 
@@ -715,7 +717,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | ---- | -------- | ---- | -------------- | ---- | ---------- | ---- | ------- |
 | 1    | ilo pi pana kon  | 6    | poki pi pali moku | 11   | ko moku     | 16   | kulupu linja alasa |
 | 2    | poki telo suli  | 7    | palisa kiwen pi open lupa | 12   | ilo kiwen | 17   | ilo pi tu kasi     |
-| 3    | kiwen palisa lili pi pakala noka | 8    | ilo pi pali lupa lili | 13   | ilo tenpo | 18   | ko pali |
+| 3    | kiwen palisa lili pi pakala noka | 8    | ilo pi pali lupa lili | 13   | ilo tenpo pi poki ko | 18   | ko pali |
 | 4    | palisa sitelen   | 9    | palisa pi alasa kala    | 14   | palisa lili pi pakala kiwen | 19   | ilo pi lupa ma |
 | 5    | ilo pi pali sijelo kiwen | 10   | ko pi awen poka | 15   | palisa lili kiwen mute | 20   | ilo palisa luka   |
 
@@ -734,7 +736,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | ---- | ----------- | ---- | ---------- | ---- | ----------- | ---- | ------- |
 | 1    | poki telo | 6    | palisa pi lawa soweli | 11   | ilo sinpin pi lukin sama | 16   | kiwen pi weka jaki |
 | 2    | musi lipu | 7    | palisa kasi pi kon seli | 12   | telo pi pilin kon pona | 17   | ko pi lupa mute |
-| 3    | musi pi kiwen ken | 8    | ilo pi kalama musi | 13   | palisa sitelen en ilo sitelen | 18   | poki wan la ko pi kama kiwen|
+| 3    | musi pi kiwen ken | 8    | ilo pi kalama musi | 13   | ilo sitelen en telo sitelen | 18   | poki wan la ko pi kama kiwen|
 | 4    | kule pi sinpin lawa  | 9    | ilo pi lukin suli | 14   | poki lili pi ko walo moku   | 19   | linja lili |
 | 5    | kiwen mani pi lon ala | 10   | sike lili mute pi ilo musi | 15   | ilo mu lili  | 20   | ilo kalama kon |
 
@@ -808,36 +810,36 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 
 #### Gear & Tools
 
-| |                |                   |          |
-|---------------------------------------------|----------------|-------------------|----------|
-|Air Bladder                                  |5               |Large Trap         |20        |
-|Bellows                                      |10              |Large Sponge       |5         |
-|Bedroll                                      |5               |Lens               |10        |
-|Book                                         |50              |Lockpicks          |25        |
-|Bucket                                       |5               |Manacles           |10        |
-|Caltrops                                     |10              |Metal File         |5         |
-|Cart (+4 slots, bulky)                       |30              |Mirror             |5         |
-|Chain (10ft)                                 |10              |Mule (+6 slots, slow)|30      |
-|Chalk                                        |1               |Net                |10        |
-|Chisel                                       |5               |Oilskin Bag        |5         |
-|Cook Pots                                    |10              |Pick               |10        |
-|Crowbar                                      |10              |Pulley             |10        |
-|Drill (Manual)                               |10              |Pole (10ft)        |5         |
-|Face Paint                                   |10              |Quill & Ink        |10        |
-|Fire Oil                                     |10              |Rations (three day's worth)|10        |
-|Fishing Rod                                  |10              |Rope (25ft)        |5         |
-|Glass Marbles                                |5               |Saw                |5         |
-|Glue                                         |5               |Sack               |5         |
-|Grease                                       |10              |Shovel             |5         |
-|Grappling Hook                               |25              |Soap               |1         |
-|Hammer                                       |5               |Spike              |1         |
-|Holy Water                                   |25              |Spiked Boots       |5         |
-|Horn                                         |10              |Spyglass           |40        |
-|Horse (+4 slots)                             |75              |Tar                |10        |
-|Hourglass                                    |50              |Tent (fits 2 people, bulky)|20        |
-|Incense                                      |10              |Torch              |1         |
-|Ladder (bulky, 10ft)                         |10              |Wagon (+8 slots, slow)|200    |
-|Lantern & Oil                                |10              |Wolfsbane          |10        |
+| | | |  |
+|---|---|---|---|
+|poki kon  |5 |ilo alasa awen suli   |20 |
+|ilo pi pana kon|10 |ko suli pi lupa mute|5 |
+|len lape |5  |ilo pi lukin suli|10 |
+|lipu |50 |ilo open ken pi lupa ale |25|
+|poki telo suli|5 |ilo pi awen luka|10 |
+| kiwen palisa lili pi pakala noka |10 | palisa lili pi pakala kiwen |5 |
+|poki tawa (lupa ijo +4, suli a) |30 |ilo sinpin pi lukin sama |5 |
+|linja kiwen (10ft/3m) |10 |soweli tawa (lupa ijo +6, wile e tenpo suli)|30      |
+|palisa sitelen |1 |kulupu linja alasa |10 |
+|ilo pi pali sijelo kiwen |5 |poki pi telo ala |5 |
+|poki pi pali moku|10|ilo pi pakala kiwen|10 |
+|palisa kiwen pi open lupa |10 |sike tawa pi linja wawa |10 |
+|ilo pi pali lupa lili |10 |palisa suli (10ft/3m) |5 |
+|kule pi sinpin lawa |10 |ilo sitelen en telo sitelen|10 |
+|telo ko pi pali seli |10 |moku pi tenpo suno tu wan |10 |
+|palisa pi alasa kala |10 |linja wawa (25ft/8m) |5 |
+|sike lili mute pi ilo musi |5 |ilo pi tu kasi |5 |
+|ko pi awen poka |5 |poki len |5 |
+|ko moku |10 | ilo pi lupa ma |5 |
+|luka palisa kiwen lon pini linja |25 |kiwen pi weka jaki |1 |
+|ilo kiwen |5 |palisa kiwen lili |1 |
+|telo pi nasin sewi |25 |len noka pi palisa kiwen lili mute |5 |
+|palisa pi lawa soweli |10 |ilo palisa pi lukin weka |40 |
+|soweli tawa wawa (lupa ijo +4)|75 |ko pi ama kiwen |10 |
+|ilo tenpo pi poki ko |50 |tomo len (jan tu li ken insa, suli a)|20 |
+|palisa kasi pi kon seli |10 |palisa suno |1 |
+|nasin palisa pi tawa sewi (suli a, 10ft/3m)           |10 |tomo tawa (lupa ijo +8, wile e tenpo suli)|200 |
+|ilo suno en telo ko seli|10  |kasi pi ken moli |10 |
 
 <p></p>
 
@@ -1143,7 +1145,7 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 | 11   | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. |
 | 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
 
-[back to index](#index)
+[o tawa sin pi lukin lipu](#index)
 <p></p>
 
 ## Bestiary
@@ -1210,7 +1212,7 @@ Some pointers:
 
 Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 
-[back to index](#index)
+[o tawa sin pi lukin lipu](#index)
 <p></p>
 
 ## nasa wawa 100
