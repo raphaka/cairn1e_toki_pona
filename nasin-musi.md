@@ -277,7 +277,7 @@ Expand For Example
 <!--sina wile lukin e toki lili la o suli e lipu
  </summary>-->
 <!--jan Inesu li tawa e kiwen ken tawa wawa sijelo pi jan musi ona. nanpa li 2 li 4 li 6 li kulupu tawa 12…-->
-_jan Inesu li tawa e kiwen ken tawa WAW pi jan musi ona. nanpa li **2** li **4** li **6** la kulupu ona li **12**. ante la nanpa wawa **TAW** li **9**. nanpa wawa **LAW** li **13** ona li wile ante e **12** e **9** la nanpa wawa la jan musi li jo e **9 WAW** e **12 TAW** e **13 LAW**._
+_jan Inesu li wile pali e nanpa wawa **WAW** pi jan musi ona la ona li tawa e kiwen ken. nanpa li **2** li **4** li **6** la kulupu ona li **12**. ante la nanpa wawa **TAW** li **9**. nanpa wawa **LAW** li **13** ona li wile ante e **12** e **9** la nanpa wawa la jan musi li jo e **9 WAW** e **12 TAW** e **13 LAW**._
 <!--</details>-->
 
 <!--### Hit Protection
