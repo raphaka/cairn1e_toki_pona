@@ -277,9 +277,7 @@ Expand For Example
 <!--sina wile lukin e toki lili la o suli e lipu
  </summary>-->
 <!--jan Inesu li tawa e kiwen ken tawa wawa sijelo pi jan musi ona. nanpa li 2 li 4 li 6 li kulupu tawa 12…-->
-```
-jan Inesu li tawa e kiwen ken tawa WAW pi jan musi ona. nanpa li **2** li **4** li **6** la kulupu ona li **12**. ante la nanpa wawa **TAW** li **9**. nanpa wawa **LAW** li **13** ona li wile ante e **12** e **9** la nanpa wawa la jan musi li jo e **9 WAW** e **12 TAW** e **13 LAW**.
-```
+_jan Inesu li tawa e kiwen ken tawa WAW pi jan musi ona. nanpa li **2** li **4** li **6** la kulupu ona li **12**. ante la nanpa wawa **TAW** li **9**. nanpa wawa **LAW** li **13** ona li wile ante e **12** e **9** la nanpa wawa la jan musi li jo e **9 WAW** e **12 TAW** e **13 LAW**._
 <!--</details>-->
 
 <!--### Hit Protection
@@ -1090,9 +1088,11 @@ Expand For Example
  </summary>
 _Bea encounters a group of heavily-armed Goblins standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!
 -->
-```
-jan Peja li kama poka kulupu pi jan nasa ike lili. kulupu ni li jo e ilo utala suli mute li lukin awen e lupa pi tomo anpa kiwen. jan lon li sona e nanpa TAW 13 ona li wile e ni: jan musi Peja li tawa monsi pi jan ike kepeken kalama ala. ona li tawa e k20 la nanpa li 10 - pona a!
-```
+<!--<details markdown="block">
+  <summary>
+sina wile lukin e toki lili la o suli e lipu
+ </summary>-->
+_jan Peja li kama poka kulupu pi jan nasa ike lili. kulupu ni li jo e ilo utala suli mute li lukin awen e lupa pi tomo anpa kiwen. jan lon li sona e nanpa TAW 13 ona li wile e ni: jan musi Peja li tawa monsi pi jan ike kepeken kalama ala. ona li tawa e k20 la nanpa li 10 - pona a!_
 <!--</details>-->
 
 ### Healing
