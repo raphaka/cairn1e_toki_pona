@@ -15,6 +15,7 @@ Please use the suggestions from the "toki pona" column. If you prefer the altern
 | Armor                   | nanpa awen/len awen     | (nanpa pi) len kiwen / nanpa kiwen |
 | Background              | pali (pi jan musi)        | tenpo pini pi jan musi |
 | backpack                | poki monsi                |                      |
+| Bea                     | jan musi Peja     ||
 | Blast                   | pakala suli               | pakala ma            |
 | bulky                   | suli a                    |                      |
 | Cairn                   | Cairn (Main title)        | kiwen pi jan moli (Subtitle ) |
@@ -35,6 +36,7 @@ Please use the suggestions from the "toki pona" column. If you prefer the altern
 | horse                   | soweli tawa               |                      |
 | HP / Hit protection     | nanpan pi ken utala (KU)  | awen pakala (AP) / awen utala (AU) |
 | Impaired (attack)       | (utala pi) wawa lili      | wawa ike             |
+| Ines                    | jan Inesu         ||
 | Inventory               | poki jo                   | jo pi jan musi       |
 | Inventory slot/Item slot| lupa ijo                  |                      |
 | Item                    | ijo        ||
@@ -46,7 +48,7 @@ Please use the suggestions from the "toki pona" column. If you prefer the altern
 | relic                   | ilo nasa     ||
 | roll                    | o tawa e kiwen ken / o tawa e 3k6 | o pana/luka e kiwen ken |
 | rules                   | nasin musi ||
-| Save / Saving Throw     | utala e WAW||
+| Save / Saving Throw     | utala e WAW, utala pi nanpa wawa ||
 | Scar                    | pakala sijelo             ||
 | scroll                  | lipu lili pi nasa wawa          ||
 | Silver Piece            | mani                      | mani sike pi kiwen walo / mani walo (mw) |
