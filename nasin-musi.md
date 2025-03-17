@@ -271,14 +271,16 @@ Expand For Example
  Ines rolls for her character's **STR**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL**. She decides to swap the **12** and the **9**, for a character with **9 STR**, **12 DEX** and **13** **WIL**.
 </details>-->
 
-<details markdown="block">
+<!--<details markdown="block">
   <summary>
 <!--sina wile lukin e lipu la o kama suli-->
 sina wile lukin e toki lili la o suli e lipu
- </summary>
+ </summary>-->
 <!--jan Inesu li tawa e kiwen ken tawa wawa sijelo pi jan musi ona. nanpa li 2 li 4 li 6 li kulupu tawa 12…-->
+```
 jan Inesu li tawa e kiwen ken tawa WAW pi jan musi ona. nanpa li **2** li **4** li **6** la kulupu ona li **12**. ante la nanpa wawa **TAW** li **9**. nanpa wawa **LAW** li **13** ona li wile ante e **12** e **9** la nanpa wawa la jan musi li jo e **9 WAW** e **12 TAW** e **13 LAW**.
-</details>
+```
+<!--</details>-->
 
 <!--### Hit Protection
 Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](/cairn-srd#scars-1) table.-->
@@ -1060,26 +1062,38 @@ jan ni li awen e soweli e waso e akesi. ona li pana e moku tawa ona li utala e s
 
 [o tawa sin pi lukin lipu](#index)
 <p></p>
+<!--## Rules-->
+## nasin musi
 
-## Rules
-### Abilities
-Each of the three **abilities** are used in different circumstances (see **saves**, below).
+<!--### Abilities
+Each of the three **abilities** are used in different circumstances (see **saves**, below).-->
+jan li utala kepeken **nanpa wawa** tu wan lon tenpo pi sama ala (o lukin e **utala pi nanpa wawa**, lon anpa).
 
-**Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
+<!--**Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.-->
+**wawa sijelo** (WAW): o utala e WAW lon tenpo pi wile wawa sijelo sama ni: jan musi li tawa e ijo suli, anu pakala e palisa kiwen, anu moku e telo ike li wile awen pona.
 
-**Dexterity (DEX)**: Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
+<!--**Dexterity (DEX)**: Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.-->
+**Tawa Pona (TAW)**: o utala e TAW lon tenpo pi wile tawa sama ni: jan musi li tawa kepeken tenpo lili, anu tawa pi kalama ala, anu tawa sewi lon sinpin kiwen, anu weka pi ken pakala.
 
-**Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
+<!--**Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.-->
+**lawa wile (LAW)**: o utala e LAW lon tenpo pi wile sona anu toki sama ni: jan musi li toki pi lon ala, anu toki pi wile sona, anu toki monsuta tawa jan ante, anu wile ante e nasa wawa.
 
-### Saves
-A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
 
-<details markdown="block">
+<!--### Saves
+A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.-->
+### utala pi nanpa wawa
+ike li ken lon tenpo ni la o utala e nanpa wawa. o tawa e k20 pi nanpa wawa wan. nanpa wawa la nanpa pi kiwen ken li sama anu lili la utala li pona. jan musi li ken e wile ona. nanpa pi kiwen ken li suli li suli pi nanpa wawa la utala li ike. ante la, nanpa 1 pi kiwen ken li pona lon tenpo ale. nanpa 20 pi kiwen ken li ike lon tenpo ale.
+
+<!--<details markdown="block">
   <summary>
 Expand For Example
  </summary>
- _Bea encounters a group of heavily-armed Goblins standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
-</details>
+_Bea encounters a group of heavily-armed Goblins standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!
+-->
+```
+jan Peja li kama poka kulupu pi jan nasa ike lili. kulupu ni li jo e ilo utala suli mute li lukin awen e lupa pi tomo anpa kiwen. jan lon li sona e nanpa TAW 13 ona li wile e ni: jan musi Peja li tawa monsi pi jan ike kepeken kalama ala. ona li tawa e k20 la nanpa li 10 - pona a!
+```
+<!--</details>-->
 
 ### Healing
 Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss (see **Critical Damage**) can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services are free, while magical or more expedient means of recovery may come at a cost.
