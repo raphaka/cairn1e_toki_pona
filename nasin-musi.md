@@ -1072,7 +1072,7 @@ jan li utala kepeken **nanpa wawa** tu wan lon tenpo pi sama ala (o lukin e **ut
 **wawa sijelo** (WAW): o utala e WAW lon tenpo pi wile wawa sijelo sama ni: jan musi li tawa e ijo suli, anu pakala e palisa kiwen, anu moku e telo ike li wile awen pona.
 
 <!--**Dexterity (DEX)**: Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.-->
-**Tawa Pona (TAW)**: o utala e TAW lon tenpo pi wile tawa sama ni: jan musi li tawa kepeken tenpo lili, anu tawa pi kalama ala, anu tawa sewi lon sinpin kiwen, anu weka pi ken pakala.
+**tawa pona (TAW)**: o utala e TAW lon tenpo pi wile tawa sama ni: jan musi li tawa kepeken tenpo lili, anu tawa pi kalama ala, anu tawa sewi lon sinpin kiwen, anu weka pi ken pakala.
 
 <!--**Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.-->
 **lawa wile (LAW)**: o utala e LAW lon tenpo pi wile sona anu toki sama ni: jan musi li toki pi lon ala, anu toki pi wile sona, anu toki monsuta tawa jan ante, anu wile ante e nasa wawa.
