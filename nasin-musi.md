@@ -1161,14 +1161,20 @@ ma tomo anu tomo suli wawa anu ma pi tomo tawa telo la jan li esun e ijo mani sa
 ## nasa wawa
 **lipu pi nasa wawa** li wile e lupa ijo wan li toki e sona pi nasa wawa wan. jan li ken ala sitelen anu pali e lipu ni. taso, jan musi li ken kama jo e ona lon tomo moli anu lupa nasa anu tomo suli wawa.
 
-Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or being legible only when held in moonlight.
+<!--Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or being legible only when held in moonlight.-->
+tenpo ken la lipu pi nasa wawa li lukin nasa anu pilin nasa. ken la lipu li pana e pilin kon ike anu pilin kon pi ma ante. ken la lipu li ken sona sama jan anu soweli. ken la jan li ken lukin e sitelen lipu lon suno pi sike mun taso.
 
-Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
+<!--Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.-->
+lipu pi nasa wawa li ken lon e ni: jan ante li alasa sona e nasa wawa la ona li wile e lipu sina. ike la ni li ken utala tawa sina la o pana lukin e lipu sina ala.
 
-**Scrolls** are similar to Spellbooks, however:
+<!--**Scrolls** are similar to Spellbooks, however:
 - They do not take up an inventory slot.
 - They do not cause fatigue.
-- They disappear after one use.
+- They disappear after one use.-->
+**lipu lili pi nasa wawa** li sama lipu pi nasa wawa, taso:
+- poki jo la ona li wile ala e lupa ijo.
+- ona li pana ala e pilin lape.
+- tenpo kepeken pi nanpa wan la ona li weka.
 
 <!--### Casting Spells
 Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.-->
@@ -1259,7 +1265,7 @@ Running away from a dire situation always requires a successful DEX save, as wel
 ### Scars
 When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the _total_ damage taken:
 
-|      |                                                              |
+|||
 |------ |---|
 | 1    | Lasting Scar: Roll 1d6 &#124; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result. |
 | 2    | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result. |
