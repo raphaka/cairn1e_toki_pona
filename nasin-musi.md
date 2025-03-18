@@ -1096,11 +1096,15 @@ sina wile lukin e toki lili la o suli e lipu
 _jan Peja li kama poka kulupu pi jan nasa ike lili. kulupu ni li jo e ilo utala suli mute li lukin awen e lupa pi tomo anpa kiwen. jan lon li sona e nanpa TAW 13 ona li wile e ni: jan musi Peja li tawa monsi pi jan ike kepeken kalama ala. ona li tawa e k20 la nanpa li 10 - pona a!_
 <!--</details>-->
 
-### Healing
-Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss (see **Critical Damage**) can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services are free, while magical or more expedient means of recovery may come at a cost.
+<!--### Healing
+Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss (see **Critical Damage**) can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services are free, while magical or more expedient means of recovery may come at a cost.-->
+### kama pona sin
+jan musi lape e sijelo ona lon tenpo lili li moku e telo la KU ale li lon sin. taso tenpo lape la ike li ken kama li ken pakala e ona. weka pi nanpa wawa (o lukin e **pakala ike**) la kama pona sin li wile e tenpo suno mute pi luka tu li wile e jan sona pi pona sijelo anu sona ante pi ken pona. pali ni li ken wile e mani ala la taso pona sijelo pi nasa wawa li wile e mani mute.
 
-### Deprivation & Fatigue
-A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot). PCs can also gain Fatigue by **casting spells** or through events in the fiction.
+<!--### Deprivation & Fatigue
+A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot). PCs can also gain Fatigue by **casting spells** or through events in the fiction.-->
+### pilin ike en lape
+jan musi la ijo pi suli a li lon ala (ken la moku anu lape) la ona li **pilin ike**. pilin ike la KU ona en nanpa wawa ona li ken ala kama pona sin. **pilin ike** li awen e tenpo suno wan la ja musi li kama jo e **lape** lon poki jo. pilin ike li awen e tenpo suno ante la poki jo pi jan musi li kama jo e lape ante. lape wan li wile e lupa ijo wan. jan li ken kama wawa sin (ken la ona li lape e tenpo pimeja wan ale lon ma pona) la lape li weka. jan musi li ken kama jo e lape tan **pali pi nasa wawa** anu ijo ante pi insa musi.
 
 ### Armor
 Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
@@ -1163,8 +1167,10 @@ Spellbooks will attract the attention of those who seek the arcane power within,
 - They do not cause fatigue.
 - They disappear after one use.
 
-### Casting Spells
-Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
+<!--### Casting Spells
+Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.-->
+### pali pi nasa wawa
+**TODO**
 
 ### Relics
 **Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have a limited use, as well as a recharge condition. A few examples:
