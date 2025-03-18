@@ -20,7 +20,7 @@ Please use the suggestions from the "toki pona" column. If you prefer the altern
 | bulky                   | suli a                    |                      |
 | Cairn                   | Cairn (Main title)        | kiwen pi jan moli (Subtitle ) |
 | cart                    | poki tawa                 |                      |
-| casting a spell         | lon e nasa wawa ||
+| casting a spell         | pali pi nasa wawa ||
 | class                   | nasin pi kulupu jan pali  | nasin pi jan musi    |
 | Copper Piece            | mani                      | mani sike pi kiwen loje / mani loje (ml) |
 | Critical Damage         | pakala ike                | pakala ale/wawa/suli |
