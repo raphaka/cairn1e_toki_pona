@@ -1103,13 +1103,15 @@ jan musi lape e sijelo ona lon tenpo lili li moku e telo la KU ale li lon sin. t
 
 <!--### Deprivation & Fatigue
 A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot). PCs can also gain Fatigue by **casting spells** or through events in the fiction.-->
-### pilin ike en lape
-jan musi la ijo pi suli a li lon ala (ken la moku anu lape) la ona li **pilin ike**. pilin ike la KU ona en nanpa wawa ona li ken ala kama pona sin. **pilin ike** li awen e tenpo suno wan la ja musi li kama jo e **lape** lon poki jo. pilin ike li awen e tenpo suno ante la poki jo pi jan musi li kama jo e lape ante. lape wan li wile e lupa ijo wan. jan li ken kama wawa sin (ken la ona li lape e tenpo pimeja wan ale lon ma pona) la lape li weka. jan musi li ken kama jo e lape tan **pali pi nasa wawa** anu ijo ante pi insa musi.
+### pilin ike en pilin lape
+jan musi la ijo pi suli a li lon ala (ken la moku anu lape) la ona li **pilin ike**. pilin ike la KU ona en nanpa wawa ona li ken ala kama pona sin. **pilin ike** li awen e tenpo suno wan la lupa ijo wan lon poki jo pi jan musi li kama **pilin lape**. pilin ike li awen e tenpo suno ante la lupa ijo ante li kama pilin lape kin. jan li ken kama wawa sin (ken la ona li lape e tenpo pimeja wan ale lon ma pona) la pilin lape li weka. pilin lape li ken kama tan **pali pi nasa wawa** anu ijo ante pi insa musi.
 
-### Armor
+<!--### Armor
 Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
 No one can have more than 3 Armor.  
-Shields, gauntlets, and helms may provide additional benefits according to their use.
+Shields, gauntlets, and helms may provide additional benefits according to their use.-->
+### nanpa awen
+len awen ale li jo e **nanpa awen**. sina pakala e KU la open la o weka e nanpa awen tan nanpa pi kiwen ken pakala. supa kiwen luka en awen sama li pana e pona pi nanpa awen (ken la nanpa awen +1), taso sina o jo e supa anu awen ni lon luka anu sijelo sina lon tenpo utala. nanpa awen 3 li pini ale la jan musi li ken ala jo e len pi nanpa awen 4 anu suli.
 
 <!--### Reactions
 When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
