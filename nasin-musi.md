@@ -1147,10 +1147,11 @@ The most common coin is the gold piece (gp), which is equal to 10 silver pieces 
 ### mani en ijo mani
 tenpo pi mute wawa la jan li jo e mani sike ni: mani sike pi kiwen jelo. mani jelo (mj) li sama mani walo (mw) 10 li sama mani loje (ml) 100. 
 
-<!--this text is basically a copy from the start of the document, copypast translation as well-->
-Treasure is highly valuable, usually bulky, and rarely useful beyond its value. It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
+<!--Treasure is highly valuable, usually bulky, and rarely useful beyond its value. It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.-->
+tenpo mute la ijo mani li pana e mani a li suli a li pana ala e ken pona. tan wile pi ijo mani la jan musi li tawa nasin nasa pi ken utala anu ken pakala. tenpo mute la jan ike wawa en soweli ike suli li awen e ijo mani ni.
 
-Villages, strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
+<!--Villages, strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.-->
+ma tomo anu tomo suli wawa anu ma pi tomo tawa telo la jan li esun e ijo mani sama ni: ijo mani wan li mute lili lon ma la jan pi ma ni li pana esun e mani mute tan ona. ona li mute suli lon ma la jan pi ma ni li pana esun e mani pi mute lili taso.
 
 <!--
 ## Magic
