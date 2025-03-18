@@ -31,7 +31,7 @@ Please use the suggestions from the "toki pona" column. If you prefer the altern
 | die/dice                | kiwen ken                 | kiwen nanpa          |
 | Enhanced (Attack)       | (utala pi) wawa suli      | wawa pona            | 
 | Expeditionary Gear | ilo pi jan tawa ||
-| Fatigue                 | lape                      |                      |
+| Fatigue                 | pilin lape                      |                      |
 | gold piece              | mani               | mani sike pi kiwen jelo / mani jelo (mj) |
 | healing                 | kama pona sin             ||
 | horse                   | soweli tawa               |                      |
