@@ -1195,16 +1195,19 @@ jan li **pilin ike** anu ken pakala li lon la jan lawa li ken toki e ni: jan mus
 **palisa pi alasa kepeken waso** , ken kepeken 1. palisa ni li pona a tawa jan pi alasa kepeken waso li lukin sama linja wawa pi sewi pimeja. ona li ken lon e _Tawa Wawa_. nasin pi sin wawa: o tawa kon e ona kepeken ilo supa pi alasa weka. pini la o kama jo sin e ona.
 
 <!--**Staff of Silence** , 1 charge. This blackened rod temporarily disables all magic within 50ft. Recharge: bathe in the light of a full moon.-->
-**palisa pi kalama ala** , ken kepeken 1. palisa suli ni li kule pimeja li ken weka e nasa wawa ale lon weka 50ft/15m. nasin pi sin wawa: mun li suno ale la o insa e palisa lon suno mun.
+**palisa pi kalama ala** , ken kepeken 1. palisa suli ni li kule pimeja li ken weka e nasa wawa ale lon insa 50ft/15m. nasin pi sin wawa: mun li suno ale la o insa e palisa lon suno mun.
 
 <!--**Leycap** , 1 use. Anyone ingesting this green-flecked mushroom loses a Fatigue, but is then required to make a WIL save to avoid its addictive properties. A fail leaves the PC deprived and unable to focus until they can eat another leycap, providing only a brief reprieve from the addiction.-->
 
 **kasi Lika** , ken kepeken 1. kasi ni li kasi sike lon anpa pi kasi suli li jo e sike lili laso. jan li moku e kasi ni la ona li weka e lape wan taso ona o utala e LAW tan ni: ken la ona li kama wile e mute li ken ala pini. utala LAW ni li ike la lawa pi jan musi li wawa ala. jan li moku e kasi Lika sin la ona li pona sin lon tenpo lili. taso ona li awen wile e kasi lon tenpo kama.
 
-## Combat
+<!--## Combat-->
+## utala
 
-### Rounds
-The game typically plays without strict time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **round** is roughly ten seconds of in-game time and is comprised of turns.
+<!--### Rounds
+The game typically plays without strict time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **round** is roughly ten seconds of in-game time and is comprised of turns.-->
+### tenpo tawa
+tenpo mute lon insa musi la sina nanpa ala e tenpo. taso utala en tenpo ante la nanpa tenpo li ken pona. tenpo ni la o musi kepeken **tenpo tawa**. tenpo tawa wan li sama tenpo lili lili 10s pi insa musi.
 
 ### Actions
 On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, making a second move, or some other reasonable action.
