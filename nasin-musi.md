@@ -1185,6 +1185,7 @@ jan li **pilin ike** anu ken pakala li lon la jan lawa li ken toki e ni: jan mus
 
 <!--### Relics
 **Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have a limited use, as well as a recharge condition. A few examples:-->
+### ilo nasa
 **ilo nasa** li ken lon e nasa wawa. ona li pana ala e pilin lape tawa jan musi. ilo nasa mute la sina ken ala lon e nasa wawa lon tenpo ale. sina ni lon mute lili la wawa pi ilo nasa li weka. taso wawa ni li ken kama sin kepeken nasin pi sin wawa. o lukin e ilo nasa ken ni:
 
 <!--**Honeyclasp** , 3 charges. A rusted ring that shrinks the bearer to 6" tall. Recharge: place in a thimble-sized cup of royal jelly.-->
