@@ -1179,20 +1179,20 @@ lipu pi nasa wawa li ken lon e ni: jan ante li alasa sona e nasa wawa la ona li 
 <!--### Casting Spells
 Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.-->
 ### pali pi nasa wawa
-jan ale li ken lon e nasa wawa kepeken lipu pi nasa wawa. ona o jo e lipu lon luka tu ona, o toki kalama e toki pi insa lipu. kin la ona o pana e **pilin lape** wan tawa poki jo ona la ni li wile e lupa ijo wan.
+jan ale li ken pali e nasa wawa kepeken lipu pi nasa wawa. ona o jo e lipu lon luka tu ona, o toki kalama e toki pi insa lipu. kin la ona o pana e **pilin lape** wan tawa poki jo ona la ni li wile e lupa ijo wan.
 tenpo li suli li tenpo pi ken utala kin la jan musi li ken suli e ken wawa pi nasa wawa (ken la nasa wawa pi jan wan li kama nasa wawa pi jan mute. anu ken pakala pi nasa wawa li kama suli a). suli pi ken wawa ni li wile ala e ijo ante li wile e tenpo suli e tenpo pi utala ala taso.
 jan li **pilin ike** anu ken pakala li lon la jan lawa li ken toki e ni: jan musi o utala e LAW. utala pi nanpa wawa LAW ni li ike la pakala li kama li suli sama wawa pi nasa wawa. ken la pilin lape tu anu mute li kama. ken la lipu pi nasa wawa li pakala weka. ken la jan musi li pakala e sijelo ona. kin la moli li ken.
 
 <!--### Relics
 **Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have a limited use, as well as a recharge condition. A few examples:-->
 ### ilo nasa
-**ilo nasa** li ken lon e nasa wawa. ona li pana ala e pilin lape tawa jan musi. ilo nasa mute la sina ken ala lon e nasa wawa lon tenpo ale. sina ni lon mute lili la wawa pi ilo nasa li weka. taso wawa ni li ken kama sin kepeken nasin pi sin wawa. o lukin e ilo nasa ken ni:
+**ilo nasa** li ken pali e nasa wawa. ona li pana ala e pilin lape tawa jan musi. ilo nasa mute la sina ken ala pali e nasa wawa lon tenpo ale. sina ni lon mute lili la wawa pi ilo nasa li weka. taso wawa ni li ken kama sin kepeken nasin pi sin wawa. o lukin e ilo nasa ken ni:
 
 <!--**Honeyclasp** , 3 charges. A rusted ring that shrinks the bearer to 6" tall. Recharge: place in a thimble-sized cup of royal jelly.-->
 **sike suwi** _ ken kepeken 3. ona li sike pi palisa luka. kiwen ona li kama loje tan tenpo suli. jan li jo e sike la ona li ken lili e sijelo ona tawa suli 6"/15cm. nasin pi sin wawa: tomo pi pipi jelo pimeja la ko suwi pi pipi lawa li lon. o pana e ko suwi ni tawa poki lili e sike suwi tawa insa pi ko suwi. pini la wawa ale pi sike suwi li kama sin.
 
 <!--**Falconer's Friend** , 1 charge. A bolt-shaped wand carrying the _Haste_ spell. Recharge: fire from a crossbow and recover.-->
-**palisa pi alasa kepeken waso** , ken kepeken 1. palisa ni li pona a tawa jan pi alasa kepeken waso li lukin sama linja wawa pi sewi pimeja. ona li ken lon e _Tawa Wawa_. nasin pi sin wawa: o tawa kon e ona kepeken ilo supa pi alasa weka. pini la o kama jo sin e ona.
+**palisa pi alasa kepeken waso** , ken kepeken 1. palisa ni li pona a tawa jan pi alasa kepeken waso li lukin sama linja wawa pi sewi pimeja. ona li ken pali e _Tawa Wawa_. nasin pi sin wawa: o tawa kon e ona kepeken ilo supa pi alasa weka. pini la o kama jo sin e ona.
 
 <!--**Staff of Silence** , 1 charge. This blackened rod temporarily disables all magic within 50ft. Recharge: bathe in the light of a full moon.-->
 **palisa pi kalama ala** , ken kepeken 1. palisa suli ni li kule pimeja li ken weka e nasa wawa ale lon insa 50ft/15m. nasin pi sin wawa: mun li suno ale la o insa e palisa lon suno mun.
