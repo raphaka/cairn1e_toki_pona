@@ -328,6 +328,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 <p></p>
 
 ## nimi en pali (k20)
+**TODO: capital letters**
 #### nimi
 |||||||||
 |--|--|--|--|--|--|--|--|
