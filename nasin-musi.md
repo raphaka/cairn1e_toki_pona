@@ -329,7 +329,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 
 ## nimi en pali (k20)
 #### nimi
-||||||
+|||||||
 |--|--|--|--|--|--|
 |1|Seke|26|Lunone|51|Wamepa|76|Kipujo|
 |2|Munase|27|Namami|52|Piwa|77|Junon|
@@ -1216,8 +1216,10 @@ tenpo tawa la jan musi li ken tawa 40ft/12m. kin la ona li ken **ijo wan pi tenp
 <!--Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs.-->
 open pi tenpo sike la jan li toki e wile pi jan musi ona. ken pakala li lon tan wile pi jan musi la jan lawa li toki wile e utala pi nanpa wawa. ken la jan musi o utala e nanpa wawa ona, taso ken la jan ante o ni.
 
-### Turns
-The Warden will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a DEX save to act before their opponents.
+<!--### Turns
+The Warden will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a DEX save to act before their opponents.-->
+### tenpo tawa
+jan lawa li toki e ni pi tenpo tawa kama: ken suli la jan ante anu soweli ante li ijo seme pi tenpo tawa. open utala la jan musi ale o utala e TAW tan ni: pona la ona li ken tawa lon open utala. ike la ona li awen la jan ante li open e utala.
 
 <details markdown="block">
   <summary>
