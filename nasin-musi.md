@@ -1213,7 +1213,8 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 ### ijo pi tenpo tawa
 tenpo tawa la jan musi li ken tawa 40ft/12m. kin la ona li ken **ijo wan pi tenpo tawa**. ijo wan ni li ken pali e nasa wawa wan li ken utala li ken tawa e 40ft/12m ante. ijo ante li wile ala e tenpo mute e wawa mute la ona kin li ken ijo wan pi tenpo tawa.
 
-Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs.
+<!--Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs.-->
+open pi tenpo sike la jan li toki e wile pi jan musi ona. ken pakala li lon tan wile pi jan musi la jan lawa li toki wile e utala pi nanpa wawa. ken la jan musi o utala e nanpa wawa ona, taso ken la jan ante o ni.
 
 ### Turns
 The Warden will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a DEX save to act before their opponents.
@@ -1225,7 +1226,7 @@ Expand For Example
  _Bea has accidentally stumbled onto the stomping grounds of a massive Wood Troll. In order to make a move before the Troll, she makes a DEX save. She fails, and the Troll gets to attack first._
 </details>
 
-<!--### Attacking & Damage
+<!--### Attacking en Damage
 The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Unarmed attacks always do 1d4 damage.-->
 ### utala & pakala
 jan anu soweli la wan li utala e wan ante la o ni:
