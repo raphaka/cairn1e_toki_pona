@@ -330,33 +330,33 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 ## nimi en pali (k20)
 **TODO: capital letters**
 #### nimi
-|||||||||
-|--|--|--|--|--|--|--|--|
-|1|talosan|26|lapo|51|nunan|76|piko|
-|2|lanule|27|jukeku|52|uwanse|77|poseson|
-|3|sepan|28|lesi|53|lomewa|78|jajawa|
-|4|jasi|29|jete|54|kena|79|unen|
-|5|nimen|30|moten|55|kita|80|luku|
-|6|pule|31|wisutu|56|muma|81|neliku|
-|7|kakun|32|mona|57|une|82|kopon|
-|8|situn|33|nuton|58|lusu|83|nanan|
-|9|lulu|34|muluka|59|wilujen|84|kowe|
-|10|pepe|35|lamenpun|60|muje|85|luwin|
-|11|jola|36|liwisen|61|nemapa|86|meko|
-|12|kimawa|37|niton|62|junen|87|samo|
-|13|seno|38|naju|63|simo|88|pema|
-|14|lunon|39|oneja|64|lamanton|89|amo|
-|15|jonan|40|wijeja|65|mowalo|90|nulin|
-|16|laninki|41|nujunwin|66|toninpan|91|wapapin|
-|17|talinlu|42|koje|67|muka|92|kimupi|
-|18|jatalon|43|kekon|68|telu|93|pepapun|
-|19|saneta|44|meso|69|mijun|94|anon|
-|20|tenike|45|mujamin|70|wisonsun|95|lanoni|
-|21|jasana|46|maken|71|sawe|96|kimu|
-|22|kolen|47|numa|72|kuneso|97|mulanu|
-|23|supito|48|kawan|73|setumi|98|jusu|
-|24|pula|49|tumopu|74|teki|99|winin|
-|25|iko|50|nani|75|potunpu|100|tupi|
+||||||
+|--|--|--|--|--|--|
+|1|Seke|26|Lunone|51|Wamepa|76|Kipujo|
+|2|Munase|27|Namami|52|Piwa|77|Junon|
+|3|Towa|28|Likun|53|Juwa|78|Kope|
+|4|Inunten|29|Nesu|54|Munonlo|79|Nikiju|
+|5|Olimo|30|Oje|55|Pejen|80|Lejensa|
+|6|Kiwamo|31|Temunsi|56|Lupo|81|Kanu|
+|7|Jotupo|32|Iko|57|Wetu|82|Pejo|
+|8|Jomen|33|Wanun|58|Kepun|83|Muwise|
+|9|Meki|34|Posan|59|Tetu|84|Jote|
+|10|Mekin|35|Tajeli|60|Nenesin|85|Pilime|
+|11|Jewinse|36|Opentu|61|Newa|86|Lutu|
+|12|Wamo|37|Miwi|62|Emi|87|Ono|
+|13|Nesan|38|Puluta|63|Pojo|88|Lumulu|
+|14|Ute|39|Pinope|64|Moponte|89|Tasupe|
+|15|Potupi|40|Pemupu|65|Ilala|90|Sakoju|
+|16|Suwen|41|Ena|66|Kowan|91|Nukan|
+|17|Lipipu|42|Tuka Atan|67|Nejo|92|Wapi|
+|18|Unilo|43|Katu|68|Natunli|93|Netomu|
+|19|Kemawi|44|Tewin|69|Mijun|94|Utoka|
+|20|Kepon|45|Aku|70|Kiso|95|Jutana|
+|21|Mewanu|46|Kiko|71|Wekama|96|Pamiwe|
+|22|Jasina|47|Nopupa|72|Peki|97|Sokelan|
+|23|Silowe|48|Tanomo|73|Loli|98|Nutun|
+|24|Janu|49|Masunpo|74|Ato|99|Liku|
+|25|Osu|50|Kesisa|75|Kipo|100|Mukeno|
 
 <!--#### background
 
