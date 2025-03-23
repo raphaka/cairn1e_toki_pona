@@ -328,7 +328,6 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 <p></p>
 
 ## nimi en pali (k20)
-**TODO: capital letters**
 #### nimi
 ||||||
 |--|--|--|--|--|--|
@@ -1206,11 +1205,13 @@ jan li **pilin ike** anu ken pakala li lon la jan lawa li ken toki e ni: jan mus
 
 <!--### Rounds
 The game typically plays without strict time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **round** is roughly ten seconds of in-game time and is comprised of turns.-->
-### tenpo tawa
-tenpo mute lon insa musi la sina nanpa ala e tenpo. taso utala en tenpo ante la nanpa tenpo li ken pona. tenpo ni la o musi kepeken **tenpo tawa**. tenpo tawa wan li sama tenpo lili lili 10s pi insa musi.
+### tenpo sike
+tenpo mute lon insa musi la sina nanpa ala e tenpo. taso utala en tenpo ante la nanpa tenpo li ken pona. tenpo ni la o musi kepeken **tenpo sike**. tenpo sike wan li sama tenpo lili lili 10s pi insa musi. insa pi tenpo sike la tenpo tawa li lon.
 
-### Actions
-On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, making a second move, or some other reasonable action.
+<!--### Actions
+On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, making a second move, or some other reasonable action.-->
+### ijo pi tenpo tawa
+tenpo tawa la jan musi li ken tawa 40ft/12m. kin la ona li ken **ijo wan pi tenpo tawa**. ijo wan ni li ken pali e nasa wawa wan li ken utala li ken tawa e 40ft/12m ante. ijo ante li wile ala e tenpo mute e wawa mute la ona kin li ken ijo wan pi tenpo tawa.
 
 Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs.
 
