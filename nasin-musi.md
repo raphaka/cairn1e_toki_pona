@@ -1158,7 +1158,6 @@ ma tomo anu tomo suli wawa anu ma pi tomo tawa telo la jan li esun e ijo mani sa
 ## Magic
 **Spellbooks** contain a single spell and take up one slot. They cannot be transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.-->
 
-
 ## nasa wawa
 **lipu pi nasa wawa** li wile e lupa ijo wan li toki e sona pi nasa wawa wan. jan li ken ala sitelen anu pali e lipu ni. taso, jan musi li ken kama jo e ona lon tomo moli anu lupa nasa anu tomo suli wawa.
 
@@ -1225,15 +1224,23 @@ Expand For Example
  _Bea has accidentally stumbled onto the stomping grounds of a massive Wood Troll. In order to make a move before the Troll, she makes a DEX save. She fails, and the Troll gets to attack first._
 </details>
 
-### Attacking & Damage
-The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Unarmed attacks always do 1d4 damage.
+<!--### Attacking & Damage
+The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Unarmed attacks always do 1d4 damage.-->
+### utala & pakala
+jan anu soweli la wan li utala e wan ante la o ni:
+- o tawa e kiwen ken pi ilo utala ona.
+- jan li utala kepeken luka kepeken ilo ala la kiwen ken ona li 1k4.
+- o weka e nanpa awen pi wan ante tan nanpa pi kiwen ken la ni li pali e nanpa pakala.
+- o weka e nanpa pakala tan KU pi wan ante.
 
-<details markdown="block">
+
+<!--<details markdown="block">
   <summary>
 Expand For Example
  </summary>
  _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the Warden rolls a 4. They subtract 1 to account for Bea's  leather armor, leaving Bea with 2 HP remaining._
-</details>
+</details>-->
+_jan kasi suli li mu utala li tawa sike e ilo pakala ona tawa jan Peja. KU pi jan Peja li 5. kiwen ken pi ilo pakala ni li 1k10 la jan lawa li tawa e ona li lukin e nanpa 4. jan Peja li jo e len awen pi nanpa awen 1 la jan lawa li weka e ni tan nanpa 4 la nanpa pakala li 3. ona li weka e 3 tan KU pi jan Peja la KU ni li kama 2._
 
 ### Multiple Attackers
 If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
