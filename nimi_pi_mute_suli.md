@@ -12,6 +12,7 @@ Please use the suggestions from the "toki pona" column. If you prefer the altern
 | (1) d12                 | k12                       | kLLT                 |
 | 40ft                    |                           |                      |
 | Ability Score           | nanpa wawa                | nanpa ken            |
+| Action                  | ijo (wan) pi tenpo tawa ||
 | Armor                   | nanpa awen/len awen     | (nanpa pi) len kiwen / nanpa kiwen |
 | Background              | pali (pi jan musi)        | tenpo pini pi jan musi |
 | backpack                | poki monsi                |                      |
@@ -24,7 +25,7 @@ Please use the suggestions from the "toki pona" column. If you prefer the altern
 | class                   | nasin pi kulupu jan pali  | nasin pi jan musi    |
 | Copper Piece            | mani                      | mani sike pi kiwen loje / mani loje (ml) |
 | Critical Damage         | pakala ike                | pakala ale/wawa/suli |
-| damage                  | pakala                    |                      |
+| damage _after subtracting armor_                 | (nanpa) pakala                    |                      |
 | Deprived                | pilin ike                 |                      |
 | Detachment              | kulupu                    | "party" li sama      |
 | DEX                     | TAW                       |                      |
@@ -48,6 +49,7 @@ Please use the suggestions from the "toki pona" column. If you prefer the altern
 | Player Character        | jan musi  ||
 | relic                   | ilo nasa     ||
 | roll                    | o tawa e kiwen ken / o tawa e 3k6 | o pana/luka e kiwen ken |
+| Round                   | tenpo sike ||
 | rules                   | nasin musi ||
 | Save / Saving Throw     | utala e WAW, utala pi nanpa wawa ||
 | Scar                    | pakala sijelo             ||
