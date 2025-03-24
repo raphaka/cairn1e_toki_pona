@@ -1206,7 +1206,7 @@ jan li **pilin ike** anu ken pakala li lon la jan lawa li ken toki e ni: jan mus
 <!--### Rounds
 The game typically plays without strict time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **round** is roughly ten seconds of in-game time and is comprised of turns.-->
 ### tenpo sike
-tenpo mute lon insa musi la sina nanpa ala e tenpo. taso utala en tenpo ante la nanpa tenpo li ken pona. tenpo ni la o musi kepeken **tenpo sike**. tenpo sike wan li sama tenpo lili lili 10s pi insa musi. insa pi tenpo sike la tenpo tawa li lon.
+tenpo mute lon insa musi la sina nanpa ala e tenpo. taso utala en tenpo ante la nanpa tenpo li ken pona. tenpo ni la o musi kepeken **tenpo sike**. tenpo sike wan li sama tenpo lili lili 10s pi insa musi. insa pi tenpo sike la tenpo tawa li lon. tenpo tawa pi kulupu jan musi li pini la tenpo tawa pi kulupu jan ante li open. pini ni la tenpo tawa pi kulupu jan musi li open sin.
 
 <!--### Actions
 On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, making a second move, or some other reasonable action.-->
@@ -1219,24 +1219,24 @@ open pi tenpo sike la jan li toki e wile pi jan musi ona. ken pakala li lon tan 
 <!--### Turns
 The Warden will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a DEX save to act before their opponents.-->
 ### tenpo tawa
-jan lawa li toki e ni pi tenpo tawa kama: ken suli la jan ante anu soweli ante li ijo seme pi tenpo tawa. open utala la jan musi ale o utala e TAW tan ni: pona la ona li ken tawa lon open utala. ike la ona li awen la jan ante li open e utala.
+jan lawa li toki e ni pi tenpo tawa kama: ken suli la jan ante anu soweli ante li ijo seme pi tenpo tawa. open utala la jan musi ale o utala e TAW tan ni: pona la ona li ken tawa lon open utala. ike la ona o awen li ken ala tawa la jan ante li open e utala.
 
-<details markdown="block">
+<!--<details markdown="block">
   <summary>
 Expand For Example
  </summary>
  _Bea has accidentally stumbled onto the stomping grounds of a massive Wood Troll. In order to make a move before the Troll, she makes a DEX save. She fails, and the Troll gets to attack first._
-</details>
+</details>-->
+_jan Peja li tawa ma kasi li sona ala e ni: ma kasi ni li ma awen pi jan suli ike kasi. ona li wile e ni: utala la ona li open la jan suli li open ala. wile ni la ona li utala e TAW. kiwen ken li pana e nanpa ike la jan suli li open e utala._
 
-<!--### Attacking en Damage
+<!--### Attacking & Damage
 The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Unarmed attacks always do 1d4 damage.-->
-### utala & pakala
+### utala en pakala
 jan anu soweli la wan li utala e wan ante la o ni:
 - o tawa e kiwen ken pi ilo utala ona.
 - jan li utala kepeken luka kepeken ilo ala la kiwen ken ona li 1k4.
 - o weka e nanpa awen pi wan ante tan nanpa pi kiwen ken la ni li pali e nanpa pakala.
 - o weka e nanpa pakala tan KU pi wan ante.
-
 
 <!--<details markdown="block">
   <summary>
@@ -1244,7 +1244,7 @@ Expand For Example
  </summary>
  _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the Warden rolls a 4. They subtract 1 to account for Bea's  leather armor, leaving Bea with 2 HP remaining._
 </details>-->
-_jan kasi suli li mu utala li tawa sike e ilo pakala ona tawa jan Peja. KU pi jan Peja li 5. kiwen ken pi ilo pakala ni li 1k10 la jan lawa li tawa e ona li lukin e nanpa 4. jan Peja li jo e len awen pi nanpa awen 1 la jan lawa li weka e ni tan nanpa 4 la nanpa pakala li 3. ona li weka e 3 tan KU pi jan Peja la KU ni li kama 2._
+_jan suli ike kasi li mu utala li tawa sike e ilo pakala ona tawa jan Peja. KU pi jan Peja li 5. kiwen ken pi ilo pakala ni li 1k10 la jan lawa li tawa e ona li lukin e nanpa 4. jan Peja li jo e len awen pi nanpa awen 1 la jan lawa li weka e ni tan nanpa 4 la nanpa pakala li 3. ona li weka e 3 tan KU pi jan Peja la KU ni li kama 2._
 
 ### Multiple Attackers
 If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
