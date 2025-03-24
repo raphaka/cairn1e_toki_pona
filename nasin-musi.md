@@ -329,8 +329,8 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 
 ## nimi en pali (k20)
 #### nimi
-|||||||
-|--|--|--|--|--|--|
+|||||||||
+|--|--|--|--|--|--|--|--|
 |1|Seke|26|Lunone|51|Wamepa|76|Kipujo|
 |2|Munase|27|Namami|52|Piwa|77|Junon|
 |3|Towa|28|Likun|53|Juwa|78|Kope|
@@ -347,7 +347,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |14|Ute|39|Pinope|64|Moponte|89|Tasupe|
 |15|Potupi|40|Pemupu|65|Ilala|90|Sakoju|
 |16|Suwen|41|Ena|66|Kowan|91|Nukan|
-|17|Lipipu|42|Tuka Atan|67|Nejo|92|Wapi|
+|17|Lipipu|42|Tula Atan|67|Nejo|92|Wapi|
 |18|Unilo|43|Katu|68|Natunli|93|Netomu|
 |19|Kemawi|44|Tewin|69|Mijun|94|Utoka|
 |20|Kepon|45|Aku|70|Kiso|95|Jutana|
@@ -1246,8 +1246,10 @@ Expand For Example
 </details>-->
 _jan suli ike kasi li mu utala li tawa sike e ilo pakala ona tawa jan Peja. KU pi jan Peja li 5. kiwen ken pi ilo pakala ni li 1k10 la jan lawa li tawa e ona li lukin e nanpa 4. jan Peja li jo e len awen pi nanpa awen 1 la jan lawa li weka e ni tan nanpa 4 la nanpa pakala li 3. ona li weka e 3 tan KU pi jan Peja la KU ni li kama 2._
 
-### Multiple Attackers
-If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
+<!--### Multiple Attackers
+If multiple attackers target the same foe, roll all damage dice and keep the single highest result.-->
+### mute pi jan utala anu soweli utala
+jan anu soweli la mute li utala e wan la o tawa e kiwen ken ale pi ilo utala. nanpa ale la o awen musi kepeken nanpa pi suli nanpa wan taso. o weka e nanpa ante ale.
 
 ### Attack Modifiers
 If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 damage regardless of the attacks damage die.
