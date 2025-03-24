@@ -1206,7 +1206,7 @@ jan li **pilin ike** anu ken pakala li lon la jan lawa li ken toki e ni: jan mus
 <!--### Rounds
 The game typically plays without strict time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **round** is roughly ten seconds of in-game time and is comprised of turns.-->
 ### tenpo sike
-tenpo mute lon insa musi la sina nanpa ala e tenpo. taso utala en tenpo ante la nanpa tenpo li ken pona. tenpo ni la o musi kepeken **tenpo sike**. tenpo sike wan li sama tenpo lili lili 10s pi insa musi. insa pi tenpo sike la tenpo tawa li lon. tenpo tawa pi kulupu jan musi li pini la tenpo tawa pi kulupu jan ante li open. pini ni la tenpo tawa pi kulupu jan musi li open sin.
+tenpo mute lon insa musi la sina nanpa ala e tenpo. taso utala en tenpo ante la nanpa tenpo li ken pona. tenpo ni la o musi kepeken **tenpo sike**. tenpo sike wan li sama tenpo lili lili 10s pi insa musi. insa pi tenpo sike la **tenpo tawa** li lon. tenpo tawa pi kulupu jan musi li pini la tenpo tawa pi kulupu jan ante li open. pini ni la tenpo tawa pi kulupu jan musi li open sin.
 
 <!--### Actions
 On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, making a second move, or some other reasonable action.-->
@@ -1251,13 +1251,18 @@ If multiple attackers target the same foe, roll all damage dice and keep the sin
 ### mute pi jan utala anu soweli utala
 jan anu soweli la mute li utala e wan la o tawa e kiwen ken ale pi ilo utala. nanpa ale la o awen musi kepeken nanpa pi suli nanpa wan taso. o weka e nanpa ante ale.
 
-### Attack Modifiers
-If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 damage regardless of the attacks damage die.
+<!--### Attack Modifiers
+If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 damage regardless of the attacks damage die.-->
+### utala pi wawa ante
+nasin anu tenpo anu ma li ike tawa utala la jan anu soweli ni li **utala pi wawa lili**. (ken la luka ona li ken ala tawa. ken la jan pi utala ona li lon monsi ijo.) ona li utala kepeken 1k4 li utala kepeken ala kiwen ken pi ilo utala ona.
 
-If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is **enhanced**, allowing the attacker to roll 1d12 damage instead of their normal die.
+<!--If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is **enhanced**, allowing the attacker to roll 1d12 damage instead of their normal die.-->
+ona li utala kepeken nasin pona anu tenpo pona la ona li **utala pi wawa suli**. (ken la jan ante li ken ala awen pona e ona. ken la jan utala li tawa pi monsuta ala) kiwen ken pi ilo utala ona li kama 1k12.
 
-### Dual Weapons
-If attacking with two weapons at the same time, roll both damage dice and keep the single highest result.
+<!--### Dual Weapons
+If attacking with two weapons at the same time, roll both damage dice and keep the single highest result.-->
+### ilo utala tu
+utala kepeken ilo utala tu lon tenpo wan sama la o tawa e kiwen ken tu, o awen musi kepeken nanpa pi suli nanpa wan taso. o weka e nanpa ante.
 
 ### Blast
 Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
