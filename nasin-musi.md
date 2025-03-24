@@ -1269,8 +1269,8 @@ Attacks with the **blast** quality affect all targets in the noted area, rolling
 ### pakala suli
 utala pi **pakala suli** li pakala e ijo ale lon poka. o pali e nanpa pakala pi mute kepeken kiwen ken pi mute sama. pakala suli li ken pakala wawa seli li ken kiwen anpa pi suli mute tan sewi. sina sona ala e mute pi ijo pakala la o tawa e kiwen ken sama pi ilo utala.
 
-### Critical Damage
-Damage that reduces a target's HP below zero decreases a target's STR by the amount remaining. They must then make a STR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
+<!--### Critical Damage
+Damage that reduces a target's HP below zero decreases a target's STR by the amount remaining. They must then make a STR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.--> 
 
 Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
 
