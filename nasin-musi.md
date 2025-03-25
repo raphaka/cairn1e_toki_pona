@@ -17,7 +17,7 @@ nav_order: 1
 <!--**Cairn** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc.).-->
 lipu nasin pi jo sona [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) li awen e **musi Cairn**.
-o lukin e [tomo ilo sona](https://github.com/yochaigal/cairn). ante la o kama jo e musi kepeken [lipu ante](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (toki Inli taso lon Word, Affinity, Google Docs, etc.).
+o lukin e [tomo ilo sona pi toki Inli](https://github.com/yochaigal/cairn) anu [tomo ilo sona pi toki pona](https://github.com/raphaka/cairn1e_toki_pona). ante la o kama jo e musi kepeken [lipu ante](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (toki Inli taso lon Word, Affinity, Google Docs, etc.).
 
 <!--**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
 Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.-->
@@ -1281,9 +1281,12 @@ utala WAW li ike la pakala ike li lon. tenpo ni la jan musi li anpa li wawa ala 
 
 wan li pana e pakala ike tawa jan musi la ken la nasin ante ona li kama lon kin.
 
-### Ability Score Loss
+<!--### Ability Score Loss
 If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious.
-Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
+Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.-->
+### weka pi nanpa wawa
+nanpa WAW pi jan musi li kama 0 la ona li moli. nanpa TAW li kama 0 la jan musi li ken ala tawa. nanpa LAW ona li kama 0 la ja musi li kama nasa a.
+TAW anu LAW li weka ale la jan musi o kama pona tan lape mute a anu nasin wawa a.
 
 ### Scars
 When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd#scars-1) table for more.
