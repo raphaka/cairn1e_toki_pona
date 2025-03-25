@@ -248,7 +248,7 @@ Next, roll for the rest of your character's **traits** (appearance, speech, mann
 
 Finally, roll for their **age** (2d20+10).-->
 
-#### nimi en pali en ijo jan
+#### nimi + pali + ijo jan
 
 open la o **nimi** e jan musi sina o alasa e **pali** ona. nimi en pali li lon [**lipu nimi** en **lipu pali**](#name--background-d20). pali pi jan musi li pana e sona ken tawa ona.
 
@@ -327,7 +327,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 
 <p></p>
 
-## nimi en pali (k20)
+## nimi + pali (k20)
 #### nimi
 |||||||||
 |--|--|--|--|--|--|--|--|
@@ -515,6 +515,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 3      | Cryptic | 8    | Squeaky    |
 | 4      | Droning | 9    | Stuttering |
 | 5      | Formal  | 10   | Whispery   |-->
+
 #### nasin toki
 
 |  |         |      |            |
@@ -664,11 +665,11 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | :---------------: | :----: | :----: | :-------------: |
 |       1-13        | 14-16  | 17-19  |       20        |
 |       None        | Helmet | Shield | Helmet & Shield |-->
-#### len lawa kiwen en supa kiwen luka
+#### len lawa kiwen + supa kiwen luka
 |  |        |        |                 |
 | :---------------: | :----: | :----: | :-------------: |
 |       1-13        | 14-16  | 17-19  |       20        |
-|       ala        | len lawa kiwen | supa kiwen luka | len lawa kiwen & supa kiwen luka  |
+|       ala        | len lawa kiwen | supa kiwen luka | len lawa kiwen + supa kiwen luka  |
 
 <!-- #### Weapons
 
@@ -736,7 +737,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | ---- | ----------- | ---- | ---------- | ---- | ----------- | ---- | ------- |
 | 1    | poki telo | 6    | palisa pi lawa soweli | 11   | ilo sinpin pi lukin sama | 16   | kiwen pi weka jaki |
 | 2    | musi lipu | 7    | palisa kasi pi kon seli | 12   | telo pi pilin kon pona | 17   | ko pi lupa mute |
-| 3    | musi pi kiwen ken | 8    | ilo pi kalama musi | 13   | ilo sitelen en telo sitelen | 18   | poki wan la ko pi kama kiwen|
+| 3    | musi pi kiwen ken | 8    | ilo pi kalama musi | 13   | ilo sitelen + telo sitelen | 18   | poki wan la ko pi kama kiwen|
 | 4    | kule pi sinpin lawa  | 9    | ilo pi lukin suli | 14   | poki lili pi ko walo moku   | 19   | linja lili |
 | 5    | kiwen mani pi lon ala | 10   | sike lili mute pi ilo musi | 15   | ilo mu lili  | 20   | ilo kalama kon |
 
@@ -809,7 +810,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |ilo supa pi alasa weka (pakala k8, suli a)                                |30   |
 
 <!--#### Gear & Tools-->
-#### ijo en ilo
+#### ijo + ilo
 
 | | | |  |
 |---|---|---|---|
@@ -950,7 +951,7 @@ ona li sona wawa e ilo utala ale e nasin utala ale. ken suli la ona li pilin mon
 |palisa pakala sike (k8)                |
 |palisa pakala lili (k6)                |
 |palisa pakala lili (k6)                |
-|ilo pi moku kon seli en kasi pi kon seli |
+|ilo pi moku kon seli + kasi pi kon seli |
 |musi pi kiwen ken                      |
 
 <!--#### Friar
@@ -968,7 +969,7 @@ jan ni li pali lon tomo pi nasin sewi li pona e jan pi jo mani lili.
 ||
 |-------------------------------|
 |palisa pi sitelen sewi (k6)    |
-|len pisona ala (nanpa awen +1) |
+|len pi sona ala (nanpa awen +1) |
 |poki telo pi nasin sewi        |
 |poki pi telo nasa suwi         |
 |lipu pi kalama musi            |
@@ -1103,7 +1104,7 @@ jan musi lape e sijelo ona lon tenpo lili li moku e telo la KU ale li lon sin. t
 
 <!--### Deprivation & Fatigue
 A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot). PCs can also gain Fatigue by **casting spells** or through events in the fiction.-->
-### pilin ike en pilin lape
+### pilin ike + pilin lape
 jan musi la ijo pi suli a li lon ala (ken la moku anu lape) la ona li **pilin ike**. pilin ike la KU ona en nanpa wawa ona li ken ala kama pona sin. **pilin ike** li awen e tenpo suno wan la lupa ijo wan lon poki jo pi jan musi li kama **pilin lape**. pilin ike li awen e tenpo suno ante la lupa ijo ante li kama pilin lape kin. jan li ken kama wawa sin (ken la ona li lape e tenpo pimeja wan ale lon ma pona) la pilin lape li weka. pilin lape li ken kama tan **pali pi nasa wawa** anu ijo ante pi insa musi.
 
 <!--### Armor
@@ -1144,7 +1145,7 @@ jan musi li ken pana e mani tawa **jan pali**. **jan pali** li pali pona e tawa 
 <!--### Wealth & Treasure
 The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).-->
 
-### mani en ijo mani
+### mani + ijo mani
 tenpo pi mute wawa la jan li jo e mani sike ni: mani sike pi kiwen jelo. mani jelo (mj) li sama mani walo (mw) 10 li sama mani loje (ml) 100. 
 
 <!--Treasure is highly valuable, usually bulky, and rarely useful beyond its value. It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.-->
@@ -1231,7 +1232,7 @@ _jan Peja li tawa ma kasi li sona ala e ni: ma kasi ni li ma awen pi jan suli ik
 
 <!--### Attacking & Damage
 The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Unarmed attacks always do 1d4 damage.-->
-### utala en pakala
+### utala + pakala
 jan anu soweli la wan li utala e wan ante la o ni:
 - o tawa e kiwen ken pi ilo utala ona.
 - jan li utala kepeken luka kepeken ilo ala la kiwen ken ona li 1k4.
