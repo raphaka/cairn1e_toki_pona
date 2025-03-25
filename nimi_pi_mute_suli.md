@@ -27,7 +27,7 @@ Please use the suggestions from the "toki pona" column. If you prefer the altern
 | Critical Damage         | pakala ike                | pakala ale/wawa/suli |
 | damage _after subtracting armor_                 | (nanpa) pakala                    |                      |
 | Deprived                | pilin ike                 |                      |
-| Detachment              | kulupu                    | "party" li sama      |
+| Detachment              | kulupu utala           | "party" li sama      |
 | DEX                     | TAW                       |                      |
 | die/dice                | kiwen ken                 | kiwen nanpa          |
 | Enhanced (Attack)       | (utala pi) wawa suli      | wawa pona            | 
