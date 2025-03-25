@@ -1288,23 +1288,35 @@ Complete DEX and WIL loss renders the character unable to act until they are res
 nanpa WAW pi jan musi li kama 0 la ona li moli. nanpa TAW li kama 0 la jan musi li ken ala tawa. nanpa LAW ona li kama 0 la ja musi li kama nasa a.
 TAW anu LAW li weka ale la jan musi o kama pona tan lape mute a anu nasin wawa a.
 
-### Scars
-When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd#scars-1) table for more.
+<!--### Scars
+When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd#scars-1) table for more.-->
+### pakala sijelo
+KU pi jan musi li kama 0 li lili ala li suli ala la ona li ken ante pi tenpo ale. o lukin e lipu [**pakala sijelo**](#scars-1).
 
-### Unconsciousness & Death
-When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
+<!--### Unconsciousness & Death
+When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.-->
+### lape wawa + moli
+jan musi li moli la jan li ken pali e jan musi sin. kin la jan ante pi insa musi li ken kama e jan musi sin ona. jan musi sin li kama tawa kulupu lon tenpo sama la jan ale li ken awen musi.
 
-### Detachments
-Large groups of similar combatants fighting together are treated as a single **detachment**. When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
+<!--### Detachments
+Large groups of similar combatants fighting together are treated as a single **detachment**. When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.-->
+### kulupu utala
+jan anu soweli mute li sama li utala lon poka sama la ona li **kulupu utala** li sama wan. kulupu utala li kama pakala ike la wawa ona li kama lili a anu ona li wile weka. WAW ona li kama 0 la ona li moli anu pakala ale.
 
-Attacks against detachments by individuals are **impaired** (excluding blast damage).  
-Attacks against individuals by detachments are **enhanced** and deal blast damage.
+<!--Attacks against detachments by individuals are **impaired** (excluding blast damage).  
+Attacks against individuals by detachments are **enhanced** and deal blast damage.-->
+wan li utala e kulupu utala la ni li **utala pi wawa lili** (**pakala suli** li ni ala).
+kulupu utala li utala e wan la ni li **utala pi wawa suli** li pali e **pakala suli**.
 
-### Retreat
-Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
+<!--### Retreat
+Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.-->
+### weka tan utala
+sina wile tawa weka tan utala la ni li wile e ni: sina utala e TAW la utala ni li pona. kin la sina o sona e ma awen.
 
-### Scars
-When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the _total_ damage taken:
+<!--### Scars
+When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the _total_ damage taken:-->
+### pakala sijelo
+utala li lili e KU pi jan musi tawa 0 la ona li ante pi nasin nasa. nanpa pakala _ale_ la o lukin e lipu ni anpa:
 
 |||
 |------ |---|
