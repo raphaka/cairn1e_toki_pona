@@ -1271,8 +1271,14 @@ utala pi **pakala suli** li pakala e ijo ale lon poka. o pali e nanpa pakala pi 
 
 <!--### Critical Damage
 Damage that reduces a target's HP below zero decreases a target's STR by the amount remaining. They must then make a STR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.--> 
+### pakala ike 
+KU pi jan anu soweli la pakala li suli mute la o pali e nanpa ante kepeken nasin ni: ona li nanpa insa tan KU tawa nanpa pakala.
+o weka e nanpa ante ni tan WAW pi jan anu soweli. pini la jan anu soweli o utala e WAW tan ni: ona li wile ala kama **pakala ike**.
 
-Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
+<!--Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.-->
+utala WAW li ike la pakala ike li lon. tenpo ni la jan musi li anpa li wawa ala li lon poka moli. ona li ken kama pona sin tan lape anu pona pi jan ante. ala li pona e ona la ona li moli lon insa tenpo ilo 1h.
+
+wan li pana e pakala ike tawa jan musi la ken la nasin ante ona li kama lon kin.
 
 ### Ability Score Loss
 If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious.
