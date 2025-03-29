@@ -1,4 +1,4 @@
-# ilo ni li pali e lipu pi nasin Markdown. lipu ni li jo e palisa sewi tu wan li jo e nimi 102. ilo ni li pana e sitelen nimi ni: ona i ken li pona lon toki pona. kulupu kalama lon insa nimi li ken pini kepeken sitelen 'n' la, ilo ni li pana e ona lon tenpo wan tan tenpo tu tu
+# ilo ni li pali e lipu pi nasin Markdown. lipu ni li jo e palisa sewi tu wan li jo e nimi 102. ilo ni li pana e sitelen nimi ni: ona li ken li pona lon toki pona. kulupu kalama lon insa nimi li ken pini kepeken sitelen 'n' la, ilo ni li pana e ona lon tenpo wan tan tenpo tu tu
 
 import random
 
