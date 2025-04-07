@@ -1316,12 +1316,12 @@ sina wile tawa weka tan utala la ni li wile e ni: sina utala e TAW la utala ni l
 <!--### Scars
 When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the _total_ damage taken:-->
 ### pakala sijelo
-utala li lili e KU pi jan musi tawa 0 la ona li ante pi nasin nasa. nanpa pakala _ale_ la o lukin e lipu ni anpa:
+KU pi jan musi li kama 0 tan utala la ona li ante pi nasin nasa. nanpa pakala _ale_ la o lukin e lipu ni anpa:
 
 |||
 |------ |---|
-| 1    | Lasting Scar: Roll 1d6 &#124; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result. |
-| 2    | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result. |
+| 1    | <!--Lasting Scar: Roll 1d6 &#124; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result.--> linja pakala li awen lon selo sijelo sina: o tawa e 1k6 &#124; 1: monsi lawa, 2: luka, 3: sike lukin, 4 sinpin sijelo, 5: noka, 6: kute. o tawa e 1k6. KU ale sina la nanpa pi kiwen ken li suli la nanpa ni li kama KU sin sina. |
+| 2    | <!--Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result.--> wawa li pana e pilin pakala tawa sina. lawa sina li pilin nasa. o toki e ni: _lawa sina li kama pilin sin kepeken nasin seme?_ o tawa e 1k6. KU ale sina la nanpa pi kiwen ken li suli la nanpa ni li kama KU sin sina. |
 | 3    | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP. |
 | 4    | Broken Limb: Roll 1d6 &#124; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result. |
 | 5    | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result. |
