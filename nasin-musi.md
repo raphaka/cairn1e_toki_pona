@@ -9,7 +9,7 @@ nav_order: 1
 -->
 
 <!--# Cairn System Reference Document (v.1.0)-->
-# Lipu nasin pi musi Cairn (n.1.0)
+# Lipu nasin pi musi Cairn (n.0.1)
 <!--{: .no_toc }-->
 
 <p></p>
@@ -1350,20 +1350,27 @@ KU 4, WAW 8, 14 TAW, 8 LAW, palisa pi utala weka (k6)
 - ona li jo e ijo la ona li awen e ona kepeken utala. ni la ona li utala tawa moli.
 - ona li wile a e lipu pi nasa wawa. lipu ni la ona li wile esun.
 
-**Hooded Men**  
+<!--**Hooded Men**  
 12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8), a Spellbook (Choose one: _Charm_, _Hypnotize_, _Push/Pull_, Shield_)
 - The Watchers of the Wood; a cult that derive their power from leylines, rune stones, and the like.
-- Critical damage: leech a part of the victim's soul (1d4 WIL damage).
+- Critical damage: leech a part of the victim's soul (1d4 WIL damage).-->
+**jan len**
+KU 12, WAW 9, TAW 12, LAW 14, palisa suli pi nasa wawa (k8), lipu wan pi nasa wawa (_Pilin Pona_ anu _Pilin Lape Nasa_ anu _Tawa Kama/Tawa Weka_ anu _Awen Tan Pakala_)
+- jan awen pi ma kasi suli; kulupu ni pi nasin sewi nasa li wawa tan linja ma tan kiwen pi nasa wawa tan ijo sama.
+- pakala ike: ona li moku e ijo lili tan kon pi jan pakala anu soweli pakala.
 
 **Cobblehounds**  
 12 HP, 2 Armor, 14 STR, 1 DEX, 8 WIL, bite (d10)
 - Immobile constructs typically used as guardians to great tombs or artifacts.
 - Unaffected by mundane persuasion techniques - but do love a good bone.
 
-**Wood Troll**   
+<!--**Wood Troll**   
 12 HP, 15 STR, 12 DEX, 7 WIL, claws and bite (d8+d8 blast)
 - As an action, can recover lost HP.
-- Critical damage: moss and twigs begin growing out of target's wounds.
+- Critical damage: moss and twigs begin growing out of target's wounds.-->
+**jan suli ike kasi**
+KU 12, WAW 15, TAW 12, LAW 7, luka palisa + uta utala (k8+k8 **pakala suli**)
+- kepeken ijo wan pi tenpo tawa la ona li ken sin e KU. ni la tenpo tawa la ona li ken ala utala li ken tawa taso.
 
 **Frost Elf**  
 14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (Choose one: _Sleep_, _Teleport_, _Detect Magic_)
