@@ -1132,7 +1132,7 @@ jan ante li lukin e jan musi sina la pilin pi jan ante ni li ken pona anu ike la
 <!--### Morale
 Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.-->
 
-### monsuta pi jan ante
+### pilin monsuta pi jan ante
 jan musi sina li utala e jan ante la jan ante o utala e LAW ona tan ni: ona li wile weka anu wile awen utala. jan wan ona li moli la ona o utala ni e LAW. moli ona li mute tawa jan utala ona la ona o utala ni kin e LAW. utala LAW ni li pona la jan li pilin monsuta ala li awen utala. utala LAW ni li ike la jan li wile weka.
 tenpo ken la kulupu li ken utala ni kepeken LAW pi lawa kulupu. jan ante li utala wan la nanpa KU ona li ala la ona o utala e LAW ona. jan musi li monsuta ni lon tenpo ala.
 
@@ -1336,13 +1336,19 @@ KU pi jan musi li kama 0 tan utala la ona li ante pi nasin nasa. nanpa pakala _a
 [o tawa sin pi lukin lipu](#index)
 <p></p>
 
-## Bestiary
+<!--## Bestiary-->
+## ijo monsuta
 
-**Root Goblin**  
+<!--**Root Goblin**  
 4 HP, 8 STR, 14 DEX, 8 WIL, spear (d6)
 - Avoid combat unless they have the advantage (such as greater numbers).
 - Guard their stolen goods to the death.
-- Prize Spellbooks; willing to trade.
+- Prize Spellbooks; willing to trade.-->
+**jan nasa ike lili pi anpa kasi**
+KU 4, WAW 8, 14 TAW, 8 LAW, palisa pi utala weka (k6)
+- ona li wile ala utala lon tenpo mute. taso nanpa ona li mute la ona li wile utala.
+- ona li jo e ijo la ona li awen e ona kepeken utala. ni la ona li utala tawa moli.
+- ona li wile a e lipu pi nasa wawa. lipu ni la ona li wile esun.
 
 **Hooded Men**  
 12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8), a Spellbook (Choose one: _Charm_, _Hypnotize_, _Push/Pull_, Shield_)
