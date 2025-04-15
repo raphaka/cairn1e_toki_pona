@@ -1355,8 +1355,8 @@ KU 4, WAW 8, 14 TAW, 8 LAW, palisa pi utala weka (k6)
 - The Watchers of the Wood; a cult that derive their power from leylines, rune stones, and the like.
 - Critical damage: leech a part of the victim's soul (1d4 WIL damage).-->
 **jan len**
-KU 12, WAW 9, TAW 12, LAW 14, palisa suli pi nasa wawa (k8), lipu wan pi nasa wawa (_Pilin Pona_ anu _Pilin Lape Nasa_ anu _Tawa Kama/Tawa Weka_ anu _Awen Tan Pakala_)
-- jan awen pi ma kasi suli; kulupu ni pi nasin sewi nasa li wawa tan linja ma nasa tan kiwen pi nasa wawa tan ijo sama.
+KU 12, WAW 9, TAW 12, LAW 14, palisa nasa utala pi wawa ma (k8), lipu wan pi nasa wawa (_Pilin Pona_ anu _Pilin Lape Nasa_ anu _Tawa Kama/Tawa Weka_ anu _Awen Tan Pakala_)
+- jan awen pi ma kasi suli; kulupu ni pi nasin sewi nasa li wawa tan linja pi wawa ma tan kiwen pi nasa wawa tan ijo sama.
 - pakala ike: ona li moku e ijo lili tan kon pi jan pakala anu soweli pakala.
 
 <!--**Cobblehounds**  
