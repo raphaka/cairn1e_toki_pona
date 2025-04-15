@@ -1015,7 +1015,7 @@ jan ni li sona pona e nasa wawa e ilo nasa e soweli nasa.
 |lipu pi nasa wawa (o tawa e kiwen ken)   |
 |lipu pi nasa wawa (o tawa e kiwen ken)   |
 |len pakala (poki pi ken ala lukin li lon)|
-|kasi Lika (tu li lon, o lukin e **ilo nasa**)|
+|kili ma nasa (tu li lon, o lukin e **ilo nasa**)|
 
 <!--#### Thief
 ||
@@ -1199,7 +1199,7 @@ jan li **pilin ike** anu ken pakala li lon la jan lawa li ken toki e ni: jan mus
 
 <!--**Leycap** , 1 use. Anyone ingesting this green-flecked mushroom loses a Fatigue, but is then required to make a WIL save to avoid its addictive properties. A fail leaves the PC deprived and unable to focus until they can eat another leycap, providing only a brief reprieve from the addiction.-->
 
-**kasi Lika** , ken kepeken 1. kasi ni li kasi sike lon anpa pi kasi suli li jo e sike lili laso. jan li moku e kasi ni la ona li weka e lape wan taso ona o utala e LAW tan ni: ken la ona li kama wile e mute li ken ala pini. utala LAW ni li ike la lawa pi jan musi li wawa ala. jan li moku e kasi Lika sin la ona li pona sin lon tenpo lili. taso ona li awen wile e kasi lon tenpo kama.
+**kili ma nasa** , ken kepeken 1. kili ni li kasi sike lon anpa pi kasi suli li jo e sike lili laso. jan li moku e kili ni la ona li weka e lape wan taso ona o utala e LAW tan ni: ken la ona li kama wile e mute li ken ala pini. utala LAW ni li ike la lawa pi jan musi li wawa ala. jan li moku e kili ma nasa sin la ona li pona sin lon tenpo lili. taso ona li awen wile e kili lon tenpo kama.
 
 <!--## Combat-->
 ## utala
@@ -1356,13 +1356,18 @@ KU 4, WAW 8, 14 TAW, 8 LAW, palisa pi utala weka (k6)
 - Critical damage: leech a part of the victim's soul (1d4 WIL damage).-->
 **jan len**
 KU 12, WAW 9, TAW 12, LAW 14, palisa suli pi nasa wawa (k8), lipu wan pi nasa wawa (_Pilin Pona_ anu _Pilin Lape Nasa_ anu _Tawa Kama/Tawa Weka_ anu _Awen Tan Pakala_)
-- jan awen pi ma kasi suli; kulupu ni pi nasin sewi nasa li wawa tan linja ma tan kiwen pi nasa wawa tan ijo sama.
+- jan awen pi ma kasi suli; kulupu ni pi nasin sewi nasa li wawa tan linja ma nasa tan kiwen pi nasa wawa tan ijo sama.
 - pakala ike: ona li moku e ijo lili tan kon pi jan pakala anu soweli pakala.
 
-**Cobblehounds**  
+<!--**Cobblehounds**  
 12 HP, 2 Armor, 14 STR, 1 DEX, 8 WIL, bite (d10)
 - Immobile constructs typically used as guardians to great tombs or artifacts.
-- Unaffected by mundane persuasion techniques - but do love a good bone.
+- Unaffected by mundane persuasion techniques - but do love a good bone.-->
+**soweli kiwen alasa**
+KU 12, nanpa awen 2, WAW 14, TAW 1, LAW 8, uta utala (k10)
+- ona li ken ala tawa. tenpo mute la ona li awen e tomo moli suli e ijo pi nasa wawa.
+- sina ken ala lawa e wile ona kepeken nasin pi wawa ala.
+- ona li wile e palisa kiwen pi insa sijelo. 
 
 <!--**Wood Troll**   
 12 HP, 15 STR, 12 DEX, 7 WIL, claws and bite (d8+d8 blast)
@@ -1372,10 +1377,14 @@ KU 12, WAW 9, TAW 12, LAW 14, palisa suli pi nasa wawa (k8), lipu wan pi nasa wa
 KU 12, WAW 15, TAW 12, LAW 7, luka palisa + uta utala (k8+k8 **pakala suli**)
 - kepeken ijo wan pi tenpo tawa la ona li ken sin e KU. ni la tenpo tawa la ona li ken ala utala li ken tawa taso.
 
-**Frost Elf**  
+<!--**Frost Elf**  
 14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (Choose one: _Sleep_, _Teleport_, _Detect Magic_)
 - Beautiful, amoral, and long-lived.
-- Resistant to most forms of magic.
+- Resistant to most forms of magic.-->
+**jan nasa pi ma lete**
+KU 14, nanpa awen 2, WAW 8, TAW 13, LAW 14, ilo moli lili pi kiwen lete (k6), lipu wan pi nasa wawa (_Lape_ anu _Tawa Kepeken Tenpo Ala_ anu _Lukin E Nasa Wawa_)
+- ona li pona lukin li wile ala e nasin lawa pona li awen lon ma pi tenpo suli a.
+- nasa wawa mute li ken ala ante e ona.
 
 **Boggart**  
 3 HP, 4 STR, 17 DEX, 13 WIL
