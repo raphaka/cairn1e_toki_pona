@@ -1386,24 +1386,40 @@ KU 14, nanpa awen 2, WAW 8, TAW 13, LAW 14, ilo moli lili pi kiwen lete (k6), li
 - ona li pona lukin li wile ala e nasin lawa pona li awen lon ma pi tenpo suli a.
 - nasa wawa mute li ken ala ante e ona.
 
-**Boggart**  
+<!--**Boggart**  
 3 HP, 4 STR, 17 DEX, 13 WIL
 - A wild, hairy trickster that takes pleasure in being a minor nuisance.
 - Prizes relics and shiny trinkets above all else but unwilling to trade for coin.
-- Boggarts have names that describe their true nature. Knowing their true name allows one to control a Boggart.
+- Boggarts have names that describe their true nature. Knowing their true name allows one to control a Boggart.-->
+**monsuta nasa pi sijelo linja**
+KU 3, WAW 4, TAW 17, LAW 13
+- monsuta ni li jo e selo sijelo pi linja mute li wile musi mute
+- ona li wile e mani suli li wile ala esun e ni tawa mani sike.
+- monsuta ni ale li jo e nimi. nimi ni li toki e kon lon ona. sina sona e nimi pi monsuta ni wan la sina ken lawa e ona.
 
-### Creating Monsters
-Use the following template to model any more sophisticated Monster or NPC:
+<!--### Creating Monsters
+Use the following template to model any more sophisticated Monster or NPC:-->
+### pali e ijo monsuta
+o pali e ijo monsuta pona kepeken lipu ni:
 
-**Name**  
+<!--**Name**  
 X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
 - Engaging descriptor of appearance or demeanor
 - Quirk, tactic, or peculiarity making this NPC unique
-- Special effect or critical damage consequence
+- Special effect or critical damage consequence-->
+**nimi**
+KU X, nanpa awen X, WAW X, TAW X, LAW X, ilo utala (kX, ken pi nasa pona, ken ante)
+- o toki e nasin ona e lukin ona.
+- ona li utala kepeken nasin seme? seme la ona li sama ala pi monsuta ante?
+- ken nasa seme li lon? ona li pakala ike e jan musi la seme li kama?
 
-**General Principles**  
+<!--**General Principles**  
 Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. Adjust as necessary.
-- Give average creatures 3 HP, give hardy ones 6 HP, and serious threats get 10+ HP.
+- Give average creatures 3 HP, give hardy ones 6 HP, and serious threats get 10+ HP.-->
+**sona nasin**
+nanpa wawa: 3 lili mute, 6 li lili, 10 li insa, 14 li pona, 18 li wawa a. wile la, o ante.
+- o pana e KU 3 tawa monsuta pi nasa ala. o pana e KU 6 tawa monsuta wawa. o pana e KU 10+ tawa monsuta ni: ken suli la ona li moli e jan musi.
+
 - Use flavor and style to help them stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
 - Use critical damage to lean into the threat or strangeness of any aggressive NPC.
 - Remember that HP is **Hit Protection** , not Hit Points. It's a measure of resilience, luck, and gumption - not health.
