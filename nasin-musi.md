@@ -1419,10 +1419,12 @@ Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 
 **sona nasin**
 nanpa wawa: 3 lili mute, 6 li lili, 10 li insa, 14 li pona, 18 li wawa a. wile la, o ante.
 - o pana e KU 3 tawa monsuta pi nasa ala. o pana e KU 6 tawa monsuta wawa. o pana e KU 10+ tawa monsuta ni: ken suli la ona li moli e jan musi.
-
-- Use flavor and style to help them stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
+<!--- Use flavor and style to help them stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
 - Use critical damage to lean into the threat or strangeness of any aggressive NPC.
-- Remember that HP is **Hit Protection** , not Hit Points. It's a measure of resilience, luck, and gumption - not health.
+- Remember that HP is **Hit Protection** , not Hit Points. It's a measure of resilience, luck, and gumption - not health.-->
+- o ante e ijo munsuta kepeken kule la ona li sama ala pi ale ante. kama la jan li awen sona e jan nasa pi lawa soweli. taso ona li weka sona e jan utala lili pi nasa ala.
+- o toki e nasa pi jan ante e ken pakala ona lon tenpo pi **pakala ike**.
+- o sona e ni: KU li ken pi jan musi la ona li kama ala pakala lon tenpo utala. ona li wawa ala pi sijelo ona.
 
 **Converting from OSR Games**
 - Give 1 HP per HD for most creatures.
