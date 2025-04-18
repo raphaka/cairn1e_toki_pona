@@ -1436,15 +1436,21 @@ OSR li nasin musi pi tenpo pini. sina ken musi e musi Cairn kepeken ijo pi musi 
 - ijo monsuta li sama jan la KU ona li 4 anu suli.
 - ante la sina ken pali e ijo monsuta kepeken **pilin monsuta pi jan ante**
 
-
-Some pointers:
+<!--Some pointers:
 - Is it good at avoiding a hit? Give it HP.
 - Does it soak up damage? Give it Armor.
 - Is it strong? Give it a high **STR**.
 - Is it nimble? Give it high **DEX**.
-- Is it charismatic? Give it high **WIL**.
+- Is it charismatic? Give it high **WIL**.-->
+sona lili pi pali ijo monsuta:
+- ijo li wile pakala e ona la ona li ken weka tan pakala? o pana e KU tawa ona.
+- ona li moku e pakala mute? o pana e nanpa awen tawa ona.
+- ona li wawa? o pana e **WAW** suli tawa ona
+- ona li ken tawa pona? o pana e **TAW** suli tawa ona.
+- ona li ken toki pi nasin pona? o pana e **LAW** suli tawa ona.
 
-Damage die are roughly the same, though armed attacks do at least 1d6 damage.
+<!--Damage die are roughly the same, though armed attacks do at least 1d6 damage.-->
+kiwen ken pi ilo utala li sama mute. ona li utala kepeken ilo la pakala li 1k6 anu suli.
 
 [o tawa sin pi lukin lipu](#index)
 <p></p>
