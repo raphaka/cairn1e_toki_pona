@@ -1426,10 +1426,16 @@ nanpa wawa: 3 lili mute, 6 li lili, 10 li insa, 14 li pona, 18 li wawa a. wile l
 - o toki e nasa pi jan ante e ken pakala ona lon tenpo pi **pakala ike**.
 - o sona e ni: KU li ken pi jan musi la ona li kama ala pakala lon tenpo utala. ona li wawa ala pi sijelo ona.
 
-**Converting from OSR Games**
+<!--**Converting from OSR Games**
 - Give 1 HP per HD for most creatures.
 - Most humanoids have at least 4HP.
-- **Morale** can also be used as a baseline.
+- **Morale** can also be used as a baseline.-->
+**ante e ijo monsuta tan musi OSR**
+OSR li nasin musi pi tenpo pini. sina ken musi e musi Cairn kepeken ijo pi musi OSR.
+- ijo mute la o pana e nanpa KU sama nanpa HD ale.
+- ijo monsuta li sama jan la KU ona li 4 anu suli.
+- ante la sina ken pali e ijo monsuta kepeken **pilin monsuta pi jan ante**
+
 
 Some pointers:
 - Is it good at avoiding a hit? Give it HP.
