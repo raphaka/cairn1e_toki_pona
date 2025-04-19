@@ -1564,21 +1564,33 @@ kiwen ken pi ilo utala li sama mute. ona li utala kepeken ilo la pakala li 1k6 a
 <p></p>
 
 <!-- once we get to this point we should make sure to copy relevant parts from above to be as consistent as possible-->
-# Rules Summary
+<!--# Rules Summary-->
+# nasin musi kepeken toki lili
 
-**ACTIONS**  
-On their turn, a character may move up to 40ft and take up to one action. Actions may include casting a spell, attacking, making a second move, or other reasonable activities. Actions, attacks, and movements take place simultaneously. Whenever turn order is uncertain, the PCs should make a DEX save to see if they go before their enemies.
+<!--**ACTIONS**  
+On their turn, a character may move up to 40ft and take up to one action. Actions may include casting a spell, attacking, making a second move, or other reasonable activities. Actions, attacks, and movements take place simultaneously. Whenever turn order is uncertain, the PCs should make a DEX save to see if they go before their enemies.-->
+**IJO PI TENPO TAWA**
+tenpo tawa la jan musi li ken tawa 40ft/12m. kin la ona li ken **ijo wan pi tenpo tawa**. ijo wan ni li ken pali e nasa wawa wan li ken utala li ken tawa e 40ft/12m ante. ijo ante li wile ala e tenpo mute e wawa mute la ona kin li ken ijo wan pi tenpo tawa. tawa en utala en ijo ante pi tenpo tawa li lon tenpo sama. sina sona ala e nanpa pi tenpo tawa la o utala e TAW: pona la jan musi li ken tawa lon open utala. ike la jan ante li open e utala.
 
-**Retreating** from a dangerous situation always requires a successful DEX save, as well as a safe destination to run to.
+<!--**Retreating** from a dangerous situation always requires a successful DEX save, as well as a safe destination to run to.-->
+**WEKA TAN UTALA**
+sina wile tawa weka tan utala anu tenpo pi ken pakala la o utala e TAW: pona la jan musi sina ken tawa weka. kin la sina o sona e ma awen.
 
-**ABILITIES**  
+<!--**ABILITIES**  
 **STR:** Brawn, prowess & resistance.   
 **DEX:** Dodging, sneaking & reflexes.   
-**WIL:** Persuasion, intimidation & magic.
+**WIL:** Persuasion, intimidation & magic.-->
+#### NANPA WAWA
+**WAW:** jan musi li tawa e ijo suli, anu pakala e palisa kiwen, anu moku e telo ike li wile awen pona.
+**TAW:** jan musi li tawa kepeken tenpo lili, anu tawa pi kalama ala, anu tawa sewi lon sinpin kiwen, anu weka pi ken pakala.
+**LAW**: jan musi li tawa kepeken tenpo lili, anu tawa pi kalama ala, anu tawa sewi lon sinpin kiwen, anu weka pi ken pakala.
 
-**SAVES**
+<!--**SAVES**
 - Roll a d20 equal to or under an ability.
-- 1 is always a success, 20 is always a failure.
+- 1 is always a success, 20 is always a failure.-->
+**UTALA PI NANPA WAWA**
+- o tawa e k20 la nanpa ona o sama anu suli nanpa wawa sina.
+- 1 li pona lon tenpo ale, 20 li ike lon tenpo ale.
 
 **HIT PROTECTION**  
 **HP** indicates a PC's ability to avoid getting hurt. It is lost during combat & recovered after a few moment's rest.
