@@ -17,12 +17,12 @@ nav_order: 1
 <!--**Cairn** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc.).-->
 lipu nasin pi jo sona [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) li awen e **musi Cairn**.
-o lukin e [tomo ilo sona pi toki Inli](https://github.com/yochaigal/cairn) anu [tomo ilo sona pi toki pona](https://github.com/raphaka/cairn1e_toki_pona). ante la o kama jo e musi kepeken [lipu ante](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (toki Inli taso lon Word, Affinity, Google Docs, etc.).
+o lukin e [tomo ilo sona pi toki Inli](https://github.com/yochaigal/cairn) anu [tomo ilo sona pi toki pona](https://github.com/raphaka/cairn1e_toki_pona). ante la o kama jo e musi kepeken [lipu ante](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (toki Inli taso lon Word, Affinity, Google Docs, ante).
 
 <!--**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
 Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.-->
 **musi Cairn** li musi pi tawa ma sin li tawa jan lawa wan li tawa jan ante wan anu jan ante mute.
-insa musi la jan li jan wawa pi tawa ma sin. ona li kama lukin e ma pimeja pi kasi suli. ma pi kasi suli ni li jo e jan nasa e mani len e soweli ike pi ken ala toki.
+insa musi la jan li jan wawa pi tawa ma sin. ona li kama lukin e ma pimeja pi kasi suli. ma ni pi kasi suli li jo e jan nasa e mani len e soweli ike la jan li ken ala toki e ike pi soweli ni.
 
 <details close markdown="block">
   <summary id="index">
@@ -37,7 +37,8 @@ insa musi la jan li jan wawa pi tawa ma sin. ona li kama lukin e ma pimeja pi ka
 <!--## Overview
 **Cairn** was written with the following design philosophies in mind:-->
 ## lukin selo
-**musi Cairn** li pali la kon nasin ni o lon:
+<!--**musi Cairn** li pali la kon nasin ni o lon:-->
+kon nasin ni li suli tawa pali pi musi Cairn:
 
 <!--### Neutrality
 The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.-->
@@ -1592,13 +1593,18 @@ sina wile tawa weka tan utala anu tenpo pi ken pakala la o utala e TAW: pona la 
 - o tawa e k20 la nanpa ona o sama anu suli nanpa wawa sina.
 - 1 li pona lon tenpo ale, 20 li ike lon tenpo ale.
 
-**HIT PROTECTION**  
-**HP** indicates a PC's ability to avoid getting hurt. It is lost during combat & recovered after a few moment's rest.
+<!--**HIT PROTECTION**  
+**HP** indicates a PC's ability to avoid getting hurt. It is lost during combat & recovered after a few moment's rest.-->
+**KEN UTALA**
+**KU** li toki e ken pi jan musi ni: ona li kama ala pakala. utala la KU li kama weka. tenpo lape lili la ona li kama sin.
 
-**INVENTORY**  
-PCs have 10 inventory slots: four on their body and six in their backpack (which acts as a sleeping bag if emptied). Most items take up a one slot, but smaller items can be bundled. **Bulky** items take up two slots and are awkward or difficult to carry.
+<!--**INVENTORY**  
+PCs have 10 inventory slots: four on their body and six in their backpack (which acts as a sleeping bag if emptied). Most items take up a one slot, but smaller items can be bundled. **Bulky** items take up two slots and are awkward or difficult to carry.-->
+**POKI JO**
+jan musi li jo e lupa ijo luka luka: tu tu li lon sijelo ona, luka wan li lon poki monsi (jan musi li ken weka e ijo ale tan insa pi poki monsi la ona li ken lape lon insa). ijo mute li wile e lupa ijo wan. ijo li lili a la ijo mute li ken tawa ijo lupa wan. **ijo suli a** li wile e lupa ijo tu. jan musi li kepeken ijo suli a la ona o kepeken luka tu. jan musi li wile tawa e ijo suli a la ni li ken ike.
 
-Filling all ten item slots reduces a PC to 0 HP. PCs cannot carry more than their inventory allows, though carts & horses may provide an increase in slots.
+<!--Filling all ten item slots reduces a PC to 0 HP. PCs cannot carry more than their inventory allows, though carts & horses may provide an increase in slots.-->
+jan musi li jo e ijo lon lupa ijo ale (luka luka) la KU ona li kama 0. lupa ijo ale la jan musi li ken ala jo e ijo mute. taso poki tawa en soweli tawa li ken suli e poki jo.
 
 **DEPRIVATION**  
 **Deprived** PCs cannot recover HP. If deprived for more than a day,they add a **Fatigue** to inventory. Fatigue occupies one slot and lasts until they can recover in safety. This effect is cumulative.
