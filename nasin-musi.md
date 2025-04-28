@@ -1101,7 +1101,7 @@ _jan Peja li kama poka kulupu pi jan nasa ike lili. kulupu ni li jo e ilo utala 
 <!--### Healing
 Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss (see **Critical Damage**) can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services are free, while magical or more expedient means of recovery may come at a cost.-->
 ### kama pona sin
-jan musi lape e sijelo ona lon tenpo lili li moku e telo la KU ale li lon sin. taso tenpo lape la ike li ken kama li ken pakala e ona. weka pi nanpa wawa (o lukin e **pakala ike**) la kama pona sin li wile e tenpo suno mute pi luka tu li wile e jan sona pi pona sijelo anu sona ante pi ken pona. pali ni li ken wile e mani ala la taso pona sijelo pi nasa wawa li wile e mani mute.
+jan musi lape e sijelo ona lon tenpo lili li moku e telo la KU ale li lon sin. taso tenpo lape la ike li ken kama li ken pakala e ona. weka pi nanpa wawa (o lukin e **pakala ike**) la kama pona sin li wile e tenpo suno mute pi luka tu e jan sona pi pona sijelo anu sona ante pi ken pona. pali ni li ken wile e mani ala la taso pona sijelo pi nasa wawa li wile e mani mute.
 
 <!--### Deprivation & Fatigue
 A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot). PCs can also gain Fatigue by **casting spells** or through events in the fiction.-->
@@ -1612,11 +1612,17 @@ jan musi li jo e lupa ijo luka luka: tu tu li lon sijelo ona, luka wan li lon po
 <!--Filling all ten item slots reduces a PC to 0 HP. PCs cannot carry more than their inventory allows, though carts & horses may provide an increase in slots.-->
 jan musi li jo e ijo lon lupa ijo ale (luka luka) la KU ona li kama 0. lupa ijo ale la jan musi li ken ala jo e ijo mute. taso poki tawa en soweli tawa li ken suli e poki jo.
 
-**DEPRIVATION**  
-**Deprived** PCs cannot recover HP. If deprived for more than a day,they add a **Fatigue** to inventory. Fatigue occupies one slot and lasts until they can recover in safety. This effect is cumulative.
+<!--**DEPRIVATION**  
+**Deprived** PCs cannot recover HP. If deprived for more than a day,they add a **Fatigue** to inventory. Fatigue occupies one slot and lasts until they can recover in safety. This effect is cumulative.-->
+**PILIN IKE**
 
-**HEALING**  
-A moment's rest and a swig of water will restore lost HP, but may leave the party vulnerable. **Ability** loss requires a week's rest and the aid of a skilled healer.
+jan musi li **pilin ike** la ona li ken ala sin e KU ona. pilin ike li awen e tenpo suno wan la **pilin lape** wan li tawa poki jo pi jan musi. pilin lape li awen lon lupa ijo wan lon poki jo. jan musi li lape li kama pona sin lon ma pona la pilin lape li weka. pilin lape mute li ken.
+
+<!--**HEALING**  
+A moment's rest and a swig of water will restore lost HP, but may leave the party vulnerable. **Ability** loss requires a week's rest and the aid of a skilled healer.-->
+**KAMA PONA SIN**
+
+jan musi lape e sijelo ona lon tenpo lili li moku e telo la KU ale li lon sin. taso tenpo lape la ike li ken kama li ken pakala e ona. weka pi nanpa wawa la kama pona sin li wile e tenpo suno mute pi luka tu e jan sona pi pona sijelo.
 
 **SPELLBOOKS**  
 Spellbooks contain a single spell and take up one item slot. Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. Casting a spell adds **Fatigue** to the PC's inventory.
