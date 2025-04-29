@@ -1659,9 +1659,18 @@ utala **kepeken ilo utala tu** lon tenpo wan sama la o tawa e kiwen ken tu, o aw
 <!--If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced**, the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.-->
 utala li **utala pi wawa lili** la kiwen ken pakala li kama 1k4 tawa ilo utala ale. **utala pi wawa suli** la o tawa e 1k12. utala pi **pakala suli** li pakala e ijo ale lon poka. o pali e nanpa pakala pi mute kepeken kiwen ken pi mute sama.
 
-**DAMAGE**  
+<!--**DAMAGE**  
 If an attack reduces a PC’s HP exactly to 0, refer to the [**Scars**](/cairn-srd#scars-1) table.
- 
+
 Damage that reduces a target's HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.** Failure takes them out of combat, dying if left untreated.
 
 Having STR 0 means **death;** having DEX 0 is paralysis; having WIL 0 is delirium.
+-->
+**PAKALA**
+
+KU pi jan musi li kama 0 li lili ala li suli ala la o lukin e lipu [**pakala sijelo**](#scars-1).
+
+KU pi jan anu soweli la pakala li suli mute la o pali e nanpa ante kepeken nasin ni: ona li nanpa insa tan KU tawa nanpa pakala.
+o weka e nanpa ante ni tan WAW pi jan anu soweli. pini la jan anu soweli o utala e WAW tan ni: ona li wile ala kama **pakala ike**.
+
+nanpa WAW pi jan musi li kama 0 la **ona li moli**; nanpa TAW li kama 0 la jan musi li ken ala tawa. nanpa LAW ona li kama 0 la ja musi li kama nasa a.
