@@ -1236,7 +1236,7 @@ The attacker rolls their weapon die and subtracts the target's armor, then deals
 ### utala + pakala
 jan anu soweli la wan li utala e wan ante la o ni:
 - o tawa e kiwen ken pi ilo utala ona.
-- jan li utala kepeken luka kepeken ilo ala la kiwen ken ona li 1k4.
+- jan li utala kepeken luka taso kepeken ilo ala la kiwen ken ona li 1k4.
 - o weka e nanpa awen pi wan ante tan nanpa pi kiwen ken la ni li pali e nanpa pakala.
 - o weka e nanpa pakala tan KU pi wan ante.
 
@@ -1633,16 +1633,31 @@ lipu pi nasa wawa li wile e lupa ijo wan li toki e sona pi nasa wawa wan. jan al
 <!--Given time and safety, PCs can enhance a spell without any additional cost. If they are deprived or in danger, a WIL save may be required to avoid terrible consequences.-->
 tenpo li suli li tenpo kin pi utala ala la jan musi li ken suli e ken wawa pi nasa wawa. jan musi li wile wawa e nasa wawa lon tenpo pi **pilin ike** anu ken pakala la ona o utala e LAW ona tan ni: ike suli li ken kama.
 
-**COMBAT**  
-The attacker rolls their weapon die and subtracts the target's Armor, then deals the remaining total to their opponent's HP.
+<!--**COMBAT**  
+The attacker rolls their weapon die and subtracts the target's Armor, then deals the remaining total to their opponent's HP.-->
+**UTALA**
 
-Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.
+jan anu soweli la wan li utala e wan ante la o ni:
+- o tawa e kiwen ken pi ilo utala ona.
+- o weka e nanpa awen pi wan ante tan nanpa pi kiwen ken la ni li pali e nanpa pakala. 
+- o weka e nanpa pakala tan KU pi wan ante.
 
-No one can have more than 3 Armor.
+<!--Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.
 
-**Unarmed** attacks always do 1d4 damage. If **multiple attackers** target the same foe, roll all damage dice and keep the single highest result. If attacking with **two weapons** at the same time, roll both damage dice and keep the highest.
+No one can have more than 3 Armor.-->
+len awen ale li jo e **nanpa awen**. sina pakala e KU la open la o weka e nanpa awen tan nanpa pi kiwen ken pakala. supa kiwen luka en awen sama li pana e pona pi nanpa awen (ken la nanpa awen +1), taso sina o jo e supa anu awen ni lon luka anu sijelo sina lon tenpo utala.
 
-If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced**, the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.
+nanpa awen 3 li pini ale la jan musi li ken ala jo e len pi nanpa awen 4 anu suli.
+
+<!--**Unarmed** attacks always do 1d4 damage. If **multiple attackers** target the same foe, roll all damage dice and keep the single highest result. If attacking with **two weapons** at the same time, roll both damage dice and keep the highest.-->
+jan li utala **kepeken luka taso** kepeken ilo ala la kiwen ken pi pakala ona li 1k4.
+
+jan anu soweli la **mute li utala e wan** la o tawa e kiwen ken ale pi ilo utala. nanpa ale la o awen musi kepeken nanpa pi suli nanpa wan taso. o weka e nanpa ante ale.
+
+utala **kepeken ilo utala tu** lon tenpo wan sama la o tawa e kiwen ken tu, o awen musi kepeken nanpa pi suli nanpa wan taso. o weka e nanpa ante.
+
+<!--If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced**, the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.-->
+utala li **utala pi wawa lili** la kiwen ken pakala li kama 1k4 tawa ilo utala ale. **utala pi wawa suli** la o tawa e 1k12. utala pi **pakala suli** li pakala e ijo ale lon poka. o pali e nanpa pakala pi mute kepeken kiwen ken pi mute sama.
 
 **DAMAGE**  
 If an attack reduces a PC’s HP exactly to 0, refer to the [**Scars**](/cairn-srd#scars-1) table.
