@@ -1181,7 +1181,7 @@ lipu pi nasa wawa li ken lon e ni: jan ante li alasa sona e nasa wawa la ona li 
 Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.-->
 ### pali pi nasa wawa
 jan ale li ken pali e nasa wawa kepeken lipu pi nasa wawa. ona o jo e lipu lon luka tu ona, o toki kalama e toki pi insa lipu. kin la ona o pana e **pilin lape** wan tawa poki jo ona la ni li wile e lupa ijo wan.
-tenpo li suli li tenpo pi ken utala kin la jan musi li ken suli e ken wawa pi nasa wawa (ken la nasa wawa pi jan wan li kama nasa wawa pi jan mute. anu ken pakala pi nasa wawa li kama suli a). suli pi ken wawa ni li wile ala e ijo ante li wile e tenpo suli e tenpo pi utala ala taso.
+tenpo li suli li tenpo kin pi utala ala la jan musi li ken suli e ken wawa pi nasa wawa (ken la nasa wawa pi jan wan li kama nasa wawa pi jan mute. anu ken pakala pi nasa wawa li kama suli a). suli pi ken wawa ni li wile ala e ijo ante li wile e tenpo suli e tenpo pi utala ala taso.
 jan li **pilin ike** anu ken pakala li lon la jan lawa li ken toki e ni: jan musi o utala e LAW. utala pi nanpa wawa LAW ni li ike la pakala li kama li suli sama wawa pi nasa wawa. ken la pilin lape tu anu mute li kama. ken la lipu pi nasa wawa li pakala weka. ken la jan musi li pakala e sijelo ona. kin la moli li ken.
 
 <!--### Relics
@@ -1624,10 +1624,14 @@ A moment's rest and a swig of water will restore lost HP, but may leave the part
 
 jan musi lape e sijelo ona lon tenpo lili li moku e telo la KU ale li lon sin. taso tenpo lape la ike li ken kama li ken pakala e ona. weka pi nanpa wawa la kama pona sin li wile e tenpo suno mute pi luka tu e jan sona pi pona sijelo.
 
-**SPELLBOOKS**  
-Spellbooks contain a single spell and take up one item slot. Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. Casting a spell adds **Fatigue** to the PC's inventory.
+<!--**SPELLBOOKS**  
+Spellbooks contain a single spell and take up one item slot. Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. Casting a spell adds **Fatigue** to the PC's inventory.-->
+**LIPU PI NASA WAWA**
 
-Given time and safety, PCs can enhance a spell without any additional cost. If they are deprived or in danger, a WIL save may be required to avoid terrible consequences.
+lipu pi nasa wawa li wile e lupa ijo wan li toki e sona pi nasa wawa wan. jan ale li ken pali e nasa wawa kepeken lipu pi nasa wawa. ona o jo e lipu lon luka tu ona, o toki kalama e toki pi insa lipu. pali pi nasa wawa li pana e **pilin lape** wan tawa poki jo pi jan musi.
+
+<!--Given time and safety, PCs can enhance a spell without any additional cost. If they are deprived or in danger, a WIL save may be required to avoid terrible consequences.-->
+tenpo li suli li tenpo kin pi utala ala la jan musi li ken suli e ken wawa pi nasa wawa. jan musi li wile wawa e nasa wawa lon tenpo pi **pilin ike** anu ken pakala la ona o utala e LAW ona tan ni: ike suli li ken kama.
 
 **COMBAT**  
 The attacker rolls their weapon die and subtracts the target's Armor, then deals the remaining total to their opponent's HP.
