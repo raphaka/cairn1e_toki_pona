@@ -27,7 +27,7 @@ insa musi la jan li jan wawa pi tawa ma sin. ona li kama lukin e ma pimeja pi ka
 <details close markdown="block">
   <summary id="index">
     <!--Table of contents-->
-    jo lipu
+    lukin lipu
   </summary>
   {: .text-delta }
 - TOC
@@ -251,9 +251,9 @@ Finally, roll for their **age** (2d20+10).-->
 
 #### nimi + pali + ijo jan
 
-open la o **nimi** e jan musi sina o alasa e **pali** ona. nimi en pali li lon [**lipu nimi** en **lipu pali**](#name--background-d20). pali pi jan musi li pana e sona ken tawa ona.
+open la o **nimi** e jan musi sina o alasa e **pali** ona. nimi en pali li lon [**lipu nimi** en **lipu pali**](#nimi--pali-k20). pali pi jan musi li pana e sona ken tawa ona.
 
-ni li pini la o tawa e kiwen ken tan ijo jan pi jan musi sina. lukin sijelo en nasin toki en wile lili en pilin suli li ijo jan. ijo jan li lon [**lipu pi ijo jan**](#character-traits-d10) la o tawa e kiwen ken tan alasa ona.
+ni li pini la o tawa e kiwen ken tan ijo jan pi jan musi sina. lukin sijelo en nasin toki en wile lili en pilin suli li ijo jan. ijo jan li lon [**lipu pi ijo jan**](#ijo-jan-k10) la o tawa e kiwen ken tan alasa ona.
 
 pini ni la o tawa e kiwen ken tan **tenpo sike** pi jan musi sina (2k20+10). <!-- kiwen 2 pi sinpin 20 en 10 li tenpo sike ona.-->
 
@@ -282,9 +282,9 @@ _jan Inesu li wile pali e nanpa wawa **WAW** pi jan musi ona la ona li tawa e ki
 <!--</details>-->
 
 <!--### Hit Protection
-Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](/cairn-srd#scars-1) table.-->
+Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](/cairn-srd.md/scars-1) table.-->
 ### nanpa pi ken utala
-o tawa e 1k6 la nanpa ona li kama **ken utala** (KU) open pi jan musi sina. nanpa ni li toki e ken pi jan musi ni: utala la ona li pakala ala. nanpa ni li toki ala e pona sijelo e wawa sijelo. kin la ona li weka ala lon tenpo suli (o lukin **kama pona sin**). KU pi jan musi li kama 0 tan utala, jan o lukin e lipu [**pakala sijelo**](/cairn-srd#scars-1) kepeken kiwen ken.
+o tawa e 1k6 la nanpa ona li kama **ken utala** (KU) open pi jan musi sina. nanpa ni li toki e ken pi jan musi ni: utala la ona li pakala ala. nanpa ni li toki ala e pona sijelo e wawa sijelo. kin la ona li weka ala lon tenpo suli (o lukin **kama pona sin**). KU pi jan musi li kama 0 tan utala, jan o lukin e lipu [**pakala sijelo**](#pakala-sijelo-1) kepeken kiwen ken.
 
 <!--#### Inventory
 Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.-->
@@ -314,8 +314,8 @@ open la jan musi ale li jo e ni:
 - palisa suno  (lupa ijo wan)
 - 3k6 mani
 
-<!--Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Spellbooks**](#spellbooks-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result.-->
-lipu ale pi **jo open** la o tawa e kiwen ken wan la o kama sona e len awen e ilo utala e ilo ante. ken la jan musi sina li kama jo e **lipu pi nasa wawa** la sina o tawa e k100 lon lipu [**lipu pi nasa wawa**](#spellbooks-d100). (k100 la sina ken tawa e 2k10 la kiwen ken wan li pana e nanpa pi suli LL la kiwen ken ante li pana e nanpa lili). lipu ken ale la sina o jo e ijo wan taso.
+<!--Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Spellbooks**](#spellpooks-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result.-->
+lipu ale pi **jo open** la o tawa e kiwen ken wan la o kama sona e len awen e ilo utala e ilo ante. ken la jan musi sina li kama jo e **lipu pi nasa wawa** la sina o tawa e k100 lon lipu [**lipu pi nasa wawa**](#lipu-pi-nasa-wawa-k100). (k100 la sina ken tawa e 2k10 la kiwen ken wan li pana e nanpa pi suli LL la kiwen ken ante li pana e nanpa lili). lipu ken ale la sina o jo e ijo wan taso.
 
 
 <!--See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
@@ -324,7 +324,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 o lukin e **lipu ijo** la nanpa awen en nanpa utala en nanpa pi lupa ijo li lon. tenpo ken la sina ken kulupu e ijo lili mute.
 
-wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu ijo ken**](#optional-gear-packages).
+wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu ijo ken**](#kulupu-ijo-ken).
 
 <p></p>
 
