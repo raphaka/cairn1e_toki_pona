@@ -1141,7 +1141,7 @@ tenpo ken la kulupu li ken utala ni kepeken LAW pi lawa kulupu. jan ante li utal
 PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.-->
 
 ### jan pali
-jan musi li ken pana e mani tawa **jan pali**. **jan pali** li pali pona e tawa pi jana musi. jan lawa li wile pali e jan pali sin la o pali e nanpa ken pi jan pali. o tawa e 3k6 tawa nanpa ken ale. o tawa e 1k6 tawa awen utala o pana e ilo utala pona kepeken k6 tawa ona. o kepeken lipu nasin ni: [**nasin pali pi jan musi**](#character-creation) tawa ijo ante pi jan pali. ona li wile e mj 1 anu mj 2 anu mj 3 tawa pali pi tenpo suno wan. ante la, ona li wile e ijo mani lili.
+jan musi li ken pana e mani tawa **jan pali**. **jan pali** li pali pona e tawa pi jana musi. jan lawa li wile pali e jan pali sin la o pali e nanpa ken pi jan pali. o tawa e 3k6 tawa nanpa ken ale. o tawa e 1k6 tawa awen utala o pana e ilo utala pona kepeken k6 tawa ona. o kepeken lipu nasin ni: [**nasin pali pi jan musi**](#nasin-pali-pijan-musi) tawa ijo ante pi jan pali. ona li wile e mj 1 anu mj 2 anu mj 3 tawa pali pi tenpo suno wan. ante la, ona li wile e ijo mani lili.
 
 <!--### Wealth & Treasure
 The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).-->
@@ -1292,7 +1292,7 @@ TAW anu LAW li weka ale la jan musi o kama pona tan lape mute a anu nasin wawa a
 <!--### Scars
 When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd#scars-1) table for more.-->
 ### pakala sijelo
-KU pi jan musi li kama 0 li lili ala li suli ala la ona li ken ante pi tenpo ale. o lukin e lipu [**pakala sijelo**](#scars-1).
+KU pi jan musi li kama 0 li lili ala li suli ala la ona li ken ante pi tenpo ale. o lukin e lipu [**pakala sijelo**](#pakala-sijelo-1).
 
 <!--### Unconsciousness & Death
 When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.-->
@@ -1460,9 +1460,9 @@ kiwen ken pi ilo utala li sama mute. ona li utala kepeken ilo la pakala li 1k6 a
 
 ||||
 | ---- | ---- | ---- |
-| 1    | [Ko Awen](#adhere)                       | ko li len e ijo wan. ijo ni li awen li ken ala tawa.                |
-| 2    | [Linja Awen](#anchor)                  | linja wawa li kama tan luka sina. ona li awen lon poka tu. poka wan li ken weka 50ft/15m tan poka ante.       |
-| 3    | [Lon E Ijo](#animate-object)          | ijo wan li lon li kute e wile sina li pali pi ken ale ona e wile ni.|
+| 1    | [Ko Awen](#ko-awen)                       | ko li len e ijo wan. ijo ni li awen li ken ala tawa.                |
+| 2    | [Linja Awen](#linja-awen)                  | linja wawa li kama tan luka sina. ona li awen lon poka tu. poka wan li ken weka 50ft/15m tan poka ante.       |
+| 3    | [Lon E Ijo](#lon-e-ijo)          | ijo wan li lon li kute e wile sina li pali pi ken ale ona e wile ni.|
 | 4    | [Jan E Soweli](#anthropomorphize)  | tenpo suno wan la soweli wan li kama sona sama jan anu kama lukin sama jan |
 | 5    | [Sike Lukin Pi Nasa Wawa](#arcane-eye) | sina ken lukin kepeken sike lukin pi nasa wawa. sike ni li ken tawa kon tan wile sina. |
 | 6    | [Poki Pi Weka Sewi](#astral-prison)| ijo wan li awen lon tenpo lon ma ale. ona li jo e len pi kiwen lukin li ken ala pakala. |
