@@ -9,7 +9,7 @@ nav_order: 1
 -->
 
 <!--# Cairn System Reference Document (v.1.0)-->
-# Lipu nasin pi musi Cairn (n.0.1)
+# Lipu nasin pi musi Cairn (n.0.2)
 <!--{: .no_toc }-->
 
 <p></p>
@@ -1141,7 +1141,7 @@ tenpo ken la kulupu li ken utala ni kepeken LAW pi lawa kulupu. jan ante li utal
 PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.-->
 
 ### jan pali
-jan musi li ken pana e mani tawa **jan pali**. **jan pali** li pali pona e tawa pi jana musi. jan lawa li wile pali e jan pali sin la o pali e nanpa ken pi jan pali. o tawa e 3k6 tawa nanpa ken ale. o tawa e 1k6 tawa awen utala o pana e ilo utala pona kepeken k6 tawa ona. o kepeken lipu nasin ni: [**nasin pali pi jan musi**](#nasin-pali-pijan-musi) tawa ijo ante pi jan pali. ona li wile e mj 1 anu mj 2 anu mj 3 tawa pali pi tenpo suno wan. ante la, ona li wile e ijo mani lili.
+jan musi li ken pana e mani tawa **jan pali**. **jan pali** li pali pona e tawa pi jana musi. jan lawa li wile pali e jan pali sin la o pali e nanpa ken pi jan pali. o tawa e 3k6 tawa nanpa ken ale. o tawa e 1k6 tawa awen utala o pana e ilo utala pona kepeken k6 tawa ona. o kepeken lipu nasin ni: [**nasin pali pi jan musi**](#nasin-pali-pi-jan-musi) tawa ijo ante pi jan pali. ona li wile e mj 1 anu mj 2 anu mj 3 tawa pali pi tenpo suno wan. ante la, ona li wile e ijo mani lili.
 
 <!--### Wealth & Treasure
 The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).-->
