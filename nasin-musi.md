@@ -1,4 +1,4 @@
-<!--
+c<!--
 ---
 layout: default
 title: SRD
@@ -21,8 +21,9 @@ o lukin e [tomo ilo sona pi toki Inli](https://github.com/yochaigal/cairn) anu [
 
 <!--**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
 Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.-->
-**musi Cairn** li musi pi tawa ma sin li tawa jan lawa wan li tawa jan ante wan anu jan ante mute.
+**musi Cairn** li musi pi tawa ma sin li tawa jan lawa wan li tawa jan ante wan anu jan ante mute. <!-- jan Sujute: musi Cairn li musi tawa la jan lawa wan en jan ante li musi. -->
 insa musi la jan li jan wawa pi tawa ma sin. ona li kama lukin e ma pimeja pi kasi suli. ma ni pi kasi suli li jo e jan nasa e mani len e soweli ike la jan li ken ala toki e ike pi soweli ni.
+
 
 <details close markdown="block">
   <summary id="index">
@@ -328,8 +329,8 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 
 <p></p>
 
-## nimi + pali (k20)
-#### nimi
+## nimi + pali
+#### nimi (k100)
 |||||||||
 |--|--|--|--|--|--|--|--|
 |1|Seke|26|Lunone|51|Wamepa|76|Kipujo|
@@ -380,7 +381,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |4           |jan pali pi moku sijelo   |9          |jan kasi  |14        |jan pali nena    |19    |jan pali pi jan ante   |
 |5           |jan pi pali supa |10         |jan alasa     |15        |jan pi nasin lawa ala   |20    |jan pi mama soweli    |-->
 
-#### pali
+#### pali (k20)
 |||
 |------|-----------|
 |1           |ona li pali e telo pi nasa wawa.|
@@ -419,7 +420,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 5        | Rugged   | 10   | Towering   |-->
 
 <!--o pona e ni aaaaaa-->
-#### lukin sijelo
+#### lukin sijelo (k10)
 |||||
 | -------- | -------- | ---- | ---------- |
 | 1        | wawa     | 6    | wawa lili  |
@@ -437,7 +438,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 4    | Pockmarked | 9    | Tattooed  |
 | 5    | Rosy       | 10   | Weathered |-->
 
-#### selo sijelo
+#### selo sijelo (k10)
 
 |||||
 | ---- | ---------- | ---- | --------- |
@@ -456,7 +457,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 4    | Filthy  | 9    | Wavy      |
 | 5    | Frizzy  | 10   | Wispy     |-->
 
-#### linja lawa
+#### linja lawa (k10)
 <!--|  |         |      |           |
 | ---- | ------- | ---- | --------- |
 | 1    | ala     | 6    | suli      |
@@ -480,7 +481,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 
 
 <!--#### Face-->
-#### sinpin lawa
+#### sinpin lawa (k10)
 
 <!--|  |           |      |          |
 | ---- | --------- | ---- | -------- |
@@ -517,7 +518,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 4      | Droning | 9    | Stuttering |
 | 5      | Formal  | 10   | Whispery   |-->
 
-#### nasin toki
+#### nasin toki (k10)
 
 |  |         |      |            |
 | ------ | ------- | ---- | ---------- |
@@ -529,7 +530,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 
 
 <!--#### Clothes-->
-#### len sijelo
+#### len sijelo (k10)
 
 <!--|  |         |      |        |
 | -------- | ------- | ---- | ------ |
@@ -547,7 +548,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 5        | tan ma weka | 10   | pakala |
 
 <!--#### Virtue-->
-#### nasin pona
+#### nasin pona (k10)
 
 <!--|  |             |      |           |
 | ------ | ----------- | ---- | --------- |
@@ -582,7 +583,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 5    | Greedy     | 10   | Vengeful |
 -->
 
-#### nasin ike
+#### nasin ike (k10)
 <!--|  |            |      |          |
 | ---- | ---------- | ---- | -------- |
 | 1    | wile pi utala mute | 6    | wile pi pali ala |
@@ -604,7 +605,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |10|ike pi tenpo pini li weka taso ona li awen pilin e wile utala.|
 
 <!--#### Reputation-->
-#### pilin pi jan ante la jan musi sina li ni:
+#### pilin pi jan ante la jan musi sina li ni (k10):
 
 <!--|  |             |      |           |
 | ---------- | ----------- | ---- | --------- |
@@ -622,7 +623,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 5          | toki lon      | 10   | jan pi sona wawa      |
 
 <!--#### Misfortunes-->
-#### tenpo pini ike
+#### tenpo pini ike (k10)
 <!--|  |             |      |             |
 | ----------- | ----------- | ---- | ----------- |
 | 1           | Abandoned   | 6    | Defrauded   |
@@ -655,7 +656,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | :---: | :--------: | :-------: | :---: |
 |  1-3  |    4-14    |   15-19   |  20   |
 | None  | Brigandine | Chainmail | Plate |-->
-#### len awen
+#### len awen (k20)
 |       |            |           |       |
 | :---: | :--------: | :-------: | :---: |
 |  1-3  |    4-14    |   15-19   |  20   |
@@ -666,7 +667,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | :---------------: | :----: | :----: | :-------------: |
 |       1-13        | 14-16  | 17-19  |       20        |
 |       None        | Helmet | Shield | Helmet & Shield |-->
-#### len lawa kiwen + supa kiwen luka
+#### len lawa kiwen + supa kiwen luka (k20)
 |  |        |        |                 |
 | :---------------: | :----: | :----: | :-------------: |
 |       1-13        | 14-16  | 17-19  |       20        |
@@ -680,7 +681,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | Dagger, Cudgel, Staff | Sword, Mace, Axe | Bow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
 
 -->
-#### ilo utala
+#### ilo utala (k20)
 
 |                |                  |                          |                                |
 | :-------------------: | :--------------: | :------------------: | :------------------------------: |
@@ -696,7 +697,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 4    | Chain (10ft)           | 9    | Large Trap     | 14   | Pulley      | 19   | Tinderbox   |
 | 5    | Dowsing Rod            | 10   | Lockpicks      | 15   | Repellent   | 20   | Wolfsbane   |-->
 
-#### ilo pi jan tawa
+#### ilo pi jan tawa (k20)
 |||||||||
 | --- | --- | --- | --- | ---- | --- | --- | --- |
 |1|poki kon |6|telo ko pi pali seli|11|ilo pi awen luka|16|linja wawa (25ft/8m)|
@@ -714,7 +715,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 4    | Chalk    | 9    | Fishing Rod    | 14   | Metal File | 19   | Shovel  |
 | 5    | Chisel   | 10   | Glue           | 15   | Nails      | 20   | Tongs   |-->
 
-#### ilo
+#### ilo (k20)
 |      |          |      |                |      |            |      |         |
 | ---- | -------- | ---- | -------------- | ---- | ---------- | ---- | ------- |
 | 1    | ilo pi pana kon  | 6    | poki pi pali moku | 11   | ko moku     | 16   | kulupu linja alasa |
@@ -732,7 +733,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 4    | Face Paint  | 9    | Lens       | 14   | Salt Pack   | 19   | Twine   |
 | 5    | Fake Jewels | 10   | Marbles    | 15   | Small Bell  | 20   | Whistle |-->
 
-#### ijo lili
+#### ijo lili (k20)
 
 |      |             |      |            |      |             |      |         |
 | ---- | ----------- | ---- | ---------- | ---- | ----------- | ---- | ------- |
@@ -743,7 +744,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 5    | kiwen mani pi lon ala | 10   | sike lili mute pi ilo musi | 15   | ilo mu lili  | 20   | ilo kalama kon |
 
 <!--#### Bonus Item (roll on table indicated)-->
-#### ijo pona (o lukin e lipu pi kiwen ken)
+#### ijo pona (o lukin e lipu pi kiwen ken) (k20)
 
 |   |        |         |           |
 | :-------------: | :----------------: | :-------------: | :-------: |
