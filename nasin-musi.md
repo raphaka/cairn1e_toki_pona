@@ -1,4 +1,4 @@
-c<!--
+<!--
 ---
 layout: default
 title: SRD
@@ -21,7 +21,7 @@ o lukin e [tomo ilo sona pi toki Inli](https://github.com/yochaigal/cairn) anu [
 
 <!--**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
 Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.-->
-**musi Cairn** li musi pi tawa ma sin li tawa jan lawa wan li tawa jan ante wan anu jan ante mute. <!-- jan Sujute: musi Cairn li musi tawa la jan lawa wan en jan ante li musi. -->
+**musi Cairn** li toki e tawa pi ma sin la jan lawa wan en jan ante wan li musi. <!-- jan Sujute: musi Cairn li musi tawa la jan lawa wan en jan ante li musi. -->
 insa musi la jan li jan wawa pi tawa ma sin. ona li kama lukin e ma pimeja pi kasi suli. ma ni pi kasi suli li jo e jan nasa e mani len e soweli ike la jan li ken ala toki e ike pi soweli ni.
 
 
