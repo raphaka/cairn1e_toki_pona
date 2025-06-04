@@ -107,7 +107,7 @@ pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, k
 ### wile e ken wawa
 - tenpo pi nasa ala la o toki e kon e lon pi nasa ala o toki ala e nanpa.
 - jan li wile e ijo pi ken ala la kiwen ken o ala lon e ijo ni.
-- ijo pi toki jan li ken ala ken? ken la o lon e ijo
+- ijo pi toki jan li ken ala ken? ken la o lon e ijo.
 - utala pi nanpa wawa li toki e ijo mute pi sona ala. mute la tenpo pi ken pakala li wile e utala ni taso.
 
 <!--### Preparation
@@ -119,7 +119,7 @@ pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, k
 ### pali lon tenpo pini tawa musi
 - ma musi li ken ante li ken kama sin li nasa. ma ni li sona pilin li tawa wawa nasa.
 - o kepeken lipu pi ken nasa anu nasin ante. o pali e ma e ijo e wile jan o pali ala e nasin pi toki musi anu nasin pi tenpo kama.
-- jan ante o sona e toki pi jan musi e ante pi jan musi tawa ma musi.
+- jan ante pi insa musi o sona e toki pi jan musi e ni: jan musi li ante seme e ma musi.
 - jan ante li wile ala moli. o pana e wile ni pi jan ante tawa kon lawa ona.
   
 <!--### Narrative Focus
@@ -130,8 +130,7 @@ pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, k
 ### wile musi
 - wile suli li ni: pilin musi tan ijo ale musi. nasin nanpa en ken pi jan musi li suli ala. o pana e jan pana pi sona utala e utala pona. ona li pona e jan musi e ken suli pi jan musi.
 - o lukin pona e wile jan e alasa jan. o pana e ken pona tawa ona.
-- musi la, sina jo e len awen ale li sona ken suli la moli li awen tan ni: ilo palisa utala lon lawa sina li awen ken moli e sina.
-
+- musi la, sina jo e len awen ale li sona ken suli la moli li awen ken tan ni: ilo palisa utala lon lawa sina li awen ken moli e sina.
 
 <!--### Danger
 - The game world produces real risk of pain and death for the player characters.
