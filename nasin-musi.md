@@ -128,9 +128,9 @@ pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, k
 - A dagger to your throat will kill you, regardless of your expensive armor and impressive training.-->
 
 ### wile musi
-- wile suli li ni: pilin musi tan ijo ale musi. nasin nanpa en ken pi jan musi li suli ala. o pana e jan pana pi sona utala e utala pona. ona li pona e jan musi e ken suli pi jan musi.
+- wile suli li ni: pilin musi tan ijo ale musi. nasin nanpa en ken pi jan musi li suli ala. insa musi la o pana e jan pana pi sona utala e utala pona. ona li pona e jan musi e ken suli pi jan musi. o pana e ijo ni kin: jan musi li wile e ona la ona li pali wawa li kama wawa.
 - o lukin pona e wile jan e alasa jan. o pana e ken pona tawa ona.
-- musi la, sina jo e len awen ale li sona ken suli la moli li awen ken tan ni: ilo palisa utala lon lawa sina li awen ken moli e sina.
+- insa musi la sina jo e len awen ale li sona ken suli la moli li awen ken tan ni: ilo palisa utala lon lawa sina li awen ken moli e sina.
 
 <!--### Danger
 - The game world produces real risk of pain and death for the player characters.
@@ -160,8 +160,8 @@ pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, k
 - Ensure that the player character's actions leave their mark on the game world.-->
 ### pali wile
 - nasin musi li kama wawa ala la o pana e nasin pi pali wile tawa jan.
-- toki pi jan musi li nasa la sina sona ala e wile ona la o toki kepeken nasin tu e ni: "sina wile e A anu e B?"
-- o pali sama kulupu kepeken nasin ni la musi li tawa.
+- toki pi jan musi li nasa la sina sona ala e wile ona la o toki kepeken nasin tu e ni: "sina wile e wan anu e tu?"
+- o pali sama kulupu kepeken nasin ni la musi li awen tawa.
 - o awen e ni: pali pi jan musi li awen lon ma musi.
 
 <!--### Die of Fate
@@ -186,7 +186,7 @@ pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, k
 ### wawa pali
 - nanpa wawa en utala pi nanpa wawa li toki ala e ale pi jan musi sina. ona li ilo taso.
 - o toki insa pi taso ala e ni: "jan musi mi li wile seme?" o toki insa kin e wile sina.
-- nasin nasa pona la, o kepeken e sona sina e ijo sina e sona jan sina.
+- nasin nasa pona la o kepeken e sona sina e ijo sina e sona jan sina.
 
 <!--### Teamwork
 - Seek consensus from the other players before barreling forward.
@@ -208,7 +208,7 @@ pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, k
 - Treat NPCs as if they were real people, and rely on your curiosity to safely gain information and solve problems.
 - You'll find that most people are interesting and will want to talk things through before getting violent.-->
 ### toki
-- sina toki tawa jan musi ante la toki sina o sama pi toki tawa jan lon. o kama sona e sona wawa kepeken wile sona sina. sona ni li ken pona e sina.
+- sina toki tawa jan ante pi insa musi la toki sina o sama pi toki tawa jan lon. o kama sona e sona wawa kepeken wile sona sina. sona ni li ken pona e sina.
 - sina kama lukin li kama sona e ni: jan mute a li wile toki li wile utala ala.
 
 <!--### Caution
@@ -222,9 +222,9 @@ pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, k
 - Think of ways to avoid your obstacles through reconnaissance, subtlety, and fact-finding.
 - Do some research and ask around about your objectives.-->
 ### pali pi nasin kama
-- o alasa tawa lon nasin pi ike ala kepeken lukin sona.
+- o alasa tawa lon nasin pi utala ala kepeken lukin sona.
 <!-- how the hell would you translate subtlety?-->
-- musi la, o alasa kama sona kepeken toki e ijo pi alasa sina
+- insa musi la o alasa kama sona kepeken toki e ijo pi alasa sina
 
 <!--### Ambition
 - Set goals and use your meager means to take steps forward.
@@ -232,7 +232,7 @@ pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, k
 - Keep things moving forward and play to see what happens.-->
 ### wile wawa
 - o pali e alasa sina. o tawa kepeken ken sina pi wawa ala.
-- o lukin wile e ala. wile sina la jan musi ante o pilin pona tan sina la o pali wawa.
+- o wile e ala. wile sina la jan musi ante o pilin pona tan sina la o pali wawa.
 - o tawa sinpin e ijo la o lukin e kama.
 
 [o tawa sin pi lukin lipu](#index)
@@ -262,7 +262,7 @@ Player Characters (PCs) have just three attributes:
 
 #### nanpa wawa 
 jan musi li jo nanpa wawa 3 ni:
-**wawa sijelo (WAW)**, **tawa (TAW)**, en **lawa sona (LAW)**. sina pali e jan musi la o tawa e 3k6 la nanpa wawa WAW li kama lon. pini la o pali e nanpa wawa TAW e nanpa wawa LAW kepeken nasin sama. sina wile la o ante e nanpa wawa tu. ni la nanpa wawa wan li kama nanpa wawa ante en nanpa wawa ante li kama nanpa wawa wan.
+**wawa sijelo (WAW)**, **tawa ken (TAW)**, en **lawa sona (LAW)**. sina pali e jan musi la o tawa e 3k6 la nanpa wawa WAW li kama lon. pini la o pali e nanpa wawa TAW e nanpa wawa LAW kepeken nasin sama. sina wile la o ante e nanpa wawa tu. ni la nanpa wawa wan li kama nanpa wawa ante en nanpa wawa ante li kama nanpa wawa wan.
 
 <!--<details markdown="block">
   <summary>
@@ -283,16 +283,16 @@ _jan Inesu li wile pali e nanpa wawa **WAW** pi jan musi ona la ona li tawa e ki
 <!--### Hit Protection
 Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](/cairn-srd.md/scars-1) table.-->
 ### nanpa pi ken utala
-o tawa e 1k6 la nanpa ona li kama **ken utala** (KU) open pi jan musi sina. nanpa ni li toki e ken pi jan musi ni: utala la ona li pakala ala. nanpa ni li toki ala e pona sijelo e wawa sijelo. kin la ona li weka ala lon tenpo suli (o lukin **kama pona sin**). KU pi jan musi li kama 0 tan utala, jan o lukin e lipu [**pakala sijelo**](#pakala-sijelo-1) kepeken kiwen ken.
+o tawa e 1k6 la nanpa ona li kama **ken utala** (KU) open pi jan musi sina. nanpa ni li toki e ken pi jan musi ni: utala la ona li pakala ala. nanpa ni li toki ala e pona sijelo e wawa sijelo. kin la ona li weka ala lon tenpo suli (o lukin e **kama pona sin**). KU pi jan musi li kama 0 tan utala la jan o lukin e lipu [**pakala sijelo**](#pakala-sijelo-1) kepeken kiwen ken.
 
 <!--#### Inventory
 Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.-->
 
 #### poki jo
-jan musi li ken jo e ijo kepeken lupa ijo 10: poki monsi ona li jo e lupa ijo 6. luka tu ona li jo e lupa ijo wan la lupa ijo tu li lon. sijelo ona li jo e lupa ijo tu. tenpo ike la jan li ken weka e ijo ale tan poki monsi ona la ona li ken lape lon insa poki.
+jan musi li ken jo e ijo kepeken lupa ijo 10: poki monsi ona li jo e lupa ijo 6. luka tu ona li jo e lupa ijo la lupa ijo tu li lon. sijelo ona li jo e lupa ijo tu. tenpo ike la jan li ken weka e ijo ale tan poki monsi ona la ona li ken lape lon insa poki.
 
 <!--Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden's discretion.-->
-ijo mute li wile e lupa ijo wan. ijo li lili a la ijo mute li ken tawa ijo lupa wan. wile pi jan lawa la lupa ijo li ken tawa ante.
+ijo mute li wile e lupa ijo wan. ijo li lili a la ijo mute li ken tawa lupa ijo wan. wile pi jan lawa la lupa ijo li ken tawa ante.
 
 <!--**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP.-->
 **ijo suli a** li wile e lupa ijo tu. jan musi li kepeken ijo suli a la ona o kepeken luka tu. jan musi li wile tawa e ijo suli a la ni li ken ike. poki jo pi jan musi li ale (ijo ona li wile e lupa ijo 10) la KU pi jan musi li kama 0.
@@ -340,7 +340,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |7|Jotupo|32|Iko|57|Wetu|82|Pejo|
 |8|Jomen|33|Wanun|58|Kepun|83|Muwise|
 |9|Meki|34|Posan|59|Tetu|84|Jote|
-|10|Mekin|35|Tajeli|60|Nenesin|85|Pilime|
+|10|Mokin|35|Tajeli|60|Nenesin|85|Pilime|
 |11|Jewinse|36|Opentu|61|Newa|86|Lutu|
 |12|Wamo|37|Miwi|62|Emi|87|Ono|
 |13|Nesan|38|Puluta|63|Pojo|88|Lumulu|
@@ -352,7 +352,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |19|Kemawi|44|Tewin|69|Mijun|94|Utoka|
 |20|Kepon|45|Aku|70|Kiso|95|Jutana|
 |21|Mewanu|46|Kiko|71|Wekama|96|Pamiwe|
-|22|Jasina|47|Nopupa|72|Peki|97|Sokelan|
+|22|Jasena|47|Nopupa|72|Peki|97|Sokelan|
 |23|Silowe|48|Tanomo|73|Loli|98|Nutun|
 |24|Janu|49|Masunpo|74|Ato|99|Liku|
 |25|Osu|50|Kesisa|75|Kipo|100|Mukeno|
@@ -382,26 +382,26 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 #### pali (k20)
 |||
 |------|-----------|
-|1           |ona li pali e telo pi nasa wawa.|
-|2           |ona li pali e ilo. |
-|3           |jan ike ni li tawa insa pi tomo ante li kama jo e ijo. |
-|4           |jan ni li pali e moku pi sijelo soweli.|
-|5           |ona li pali e supa lape e supa monsi kepeken kiwen kasi. |
-|6          |tomo pi nasin sewi la ona li jan lawa.|
-|7          |ona li musi, taso mani ona li ken weka.|
-|8          |jan li moli la, ona li pali e lupa lon ma moli.|
-|9          |ona li mama e kasi li telo e kasi.|
-|10         |ona li alasa e soweli.|
-|11         |ona li sona suli e nasa wawa. |
-|12        |jan ante li pana e mani la, ona li utala lon poka ona.|
-|13        |ona li jan esun. |
-|14        |jan li pali e kiwen lon nena.|
-|15        |ona li kute ala e nasin lawa. |
-|16        |ona li kalama musi li pana e musi tawa jan ante. |
+|1     |ona li pali e telo pi nasa wawa.|
+|2     |ona li pali e ilo. |
+|3     |jan ike ni li tawa insa pi tomo ante li kama jo e ijo. |
+|4     |jan ni li pali e moku pi sijelo soweli.|
+|5     |ona li pali e supa lape e supa monsi kepeken kiwen kasi. |
+|6     |tomo pi nasin sewi la ona li jan lawa.|
+|7     |tenpo mute la ona li musi, taso mani ona li ken weka.|
+|8     |jan li moli la ona li pali e lupa lon ma moli.|
+|9     |ona li mama e kasi li telo e kasi.|
+|10    |ona li alasa e soweli.|
+|11    |ona li sona suli e nasa wawa. |
+|12    |jan ante li pana e mani la ona li utala lon poka ona.|
+|13    |ona li jan esun. |
+|14    |jan ni li pali e kiwen lon nena.|
+|15    |ona li kute ala e nasin lawa. |
+|16    |ona li kalama musi li pana e musi tawa jan ante. |
 |17    |jan ike ni li kama jo e poki mani pi jan ante.|
 |18    |ona li tawa pi ma ante e ijo pi nasin lawa ala. |
-|19    |ona li pali tan jan pi mani mute.   |
-|20    |ma pi kasi suli la, ona li lawa li alasa li mama e soweli. |
+|19    |ona li pali lon tomo pi jan mani a.   |
+|20    |ma pi kasi suli la ona li lawa li alasa li mama e soweli. |
 
 <p></p>
 
@@ -1082,7 +1082,7 @@ jan li utala kepeken **nanpa wawa** tu wan lon tenpo pi sama ala (o lukin e **ut
 <!--### Saves
 A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.-->
 ### utala pi nanpa wawa
-ike li ken lon tenpo ni la o utala e nanpa wawa. o tawa e k20 pi nanpa wawa wan. nanpa wawa la nanpa pi kiwen ken li sama anu lili la utala li pona. jan musi li ken e wile ona. nanpa pi kiwen ken li suli li suli pi nanpa wawa la utala li ike. ante la, nanpa 1 pi kiwen ken li pona lon tenpo ale. nanpa 20 pi kiwen ken li ike lon tenpo ale.
+ike li ken lon tenpo ni la o utala e nanpa wawa. o tawa e k20 pi nanpa wawa wan. nanpa wawa la nanpa pi kiwen ken li sama anu lili la utala li pona. jan musi li ken e wile ona. nanpa pi kiwen ken li suli li suli pi nanpa wawa la utala li ike. ante la nanpa 1 pi kiwen ken li pona lon tenpo ale. nanpa 20 pi kiwen ken li ike lon tenpo ale.
 
 <!--<details markdown="block">
   <summary>
@@ -1140,7 +1140,7 @@ tenpo ken la kulupu li ken utala ni kepeken LAW pi lawa kulupu. jan ante li utal
 PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.-->
 
 ### jan pali
-jan musi li ken pana e mani tawa **jan pali**. **jan pali** li pali pona e tawa pi jana musi. jan lawa li wile pali e jan pali sin la o pali e nanpa ken pi jan pali. o tawa e 3k6 tawa nanpa ken ale. o tawa e 1k6 tawa awen utala o pana e ilo utala pona kepeken k6 tawa ona. o kepeken lipu nasin ni: [**nasin pali pi jan musi**](#nasin-pali-pi-jan-musi) tawa ijo ante pi jan pali. ona li wile e mj 1 anu mj 2 anu mj 3 tawa pali pi tenpo suno wan. ante la, ona li wile e ijo mani lili.
+jan musi li ken pana e mani tawa **jan pali**. **jan pali** li pali pona e tawa pi jana musi. jan lawa li wile pali e jan pali sin la o pali e nanpa ken pi jan pali. o tawa e 3k6 tawa nanpa ken ale. o tawa e 1k6 tawa awen utala o pana e ilo utala pona kepeken k6 tawa ona. o kepeken lipu nasin ni: [**nasin pali pi jan musi**](#nasin-pali-pi-jan-musi) tawa ijo ante pi jan pali. ona li wile e mj 1 anu mj 2 anu mj 3 tawa pali pi tenpo suno wan. ante la ona li wile e ijo mani lili.
 
 <!--### Wealth & Treasure
 The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).-->
@@ -1417,7 +1417,7 @@ KU X, nanpa awen X, WAW X, TAW X, LAW X, ilo utala (kX, ken pi nasa pona, ken an
 Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. Adjust as necessary.
 - Give average creatures 3 HP, give hardy ones 6 HP, and serious threats get 10+ HP.-->
 **sona nasin**
-nanpa wawa: 3 lili mute, 6 li lili, 10 li insa, 14 li pona, 18 li wawa a. wile la, o ante.
+nanpa wawa: 3 lili mute, 6 li lili, 10 li insa, 14 li pona, 18 li wawa a. wile la o ante.
 - o pana e KU 3 tawa monsuta pi nasa ala. o pana e KU 6 tawa monsuta wawa. o pana e KU 10+ tawa monsuta ni: ken suli la ona li moli e jan musi.
 <!--- Use flavor and style to help them stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
 - Use critical damage to lean into the threat or strangeness of any aggressive NPC.
@@ -1530,7 +1530,7 @@ kiwen ken pi ilo utala li sama mute. ona li utala kepeken ilo la pakala li 1k6 a
 | 69   | [Pali Ko](#pali-ko)     | ijo pi lon ala li sama ko tawa luka sina la sina ken ante e sijelo ona.          |
 | 70   | [Pilin E Ijo](#pilin-e-ijo)                         | o toki e ijo wan (ken la ilo open, mani jelo, palisa alasa, poki telo, ijo ante...). sina ken pilin e lon pi ijo sama ni lon poka sina. |
 | 71   | [Awen Tan Pakala](#awen-tan-pakala)                       | sina pilin luka e jan wan anu soweli wan la ona li kama awen tan pakala ale pi nasa ala. nasa wawa ni li awen lon tenpo ilo lili 1min. |
-| 72   | [Lukin Ala](#lukin-ala)                       | sina pilin luka e jan wan anu soweli wan la ona li kama lukin sama kon. ni la jan ante en soweli ante li ken ala lukin e ona. ona li tawa la, nasa wawa ni li pini.           |
+| 72   | [Lukin Ala](#lukin-ala)                       | sina pilin luka e jan wan anu soweli wan la ona li kama lukin sama kon. ni la jan ante en soweli ante li ken ala lukin e ona. ona li tawa la nasa wawa ni li pini.           |
 | 73   | [Ante E Ma Jan](#ante-e-ma-jan)                     | sina ken lukin e jan tu la tenpo pi lili ale la jan nanpa wan li lon ma pi jan ante la jan ante li lon ma pi jan nanpa wan.          |
 | 74   | [Lape](#lape)                         | sina lukin e jan wan anu soweli wan la ona li open lape. taso lape ni li wawa ala la ona li ken weka tan kalama anu ijo ante.         |
 | 75   | [Ma Pi Nena Ala](#ma-pi-nena-ala)                         | ma ale lon sike suli li kama pilin pi nena ala. nena lili ale lon ma ni li weka la luka en noka li wile ala awen lon ma la jan en soweli ale li ken ala tawa pona lon ma ni. sike suli li suli linja 30ft/9m tan insa ona tawa poka ale ona.   |
