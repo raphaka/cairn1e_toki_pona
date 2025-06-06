@@ -38,7 +38,7 @@ def nimi():
     return nimi_sin.capitalize()
 
 
-print('||||||\n|--|--|--|--|--|--|')
+print('|||||||||\n|--|--|--|--|--|--|--|--|')
 
 for i in range(25):
     print('|'+str(i+1)+'|'+nimi()+'|'+str(i+26)+'|'+nimi()+'|'+str(i+51)+'|'+nimi()+'|'+str(i+76)+'|'+nimi()+'|')
