@@ -405,6 +405,8 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 
 <p></p>
 
+<!--O SONA E NI:
+some translation are changed to keep the toki simple-->
 <!--## Character traits (d10)-->
 ## ijo jan (k10)
 
@@ -417,7 +419,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 4        | Lanky    | 9    | Stout      |
 | 5        | Rugged   | 10   | Towering   |-->
 
-<!--o pona e ni aaaaaa-->
+
 #### lukin sijelo (k10)
 |||||
 | -------- | -------- | ---- | ---------- |
@@ -425,7 +427,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 2        | wawa suli| 7    | lili       |
 | 3        | ko       | 8    | pona       |
 | 4        | palisa   | 9    | sike       |
-| 5        | kiwen    | 10   | sama nena  |
+| 5        | kiwen    | 10   | suli a     |
 
 <!--#### Skin
 |  |            |      |           |
@@ -462,7 +464,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 2    | linja mute li kama linja wan | 7 | mani a    |
 | 3    |tawa sike| 8    | ko        |
 | 4    | jaki    | 9    |tawa sama telo|
-| 5    | Frizzy  | 10   | Wispy     |-->
+| 5    | tawa poka ale  | 10   | kule     |-->
 
 |||
 | --- | --- |
@@ -475,7 +477,8 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 7   | jan pi mani mute li jo e linja lawa sama ni.|
 | 8   | telo ko li lon li pana sin e suno.|
 | 9   | lukin linja li sama telo tawa. |
-| 10  | ona li mute ala li sama telo kon. |
+| 10  | kule tu li lon linja. |
+<!-- like original | 10  | linja li mute ala li sama telo kon. |-->
 
 
 <!--#### Face-->
@@ -501,7 +504,8 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |      |           |      |     |
 | ---- | --------- | ---- | -------- |
 | 1    | kiwen     | 6    | pona ale |
-| 2    | pakala    | 7    |sama soweli pipi|
+<!--| 2    | pakala    | 7    |sama soweli pipi|-->
+| 2    | pakala    | 7    | nena li lili |
 | 3    | wawa      | 8    | sike ala |
 | 4    | suli palisa | 9  | sijelo lipu |
 | 5    | kule walo | 10   | lukin lape |
@@ -521,7 +525,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |  |         |      |            |
 | ------ | ------- | ---- | ---------- |
 | 1  | kepeken nimi lili | 6    | suwi ala   |
-| 2  | kalama wawa | 7 | pona lon kepeken nimi mute    |
+| 2  | kalama wawa | 7 | kepeken nimi mute |
 | 3  | toki len  | 8  | kalama suwi lili    |
 | 4  | suli wawa | 9  | pakala lili |
 | 5  | musi ala  | 10 | kalama lili  |
@@ -537,13 +541,14 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 3        | Elegant | 8    | Livery |
 | 4        | Filthy  | 9    | Rancid |
 | 5        | Foreign | 10   | Soiled |-->
+
 |  |         |      |        |
 | -------- | ------- | ---- | ------ |
-| 1        | tan tenpo pini weka | 6    | poka len li kama linja |
-| 2        | telo sijelo loje li lon  | 7    | tan tenpo pini lili |
-| 3        | pona a | 8    | nasin len kulupu |
-| 4        | jaki lili | 9    | jaki a |
-| 5        | tan ma weka | 10   | pakala |
+| 1 | tan tenpo pini weka | 6 | poka len li kama linja |
+| 2 | telo sijelo loje li lon  | 7 | suli a |
+| 3 | pona a      | 8    | nasin len kulupu |
+| 4 | jaki lili   | 9    | jaki a |
+| 5 | tan ma weka | 10   | pakala |
 
 <!--#### Virtue-->
 #### nasin pona (k10)
@@ -559,11 +564,11 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |||
 | --- | --- |
 | 1 | wile pali ona li wawa. |
-| 2 | ona li lukin wawa la ona li pakala ala. |
+| 2 | ona li lukin wawa la ona li pakala ala.|
 | 3 | utala la ona li pilin ala e monsuta. |
-| 4 | ona li pali lon tenpo mute. |
+| 4 | ona li pali pona lon tenpo mute. |
 | 5 | jan mute li pona tawa ona. ona en kulupu li musi. |
-| 6 | toki ona li lon. pali ona li pona |
+| 6 | toki ona li lon. pali ona li pona. |
 | 7 | ona li wile e ijo pi mute ala e mani lili.|
 | 8 | jan li utala e ona la taso ona li ike ala tawa jan ni. |
 | 9 | ona li pana e pilin lape pona tawa jan ante.|
@@ -586,7 +591,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | ---- | ---------- | ---- | -------- |
 | 1    | wile pi utala mute | 6    | wile pi pali ala |
 | 2    | pilin jaki     | 7    | pilin monsuta  |
-| 3    | wile pi utala ala     | 8    | toki ike     |
+| 3    | monsuta tan utala ale     | 8    | toki ike     |
 | 4    | toki pi lon ala  | 9    | olin pi lukin ona     |
 | 5    | wile mani     | 10   | wile utala tan tenpo pini |-->
 |||
@@ -600,7 +605,7 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |7|ona li pilin monsuta lili tan ijo mute.|
 |8|ona li toki ike tawa jan ale. ken la kepeken nimi jaki.|
 |9|ona li pali mute taso pali ona li pona ala.|
-|10|ike pi tenpo pini li weka taso ona li awen pilin e wile utala.|
+|10|ike pi tenpo pini li weka. taso ona li awen pilin e wile utala.|
 
 <!--#### Reputation-->
 #### pilin pi jan ante la jan musi sina li ni (k10):
@@ -612,13 +617,14 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 | 3          | Dangerous   | 8    | Repulsive |
 | 4          | Entertainer | 9    | Respected |
 | 5          | Honest      | 10   | Wise      |-->
-|  |             |      |           |
-| ---------- | ----------- | ---- | --------- |
-| 1 | wile wawa   | 6 | jan pi wile ala pali    |
-| 2 | ike tawa jan ante        | 7 | nasa suli  |
-| 3          | ken utala wawa   | 8    | jaki |
-| 4          | jan musi | 9    | pona tawa jan ante |
-| 5          | toki lon      | 10   | jan pi sona wawa      |
+
+|||||
+| ---------- | ------- | ---- | --------- |
+| 1 | wile wawa | 6 | jan pi wile ala pali |
+| 2 | ike tawa jan ante | 7 | nasa suli  |
+| 3 | ken utala wawa   | 8    | jaki |
+| 4 | jan musi | 9    | pona tawa jan ante |
+| 5 | toki lon | 10   | jan pi sona wawa   |
 
 <!--#### Misfortunes-->
 #### tenpo pini ike (k10)
