@@ -393,14 +393,14 @@ wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [**kulupu
 |9     |ona li mama e kasi li telo e kasi.|
 |10    |ona li alasa e soweli.|
 |11    |ona li sona suli e nasa wawa. |
-|12    |jan ante li pana e mani la ona li utala lon poka ona.|
+|12    |jan ante li pana e mani la jan ni li utala lon poka ona.|
 |13    |ona li jan esun. |
 |14    |jan ni li pali e kiwen lon nena.|
 |15    |ona li kute ala e nasin lawa. |
 |16    |ona li kalama musi li pana e musi tawa jan ante. |
 |17    |jan ike ni li kama jo e poki mani pi jan ante.|
 |18    |ona li tawa pi ma ante e ijo pi nasin lawa ala. |
-|19    |ona li pali lon tomo pi jan mani a.   |
+|19    |ona li pali lon tomo pi jan mani a. |
 |20    |ma pi kasi suli la ona li lawa li alasa li mama e soweli. |
 
 <p></p>
@@ -468,16 +468,16 @@ some translation are changed to keep the toki simple-->
 
 |||
 | --- | --- |
-| 1   | ona li jo ala e linja lawa. |
+| 1   | ona li jo ala e linja lawa.   |
 | 2   | linja mute li kama linja wan. |
 | 3   | linja mute li tawa sike lili. |
 | 4   | ona li jo e linja jaki.       |
-| 5   | linja li tawa poka ale. |
+| 5   | linja li tawa poka ale.       |
 | 6   | linja li suli a.              |
 | 7   | jan pi mani mute li jo e linja lawa sama ni.|
 | 8   | telo ko li lon li pana sin e suno.|
-| 9   | lukin linja li sama telo tawa. |
-| 10  | kule tu li lon linja. |
+| 9   | lukin linja li sama telo tawa.|
+| 10  | kule tu li lon linja.         |
 <!-- like original | 10  | linja li mute ala li sama telo kon. |-->
 
 
@@ -505,7 +505,7 @@ some translation are changed to keep the toki simple-->
 | ---- | --------- | ---- | -------- |
 | 1    | kiwen     | 6    | pona ale |
 <!--| 2    | pakala    | 7    |sama soweli pipi|-->
-| 2    | pakala    | 7    | nena li lili |
+| 2    | pakala    | 7    | nena sinpin li lili |
 | 3    | wawa      | 8    | sike ala |
 | 4    | suli palisa | 9  | sijelo lipu |
 | 5    | kule walo | 10   | lukin lape |
@@ -522,13 +522,13 @@ some translation are changed to keep the toki simple-->
 
 #### nasin toki (k10)
 
-|  |         |      |            |
+|||||
 | ------ | ------- | ---- | ---------- |
-| 1  | kepeken nimi lili | 6    | suwi ala   |
+| 1  | kepeken nimi lili | 6 | suwi ala   |
 | 2  | kalama wawa | 7 | kepeken nimi mute |
 | 3  | toki len  | 8  | kalama suwi lili    |
 | 4  | suli wawa | 9  | pakala lili |
-| 5  | musi ala  | 10 | kalama lili  |
+| 5  | musi ala  | 10 | kalama lili |
 
 
 <!--#### Clothes-->
@@ -542,7 +542,7 @@ some translation are changed to keep the toki simple-->
 | 4        | Filthy  | 9    | Rancid |
 | 5        | Foreign | 10   | Soiled |-->
 
-|  |         |      |        |
+|||||
 | -------- | ------- | ---- | ------ |
 | 1 | tan tenpo pini weka | 6 | poka len li kama linja |
 | 2 | telo sijelo loje li lon  | 7 | suli a |
