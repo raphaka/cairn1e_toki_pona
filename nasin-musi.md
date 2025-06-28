@@ -469,7 +469,7 @@ some translation are changed to keep the toki simple-->
 |||
 | --- | --- |
 | 1   | ona li jo ala e linja lawa.   |
-| 2   | linja mute li kama linja wan. |
+| 2   | linja mute li kama linja suli wan. |
 | 3   | linja mute li tawa sike lili. |
 | 4   | ona li jo e linja jaki.       |
 | 5   | linja li tawa poka ale.       |
@@ -640,11 +640,11 @@ some translation are changed to keep the toki simple-->
 | --- | --- |
 |1|jan ante ale li weka tan ona.|
 |2|ona li ken ala pini e ijo ike. ijo ike li ken telo nasa li ken musi pi weka mani li ken ante. |
-|3|ona li pali tan wile pi jan ante. ala la jan ante ni li ike e ona.|
+|3|ona li pali tan wile pi jan ante. ona li pali ni ala la jan ante ni li ike e ona.|
 |4|jan lawa la ona li ike.|
 |5|nasa wawa ike li lon ona.|
 |6|jan ante li ike e ona kepeken toki pi lon ala.|
-|7|pali la jan lawa li lili e ken ona.|
+|7|pali la jan lawa li lili e ken lawa ona.|
 |8|sona pi jan ante la ona li ike.|
 |9|jan li weka e jo ona e kon jo ona.|
 |10|jan li weka e ona tan ma mama ona.|
@@ -678,12 +678,10 @@ some translation are changed to keep the toki simple-->
 |       ala        | len lawa kiwen | supa kiwen luka | len lawa kiwen + supa kiwen luka  |
 
 <!-- #### Weapons
-
 |                |                  |                          |                                |
 | :-------------------: | :--------------: | :------------------: | :------------------------------: |
 |          1-5          |       6-14       |          15-19       |               20               |
 | Dagger, Cudgel, Staff | Sword, Mace, Axe | Bow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
-
 -->
 #### ilo utala (k20)
 
