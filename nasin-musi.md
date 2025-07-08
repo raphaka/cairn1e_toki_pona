@@ -703,9 +703,9 @@ some translation are changed to keep the toki simple-->
 |||||||||
 | --- | --- | --- | --- | ---- | --- | --- | --- |
 |1|poki kon |6|telo ko pi pali seli|11|ilo pi awen luka|16|linja wawa (25ft/8m)|
-|2|telo pi awen tan telo moli|7|luka palisa kiwen lon pini linja|12|ilo pi pakala kiwen|17|sitelen awen|
+|2|telo pi awen tan telo moli|7|ilo tawa pi linja luka|12|ilo pi pakala kiwen|17|sitelen awen|
 |3| poki tawa (lupa ijo +4, suli a) |8|poki len suli|13| palisa suli (10ft/3m)|18|ilo palisa pi lukin weka|
-|4| linja kiwen (10ft/3m)|9|ilo alasa awen suli|14|sike tawa pi linja wawa|19|poki lili pi open seli|
+|4| linja kiwen (10ft/3m)|9|ilo alasa awen suli|14|ilo sike pi linja wawa|19|poki lili pi open seli|
 |5|ilo nasa pi alasa kiwen|10|ilo open ken pi lupa ale|15|telo pi weka soweli|20|kasi pi ken moli|
 
 <!--#### Tools
@@ -739,7 +739,7 @@ some translation are changed to keep the toki simple-->
 
 |      |             |      |            |      |             |      |         |
 | ---- | ----------- | ---- | ---------- | ---- | ----------- | ---- | ------- |
-| 1    | poki telo | 6    | palisa pi lawa soweli | 11   | ilo sinpin pi lukin sama | 16   | kiwen pi weka jaki |
+| 1    | poki telo | 6    | palisa tan lawa soweli | 11   | ilo sinpin pi lukin sama | 16   | kiwen pi weka jaki |
 | 2    | musi lipu | 7    | palisa kasi pi kon seli | 12   | telo pi pilin kon pona | 17   | ko pi lupa mute |
 | 3    | musi pi kiwen ken | 8    | ilo pi kalama musi | 13   | ilo sitelen + telo sitelen | 18   | poki wan la ko pi kama kiwen|
 | 4    | kule pi sinpin lawa  | 9    | ilo pi lukin suli | 14   | poki lili pi ko walo moku   | 19   | linja lili |
@@ -794,18 +794,18 @@ some translation are changed to keep the toki simple-->
 ## ijo ale (nanpa li wile ona pi mani jelo pi)
 #### 
 
-||     |
-|--------------------------------------------------------------|-----|
-|supa kiwen luka (nanpa awen +1)            |10   |
-|len lawa kiwen (nanpa awen +1)            |10   |
-|len utala insa (nanpa awen +1)          |15   |
-|len utala (nanpa awen 1, suli a)  |20   |
-|len pi linja kiwen (anpa awen 2, suli a)   |40   |
-|len pi lipu kiwen (nanpa awen 3, suli a)       |60   |
+|||
+|----------------------------|-----|
+|supa kiwen luka (nanpa awen +1) |10   |
+|len lawa kiwen (nanpa awen +1)  |10   |
+|len utala insa (nanpa awen +1)  |15   |
+|len utala (nanpa awen 1, suli a)|20   |
+|len pi linja kiwen (anpa awen 2, suli a)|40 |
+|len pi lipu kiwen (nanpa awen 3, suli a)|60 |
 #### ilo utala
 
-| |     |
-|-----------------------------------------------------------|-----|
+|||
+|-------------------------|-----|
 |ilo moli lili, palisa sike, palisa suli (pakala k6)            |5    |
 |palisa suli utala, palisa pakala, ilo utala pi pini sike, palisa pi pakala kasi. (pakala k8)           |10   |
 |palisa pakala suli, ilo utala kiwen, palisa utala pi pakala kasi (pakala k10, suli a)  |20   |
@@ -818,30 +818,30 @@ some translation are changed to keep the toki simple-->
 
 | | | |  |
 |---|---|---|---|
-|poki kon  |5 |ilo alasa awen suli   |20 |
+|poki kon       |5  |ilo alasa awen suli |20 |
 |ilo pi pana kon|10 |ko suli pi lupa mute|5 |
-|len lape |5  |ilo pi lukin suli|10 |
-|lipu |50 |ilo open ken pi lupa ale |25|
-|poki telo suli|5 |ilo pi awen luka|10 |
+|len lape       |5  |ilo pi lukin suli|10 |
+|lipu           |50 |ilo open ken pi lupa ale |25|
+|poki telo suli |5  |ilo pi awen luka  |10 |
 | kiwen palisa lili pi pakala noka |10 | palisa lili pi pakala kiwen |5 |
 |poki tawa (lupa ijo +4, suli a) |30 |ilo sinpin pi lukin sama |5 |
 |linja kiwen (10ft/3m) |10 |soweli tawa (lupa ijo +6, wile e tenpo suli)|30      |
 |palisa sitelen |1 |kulupu linja alasa |10 |
 |ilo pi pali sijelo kiwen |5 |poki pi telo ala |5 |
 |poki pi pali moku|10|ilo pi pakala kiwen|10 |
-|palisa kiwen pi open lupa |10 |sike tawa pi linja wawa |10 |
+|palisa kiwen pi open lupa |10 |ilo sike pi linja wawa |10 |
 |ilo pi pali lupa lili |10 |palisa suli (10ft/3m) |5 |
-|kule pi sinpin lawa |10 |ilo sitelen en telo sitelen|10 |
+|kule pi sinpin lawa |10 |ilo sitelen + telo sitelen|10 |
 |telo ko pi pali seli |10 |moku pi tenpo suno tu wan |10 |
 |palisa pi alasa kala |10 |linja wawa (25ft/8m) |5 |
 |sike lili mute pi ilo musi |5 |ilo pi tu kasi |5 |
 |ko pi awen poka |5 |poki len |5 |
-|ko moku |10 | ilo pi lupa ma |5 |
-|luka palisa kiwen lon pini linja |25 |kiwen pi weka jaki |1 |
+|ko telo moku |10 | ilo pi lupa ma |5 |
+|ilo tawa pi linja luka |25 |kiwen pi weka jaki |1 |
 |ilo kiwen |5 |palisa kiwen lili |1 |
 |telo pi nasin sewi |25 |len noka pi palisa kiwen lili mute |5 |
-|palisa pi lawa soweli |10 |ilo palisa pi lukin weka |40 |
-|soweli tawa wawa (lupa ijo +4)|75 |ko pi ama kiwen |10 |
+|palisa tan lawa soweli |10 |ilo palisa pi lukin weka |40 |
+|soweli tawa wawa (lupa ijo +4)|75 |ko pi kama kiwen |10 |
 |ilo tenpo pi poki ko |50 |tomo len (jan tu li ken insa, suli a)|20 |
 |palisa kasi pi kon seli |10 |palisa suno |1 |
 |nasin palisa pi tawa sewi (suli a, 10ft/3m)           |10 |tomo tawa (lupa ijo +8, wile e tenpo suli)|200 |
@@ -1039,7 +1039,7 @@ jan ni li insa e tomo pi jan ante li kama jo e ijo ona e mani ona.
 |len pi len lawa kin (nanpa awen 1)       |
 |ilo open ken pi lupa ale                 |
 |kiwen palisa lili pi pakala noka         |
-|luka palisa kiwen lon pini linja         |
+|ilo tawa pi linja luka                   |
 |palisa lili pi pakala kiwen              |
 
 <!--#### Ranger
