@@ -870,7 +870,7 @@ jan ni li tawa ma ante li pana e sona pi nasin sewi ona. jan sewi ona li awen e 
 | len awen pi linja kiwen (nanpa awen 2, suli a) |
 | len luka awen (nanpa awen +1)     |
 | ilo utala lili pi weka ike (k6)   |
-| sitelen sewi (tenpo wan pi tenpo suno la ona li ken nasa wawa e _sike awen_)     |
+| sitelen sewi (tenpo wan pi tenpo suno la ona li ken pali e nasa wawa _Sike Awen_)     |
 | len pi kulupu sewi                |
 
 <!--#### Dowser
@@ -890,7 +890,7 @@ jan ni li tawa ma li lukin e ni: ma seme la kiwen pona en kiwen mani li lon.
 |palisa sike (k6)                           |
 |len tan len ante mute (nanpa awen +1)      |
 |ilo nasa pi alasa kiwen                    |
-|kiwen nasa pi sike lukin (ona li insa pi telo pona la ona li nasa wawa e _Pilin E Ijo_)|
+|kiwen nasa pi sike lukin (ona li insa pi telo pona la ona li pali e nasa wawa _Pilin E Ijo_)|
 |lipu pi sona ma (ona li pakala lili)       |
 |ilo palisa pi lukin weka                   |
 
