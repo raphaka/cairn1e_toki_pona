@@ -1061,7 +1061,7 @@ jan ni li awen e soweli e waso e akesi. ona li pana e moku tawa ona li utala e s
 |len pi selo kiwen sijelo (nanpa awen 1)   |
 |ilo alasa awen suli                       |
 |soweli alasa [KU 2, TAW 12, kiwen uta (k6)]|
-|palisa kalama kon pi lawa soweli          |
+|palisa pi kalama kon wawa tan lawa soweli |
 
 [o tawa sin pi lukin lipu](#index)
 <p></p>
