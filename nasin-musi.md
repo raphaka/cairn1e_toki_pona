@@ -1104,7 +1104,7 @@ _jan Peja li kama poka kulupu pi jan nasa ike lili. kulupu ni li jo e ilo utala 
 <!--### Healing
 Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss (see **Critical Damage**) can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services are free, while magical or more expedient means of recovery may come at a cost.-->
 ### kama pona sin
-jan musi lape e sijelo ona lon tenpo lili li moku e telo la KU ale li lon sin. taso tenpo lape la ike li ken kama li ken pakala e ona. weka pi nanpa wawa (o lukin e **pakala ike**) la kama pona sin li wile e tenpo suno mute pi luka tu e jan sona pi pona sijelo anu sona ante pi ken pona. pali ni li ken wile e mani ala la taso pona sijelo pi nasa wawa li wile e mani mute.
+jan musi li lape e sijelo ona lon tenpo lili li moku e telo la KU ale li lon sin. taso tenpo lape la ike li ken kama li ken pakala e ona. weka pi nanpa wawa (o lukin e **pakala ike**) la kama pona sin li wile e tenpo suno mute pi luka tu e jan sona pi pona sijelo anu sona ante pi ken pona. pali ni li ken wile e mani ala la taso pona sijelo pi nasa wawa li wile e mani mute.
 
 <!--### Deprivation & Fatigue
 A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot). PCs can also gain Fatigue by **casting spells** or through events in the fiction.-->
