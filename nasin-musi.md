@@ -1169,7 +1169,7 @@ ma tomo anu tomo suli wawa anu ma pi tomo tawa telo la jan li esun e ijo mani sa
 tenpo ken la lipu pi nasa wawa li lukin nasa anu pilin nasa. ken la lipu li pana e pilin kon ike anu pilin kon pi ma ante. ken la lipu li ken sona sama jan anu soweli. ken la jan li ken lukin e sitelen lipu lon suno pi sike mun taso.
 
 <!--Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.-->
-lipu pi nasa wawa li ken lon e ni: jan ante li alasa sona e nasa wawa la ona li wile e lipu sina. ike la ni li ken utala tawa sina la o pana lukin e lipu sina ala.
+lipu pi nasa wawa li ken lon e ni: jan ante li alasa sona e nasa wawa la ona li wile e lipu sina. ike la ni li ken utala tawa sina la o pana lukin ala e lipu sina.
 
 <!--**Scrolls** are similar to Spellbooks, however:
 - They do not take up an inventory slot.
@@ -1193,7 +1193,7 @@ jan li **pilin ike** anu ken pakala li lon la jan lawa li ken toki e ni: jan mus
 **ilo nasa** li ken pali e nasa wawa. ona li pana ala e pilin lape tawa jan musi. ilo nasa mute la sina ken ala pali e nasa wawa lon tenpo ale. sina ni lon mute lili la wawa pi ilo nasa li weka. taso wawa ni li ken kama sin kepeken nasin pi sin wawa. o lukin e ilo nasa ken ni:
 
 <!--**Honeyclasp** , 3 charges. A rusted ring that shrinks the bearer to 6" tall. Recharge: place in a thimble-sized cup of royal jelly.-->
-**sike suwi** _ ken kepeken 3. ona li sike pi palisa luka. kiwen ona li kama loje tan tenpo suli. jan li jo e sike la ona li ken lili e sijelo ona tawa suli 6"/15cm. nasin pi sin wawa: tomo pi pipi jelo pimeja la ko suwi pi pipi lawa li lon. o pana e ko suwi ni tawa poki lili e sike suwi tawa insa pi ko suwi. pini la wawa ale pi sike suwi li kama sin.
+**sike suwi** , ken kepeken 3. ona li sike pi palisa luka. kiwen ona li kama loje tan tenpo suli. jan li jo e sike la ona li ken lili e sijelo ona tawa suli 6"/15cm. nasin pi sin wawa: tomo pi pipi jelo pimeja la ko suwi pi pipi lawa li lon. o pana e ko suwi ni tawa poki lili e sike suwi tawa insa pi ko suwi. pini la wawa ale pi sike suwi li kama sin.
 
 <!--**Falconer's Friend** , 1 charge. A bolt-shaped wand carrying the _Haste_ spell. Recharge: fire from a crossbow and recover.-->
 **palisa pi alasa kepeken waso** , ken kepeken 1. palisa ni li pona a tawa jan pi alasa kepeken waso li lukin sama linja wawa pi sewi pimeja. ona li ken pali e _Tawa Wawa_. nasin pi sin wawa: o tawa kon e ona kepeken ilo supa pi alasa weka. pini la o kama jo sin e ona.
@@ -1203,7 +1203,7 @@ jan li **pilin ike** anu ken pakala li lon la jan lawa li ken toki e ni: jan mus
 
 <!--**Leycap** , 1 use. Anyone ingesting this green-flecked mushroom loses a Fatigue, but is then required to make a WIL save to avoid its addictive properties. A fail leaves the PC deprived and unable to focus until they can eat another leycap, providing only a brief reprieve from the addiction.-->
 
-**kili ma nasa** , ken kepeken 1. kili ni li kasi sike lon anpa pi kasi suli li jo e sike lili laso. jan li moku e kili ni la ona li weka e lape wan taso ona o utala e LAW tan ni: ken la ona li kama wile e mute li ken ala pini. utala LAW ni li ike la lawa pi jan musi li wawa ala. jan li moku e kili ma nasa sin la ona li pona sin lon tenpo lili. taso ona li awen wile e kili lon tenpo kama.
+**kili ma nasa** , ken kepeken 1. kili ni li kasi sike lon anpa pi kasi suli li jo e sike lili laso. jan li moku e kili ni la ona li weka e lape wan, taso ona o utala e LAW tan ni: ken la ona li kama wile e mute li ken ala pini. utala LAW ni li ike la lawa pi jan musi li wawa ala. jan li moku e kili ma nasa sin la ona li pona sin lon tenpo lili. taso ona li awen wile e kili lon tenpo kama.
 
 <!--## Combat-->
 ## utala
