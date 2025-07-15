@@ -1224,7 +1224,7 @@ open pi tenpo sike la jan li toki e wile pi jan musi ona. ken pakala li lon tan 
 <!--### Turns
 The Warden will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a DEX save to act before their opponents.-->
 ### tenpo tawa
-jan lawa li toki e ni pi tenpo tawa kama: ken suli la jan ante anu soweli ante li ijo seme pi tenpo tawa. open utala la jan musi ale o utala e TAW tan ni: pona la ona li ken tawa lon open utala. ike la ona o awen li ken ala tawa la jan ante li open e utala.
+jan lawa li toki e ni pi tenpo tawa kama: ken suli la ijo ante li pali seme pi tenpo tawa. open utala la jan musi ale o utala e TAW tan ni: pona la ona li ken tawa lon open utala. ike la ona o awen li ken ala tawa la jan ante li open e utala.
 
 <!--<details markdown="block">
   <summary>
@@ -1237,11 +1237,11 @@ _jan Peja li tawa ma kasi li sona ala e ni: ma kasi ni li ma awen pi jan suli ik
 <!--### Attacking & Damage
 The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Unarmed attacks always do 1d4 damage.-->
 ### utala + pakala
-jan anu soweli la wan li utala e wan ante la o ni:
+ijo wan li utala e ijo ante la o ni:
 - o tawa e kiwen ken pi ilo utala ona.
 - jan li utala kepeken luka taso kepeken ilo ala la kiwen ken ona li 1k4.
-- o weka e nanpa awen pi wan ante tan nanpa pi kiwen ken la ni li pali e nanpa pakala.
-- o weka e nanpa pakala tan KU pi wan ante.
+- o weka e nanpa awen pi ijo ante tan nanpa pi kiwen ken la ni li pali e nanpa pakala.
+- o weka e nanpa pakala tan KU pi ijo ante.
 
 <!--<details markdown="block">
   <summary>
@@ -1253,8 +1253,8 @@ _jan suli ike kasi li mu utala li tawa sike e ilo pakala ona tawa jan Peja. KU p
 
 <!--### Multiple Attackers
 If multiple attackers target the same foe, roll all damage dice and keep the single highest result.-->
-### mute pi jan utala anu soweli utala
-jan anu soweli la mute li utala e wan la o tawa e kiwen ken ale pi ilo utala. nanpa ale la o awen musi kepeken nanpa pi suli nanpa wan taso. o weka e nanpa ante ale.
+### mute pi ijo utala
+ijo mute li utala e wan la o tawa e kiwen ken ale pi ilo utala. nanpa ale la o awen musi kepeken nanpa pi suli nanpa wan taso. o weka e nanpa ante ale.
 
 <!--### Attack Modifiers
 If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 damage regardless of the attacks damage die.-->
