@@ -1259,31 +1259,31 @@ ijo mute li utala e wan la o tawa e kiwen ken ale pi ilo utala. nanpa ale la o a
 <!--### Attack Modifiers
 If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 damage regardless of the attacks damage die.-->
 ### utala pi wawa ante
-nasin anu tenpo anu ma li ike tawa utala la jan anu soweli ni li **utala pi wawa lili**. (ken la luka ona li ken ala tawa. ken la jan pi utala ona li lon monsi ijo.) ona li utala kepeken 1k4 li utala kepeken ala kiwen ken pi ilo utala ona.
+nasin anu tenpo anu ma li ike tawa utala la ijo li **utala pi wawa lili** (ken la luka ona li ken ala tawa. ken la jan pi utala ona li lon monsi ijo.). ona li utala kepeken 1k4 li utala kepeken ala kiwen ken pi ilo utala ona.
 
 <!--If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is **enhanced**, allowing the attacker to roll 1d12 damage instead of their normal die.-->
-ona li utala kepeken nasin pona anu tenpo pona la ona li **utala pi wawa suli**. (ken la jan ante li ken ala awen pona e ona. ken la jan utala li tawa pi monsuta ala) kiwen ken pi ilo utala ona li kama 1k12.
+ona li utala kepeken nasin pona anu tenpo pona la ona li **utala pi wawa suli** (ken la jan ante li ken ala awen pona e ona. ken la jan utala li tawa pi monsuta ala). kiwen ken pi ilo utala ona li kama 1k12.
 
 <!--### Dual Weapons
 If attacking with two weapons at the same time, roll both damage dice and keep the single highest result.-->
 ### ilo utala tu
-utala kepeken ilo utala tu lon tenpo wan sama la o tawa e kiwen ken tu, o awen musi kepeken nanpa pi suli nanpa wan taso. o weka e nanpa ante.
+utala kepeken ilo utala tu lon tenpo sama la o tawa e kiwen ken tu, o awen musi kepeken nanpa pi suli nanpa wan taso. o weka e nanpa ante.
 
 <!--### Blast
 Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.-->
 ### pakala suli
-utala pi **pakala suli** li pakala e ijo ale lon poka. o pali e nanpa pakala pi mute kepeken kiwen ken pi mute sama. pakala suli li ken pakala wawa seli li ken kiwen anpa pi suli mute tan sewi. sina sona ala e mute pi ijo pakala la o tawa e kiwen ken sama pi ilo utala.
+utala pi **pakala suli** li pakala e ijo ale lon poka. o pali e nanpa pakala mute kepeken kiwen ken pi mute sama. pakala suli li ken pakala wawa seli li ken kiwen suli anpa tan sewi. sina sona ala e mute pi ijo pakala la o tawa e kiwen ken sama pi ilo utala.
 
 <!--### Critical Damage
 Damage that reduces a target's HP below zero decreases a target's STR by the amount remaining. They must then make a STR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.--> 
 ### pakala ike 
-KU pi jan anu soweli la pakala li suli mute la o pali e nanpa ante kepeken nasin ni: ona li nanpa insa tan KU tawa nanpa pakala.
-o weka e nanpa ante ni tan WAW pi jan anu soweli. pini la jan anu soweli o utala e WAW tan ni: ona li wile ala kama **pakala ike**.
+KU la pakala li suli mute la o pali e nanpa ante kepeken nasin ni: ona li nanpa insa tan KU tawa nanpa pakala.
+o weka e nanpa ante ni tan WAW pi ijo pakala. pini la ijo o utala e WAW tan ni: ona li wile ala kama **pakala ike**.
 
 <!--Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.-->
-utala WAW li ike la pakala ike li lon. tenpo ni la jan musi li anpa li wawa ala li lon poka moli. ona li ken kama pona sin tan lape anu pona pi jan ante. ala li pona e ona la ona li moli lon insa tenpo ilo 1h.
+utala WAW li ike la pakala ike li lon. tenpo ni la jan musi li anpa li wawa ala li lon poka moli. ona li ken kama pona sin tan lape anu pona pi jan ante. ala li pona e ona la ona li moli lon insa pi tenpo ilo 1h.
 
-wan li pana e pakala ike tawa jan musi la ken la nasin ante ona li kama lon kin.
+ijo li pana e pakala ike tawa jan musi la ken la nasin ante ona li kama lon kin.
 
 <!--### Ability Score Loss
 If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious.
