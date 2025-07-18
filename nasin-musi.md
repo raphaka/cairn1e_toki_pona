@@ -1305,12 +1305,12 @@ jan musi li moli la jan li ken pali e jan musi sin. kin la jan ante pi insa musi
 <!--### Detachments
 Large groups of similar combatants fighting together are treated as a single **detachment**. When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.-->
 ### kulupu utala
-jan anu soweli mute li sama li utala lon poka sama la ona li **kulupu utala** li sama wan. kulupu utala li kama pakala ike la wawa ona li kama lili a anu ona li wile weka. WAW ona li kama 0 la ona li moli anu pakala ale.
+ijo mute li sama li utala lon poka sama la ona li **kulupu utala** li sama ijo wan. kulupu utala li kama pakala ike la wawa ona li kama lili a anu ona li wile weka. WAW ona li kama 0 la ona li moli anu pakala ale.
 
 <!--Attacks against detachments by individuals are **impaired** (excluding blast damage).  
 Attacks against individuals by detachments are **enhanced** and deal blast damage.-->
-wan li utala e kulupu utala la ni li **utala pi wawa lili** (**pakala suli** li ni ala).
-kulupu utala li utala e wan la ni li **utala pi wawa suli** li pali e **pakala suli**.
+ijo wan li utala e kulupu utala la ni li **utala pi wawa lili** (**pakala suli** li ni ala).
+kulupu utala li utala e ijo wan la ni li **utala pi wawa suli** li pali e **pakala suli**.
 
 <!--### Retreat
 Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.-->
