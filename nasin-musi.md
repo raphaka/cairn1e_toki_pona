@@ -1331,7 +1331,7 @@ KU pi jan musi li kama 0 tan utala la ona li ante pi nasin nasa. nanpa pakala _a
 | 5    | <!--Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result.--> jaki lili li ike e sijelo sina. tenpo kama la sina kama pona sin la o tawa e 2k6. nanpa tu ni li kama nanpa suli wan. KU ale sina la nanpa ni li suli la nanpa ni li kama KU sin sina. |
 | 6    | <!--Reorienting Head Wound: Roll 1d6 &#124; 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current ability score, take the new result.--> pakala lawa sina li ante e sona sina: o tawa e 1k6 &#124; 1-2: WAW, 3-4: TAW, 5-6: LAW. o tawa e 3k6. nanpa tu wan ni li kama nanpa suli wan. nanpa wawa sina la nanpa sin ni li suli la ona li kama nanpa wawa sina. |
 | 7    | <!--Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result.--> noka sina li pakala: sina ken tawa pi ike mute a. jan ante li weka e pakala la sina lape mute la sina ken tawa pona sin. tenpo pi pona sin la o tawa e 3k6. nanpa ale ni li kama nanpa wan suli. nanpa TAW la nanpa ni li suli la nanpa ni li kama TAW sina sin. |
-| 8    | <!--Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4.--> sina ken ala kute e ale. pona nasa pi wawa mute taso li ken weka e ike ni. ni anu ni ala la o utala e LAW sina. pona la o suli e LAW sina kepeken 1k4. |
+| 8    | <!--Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4.--> sina ken ala kute. pona nasa pi wawa mute taso li ken weka e ike ni. ni anu ni ala la o utala e LAW sina. pona la o suli e LAW sina kepeken 1k4. |
 | 9    | <!--Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result.--> sona sina li kama sin. ijo sin pi insa lawa sina li ante. o tawa e 3k6. nanpa ale ni li kama nanpa wan suli. LAW ale sina la nanpa ni li suli la nanpa ni li kama LAW sina sin. |
 | 10   | <!--Sundered: An appendage is torn off, crippled or useless. The Warden will tell you which. Then, make a WIL save. If you pass, increase your max WIL by 1d6.--> ijo wan pi sijelo sina li weka tan sijelo. jan lawa li toki e ijo sijelo ni. pini la o utala e LAW sina. pona la o suli e LAW sina kepeken 1k6. |
 | 11   | <!--Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP.--> pakala pi ken moli: sina **pilin ike** li ken ala pali anu utala anu ijo ante. tenpo ilo 1h la jan ala li pona e sina la sina moli. kama pona la o tawa e 2k6. nanpa ni li KU sin sina. |
@@ -1349,9 +1349,9 @@ KU pi jan musi li kama 0 tan utala la ona li ante pi nasin nasa. nanpa pakala _a
 - Guard their stolen goods to the death.
 - Prize Spellbooks; willing to trade.-->
 **jan nasa ike lili pi anpa kasi**
-KU 4, WAW 8, 14 TAW, 8 LAW, palisa pi utala weka (k6)
+KU 4, WAW 8, TAW 14, LAW 8, palisa pi utala weka (k6)
 - ona li wile ala utala lon tenpo mute. taso nanpa ona li mute la ona li wile utala.
-- ona li jo e ijo la ona li awen e ona kepeken utala. ni la ona li utala tawa moli.
+- ona li kama jo pi nasin ike e ijo la ona li awen e ona kepeken utala. ni la ona li utala tawa moli.
 - ona li wile a e lipu pi nasa wawa. lipu ni la ona li wile esun.
 
 <!--**Hooded Men**  
@@ -1361,7 +1361,7 @@ KU 4, WAW 8, 14 TAW, 8 LAW, palisa pi utala weka (k6)
 **jan len**
 KU 12, WAW 9, TAW 12, LAW 14, palisa nasa utala pi wawa ma (k8), lipu wan pi nasa wawa (_Pilin Pona_ anu _Pilin Lape Nasa_ anu _Tawa Kama/Tawa Weka_ anu _Awen Tan Pakala_)
 - jan awen pi ma kasi suli; kulupu ni pi nasin sewi nasa li wawa tan linja pi wawa ma tan kiwen pi nasa wawa tan ijo sama.
-- pakala ike: ona li moku e ijo lili tan kon pi jan pakala anu soweli pakala.
+- pakala ike: ona li moku e ijo lili tan kon lon pi ijo pakala.
 
 <!--**Cobblehounds**  
 12 HP, 2 Armor, 14 STR, 1 DEX, 8 WIL, bite (d10)
@@ -1371,14 +1371,14 @@ KU 12, WAW 9, TAW 12, LAW 14, palisa nasa utala pi wawa ma (k8), lipu wan pi nas
 KU 12, nanpa awen 2, WAW 14, TAW 1, LAW 8, uta utala (k10)
 - ona li ken ala tawa. tenpo mute la ona li awen e tomo moli suli e ijo pi nasa wawa.
 - sina ken ala lawa e wile ona kepeken nasin pi wawa ala.
-- ona li wile e palisa kiwen pi insa sijelo. 
+- sama soweli tomo la ona li wile e palisa kiwen pi insa sijelo. 
 
 <!--**Wood Troll**   
 12 HP, 15 STR, 12 DEX, 7 WIL, claws and bite (d8+d8 blast)
 - As an action, can recover lost HP.
 - Critical damage: moss and twigs begin growing out of target's wounds.-->
 **jan suli ike kasi**
-KU 12, WAW 15, TAW 12, LAW 7, luka palisa + uta utala (k8+k8 **pakala suli**)
+KU 12, WAW 15, TAW 12, LAW 7, luka palisa + uta utala (k8+k8 _pakala suli_)
 - kepeken ijo wan pi tenpo tawa la ona li ken sin e KU. ni la tenpo tawa la ona li ken ala utala li ken tawa taso.
 
 <!--**Frost Elf**  
@@ -1386,8 +1386,8 @@ KU 12, WAW 15, TAW 12, LAW 7, luka palisa + uta utala (k8+k8 **pakala suli**)
 - Beautiful, amoral, and long-lived.
 - Resistant to most forms of magic.-->
 **jan nasa pi ma lete**
-KU 14, nanpa awen 2, WAW 8, TAW 13, LAW 14, ilo moli lili pi kiwen lete (k6), lipu wan pi nasa wawa (_Lape_ anu _Tawa Kepeken Tenpo Ala_ anu _Lukin E Nasa Wawa_)
-- ona li pona lukin li wile ala e nasin lawa pona li awen lon ma pi tenpo suli a.
+KU 14, nanpa awen 1, WAW 8, TAW 13, LAW 14, ilo moli lili pi kiwen lete (k6), lipu wan pi nasa wawa (_Lape_ anu _Tawa Kepeken Tenpo Ala_ anu _Lukin E Nasa Wawa_)
+- ona li pona lukin li wile ala e nasin lawa pona anu ike li awen lon ma pi tenpo suli a.
 - nasa wawa mute li ken ala ante e ona.
 
 <!--**Boggart**  
