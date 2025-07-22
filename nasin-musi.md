@@ -1398,7 +1398,7 @@ KU 14, nanpa awen 1, WAW 8, TAW 13, LAW 14, ilo moli lili pi kiwen lete (k6), li
 **monsuta nasa pi sijelo linja**
 KU 3, WAW 4, TAW 17, LAW 13
 - monsuta ni li jo e selo sijelo pi linja mute li wile musi mute
-- ona li wile e mani suli li wile ala esun e ni tawa mani sike.
+- ona li wile e mani suli. taso ona li wile ala esun e ni kepeken mani sike.
 - monsuta ni ale li jo e nimi. nimi ni li toki e kon lon ona. sina sona e nimi pi monsuta ni wan la sina ken lawa e ona.
 
 <!--### Creating Monsters
@@ -1412,7 +1412,7 @@ X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
 - Quirk, tactic, or peculiarity making this NPC unique
 - Special effect or critical damage consequence-->
 **nimi**
-KU X, nanpa awen X, WAW X, TAW X, LAW X, ilo utala (kX, ken pi nasa pona, ken ante)
+KU X, nanpa awen X, WAW X, TAW X, LAW X, ilo utala (kX, ilo pi nasa pona, ken ante)
 - o toki e nasin ona e lukin ona.
 - ona li utala kepeken nasin seme? seme la ona li sama ala pi monsuta ante?
 - ken nasa seme li lon? ona li pakala ike e jan musi la seme li kama?
