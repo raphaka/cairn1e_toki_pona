@@ -1465,14 +1465,14 @@ kiwen ken pi ilo utala li sama mute. ona li utala kepeken ilo la pakala li 1k6 a
 | ---- | ---- | ---- |
 | 1    | [Ko Awen](#ko-awen)                       | ko li len e ijo wan. ijo ni li awen li ken ala tawa.                |
 | 2    | [Linja Awen](#linja-awen)                  | linja wawa li kama tan luka sina. ona li awen lon poka tu. poka wan li ken weka 50ft/15m tan poka ante.       |
-| 3    | [Lon E Ijo](#lon-e-ijo)          | ijo wan li lon li kute e wile sina li pali pi ken ale ona e wile ni.|
-| 4    | [Jan E Soweli](#anthropomorphize)  | tenpo suno wan la soweli wan li kama sona sama jan anu kama lukin sama jan |
+| 3    | [Lon E Ijo](#lon-e-ijo)          | ijo wan pi pilin ala li kute e wile sina li pali pi ken ale ona e wile ni.|
+| 4    | [Jan E Soweli](#jan-e-soweli)  | tenpo suno wan la soweli wan li kama sona sama jan anu kama lukin sama jan. |
 | 5    | [Sike Lukin Pi Nasa Wawa](#sike-lukin-pi-nasa-wawa) | sina ken lukin kepeken sike lukin pi nasa wawa. sike ni li ken tawa kon tan wile sina. |
-| 6    | [Poki Pi Weka Sewi](#poki-pi-weka-sewi)| ijo wan li awen lon tenpo lon ma ale. ona li jo e len pi kiwen lukin li ken ala pakala. |
-| 7    | [Kama Poka](#kama-poka)                     | ijo tu li kama poka pi 10ft/3m la wawa li tawa e ona la ona li lon poka sama li pilin e ante ona |
+| 6    | [Poki Pi Kiwen Lukin](#poki-pi-kiwen-lukin)| ijo wan li awen lon tenpo lon ma li ken ala tawa. ona li poki lon insa pi kiwen lukin li ken ala pakala. |
+| 7    | [Kama Poka](#kama-poka)                     | ijo tu li kama poka pi 10ft/3m la wawa li tawa e ona la ona li lon poka sama li pilin e ante ona. |
 | 8    | [Kalama Pi Ken Nasa](#kalama-pi-ken-nasa) | sina pali e kalama pi wile sina. ona li kama tan poka pi wile sina.|
 | 9    | [Toki Lawa](#toki-lawa)                       | sina toki insa la jan ante anu soweli ante o toki kalama e toki insa sina. ona li ken ala wile ante li ken ala kalama ante.|
-| 10   | [Kasi Kama](#kasi-kama)             | kasi wan li kama tan ma. ona li pana e kon pilin pi soweli moli.|
+| 10   | [Kasi Kama](#kasi-kama)             | kasi wan li kama tan ma. ona li pana e kon pilin pi soweli moli. |
 | 11   | [Sijelo Soweli](#sijelo-soweli)               | sina en jo sina li kama soweli (anu akesi anu waso anu pipi) pi nasa ala.|
 | 12   | [Weka Nasa E Sona](#weka-nasa-e-sona)                   | tenpo pi nasa wawa la jan wan anu soweli wan li ken ala pali e sona pi tenpo lili. ijo li lon tenpo lili la jan ni anu soweli ni weka e sona. |
 | 13   | [Ante E Sijelo](#ante-e-sijelo)                 | sina pilin luka e jan ante anu soweli ante la sijelo ona li kama sijelo sina la sijelo sina li kama sijelo ona. sijelo wan li moli la sijelo ante li moli kin. |
