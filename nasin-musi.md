@@ -504,12 +504,12 @@ some translation are changed to keep the toki simple-->
 |      |           |      |     |
 | ---- | --------- | ---- | -------- |
 | 1    | kiwen     | 6    | pona ale |
-<!--| 2    | pakala    | 7    |sama soweli pipi|-->
 | 2    | pakala    | 7    | nena sinpin li lili |
 | 3    | wawa      | 8    | sike ala |
 | 4    | suli palisa | 9  | sijelo lipu |
 | 5    | kule walo | 10   | lukin lape |
 
+<!--| 2    | pakala    | 7    |sama soweli pipi|-->
 
 <!--#### Speech
 
