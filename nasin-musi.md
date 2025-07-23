@@ -1412,7 +1412,7 @@ X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
 - Quirk, tactic, or peculiarity making this NPC unique
 - Special effect or critical damage consequence-->
 **nimi**
-KU X, nanpa awen X, WAW X, TAW X, LAW X, ilo utala (kX, ilo pi nasa pona, ken ante)
+KU N, nanpa awen N, WAW N, TAW N, LAW N, ilo utala (kN, ilo pi nasa pona, ken ante)
 - o toki e nasin ona e lukin ona.
 - ona li utala kepeken nasin seme? seme la ona li sama ala pi monsuta ante?
 - ken nasa seme li lon? ona li pakala ike e jan musi la seme li kama?
@@ -1421,14 +1421,14 @@ KU X, nanpa awen X, WAW X, TAW X, LAW X, ilo utala (kX, ilo pi nasa pona, ken an
 Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. Adjust as necessary.
 - Give average creatures 3 HP, give hardy ones 6 HP, and serious threats get 10+ HP.-->
 **sona nasin**
-nanpa wawa: 3 lili mute, 6 li lili, 10 li insa, 14 li pona, 18 li wawa a. wile la o ante.
+nanpa wawa: 3 li lili mute, 6 li lili, 10 li insa, 14 li pona, 18 li wawa a. wile la o ante.
 - o pana e KU 3 tawa monsuta pi nasa ala. o pana e KU 6 tawa monsuta wawa. o pana e KU 10+ tawa monsuta ni: ken suli la ona li moli e jan musi.
 <!--- Use flavor and style to help them stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
 - Use critical damage to lean into the threat or strangeness of any aggressive NPC.
 - Remember that HP is **Hit Protection** , not Hit Points. It's a measure of resilience, luck, and gumption - not health.-->
-- o ante e ijo munsuta kepeken kule la ona li sama ala pi ale ante. kama la jan li awen sona e jan nasa pi lawa soweli. taso ona li weka sona e jan utala lili pi nasa ala.
-- o toki e nasa pi jan ante e ken pakala ona lon tenpo pi **pakala ike**.
-- o sona e ni: KU li ken pi jan musi la ona li kama ala pakala lon tenpo utala. ona li wawa ala pi sijelo ona.
+- o ante e ijo monsuta kepeken kule la ona li sama ala pi ale ante. kama la jan li awen sona e jan soweli pi nasa wawa a. taso ona li weka sona e jan utala lili pi nasa ala.
+- ijo ante li **pakala ike** e jan musi la o toki e nasa pi ijo ni e ken pakala ona.
+- o sona e ni: KU li ken pi jan musi la ona li kama ala pakala lon tenpo utala. tenpo ala la KU li wawa pi sijelo ona.
 
 <!--**Converting from OSR Games**
 - Give 1 HP per HD for most creatures.
@@ -1451,7 +1451,7 @@ sona lili pi pali ijo monsuta:
 - ona li moku e pakala mute? o pana e nanpa awen tawa ona.
 - ona li wawa? o pana e **WAW** suli tawa ona
 - ona li ken tawa pona? o pana e **TAW** suli tawa ona.
-- ona li ken toki pi nasin pona? o pana e **LAW** suli tawa ona.
+- ona li ken toki pi nasin wawa? o pana e **LAW** suli tawa ona.
 
 <!--Damage die are roughly the same, though armed attacks do at least 1d6 damage.-->
 kiwen ken pi ilo utala li sama mute. ona li utala kepeken ilo la pakala li 1k6 anu suli.
