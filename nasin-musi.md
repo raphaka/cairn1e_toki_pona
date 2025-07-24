@@ -1474,15 +1474,15 @@ kiwen ken pi ilo utala li sama mute. ona li utala kepeken ilo la pakala li 1k6 a
 | 9    | [Toki Lawa](#toki-lawa)                       | sina toki insa la jan ante anu soweli ante o toki kalama e toki insa sina. ona li ken ala wile ante li ken ala kalama ante.|
 | 10   | [Kasi Kama](#kasi-kama)             | kasi wan li kama tan ma. ona li pana e kon pilin pi soweli moli. |
 | 11   | [Sijelo Soweli](#sijelo-soweli)               | sina en jo sina li kama soweli (anu akesi anu waso anu pipi) pi nasa ala.|
-| 12   | [Weka Nasa E Sona](#weka-nasa-e-sona)                   | tenpo pi nasa wawa la jan wan anu soweli wan li ken ala pali e sona pi tenpo lili. ijo li lon tenpo lili la jan ni anu soweli ni weka e sona. |
-| 13   | [Ante E Sijelo](#ante-e-sijelo)                 | sina pilin luka e jan ante anu soweli ante la sijelo ona li kama sijelo sina la sijelo sina li kama sijelo ona. sijelo wan li moli la sijelo ante li moli kin. |
-| 14   | [Pilin Pona](#pilin-pona)                         | sina lukin e jan anu soweli la ona li pilin e ni: sina jan pona.               |
-| 15   | [Toki Wawa](#toki-wawa)                     | sina toki e toki pi nimi tu wan la jan ante wa anu soweli ante wan o ni. taso toki sina o pakala ala e jan ni anu soweli ni. |
+| 12   | [Weka Nasa E Sona](#weka-nasa-e-sona)                   | tenpo pi nasa wawa la ijo wan li ken ala pali e sona pi tenpo lili lon insa lawa ona. |
+| 13   | [Ante E Sijelo](#ante-e-sijelo)                 | sina pilin luka e ijo pilin ante la sijelo ona li kama sijelo sina la sijelo sina li kama sijelo ona. sijelo wan li moli la sijelo ante li moli kin. |
+| 14   | [Pilin Pona](#pilin-pona)                         | sina lukin e ijo pi ken pilin la ona li pilin e ni: sina jan pona.               |
+| 15   | [Toki Wawa](#toki-wawa)                     | sina toki e toki pi nimi tu wan la ijo ante wan o ni. taso toki sina o pakala ala e ijo ni. |
 | 16   | [Kute Sona](#kute-sona)               | tenpo lili la sina sona e toki ale la sina ken toki wawa li ken kute sona.        |
-| 17   | [Ko Tan Luka](#ko-tan-luka)           | ko telo wawa li kama ta luka sina li len e wan alasa.        |
-| 18   | [Lawa E Kasi](#lawa-e-kasi)       | Kasi lon poka sina li kute e sina li pali tan wile sina. ona li open ken tawa kepeken tenpo suli. |
+| 17   | [Ko Tan Luka](#ko-tan-luka)           | ko telo wawa li kama tan luka sina li len e wan alasa. |
+| 18   | [Lawa E Kasi](#lawa-e-kasi)       | kasi lon poka sina li kute e sina li pali tan wile sina. ona li open ken tawa kepeken tenpo suli. |
 | 19   | [Lawa E Suno Sewi](#lawa-e-suno-sewi)     | sina ken ante e kule pi suno seli. ona li ken telo sewi li ken ko walo lete sewi li ken seli li ken lete. sina ken ante e kule taso la sina ken ala lawa e ante pi suno sewi. |
-| 20   | [Pona E Pakala Sijelo](#pona-e-pakala-sijelo)             | tenpo suno wan la sina luka e jan anu soweli la WAW 1k4 ona li kama sin.         |
+| 20   | [Pona E Pakala Sijelo](#pona-e-pakala-sijelo)             | tenpo suno wan la sina luka e ijo la WAW 1k4 ona li kama sin.         |
 | 21   | [Weka E Kute](#weka-e-kute)                       | poka sina la jan ale en soweli ale li ken ala kute e kalama ale.              |
 | 22   | [Lukin E Nasa Wawa](#lukin-e-nasa-wawa)           | sina ken lukin anu kute e kon ale pi nasa wawa lon poka.                      |
 | 23   | [Weka E Ijo Sijelo](#weka-e-ijo-sijelo)             | ijo pi sijelo sina li ken weka tan sijelo sina. ni li pali ala e pakala e pilin ike. sina awen ken lawa e ijo sijelo ni. |
