@@ -1380,6 +1380,9 @@ KU 12, nanpa awen 2, WAW 14, TAW 1, LAW 8, uta utala (k10)
 **jan suli ike kasi**
 KU 12, WAW 15, TAW 12, LAW 7, luka palisa + uta utala (k8+k8 _pakala suli_)
 - kepeken ijo wan pi tenpo tawa la ona li ken sin e KU. ni la tenpo tawa la ona li ken ala utala li ken tawa taso.
+<!--alternative:
+- tenpo tawa la ona li ken sin e KU ona. ona li ni la ona li ken utala ala li ken tawa taso.
+-->
 
 <!--**Frost Elf**  
 14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (Choose one: _Sleep_, _Teleport_, _Detect Magic_)
