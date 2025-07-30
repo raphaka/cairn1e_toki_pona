@@ -1497,15 +1497,15 @@ kiwen ken pi ilo utala li sama mute. ona li utala kepeken ilo la pakala li 1k6 a
 | 29   | [Kama Jo](#kama-jo)                         | sina lukin e ijo la tenpo ni la ona li lon luka sina.                      |
 | 30   | [Sike Suno](#sike-suno)                         | sike li suno wawa li sitelen e linja suno tawa sewi. jan pona sina en jan ike sina li ken lukin e ma sina. |
 | 31   | [Kon Pi Lukin Ala](#kon-pi-lukin-ala)                 | kon len li tawa tan sina. insa ona la jan li ken ala lukin.                           |
-| 32   | [Pilin Utala Wawa](#pilin-utala-wawa)                       | jan anu soweli lon poka sina li open pilin utala li open wile pakala e mute.            |
+| 32   | [Pilin Utala Wawa](#pilin-utala-wawa)                       | ijo pi ken pilin lon poka sina li open pilin utala li open wile pakala e mute.            |
 | 33   | [Lupa Lon](#lupa-lon)                           | lupa li open. kepeken ona la jan li ken tawa lon ante.              |
 | 34   | [Ante Pi Wawa Ma](#ante-pi-wawa-ma)         | sina ken ante e wawa ma. anpa la sina ni la sina open tawa sewi. sewi la sina ni la sina open tawa anpa. wawa ma li ante taso tawa sina li ante ala tawa jan ante.  |
 | 35   | [Wile Jo](#wile-jo)                         | sina lukin e ijo la jan ante li open wile jo e ijo ni. wile ona li wawa a. |
 | 36   | [Tawa Wawa](#tawa-wawa)                         | sina ken tawa kepeken tenpo lili a. tenpo ante la sina tawa kepeken 40ft/12m lon tenpo tawa wan. tenpo pi nasa wawa ni la sina tawa kepeken 120ft/36m lon tenpo tawa wan.       |
-| 37   | [Pilin Ike Wawa](#pilin-ike-wawa)                       | jan anu soweli li pilin ike a tan jan ante anu soweli ante anu kulupu ante li wile pakala moli e ona. |
+| 37   | [Pilin Ike Wawa](#pilin-ike-wawa)                       | ijo pi ken pilin li pilin ike a tan ijo ante li wile pakala moli e ona. |
 | 38   | [Kute E Kalama Lili](#kute-e-kalama-lili)         | kalama li wawa ala la taso sina ken kute wawa pona e ona.              |
 | 39   | [Tawa Kon](#tawa-kon)                         | 2ft/0,5m pi sewi ma la ijo wan li tawa kon. ona li ken awen e jan wan lon kon. |
-| 40   | [Pilin Lape Nasa](#pilin-lape-nasa)                 | jan ante li open pilin e lape nasa. sina toki e wile sona la ona li toki lon. toki kon pi wile sona li ken 'lon' li ken 'ala'. |
+| 40   | [Pilin Lape Nasa](#pilin-lape-nasa)                 | jan ante li open pilin e lape nasa. sina toki e wile sona la ona li toki lon e sona. taso la toki kon pi wile sona li ken 'lon' li ken 'ala'. |
 | 41   | [Pilin Lete](#pilin-lete)                 | sina pilin e supa ma la kiwen lete suli li len e ona lon ma 10ft/3m. |
 | 42   | [Sona E Jan Jo](#sona-e-jan-jo)       | sina pilin luka e ijo la sitelen toki li kama lon. sitelen li toki e nimi pi jan ni: ijo li jo ona. ken la ijo li jo pi jan ala. |
 | 43   | [Suno A](#suno-a)               | sike suno li tawa kon tan wile sina.         |
