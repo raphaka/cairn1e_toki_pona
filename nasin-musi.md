@@ -1486,15 +1486,15 @@ kiwen ken pi ilo utala li sama mute. ona li utala kepeken ilo la pakala li 1k6 a
 | 18   | [Lawa E Kasi](#lawa-e-kasi)       | kasi lon poka sina li kute e sina li pali tan wile sina. ona li open ken tawa kepeken tenpo suli. |
 | 19   | [Lawa E Suno Sewi](#lawa-e-suno-sewi)     | sina ken ante e kule pi suno seli. ona li ken telo sewi li ken ko walo lete sewi li ken seli li ken lete. sina ken ante e kule taso la sina ken ala lawa e ante pi suno sewi. |
 | 20   | [Pona E Pakala Sijelo](#pona-e-pakala-sijelo)             | tenpo suno wan la sina luka e ijo la WAW 1k4 ona li kama sin.         |
-| 21   | [Weka E Kute](#weka-e-kute)                       | poka sina la jan ale en soweli ale li ken ala kute e kalama ale.              |
+| 21   | [Weka E Kute](#weka-e-kute)                       | poka sina la ijo ale li ken ala kute e kalama ale.              |
 | 22   | [Lukin E Nasa Wawa](#lukin-e-nasa-wawa)           | sina ken lukin anu kute e kon ale pi nasa wawa lon poka.                      |
 | 23   | [Weka E Ijo Sijelo](#weka-e-ijo-sijelo)             | ijo pi sijelo sina li ken weka tan sijelo sina. ni li pali ala e pakala e pilin ike. sina awen ken lawa e ijo sijelo ni. |
 | 24   | [Len E Lukin](#len-e-lukin)                   | sina ken ante e lukin pi jan musi wan tan wile sina. ona o awen lukin sama jan o ken ala soweli. sina wile sama e lukin pi jan ante la lukin li kama nasa ike lili. |
 | 25   | [Ante E Lukin Ma](#ante-e-lukin-ma)                   | ijo li lon ma wan la taso lukin la ijo li lon ma ante tan nasa wawa ni. ma ante li ken weka 15ft/5m tan ma lon. |
-| 26   | [Tawa Ma Wawa](#tawa-ma-wawa)               | ma li open tawa pi wawa suli. ijo en ijo li ken pakala li ken anpa. |
+| 26   | [Tawa Ma Wawa](#tawa-ma-wawa)               | ma li open tawa pi wawa suli. ijo li ken pakala li ken anpa. |
 | 27   | [Sijelo Linja](#sijelo-linja)               | sijelo sina li ken linja pi 10ft/3m.      |
 | 28   | [Sinpin Pi Ijo Ale](#sinpin-pi-ijo-ale)       | sinpin seli anu sinpin pi kiwen lete li sewi tan ma li suli poka 50ft/15m li suli sewi 10ft/3m. |
-| 29   | [Kama Jo](#kama-jo)                         | sina lukin e la tenpo ni la ona li lon luka sina.                      |
+| 29   | [Kama Jo](#kama-jo)                         | sina lukin e ijo la tenpo ni la ona li lon luka sina.                      |
 | 30   | [Sike Suno](#sike-suno)                         | sike li suno wawa li sitelen e linja suno tawa sewi. jan pona sina en jan ike sina li ken lukin e ma sina. |
 | 31   | [Kon Pi Lukin Ala](#kon-pi-lukin-ala)                 | kon len li tawa tan sina. insa ona la jan li ken ala lukin.                           |
 | 32   | [Pilin Utala Wawa](#pilin-utala-wawa)                       | jan anu soweli lon poka sina li open pilin utala li open wile pakala e mute.            |
