@@ -1529,9 +1529,9 @@ kiwen ken pi ilo utala li sama mute. ona li utala kepeken ilo la pakala li 1k6 a
 | 61   | [Lupa](#lupa)                             | lupa li open lon ma. ona li suli poka 10ft/3m li suli anpa 10ft/3m.          |
 | 62   | [Sijelo Pi Tenpo Kama](#sijelo-pi-tenpo-kama)           | jan wan anu soweli wan la ona li kama sama ona pi tenpo kama. |
 | 63   | [Tawa Kama/Tawa Weka](#tawa-kama-tawa-weka)                 | ijo li tawa sina anu tawa weka tan sina. wawa pi tawa ni li sama wawa pi jan wan. ijo li ken lili li ken suli.|
-| 64   | [Lon E Jan Moli](#lon-e-jan-moli)               | sina lon e jan moli pi palisa walo. ona li pali tan wile sina. sona lawa la ona li wawa pi lili a. ona li ken sona e ijo pi lili a taso li ken pali e ijo pi lili pona.|
+| 64   | [Lon E Jan Moli](#lon-e-jan-moli)               | sina lon e jan moli pi palisa walo. ona li pali tan wile sina. sona lawa la ona li wawa pi lili mute. ona li ken sona e ijo pi lili mute taso li ken pali e ijo pi lili pona.|
 | 65   | [Lon E Kon Moli](#lon-e-kon-moli)           | kon pi jan moli wan lon poka sina li kama. sina ken toki e wile sona wan tawa ona la ona li toki e sona pi wile sona ni tawa sina. |
-| 66   | [Kute Pi Insa Lawa](#kute-pi-insa-lawa)                 | poka sina la jan anu soweli li toki pi insa lawa la sina ken kute e ni. taso sina ken ala kute e toki ale. toki li insa a la sina ken ala kute e ona. toki li insa pi mute lili la sina ken kute e ona. |
+| 66   | [Kute Pi Insa Lawa](#kute-pi-insa-lawa)                 | poka sina la ijo li toki pi insa lawa la sina ken kute e ni. taso sina ken ala kute e toki ale. toki li insa a la sina ken ala kute e ona. toki li insa pi mute lili la sina ken kute e ona. |
 | 67   | [Wawa Weka](#wawa-weka)                         | ijo tu li lon poka 10ft/3m la ona li tawa weka tan ante pi ona tu. |
 | 68   | [Lukin Tan Sike Ante](#lukin-tan-sike-ante)                           | tenp pini pi tenpo suno ni la sina pilin luka e jan anu soweli la sina ken lukin tan sike lukin sijelo ona. |
 | 69   | [Pali Ko](#pali-ko)     | ijo pi lon ala li sama ko tawa luka sina la sina ken ante e sijelo ona.          |
