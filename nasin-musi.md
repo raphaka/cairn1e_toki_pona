@@ -1379,10 +1379,10 @@ KU 12, nanpa awen 2, WAW 14, TAW 1, LAW 8, uta utala (k10)
 - Critical damage: moss and twigs begin growing out of target's wounds.-->
 **jan suli ike kasi**
 KU 12, WAW 15, TAW 12, LAW 7, luka palisa + uta utala (k8+k8 _pakala suli_)
-- kepeken ijo wan pi tenpo tawa la ona li ken sin e KU. ni la tenpo tawa la ona li ken ala utala li ken tawa taso.
 <!--alternative:
-- tenpo tawa la ona li ken sin e KU ona. ona li ni la ona li ken utala ala li ken tawa taso.
+- kepeken ijo wan pi tenpo tawa la ona li ken sin e KU. ni la tenpo tawa la ona li ken ala utala li ken tawa taso.
 -->
+- tenpo tawa la ona li ken sin e KU ona. ona li ni la ona li ken utala ala li ken tawa taso.
 
 <!--**Frost Elf**  
 14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (Choose one: _Sleep_, _Teleport_, _Detect Magic_)
@@ -1507,7 +1507,7 @@ kiwen ken pi ilo utala li sama mute. ona li utala kepeken ilo la pakala li 1k6 a
 | 39   | [Tawa Kon](#tawa-kon)                         | 2ft/0,5m pi sewi ma la ijo wan li tawa kon. ona li ken awen e jan wan lon kon. |
 | 40   | [Pilin Lape Nasa](#pilin-lape-nasa)                 | jan ante li open pilin e lape nasa. sina toki e wile sona la ona li toki lon e sona. taso la toki kon pi wile sona li ken 'lon' li ken 'ala'. |
 | 41   | [Pilin Lete](#pilin-lete)                 | sina pilin e supa ma la kiwen lete suli li len e ona lon ma 10ft/3m. |
-| 42   | [Sona E Jan Jo](#sona-e-jan-jo)       | sina pilin luka e ijo la sitelen toki li kama lon. sitelen li toki e nimi pi jan ni: ijo li jo ona. ken la ijo li jo pi jan ala. |
+| 42   | [Sona E Jan Jo](#sona-e-jan-jo)       | sina pilin luka e ijo la sitelen toki li kama lon. sitelen li toki e nimi pi jan ni: ijo li jo tan jan. ken la ijo li jo pi jan ala. |
 | 43   | [Suno A](#suno-a)               | sike suno li tawa kon tan wile sina.         |
 | 44   | [Linja Pi Lukin Ala](#invisible-tether)   | ijo tu li weka 10ft/3m tan ona la ona li ken ala weka suli. |
 | 45   | [Mu Open](#mu-open)                         | ilo li awen pini e lupa tomo anu poki la ona li open kepeken ilo open ala. taso ona li kalama mu.             |
@@ -1515,17 +1515,17 @@ kiwen ken pi ilo utala li sama mute. ona li utala kepeken ilo la pakala li 1k6 a
 | 47   | [Kon Telo](#kon-telo)               | sama tawa pi insa telo la ale li ken tawa insa kon.                       |
 | 48   | [Lili E Nasa Wawa](#lili-e-nasa-wawa)       | wawa pi nasa wawa ale lon poka sina li kama lili sama ni: tu li kama wan. |
 | 49   | [Tomo](#tomo)                         | tenpo ilo 12h la tomo li kama lon. ona li wawa li kiwen. insa ona la supa li lon. wile sina la jan li ken insa anu ken ala insa e tomo. |
-| 50   | [Nasa Pi Sike Lili](#nasa-pi-sike-lili)           | poki sina li jo ale e sike lili. sike lili li sama ilo musi. sike lili li weka tan poki sina la tenpo ilo lili lili 30s li tawa la poki sina li jo sin e sike lili. |
+| 50   | [Nasa Pi Sike Lili](#nasa-pi-sike-lili)           | ale pi poki sina li jo e sike lili. sike lili li sama ilo musi. sike lili li weka tan poki sina la tenpo ilo lili lili 30s li tawa la poki sina li jo sin e sike lili. |
 | 51   | [Lukin Pi Jan Ante](#lukin-pi-jan-ante)               | sina pilin luka e jan ante la lukin pi jan wan li kama sama lukin pi jan ante ni. kalama toki ona li kama sama kalama toki pi jan ante ni kin. |
 | 52   | [Lili](#lili)             | sina lukin e jan wan anu soweli wan la ona li kama lili a sama soweli pipi. |
 | 53   | [Sitelen Sama](#sitelen-sama)           | sina lon e sitelen jan. ona li lukin sama sina. sina wile e ijo la sitelen jan li ni. |
 | 54   | [Nasin Pi Sinpin Sama](#nasin-pi-sinpin-sama)               | ilo sinpin pi lukin sama li nasin tawa ilo sama ante. tenpo pini pi tenpo suno ni la sina o lukin e ilo sama ante.|
 | 55   | [Luka Tu Wan](#luka-tu-wan)                   | luka wan sin li kama lon sijelo sina la sina jo e luka tu wan.                         |
 | 56   | [Sike Pimeja](#sike-pimeja)           | sike suli 50ft pi kon pimeja li lon sinpin sina. ona li pana lukin e sewi pi tenpo pimeja. |
-| 57   | [Ijo](#ijo)                 | sina ijo pi ken ala tawa. suli sina li ken sama kili li ken sama ilo kalama pimeja walo.|
+| 57   | [Ijo](#ijo)                 | sina kama ijo pi ken ala tawa. suli sina li ken sama kili li ken sama ilo kalama pimeja walo.|
 | 58   | [Sijelo Ko](#sijelo-ko)                 | sijelo sina li kama ko.                   |
-| 59   | [Utala Ala](#utala-ala)                       | jan wan anu soweli wan lon poka sina li wile ala utala. pilin ona la utata li ike a.       |
-| 60   | [Monsuta](#monsuta)                       | jan wan anu soweli wan li pilin monsuta a tan ijo pi wile sina. |
+| 59   | [Utala Ala](#utala-ala)                       | ijo wan lon poka sina li wile ala utala. pilin ona la utata li ike a.       |
+| 60   | [Monsuta](#monsuta)                       | ijo wan li pilin monsuta a tan ijo pi wile sina. |
 | 61   | [Lupa](#lupa)                             | lupa li open lon ma. ona li suli poka 10ft/3m li suli anpa 10ft/3m.          |
 | 62   | [Sijelo Pi Tenpo Kama](#sijelo-pi-tenpo-kama)           | jan wan anu soweli wan la ona li kama sama ona pi tenpo kama. |
 | 63   | [Tawa Kama/Tawa Weka](#tawa-kama-tawa-weka)                 | ijo li tawa sina anu tawa weka tan sina. wawa pi tawa ni li sama wawa pi jan wan. ijo li ken lili li ken suli.|
