@@ -1535,12 +1535,12 @@ kiwen ken pi ilo utala li sama mute. ona li utala kepeken ilo la pakala li 1k6 a
 | 67   | [Wawa Weka](#wawa-weka)                         | ijo tu li lon poka 10ft/3m la ona li tawa weka tan ante pi ona tu. |
 | 68   | [Lukin Tan Sike Ante](#lukin-tan-sike-ante)                           | tenp pini pi tenpo suno ni la sina pilin luka e jan anu soweli la sina ken lukin tan sike lukin sijelo ona. |
 | 69   | [Pali Ko](#pali-ko)     | ijo pi lon ala li sama ko tawa luka sina la sina ken ante e sijelo ona.          |
-| 70   | [Pilin E Ijo](#pilin-e-ijo)                         | o toki e ijo wan (ken la ilo open, mani jelo, palisa alasa, poki telo, ijo ante...). sina ken pilin e lon pi ijo sama ni lon poka sina. |
-| 71   | [Awen Tan Pakala](#awen-tan-pakala)                       | sina pilin luka e jan wan anu soweli wan la ona li kama awen tan pakala ale pi nasa ala. nasa wawa ni li awen lon tenpo ilo lili 1min. |
-| 72   | [Lukin Ala](#lukin-ala)                       | sina pilin luka e jan wan anu soweli wan la ona li kama lukin sama kon. ni la jan ante en soweli ante li ken ala lukin e ona. ona li tawa la nasa wawa ni li pini.           |
+| 70   | [Pilin E Ijo](#pilin-e-ijo)                         | o toki e ijo wan (ken la ilo open, mani jelo, palisa alasa, poki telo, ijo ante...). ijo sama ni li lon poka sina la sina ken pilin sona e lon ona. |
+| 71   | [Awen Tan Pakala](#awen-tan-pakala)                       | sina pilin luka e ijo pilin wan la ona li kama awen tan pakala ale pi nasa ala. nasa wawa ni li awen lon tenpo ilo lili 1min. |
+| 72   | [Lukin Ala](#lukin-ala)                       | sina pilin luka e ijo pilin wan la ona li kama lukin sama kon. ni la ijo ante li ken ala lukin e ona. ona li tawa la nasa wawa ni li pini.           |
 | 73   | [Ante E Ma Jan](#ante-e-ma-jan)                     | sina ken lukin e jan tu la tenpo pi lili ale la jan nanpa wan li lon ma pi jan ante la jan ante li lon ma pi jan nanpa wan.          |
 | 74   | [Lape](#lape)                         | sina lukin e jan wan anu soweli wan la ona li open lape. taso lape ni li wawa ala la ona li ken weka tan kalama anu ijo ante.         |
-| 75   | [Ma Pi Nena Ala](#ma-pi-nena-ala)                         | ma ale lon sike suli li kama pilin pi nena ala. nena lili ale lon ma ni li weka la luka en noka li wile ala awen lon ma la jan en soweli ale li ken ala tawa pona lon ma ni. sike suli li suli linja 30ft/9m tan insa ona tawa poka ale ona.   |
+| 75   | [Ma Pi Nena Ala](#ma-pi-nena-ala)                         | ma ale lon sike suli li kama pilin pi nena ala. nena lili ale lon ma ni li weka la luka en noka li wile ala awen lon ma la ijo ale li ken ala tawa pona lon ma ni. sike suli li suli linja 30ft/9m tan insa ona tawa poka ale ona.   |
 | 76   | [Sijelo Kon](#sijelo-kon)               | sijelo sina li kama kon pimeja li tawa tan wile sina.   |
 | 77   | [Pilin Kon Wawa](#pilin-kon-wawa)                         | kepeken nena pi sinpin lawa sina la sina ken pilin e kon ale. pilin kon li ken lili a la taso sina awen ken pilin e ona.             |
 | 78   | [Weka E Suno](#weka-e-suno)                         | suno ale pi nasa ala lon lukin sina li pini la ale li kama pimeja. taso tan suno li nasa wawa la ona li pini ala.  |
