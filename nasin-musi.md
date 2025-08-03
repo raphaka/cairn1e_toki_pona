@@ -1549,12 +1549,12 @@ kiwen ken pi ilo utala li sama mute. ona li utala kepeken ilo la pakala li 1k6 a
 | 81   | [Ilo Kasi Pi Nasa Wawa](#ilo-kasi-pi-nasa-wawa)                   | ilo li tawa tan sinpin sijelo sina li tawa sike lon kon li tu e kasi ale lon nasin sina li weka e ona. ona li ken ala pakala e jan e soweli. |
 | 82   | [Tawa Pipi](#tawa-pipi)           | sina ken tawa lon sinpin ale sama pipi pi pali linja.      |
 | 83   | [Lon E Sijelo Pi Sike Ala](#lon-e-sijelo-pi-sike-ala)             | sina ken lon e sijelo pi sike ala. tenpo ilo lili lili 1s li tawa la sina ken lon e sijelo wan sin li ken weka e sijelo wan. sijelo ale li suli poka 3ft/1m li ma. sijelo sin ale o poka ma anu poka sijelo ante. |
-| 84   | [Kulupu](#kulupu)                         | sina kama kulupu pi waso mute anu kulupu pi soweli lili mute pi linja monsi anu kulupu pi kala utala mute. sina ken pakala tan **pakala suli** taso. |
+| 84   | [Kulupu](#kulupu)                         | sina kama kulupu pi waso mute anu kulupu pi soweli lili mute anu kulupu pi kala utala mute. sina ken pakala tan **pakala suli** taso. |
 | 85   | [Tawa Tan Wile](#tawa-tan-wile)             | kepeken wile sina taso la sina ken tawa e ijo wan. ijo o lili 60lbs/30kg.       |
-| 86   | [Kute Insa Ante](#kute-insa-ante)                 | jan anu soweli la tu li ken kute e toki insa lawa pi ante ona. ona li weka a la ona li awen ken ni. |
+| 86   | [Kute Insa Ante](#kute-insa-ante)                 | ijo pilin tu li ken kute e toki insa lawa pi ante ona. ona li weka a la ona li awen ken ni. |
 | 87   | [Tawa Kepeken Tenpo Ala](#tawa-kepeken-tenpo-ala)                   | sina lukin e ijo wan anu jan wan la ona li weka tan ma ona li kama lon ma ante kepeken tenpo ala. ma sin li ken weka 50ft/15m tan ma jan. |
-| 88   | [Alasa Pi Nasa Wawa](#alasa-pi-nasa-wawa)             | sina pilin luka e ijo wan la ona li nasa wawa ale lon poka li alasa e ona.  |
-| 89   | [Ma Kasi](#ma-kasi)                     | kasi li kama tan ma kepeken tenpo lili a. ona li suli poka 50ft/15m. sina lon poka an ona la sina ken lukin ike a tawa poka ante ona. |
+| 88   | [Alasa Pi Nasa Wawa](#alasa-pi-nasa-wawa)             | sina pilin luka e ijo wan la nasa wawa ale lon poka li alasa e ona.  |
+| 89   | [Ma Kasi](#ma-kasi)                     | kasi li kama tan ma kepeken tenpo lili a. ona li suli poka 50ft/15m. sina lon poka ona la sina ken lukin ike a tawa poka ante ona. |
 | 90   | [Lon E Sitelen Kiwen](#lon-e-sitelen-kiwen)             | sitelen kiwen li kama tan ma. ona li ken lukin sama jan anu soweli li suli sama soweli tawa. |
 | 91   | [Ante E Tenpo](#ante-e-tenpo)           | tenpo ilo lili lili 30s la tenpo li tawa nasa lon sike suli. tenpo li ken weka anu suli e 10% tan mute ona. sike suli li suli linja 50ft/15m tan insa ona tawa poka ale ona.  |
 | 92   | [Lukin Lon](#lukin-lon)               | sina lukin e ijo pi lon ala tan nasa wawa la sina lukin tawa poka ante ona.  |
