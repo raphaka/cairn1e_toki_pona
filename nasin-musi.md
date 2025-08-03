@@ -1557,14 +1557,14 @@ kiwen ken pi ilo utala li sama mute. ona li utala kepeken ilo la pakala li 1k6 a
 | 89   | [Ma Kasi](#ma-kasi)                     | kasi li kama tan ma kepeken tenpo lili a. ona li suli poka 50ft/15m. sina lon poka ona la sina ken lukin ike a tawa poka ante ona. |
 | 90   | [Lon E Sitelen Kiwen](#lon-e-sitelen-kiwen)             | sitelen kiwen li kama tan ma. ona li ken lukin sama jan anu soweli li suli sama soweli tawa. |
 | 91   | [Ante E Tenpo](#ante-e-tenpo)           | tenpo ilo lili lili 30s la tenpo li tawa nasa lon sike suli. tenpo li ken weka anu suli e 10% tan mute ona. sike suli li suli linja 50ft/15m tan insa ona tawa poka ale ona.  |
-| 92   | [Lukin Lon](#lukin-lon)               | sina lukin e ijo pi lon ala tan nasa wawa la sina lukin tawa poka ante ona.  |
-| 93   | [Kama Telo](#kama-telo)                       | telo li open kama tan ma. ona li sama telo tan telo suli.                               |
-| 94   | [Lukin Pana](#lukin-pana)                       | jan wan anu soweli wan li lukin e ale tan wile sina.                 |
+| 92   | [Lukin Lon](#lukin-lon)               | sina lukin e ijo pi lon ala tan nasa wawa la sina lukin tawa poka ante ona. lukin la sina ken sona e nasa wawa.  |
+| 93   | [Kama Telo](#kama-telo)                       | telo li open kama tan ma. ona li sama telo tan telo suli. sina moku e ona la ni li weka ala e wile pi moku telo sina.           |
+| 94   | [Lukin Pana](#lukin-pana)                       | sina ken lawa e ni: ijo wan li lukin e seme.                |
 | 95   | [Sitelen Lukin](#sitelen-lukin)     |  jan ale li ken lukin e ijo. ijo ni li lon ala li sitelen pi nasa wawa taso. ona li suli sama poki tomo li ken ala kalama li ken ala tawa. |
-| 96   | [Sike Awen](#sike-awen)                           | sike pi suli poka 50ft/15m li kama lon ma. o toki e nimi kulupu soweli. soweli ale sama li ken ala tawa poka ante pi sike ni. |
+| 96   | [Sike Awen](#sike-awen)                           | sike pi suli poka 50ft/15m li kama lon ma. o toki e nimi kulupu pi ijo pilin. ijo ale sama li ken ala tawa poka ante pi sike ni. |
 | 97   | [Linja Pipi](#linja-pipi)                             | luka sina li pana e linja. linja li wawa li sama kulupu linja tan pipi ni: pipi li jo e noka mute li pana e linja tan monsi ona. |
 | 98   | [Ilo Lili](#ilo-lili)                       | sina sitelen e ilo la ona li kama lon. ilo ni li pona ala li nasa lili. tenpo lili li tawa la ilo li weka. |
-| 99   | [Kule Pi Nasa Wawa](#kule-pi-nasa-wawa)             | palisa luka sina li ken pana e kule. sina taso li ken lukin e kule ni. kule li weka tan sina la sina awen ken lukin e kule. kin la ijo li insa e sina e kule la sina awen ken lukin e kule. |
+| 99   | [Kule Pi Nasa Wawa](#kule-pi-nasa-wawa)             | palisa luka sina li ken pana e kule. sina taso li ken lukin e kule ni. kule li weka tan sina la sina awen ken lukin e kule. kin la ijo kule li insa e ijo ante la sina awen ken lukin e kule. ijo kule li lon poka ante pi ijo ante la sina kin li ken lukin e ona. |
 | 100  | [Lukin Insa](#lukin-insa)           | sina ken lukin insa e ijo e sinpin e len e ma e ante. sina ken lukin tawa poka ante ona.| 
 
 [o tawa sin pi lukin lipu](#index)
