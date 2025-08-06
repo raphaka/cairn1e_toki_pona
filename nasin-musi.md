@@ -1578,12 +1578,12 @@ kiwen ken pi ilo utala li sama mute. ona li utala kepeken ilo la pakala li 1k6 a
 On their turn, a character may move up to 40ft and take up to one action. Actions may include casting a spell, attacking, making a second move, or other reasonable activities. Actions, attacks, and movements take place simultaneously. Whenever turn order is uncertain, the PCs should make a DEX save to see if they go before their enemies.-->
 **IJO PI TENPO TAWA**
 
-tenpo tawa la jan musi li ken tawa 40ft/12m. kin la ona li ken **ijo wan pi tenpo tawa**. ijo wan ni li ken pali e nasa wawa wan li ken utala li ken tawa e 40ft/12m ante. ijo ante li wile ala e tenpo mute e wawa mute la ona kin li ken ijo wan pi tenpo tawa. tawa en utala en ijo ante pi tenpo tawa li lon tenpo sama. sina sona ala e nanpa pi tenpo tawa la o utala e TAW: pona la jan musi li ken tawa lon open utala. ike la jan ante li open e utala.
+tenpo tawa la jan musi li ken tawa 40ft/12m. kin la ona li ken **ijo wan pi tenpo tawa**. ijo wan ni li ken pali e nasa wawa wan li ken utala li ken tawa e 40ft/12m ante. ijo ante li wile ala e tenpo mute e wawa mute la ona kin li ken ijo wan pi tenpo tawa. tawa en utala en ijo ante pi tenpo tawa li lon tenpo sama. sina sona ala e nanpa nasin pi tenpo tawa la o utala e TAW: pona la jan musi li ken tawa lon open utala. ike la jan ante li open e utala.
 
 <!--**Retreating** from a dangerous situation always requires a successful DEX save, as well as a safe destination to run to.-->
 **WEKA TAN UTALA**
 
-sina wile tawa weka tan utala anu tenpo pi ken pakala la o utala e TAW: pona la jan musi sina ken tawa weka. kin la sina o sona e ma awen.
+sina wile tawa weka tan utala anu tenpo pi ken pakala la o utala e TAW: pona la jan musi sina li ken tawa weka. kin la sina o sona e ma awen.
 
 <!--**ABILITIES**  
 **STR:** Brawn, prowess & resistance.   
@@ -1593,21 +1593,21 @@ sina wile tawa weka tan utala anu tenpo pi ken pakala la o utala e TAW: pona la 
 
 **WAW:** jan musi li tawa e ijo suli, anu pakala e palisa kiwen, anu moku e telo ike li wile awen pona.
 **TAW:** jan musi li tawa kepeken tenpo lili, anu tawa pi kalama ala, anu tawa sewi lon sinpin kiwen, anu weka pi ken pakala.
-**LAW**: jan musi li tawa kepeken tenpo lili, anu tawa pi kalama ala, anu tawa sewi lon sinpin kiwen, anu weka pi ken pakala.
+**LAW**: jan musi li toki pi lon ala, anu toki pi wile sona, anu toki monsuta tawa jan ante, anu wile ante e nasa wawa.
 
 <!--**SAVES**
 - Roll a d20 equal to or under an ability.
 - 1 is always a success, 20 is always a failure.-->
 **UTALA PI NANPA WAWA**
 
-- o tawa e k20 la nanpa ona o sama anu suli nanpa wawa sina.
+- o tawa e k20 la nanpa ona o sama anu lili pi nanpa wawa sina.
 - 1 li pona lon tenpo ale, 20 li ike lon tenpo ale.
 
 <!--**HIT PROTECTION**  
 **HP** indicates a PC's ability to avoid getting hurt. It is lost during combat & recovered after a few moment's rest.-->
 **KEN UTALA**
 
-**KU** li toki e ken pi jan musi ni: ona li kama ala pakala. utala la KU li kama weka. tenpo lape lili la ona li kama sin.
+**KU** li toki e ken ni pi jan musi: ona li kama ala pakala. utala la KU li kama weka. tenpo lape lili la ona li kama sin.
 
 <!--**INVENTORY**  
 PCs have 10 inventory slots: four on their body and six in their backpack (which acts as a sleeping bag if emptied). Most items take up a one slot, but smaller items can be bundled. **Bulky** items take up two slots and are awkward or difficult to carry.-->
