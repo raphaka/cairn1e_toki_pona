@@ -1616,19 +1616,19 @@ PCs have 10 inventory slots: four on their body and six in their backpack (which
 jan musi li jo e lupa ijo luka luka: tu tu li lon sijelo ona, luka wan li lon poki monsi (jan musi li ken weka e ijo ale tan insa pi poki monsi la ona li ken lape lon insa). ijo mute li wile e lupa ijo wan. ijo li lili a la ijo mute li ken tawa ijo lupa wan. **ijo suli a** li wile e lupa ijo tu. jan musi li kepeken ijo suli a la ona o kepeken luka tu. jan musi li wile tawa e ijo suli a la ni li ken ike.
 
 <!--Filling all ten item slots reduces a PC to 0 HP. PCs cannot carry more than their inventory allows, though carts & horses may provide an increase in slots.-->
-jan musi li jo e ijo lon lupa ijo ale (luka luka) la KU ona li kama 0. lupa ijo ale la jan musi li ken ala jo e ijo mute. taso poki tawa en soweli tawa li ken suli e poki jo.
+jan musi li jo e ijo lon lupa ijo ale (luka luka) la KU ona li kama 0. mute pi lupa ijo ale la jan musi li ken ala jo e ijo pi mute suli. taso poki tawa en soweli tawa li ken suli e poki jo.
 
 <!--**DEPRIVATION**  
 **Deprived** PCs cannot recover HP. If deprived for more than a day,they add a **Fatigue** to inventory. Fatigue occupies one slot and lasts until they can recover in safety. This effect is cumulative.-->
 **PILIN IKE**
 
-jan musi li **pilin ike** la ona li ken ala sin e KU ona. pilin ike li awen e tenpo suno wan la **pilin lape** wan li tawa poki jo pi jan musi. pilin lape li awen lon lupa ijo wan lon poki jo. jan musi li lape li kama pona sin lon ma pona la pilin lape li weka. pilin lape mute li ken.
+jan musi li **pilin ike** la ona li ken ala sin e KU ona. pilin ike li awen e tenpo suno wan la **pilin lape** wan li tawa poki jo pi jan musi. pilin lape li awen lon lupa ijo wan pi poki jo. jan musi li lape li kama pona sin lon ma pona la pilin lape li weka. pilin lape mute li ken.
 
 <!--**HEALING**  
 A moment's rest and a swig of water will restore lost HP, but may leave the party vulnerable. **Ability** loss requires a week's rest and the aid of a skilled healer.-->
 **KAMA PONA SIN**
 
-jan musi lape e sijelo ona lon tenpo lili li moku e telo la KU ale li lon sin. taso tenpo lape la ike li ken kama li ken pakala e ona. weka pi nanpa wawa la kama pona sin li wile e tenpo suno mute pi luka tu e jan sona pi pona sijelo.
+jan musi li lape e sijelo ona lon tenpo lili li moku e telo la KU ale li lon sin. taso tenpo lape la ike li ken kama li ken pakala e ona. weka pi nanpa wawa la kama pona sin li wile e tenpo suno mute pi luka tu e jan sona pi pona sijelo.
 
 <!--**SPELLBOOKS**  
 Spellbooks contain a single spell and take up one item slot. Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. Casting a spell adds **Fatigue** to the PC's inventory.-->
@@ -1637,33 +1637,33 @@ Spellbooks contain a single spell and take up one item slot. Anyone can cast a s
 lipu pi nasa wawa li wile e lupa ijo wan li toki e sona pi nasa wawa wan. jan ale li ken pali e nasa wawa kepeken lipu pi nasa wawa. ona o jo e lipu lon luka tu ona, o toki kalama e toki pi insa lipu. pali pi nasa wawa li pana e **pilin lape** wan tawa poki jo pi jan musi.
 
 <!--Given time and safety, PCs can enhance a spell without any additional cost. If they are deprived or in danger, a WIL save may be required to avoid terrible consequences.-->
-tenpo li suli li tenpo kin pi utala ala la jan musi li ken suli e ken wawa pi nasa wawa. jan musi li wile wawa e nasa wawa lon tenpo pi **pilin ike** anu ken pakala la ona o utala e LAW ona tan ni: ike suli li ken kama.
+tenpo li suli li tenpo kin pi utala ala la jan musi li ken suli e ken wawa pi nasa wawa. ni li wile ala e ijo ante. jan musi li wile wawa e nasa wawa lon tenpo pi **pilin ike** anu ken pakala la ona o utala e LAW ona tan ni: ike suli li ken kama.
 
 <!--**COMBAT**  
 The attacker rolls their weapon die and subtracts the target's Armor, then deals the remaining total to their opponent's HP.-->
 **UTALA**
 
-jan anu soweli la wan li utala e wan ante la o ni:
+ijo wan li utala e ijo ante la o ni:
 - o tawa e kiwen ken pi ilo utala ona.
-- o weka e nanpa awen pi wan ante tan nanpa pi kiwen ken la ni li pali e nanpa pakala. 
-- o weka e nanpa pakala tan KU pi wan ante.
+- o weka e nanpa awen pi ijo ante tan nanpa pi kiwen ken la ni li pali e nanpa pakala. 
+- o weka e nanpa pakala tan KU pi ijo ante.
 
 <!--Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.
-
 No one can have more than 3 Armor.-->
-len awen ale li jo e **nanpa awen**. sina pakala e KU la open la o weka e nanpa awen tan nanpa pi kiwen ken pakala. supa kiwen luka en awen sama li pana e pona pi nanpa awen (ken la nanpa awen +1), taso sina o jo e supa anu awen ni lon luka anu sijelo sina lon tenpo utala.
+
+len awen ale li jo e **nanpa awen**. sina pakala e KU la open la o weka e nanpa awen tan nanpa pi kiwen ken pakala. supa kiwen luka en ilo awen sama li pana e pona pi nanpa awen (ken la nanpa awen +1), taso sina o jo e supa anu ilo awen ni lon luka anu sijelo sina lon tenpo utala.
 
 nanpa awen 3 li pini ale la jan musi li ken ala jo e len pi nanpa awen 4 anu suli.
 
 <!--**Unarmed** attacks always do 1d4 damage. If **multiple attackers** target the same foe, roll all damage dice and keep the single highest result. If attacking with **two weapons** at the same time, roll both damage dice and keep the highest.-->
 jan li utala **kepeken luka taso** kepeken ilo ala la kiwen ken pi pakala ona li 1k4.
 
-jan anu soweli la **mute li utala e wan** la o tawa e kiwen ken ale pi ilo utala. nanpa ale la o awen musi kepeken nanpa pi suli nanpa wan taso. o weka e nanpa ante ale.
+**ijo mute li utala e ijo wan** la o tawa e kiwen ken ale pi ilo utala. nanpa ale la o awen musi kepeken nanpa pi suli nanpa wan taso. o weka e nanpa ante ale.
 
 utala **kepeken ilo utala tu** lon tenpo wan sama la o tawa e kiwen ken tu, o awen musi kepeken nanpa pi suli nanpa wan taso. o weka e nanpa ante.
 
 <!--If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced**, the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.-->
-utala li **utala pi wawa lili** la kiwen ken pakala li kama 1k4 tawa ilo utala ale. **utala pi wawa suli** la o tawa e 1k12. utala pi **pakala suli** li pakala e ijo ale lon poka. o pali e nanpa pakala pi mute kepeken kiwen ken pi mute sama.
+utala li **utala pi wawa lili** la kiwen ken pakala li kama 1k4 tawa ilo utala ale. **utala pi wawa suli** la o tawa e 1k12. utala pi **pakala suli** li pakala e ijo ale lon poka. o pali e nanpa pakala pi mute ijo kepeken kiwen ken pi mute sama.
 
 <!--**DAMAGE**  
 If an attack reduces a PC’s HP exactly to 0, refer to the [**Scars**](/cairn-srd#scars-1) table.
@@ -1676,7 +1676,7 @@ Having STR 0 means **death;** having DEX 0 is paralysis; having WIL 0 is deliriu
 
 KU pi jan musi li kama 0 li lili ala li suli ala la o lukin e lipu [**pakala sijelo**](#pakala-sijelo-1).
 
-KU pi jan anu soweli la pakala li suli mute la o pali e nanpa ante kepeken nasin ni: ona li nanpa insa tan KU tawa nanpa pakala.
-o weka e nanpa ante ni tan WAW pi jan anu soweli. pini la jan anu soweli o utala e WAW tan ni: ona li wile ala kama **pakala ike**.
+KU la pakala li suli mute la o pali e nanpa ante kepeken nasin ni: ona li nanpa insa tan KU tawa nanpa pakala.
+o weka e nanpa ante ni tan WAW pi jan anu soweli. kin la KU li kama 0. pini la ijo pakala o utala e WAW tan ni: ona li wile ala kama **pakala ike**.
 
 nanpa WAW pi jan musi li kama 0 la **ona li moli**; nanpa TAW li kama 0 la jan musi li ken ala tawa. nanpa LAW ona li kama 0 la ja musi li kama nasa a.
