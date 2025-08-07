@@ -651,7 +651,7 @@ some translation are changed to keep the toki simple-->
 
 <p></p>
 
-<!--## Starting Gear (d20)->>
+<!--## Starting Gear (d20)-->
 ## jo open
 
 <!--#### Armor
