@@ -21,6 +21,8 @@ _CosmicOrrery_ li pali e lipu sitelen open. -->
 <!--**Cairn** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc.).-->
 lipu nasin pi jo sona [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) li awen e **musi Cairn**.
+o kama jo e musi lon lipu ale pi toki pona [itch.io](https://cairnrpg-localizations.itch.io/cairn-1e-toki-pona).
+
 o lukin e [tomo ilo sona pi toki Inli](https://github.com/yochaigal/cairn) anu [tomo ilo sona pi toki pona](https://github.com/raphaka/cairn1e_toki_pona). ante la o kama jo e musi kepeken [lipu ante](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (toki Inli taso lon Word, Affinity, Google Docs, ante).
 
 <!--**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
