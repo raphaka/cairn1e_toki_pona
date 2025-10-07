@@ -41,20 +41,20 @@ Players act as hardened adventurers exploring a dark & mysterious Wood filled wi
 
 #### lukin lipu
 1. [lukin selo](#lukin-selo)
-2. [[#nasin pi jan lawa]]
-3. [[#nasin pi jan musi]]
-4. [[#nasin pali pi jan musi]]
-5. [[#nimi + pali]]
-6. [[#ijo jan (k10)]]
-7. [[#jo open]]
-8. [[#ijo ale (nanpa li wile ona pi mani jelo)]]
-9. [[#kulupu ijo ken]]
-10. [[#nasin musi]]
-11. [[#nasa wawa]]
-12. [[#utala]]
-13. [[#ijo monsuta]]
-14. [[#nasa wawa 100]]
-15. [[#nasin musi kepeken toki lili]]
+2. [nasin pi jan lawa](#nasin-pi-jan-lawa)
+3. [nasin pi jan musi](#nasin-pi-jan-musi)
+4. [nasin pali pi jan musi](#nasin-pali-pi-jan-musi)
+5. [nimi + pali](#nimi--pali)
+6. [ijo jan (k10)](#ijo-jan-k10)
+7. [jo open](#jo-open)
+8. [ijo ale](#ijo-ale)
+9. [kulupu ijo ken](#kulupu-ijo-ken)
+10. [nasin musi](#nasin-musi)
+11. [nasa wawa](#nasa-wawa)
+12. [utala](#utala)
+13. [ijo monsuta](#ijo-monsuta)
+14. [nasa wawa 100](#nasa-wawa-100)
+15. [nasin musi kepeken toki lili](#nasin-musi-kepeken-toki-lili)
 
 <div style="page-break-after: always;"></div>
 
@@ -106,7 +106,7 @@ Players trust one another to engage with the shared setting, character goals, an
 ### wile kulupu
 pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, kepeken nasin utala kulupu. ni la jan ale li pali tawa wile kulupu.
 
-o tawa sin pi [[#lukin lipu]].<div style="page-break-after: always;"></div>
+o tawa sin pi [lukin lipu](#lukin-lipu).<div style="page-break-after: always;"></div>
 
 <!--## Principles for Wardens-->
 ## nasin pi jan lawa
@@ -195,7 +195,7 @@ o tawa sin pi [[#lukin lipu]].<div style="page-break-after: always;"></div>
 - tenpo ni la o tawa e 1k6. nanpa 4 en nanpa suli li pona tawa jan.
 - nanpa 3 en nanpa lili li ike tawa jan tawa jan poka ona
 
-o tawa sin pi [[#lukin lipu]].<div style="page-break-after: always;"></div>
+o tawa sin pi [lukin lipu](#lukin-lipu).<div style="page-break-after: always;"></div>
 
 <!--## Principles for Players-->
 ## nasin pi jan musi
@@ -256,7 +256,7 @@ o tawa sin pi [[#lukin lipu]].<div style="page-break-after: always;"></div>
 - o wile e ala. wile sina la jan musi ante o pilin pona tan sina la o pali wawa.
 - o tawa sinpin e ijo la o lukin e kama.
 
-o tawa sin pi [[#lukin lipu]].<div style="page-break-after: always;"></div>
+o tawa sin pi [lukin lipu](#lukin-lipu).<div style="page-break-after: always;"></div>
 
 
 <!--## Character Creation-->
@@ -271,7 +271,7 @@ Finally, roll for their **age** (2d20+10).-->
 #### nimi + pali + ijo jan
 open la o **nimi** e jan musi sina o alasa e **pali** ona. nimi en pali li lon [[#nimi + pali]]. pali pi jan musi li pana e sona ken tawa ona.
 
-ni li pini la o tawa e kiwen ken tan ijo jan pi jan musi sina. lukin sijelo en nasin toki en wile lili en pilin suli li ijo jan. ijo jan li lon [[#ijo jan (k10)]] la o tawa e kiwen ken tan alasa ona.
+ni li pini la o tawa e kiwen ken tan ijo jan pi jan musi sina. lukin sijelo en nasin toki en wile lili en pilin suli li ijo jan. ijo jan li lon [ijo jan](#ijo-jan-k10) la o tawa e kiwen ken tan alasa ona.
 
 pini ni la o tawa e kiwen ken tan **tenpo sike** pi jan musi sina (2k20+10). <!-- kiwen 2 pi sinpin 20 en 10 li tenpo sike ona.-->
 
@@ -302,7 +302,7 @@ _jan Inesu li wile pali e nanpa wawa **WAW** pi jan musi ona la ona li tawa e ki
 <!--### Hit Protection
 Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](/cairn-srd.md/scars-1) table.-->
 ### nanpa pi ken utala
-o tawa e 1k6 la nanpa ona li kama **ken utala** (KU) open pi jan musi sina. nanpa ni li toki e ken pi jan musi ni: utala la ona li pakala ala. nanpa ni li toki ala e pona sijelo e wawa sijelo. kin la ona li weka ala lon tenpo suli (o lukin e **kama pona sin**). KU pi jan musi li kama 0 tan utala la jan o lukin e lipu [[#pakala sijelo]] kepeken kiwen ken.
+o tawa e 1k6 la nanpa ona li kama **ken utala** (KU) open pi jan musi sina. nanpa ni li toki e ken pi jan musi ni: utala la ona li pakala ala. nanpa ni li toki ala e pona sijelo e wawa sijelo. kin la ona li weka ala lon tenpo suli (o lukin e **kama pona sin**). KU pi jan musi li kama 0 tan utala la jan o lukin e lipu [pakala-sijelo](#pakala-sijelo) kepeken kiwen ken.
 
 <!--#### Inventory
 Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.-->
@@ -333,7 +333,7 @@ open la jan musi ale li jo e ni:
 - 3k6 mani
 
 <!--Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Spellbooks**](#spellpooks-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result.-->
-lipu ale pi **jo open** la o tawa e kiwen ken wan la o kama sona e len awen e ilo utala e ilo ante. ken la jan musi sina li kama jo e **lipu pi nasa wawa** la sina o tawa e k100 lon lipu [[#lipu pi nasa wawa (k100)]]. (k100 la sina ken tawa e 2k10 la kiwen ken wan li pana e nanpa pi suli LL la kiwen ken ante li pana e nanpa lili). lipu ken ale la sina o jo e ijo wan taso.
+lipu ale pi **jo open** la o tawa e kiwen ken wan la o kama sona e len awen e ilo utala e ilo ante. ken la jan musi sina li kama jo e **lipu pi nasa wawa** la sina o tawa e k100 lon lipu [lipu pi nasa wawa](#lipu-pi-nasa-wawa-k100). (k100 la sina ken tawa e 2k10 la kiwen ken wan li pana e nanpa pi suli LL la kiwen ken ante li pana e nanpa lili). lipu ken ale la sina o jo e ijo wan taso.
 
 
 <!--See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
@@ -342,9 +342,9 @@ If you would like something closer to traditional classes, refer to the list of 
 
 o lukin e **lipu ijo** la nanpa awen en nanpa utala en nanpa pi lupa ijo li lon. tenpo ken la sina ken kulupu e ijo lili mute.
 
-wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [[#kulupu ijo ken]].
+wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [kulupu ijo ken](#kulupu-ijo-ken).
 
-o tawa sin pi [[#lukin lipu]].<div style="page-break-after: always;"></div>
+o tawa sin pi [lukin lipu](#lukin-lipu).<div style="page-break-after: always;"></div>
 
 
 ## nimi + pali
@@ -808,7 +808,8 @@ some translation are changed to keep the toki simple-->
 <!--## Equipment List (Prices in Gold Pieces)
 #### Armor-->
 
-## ijo ale (nanpa li wile ona pi mani jelo)
+## ijo ale
+(nanpa li wile ona pi mani jelo)
 
 | | |
 |----------------------------|-----|
@@ -1088,7 +1089,7 @@ jan ni li awen e soweli e waso e akesi. ona li pana e moku tawa ona li utala e s
 |soweli alasa [KU 2, TAW 12, kiwen uta (k6)]|
 |palisa pi kalama kon wawa tan lawa soweli |
 
-o tawa sin pi [[#lukin lipu]].<div style="page-break-after: always;"></div>
+o tawa sin pi [lukin lipu](#lukin-lipu).<div style="page-break-after: always;"></div>
 
 <!--## Rules-->
 
@@ -1169,7 +1170,7 @@ tenpo ken la kulupu li ken utala ni kepeken LAW pi lawa kulupu. jan ante li utal
 PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.-->
 
 ### jan pali
-jan musi li ken pana e mani tawa **jan pali**. **jan pali** li pali pona e tawa pi jana musi. jan lawa li wile pali e jan pali sin la o pali e nanpa ken pi jan pali. o tawa e 3k6 tawa nanpa ken ale. o tawa e 1k6 tawa awen utala o pana e ilo utala pona kepeken k6 tawa ona. o kepeken lipu nasin ni: [[#nasin pali pi jan musi]] tawa ijo ante pi jan pali. mani jelo la ona li wile e 1 anu 2 anu 3 tawa pali pi tenpo suno wan. ante la ona li wile e ijo mani lili.
+jan musi li ken pana e mani tawa **jan pali**. **jan pali** li pali pona e tawa pi jana musi. jan lawa li wile pali e jan pali sin la o pali e nanpa ken pi jan pali. o tawa e 3k6 tawa nanpa ken ale. o tawa e 1k6 tawa awen utala o pana e ilo utala pona kepeken k6 tawa ona. o kepeken lipu nasin ni: [nasin-pali-pi-jan-musi](#nasin pali pi jan musi) tawa ijo ante pi jan pali. mani jelo la ona li wile e 1 anu 2 anu 3 tawa pali pi tenpo suno wan. ante la ona li wile e ijo mani lili.
 
 <!--### Wealth & Treasure
 The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).-->
@@ -1318,7 +1319,7 @@ TAW anu LAW li weka ale la jan musi o kama pona tan lape mute a anu nasin wawa a
 <!--### Scars
 When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd#scars-1) table for more.-->
 ### pakala sijelo
-KU pi jan musi li kama 0 li lili ala li suli ala la ona li ken ante pi tenpo ale. o lukin e lipu [[#pakala sijelo]].
+KU pi jan musi li kama 0 li lili ala li suli ala la ona li ken ante pi tenpo ale. o lukin e lipu [pakala sijelo](#pakala-sijelo).
 
 <!--### Unconsciousness & Death
 When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.-->
@@ -1360,7 +1361,7 @@ KU pi jan musi li kama 0 tan utala la ona li ante pi nasin nasa. nanpa pakala _a
 | 11   | <!--Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP.--> pakala pi ken moli: sina **pilin ike** li ken ala pali anu utala anu ijo ante. tenpo ilo 1h la jan ala li pona e sina la sina moli. kama pona la o tawa e 2k6. nanpa ni li KU sin sina. |
 | 12   | <!--Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result.--> ike ale: moli li poka a, taso nasa la sina awen lon. tenpo kama ken la sina o utala e WAW tan **pakala ike**. sina utala ike e ni la sina moli pi nasin ike a. sina utala pona e WAW la o tawa e 3k6. nanpa ale ni li kama nanpa wan suli. KU sina la nanpa ni li suli la ona li kama e KU sin sina. |
 
-o tawa sin pi [[#lukin lipu]].<div style="page-break-after: always;"></div>
+o tawa sin pi [lukin lipu](#lukin-lipu).<div style="page-break-after: always;"></div>
 
 <!--## Bestiary-->
 ## ijo monsuta
@@ -1480,7 +1481,7 @@ sona lili pi pali ijo monsuta:
 <!--Damage die are roughly the same, though armed attacks do at least 1d6 damage.-->
 kiwen ken pi ilo utala li sama mute. ona li utala kepeken ilo la pakala li 1k6 anu suli.
 
-o tawa sin pi [[#lukin lipu]].<div style="page-break-after: always;"></div>
+o tawa sin pi [lukin lipu](#lukin-lipu).<div style="page-break-after: always;"></div>
 
 ## nasa wawa 100
 
@@ -1678,7 +1679,7 @@ Damage that reduces a target's HP **below** 0 decreases their STR by the remaind
 Having STR 0 means **death;** having DEX 0 is paralysis; having WIL 0 is delirium.
 -->
 **PAKALA**
-KU pi jan musi li kama 0 li lili ala li suli ala la o lukin e lipu [[#pakala sijelo]].
+KU pi jan musi li kama 0 li lili ala li suli ala la o lukin e lipu [pakala sijelo](#pakala-sijelo).
 
 KU la pakala li suli mute la o pali e nanpa ante kepeken nasin ni: ona li nanpa insa tan KU tawa nanpa pakala. o weka e nanpa ante ni tan WAW pi jan anu soweli. kin la KU li kama 0. pini la ijo pakala o utala e WAW tan ni: ona li wile ala kama **pakala ike**.
 
