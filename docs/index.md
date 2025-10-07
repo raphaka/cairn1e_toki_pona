@@ -40,7 +40,7 @@ Players act as hardened adventurers exploring a dark & mysterious Wood filled wi
 </details-->
 
 #### lukin lipu
-1. [[#lukin selo]]
+1. [lukin selo](#lukin-selo)
 2. [[#nasin pi jan lawa]]
 3. [[#nasin pi jan musi]]
 4. [[#nasin pali pi jan musi]]
