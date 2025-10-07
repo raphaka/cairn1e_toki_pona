@@ -732,8 +732,8 @@ some translation are changed to keep the toki simple-->
 | 5    | Chisel   | 10   | Glue           | 15   | Nails      | 20   | Tongs   |-->
 
 #### ilo (k20)
-|      |          |      |                |      |            |      |         |
-| ---- | -------- | ---- | -------------- | ---- | ---------- | ---- | ------- |
+| | | | | | | | |
+| - | - | - | - | - | - | - | - |
 | 1    | ilo pi pana kon  | 6    | poki pi pali moku | 11   | ko moku     | 16   | kulupu linja alasa |
 | 2    | poki telo suli  | 7    | palisa kiwen pi open lupa | 12   | ilo kiwen | 17   | ilo pi tu kasi     |
 | 3    | kiwen palisa lili pi pakala noka | 8    | ilo pi pali lupa lili | 13   | ilo tenpo pi poki ko | 18   | ko pali |
@@ -766,9 +766,6 @@ some translation are changed to keep the toki simple-->
 | :-------------: | :----------------: | :-------------: | :-------: |
 |       1-5       |        6-13        |      14-17      |   18-20   |
 |ilo anu ilo lili | ilo pi jan tawa | len awen anu ilo utala | lipu pi nasa wawa |
-<!-- | Tool or Trinket | Expeditionary Gear | Armor or Weapon | Spellbook | -->
-
-
 
 #### lipu pi nasa wawa (k100)
 
