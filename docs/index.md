@@ -106,7 +106,7 @@ Players trust one another to engage with the shared setting, character goals, an
 ### wile kulupu
 pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, kepeken nasin utala kulupu. ni la jan ale li pali tawa wile kulupu.
 
-o tawa sin pi [lukin lipu](#lukin-lipu).<div style="page-break-after: always;"></div>
+o tawa sin pi [lukin lipu](#lukin-lipu). <div style="page-break-after: always;"></div>
 
 <!--## Principles for Wardens-->
 ## nasin pi jan lawa
@@ -195,7 +195,7 @@ o tawa sin pi [lukin lipu](#lukin-lipu).<div style="page-break-after: always;"><
 - tenpo ni la o tawa e 1k6. nanpa 4 en nanpa suli li pona tawa jan.
 - nanpa 3 en nanpa lili li ike tawa jan tawa jan poka ona
 
-o tawa sin pi [lukin lipu](#lukin-lipu).<div style="page-break-after: always;"></div>
+o tawa sin pi [lukin lipu](#lukin-lipu). <div style="page-break-after: always;"></div>
 
 <!--## Principles for Players-->
 ## nasin pi jan musi
@@ -256,7 +256,7 @@ o tawa sin pi [lukin lipu](#lukin-lipu).<div style="page-break-after: always;"><
 - o wile e ala. wile sina la jan musi ante o pilin pona tan sina la o pali wawa.
 - o tawa sinpin e ijo la o lukin e kama.
 
-o tawa sin pi [lukin lipu](#lukin-lipu).<div style="page-break-after: always;"></div>
+o tawa sin pi [lukin lipu](#lukin-lipu). <div style="page-break-after: always;"></div>
 
 
 <!--## Character Creation-->
@@ -269,7 +269,7 @@ Next, roll for the rest of your character's **traits** (appearance, speech, mann
 Finally, roll for their **age** (2d20+10).-->
 
 #### nimi + pali + ijo jan
-open la o **nimi** e jan musi sina o alasa e **pali** ona. nimi en pali li lon [[#nimi + pali]]. pali pi jan musi li pana e sona ken tawa ona.
+open la o **nimi** e jan musi sina o alasa e **pali** ona. nimi en pali li lon [nimi + pali](#nimi--pali). pali pi jan musi li pana e sona ken tawa ona.
 
 ni li pini la o tawa e kiwen ken tan ijo jan pi jan musi sina. lukin sijelo en nasin toki en wile lili en pilin suli li ijo jan. ijo jan li lon [ijo jan](#ijo-jan-k10) la o tawa e kiwen ken tan alasa ona.
 
@@ -344,7 +344,7 @@ o lukin e **lipu ijo** la nanpa awen en nanpa utala en nanpa pi lupa ijo li lon.
 
 wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [kulupu ijo ken](#kulupu-ijo-ken).
 
-o tawa sin pi [lukin lipu](#lukin-lipu).<div style="page-break-after: always;"></div>
+o tawa sin pi [lukin lipu](#lukin-lipu). <div style="page-break-after: always;"></div>
 
 
 ## nimi + pali
@@ -769,7 +769,7 @@ some translation are changed to keep the toki simple-->
 | :-------------: | :----------------: | :-------------: | :-------: |
 |       1-5       |        6-13        |      14-17      |   18-20   |
 |ilo anu ilo lili | ilo pi jan tawa | len awen anu ilo utala | lipu pi nasa wawa |
-<!--| Tool or Trinket | Expeditionary Gear | Armor or Weapon | Spellbook |-->
+<!-- | Tool or Trinket | Expeditionary Gear | Armor or Weapon | Spellbook | -->
 
 
 
@@ -1089,7 +1089,7 @@ jan ni li awen e soweli e waso e akesi. ona li pana e moku tawa ona li utala e s
 |soweli alasa [KU 2, TAW 12, kiwen uta (k6)]|
 |palisa pi kalama kon wawa tan lawa soweli |
 
-o tawa sin pi [lukin lipu](#lukin-lipu).<div style="page-break-after: always;"></div>
+o tawa sin pi [lukin lipu](#lukin-lipu). <div style="page-break-after: always;"></div>
 
 <!--## Rules-->
 
@@ -1361,7 +1361,7 @@ KU pi jan musi li kama 0 tan utala la ona li ante pi nasin nasa. nanpa pakala _a
 | 11   | <!--Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP.--> pakala pi ken moli: sina **pilin ike** li ken ala pali anu utala anu ijo ante. tenpo ilo 1h la jan ala li pona e sina la sina moli. kama pona la o tawa e 2k6. nanpa ni li KU sin sina. |
 | 12   | <!--Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result.--> ike ale: moli li poka a, taso nasa la sina awen lon. tenpo kama ken la sina o utala e WAW tan **pakala ike**. sina utala ike e ni la sina moli pi nasin ike a. sina utala pona e WAW la o tawa e 3k6. nanpa ale ni li kama nanpa wan suli. KU sina la nanpa ni li suli la ona li kama e KU sin sina. |
 
-o tawa sin pi [lukin lipu](#lukin-lipu).<div style="page-break-after: always;"></div>
+o tawa sin pi [lukin lipu](#lukin-lipu). <div style="page-break-after: always;"></div>
 
 <!--## Bestiary-->
 ## ijo monsuta
@@ -1481,7 +1481,7 @@ sona lili pi pali ijo monsuta:
 <!--Damage die are roughly the same, though armed attacks do at least 1d6 damage.-->
 kiwen ken pi ilo utala li sama mute. ona li utala kepeken ilo la pakala li 1k6 anu suli.
 
-o tawa sin pi [lukin lipu](#lukin-lipu).<div style="page-break-after: always;"></div>
+o tawa sin pi [lukin lipu](#lukin-lipu). <div style="page-break-after: always;"></div>
 
 ## nasa wawa 100
 
@@ -1588,7 +1588,7 @@ o tawa sin pi [lukin lipu](#lukin-lipu).<div style="page-break-after: always;"><
 | 99  | [Kule Pi Nasa Wawa](#kule-pi-nasa-wawa)               | palisa luka sina li ken pana e kule. sina taso li ken lukin e kule ni. kule li weka tan sina la sina awen ken lukin e kule. kin la ijo kule li insa e ijo ante la sina awen ken lukin e kule. ijo kule li lon poka ante pi ijo ante la sina kin li ken lukin e ona. |
 | 100 | [Lukin Insa](#lukin-insa)                             | sina ken lukin insa e ijo e sinpin e len e ma e ante. sina ken lukin tawa poka ante ona.                                                                                                                                                                            |
 
-o tawa sin pi [[#lukin lipu]].<div style="page-break-after: always;"></div>
+o tawa sin pi [[#lukin lipu]]. <div style="page-break-after: always;"></div>
 
 
 <!-- once we get to this point we should make sure to copy relevant parts from above to be as consistent as possible-->
