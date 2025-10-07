@@ -106,7 +106,7 @@ Players trust one another to engage with the shared setting, character goals, an
 ### wile kulupu
 pilin jan la jan ale li pali kepeken ma musi kulupu, kepeken wile pi jan musi, kepeken nasin utala kulupu. ni la jan ale li pali tawa wile kulupu.
 
-o tawa sin pi [lukin lipu](#lukin-lipu). <div style="page-break-after: always;"></div>
+o tawa sin pi [lukin lipu](#lukin-lipu).
 
 <!--## Principles for Wardens-->
 ## nasin pi jan lawa
@@ -195,7 +195,7 @@ o tawa sin pi [lukin lipu](#lukin-lipu). <div style="page-break-after: always;">
 - tenpo ni la o tawa e 1k6. nanpa 4 en nanpa suli li pona tawa jan.
 - nanpa 3 en nanpa lili li ike tawa jan tawa jan poka ona
 
-o tawa sin pi [lukin lipu](#lukin-lipu). <div style="page-break-after: always;"></div>
+o tawa sin pi [lukin lipu](#lukin-lipu).
 
 <!--## Principles for Players-->
 ## nasin pi jan musi
@@ -256,7 +256,7 @@ o tawa sin pi [lukin lipu](#lukin-lipu). <div style="page-break-after: always;">
 - o wile e ala. wile sina la jan musi ante o pilin pona tan sina la o pali wawa.
 - o tawa sinpin e ijo la o lukin e kama.
 
-o tawa sin pi [lukin lipu](#lukin-lipu). <div style="page-break-after: always;"></div>
+o tawa sin pi [lukin lipu](#lukin-lipu).
 
 
 <!--## Character Creation-->
@@ -344,7 +344,7 @@ o lukin e **lipu ijo** la nanpa awen en nanpa utala en nanpa pi lupa ijo li lon.
 
 wile sina la jo li ken sama nasin pi kulupu jan pali la o lukin e lipu [kulupu ijo ken](#kulupu-ijo-ken).
 
-o tawa sin pi [lukin lipu](#lukin-lipu). <div style="page-break-after: always;"></div>
+o tawa sin pi [lukin lipu](#lukin-lipu).
 
 
 ## nimi + pali
@@ -391,18 +391,17 @@ o tawa sin pi [lukin lipu](#lukin-lipu). <div style="page-break-after: always;">
 
 <!-- lipu 'pali' la nasin tu li ken -->
 
-<!--#### pali
+<!-- #### pali
 | | | | | | | | |
-|------|-----------|-----------|-----------|----------|---------|------|----------|
+| ------ | ----------- | ----------- | ----------- | ---------- | --------- | ------ | ---------- |
 |1           |jan pi telo wawa |6          |jan lawa sewi     |11        |jan pi nasa wawa |16    |jan pi kalama musi |
 |2           |jan pi pali ilo|7          |jan musi pi ken weka mani    |12        |jan utala|17    |jan ike pi kama jo|
 |3           |jan ike pi insa tomo   |8          |jan pi lupa moli|13        |jan esun |18    |jan tawa pi nasin lawa ala  |
 |4           |jan pali pi moku sijelo   |9          |jan kasi  |14        |jan pali nena    |19    |jan pali pi jan ante   |
-|5           |jan pi pali supa |10         |jan alasa     |15        |jan pi nasin lawa ala   |20    |jan pi mama soweli    |-->
+|5           |jan pi pali supa |10         |jan alasa     |15        |jan pi nasin lawa ala   |20    |jan pi mama soweli    | -->
 
 #### pali (k20)
-|     |                                                           |
-| --- | --------------------------------------------------------- |
+| |         --- | 
 | 1   | ona li pali e telo pi nasa wawa.                          |
 | 2   | ona li pali e ilo.                                        |
 | 3   | jan ike ni li tawa insa pi tomo ante li kama jo e ijo.    |
@@ -443,7 +442,7 @@ some translation are changed to keep the toki simple-->
 
 #### lukin sijelo (k10)
 | | | | |
-| -------- | -------- | ---- | ---------- |
+| - | - | - | - |
 | 1        | wawa     | 6    | wawa lili  |
 | 2        | wawa suli| 7    | lili       |
 | 3        | ko       | 8    | pona       |
@@ -499,7 +498,6 @@ some translation are changed to keep the toki simple-->
 | 8   | telo ko li lon li pana sin e suno.|
 | 9   | lukin linja li sama telo tawa.|
 | 10  | kule tu li lon linja.         |
-<!-- like original | 10  | linja li mute ala li sama telo kon. |-->
 
 
 <!--#### Face-->
@@ -528,8 +526,6 @@ some translation are changed to keep the toki simple-->
 | 3    | wawa      | 8    | sike ala |
 | 4    | suli palisa | 9  | sijelo lipu |
 | 5    | kule walo | 10   | lukin lape |
-
-<!--| 2    | pakala    | 7    |sama soweli pipi|-->
 
 <!--#### Speech
 
@@ -679,18 +675,19 @@ some translation are changed to keep the toki simple-->
 | None  | Brigandine | Chainmail | Plate |-->
 #### len awen (k20)
 |       |            |           |       |
-| :---: | :--------: | :-------: | :---: |
+| --- | -------- | ------- | --- |
 |  1-3  |    4-14    |   15-19   |  20   |
 | ala   | len utala | linja kiwen | lipu kiwen |
 
 <!--#### Helmets & Shields
 |  |        |        |                 |
-| :---------------: | :----: | :----: | :-------------: |
+| --------------- | --- | ---- | ------------ |
 |       1-13        | 14-16  | 17-19  |       20        |
 |       None        | Helmet | Shield | Helmet & Shield |-->
+
 #### len lawa kiwen + supa kiwen luka (k20)
 |  |        |        |                 |
-| :---------------: | :----: | :----: | :-------------: |
+| --------------- | ---- | ---- | ------------- |
 |       1-13        | 14-16  | 17-19  |       20        |
 |       ala        | len lawa kiwen | supa kiwen luka | len lawa kiwen + supa kiwen luka  |
 
@@ -718,7 +715,7 @@ some translation are changed to keep the toki simple-->
 
 #### ilo pi jan tawa (k20)
 | | | | | | | | |
-| --- | --- | --- | --- | ---- | --- | --- | --- |
+| - | - | - | - | - | - | - | - |
 |1|poki kon |6|telo ko pi pali seli|11|ilo pi awen luka|16|linja wawa (25ft/8m)|
 |2|telo pi awen tan telo moli|7|ilo tawa pi linja luka|12|ilo pi pakala kiwen|17|sitelen awen|
 |3| poki tawa (lupa ijo +4, suli a) |8|poki len suli|13| palisa suli (10ft/3m)|18|ilo palisa pi lukin weka|
@@ -1089,7 +1086,7 @@ jan ni li awen e soweli e waso e akesi. ona li pana e moku tawa ona li utala e s
 |soweli alasa [KU 2, TAW 12, kiwen uta (k6)]|
 |palisa pi kalama kon wawa tan lawa soweli |
 
-o tawa sin pi [lukin lipu](#lukin-lipu). <div style="page-break-after: always;"></div>
+o tawa sin pi [lukin lipu](#lukin-lipu).
 
 <!--## Rules-->
 
@@ -1361,7 +1358,7 @@ KU pi jan musi li kama 0 tan utala la ona li ante pi nasin nasa. nanpa pakala _a
 | 11   | <!--Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP.--> pakala pi ken moli: sina **pilin ike** li ken ala pali anu utala anu ijo ante. tenpo ilo 1h la jan ala li pona e sina la sina moli. kama pona la o tawa e 2k6. nanpa ni li KU sin sina. |
 | 12   | <!--Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result.--> ike ale: moli li poka a, taso nasa la sina awen lon. tenpo kama ken la sina o utala e WAW tan **pakala ike**. sina utala ike e ni la sina moli pi nasin ike a. sina utala pona e WAW la o tawa e 3k6. nanpa ale ni li kama nanpa wan suli. KU sina la nanpa ni li suli la ona li kama e KU sin sina. |
 
-o tawa sin pi [lukin lipu](#lukin-lipu). <div style="page-break-after: always;"></div>
+o tawa sin pi [lukin lipu](#lukin-lipu).
 
 <!--## Bestiary-->
 ## ijo monsuta
@@ -1481,7 +1478,8 @@ sona lili pi pali ijo monsuta:
 <!--Damage die are roughly the same, though armed attacks do at least 1d6 damage.-->
 kiwen ken pi ilo utala li sama mute. ona li utala kepeken ilo la pakala li 1k6 anu suli.
 
-o tawa sin pi [lukin lipu](#lukin-lipu). <div style="page-break-after: always;"></div>
+o tawa sin pi [lukin lipu](#lukin-lipu). 
+
 
 ## nasa wawa 100
 
@@ -1588,10 +1586,8 @@ o tawa sin pi [lukin lipu](#lukin-lipu). <div style="page-break-after: always;">
 | 99  | [Kule Pi Nasa Wawa](#kule-pi-nasa-wawa)               | palisa luka sina li ken pana e kule. sina taso li ken lukin e kule ni. kule li weka tan sina la sina awen ken lukin e kule. kin la ijo kule li insa e ijo ante la sina awen ken lukin e kule. ijo kule li lon poka ante pi ijo ante la sina kin li ken lukin e ona. |
 | 100 | [Lukin Insa](#lukin-insa)                             | sina ken lukin insa e ijo e sinpin e len e ma e ante. sina ken lukin tawa poka ante ona.                                                                                                                                                                            |
 
-o tawa sin pi [[#lukin lipu]]. <div style="page-break-after: always;"></div>
+o tawa sin pi [lukni lipu](#lukin-lipu).
 
-
-<!-- once we get to this point we should make sure to copy relevant parts from above to be as consistent as possible-->
 <!--# Rules Summary-->
 # nasin musi kepeken toki lili
 <!--**ACTIONS**  
