@@ -401,7 +401,8 @@ o tawa sin pi [lukin lipu](#lukin-lipu).
 |5           |jan pi pali supa |10         |jan alasa     |15        |jan pi nasin lawa ala   |20    |jan pi mama soweli    | -->
 
 #### pali (k20)
-| |         --- | 
+| | | 
+| --- | --- |
 | 1   | ona li pali e telo pi nasa wawa.                          |
 | 2   | ona li pali e ilo.                                        |
 | 3   | jan ike ni li tawa insa pi tomo ante li kama jo e ijo.    |
@@ -442,7 +443,7 @@ some translation are changed to keep the toki simple-->
 
 #### lukin sijelo (k10)
 | | | | |
-| - | - | - | - |
+| --- | --- | --- | --- |
 | 1        | wawa     | 6    | wawa lili  |
 | 2        | wawa suli| 7    | lili       |
 | 3        | ko       | 8    | pona       |
@@ -673,23 +674,24 @@ some translation are changed to keep the toki simple-->
 | :---: | :--------: | :-------: | :---: |
 |  1-3  |    4-14    |   15-19   |  20   |
 | None  | Brigandine | Chainmail | Plate |-->
+
 #### len awen (k20)
-|       |            |           |       |
-| --- | -------- | ------- | --- |
+|     |     |     |     |
+| --- | --- | --- | --- |
 |  1-3  |    4-14    |   15-19   |  20   |
 | ala   | len utala | linja kiwen | lipu kiwen |
 
 <!--#### Helmets & Shields
-|  |        |        |                 |
-| --------------- | --- | ---- | ------------ |
-|       1-13        | 14-16  | 17-19  |       20        |
+|  |  |   |    |
+| --- | --- | --- | --- |
+|  1-13 | 14-16  | 17-19  |       20        |
 |       None        | Helmet | Shield | Helmet & Shield |-->
 
 #### len lawa kiwen + supa kiwen luka (k20)
-|  |        |        |                 |
-| --------------- | ---- | ---- | ------------- |
-|       1-13        | 14-16  | 17-19  |       20        |
-|       ala        | len lawa kiwen | supa kiwen luka | len lawa kiwen + supa kiwen luka  |
+|  |  |  |  |
+| --- | --- | --- | --- |
+| 1-13 | 14-16 | 17-19  | 20 |
+|  ala  | len lawa kiwen | supa kiwen luka | len lawa kiwen + supa kiwen luka  |
 
 <!-- #### Weapons
 |                |                  |                          |                                |
