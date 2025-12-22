@@ -443,6 +443,7 @@ some translation are changed to keep the toki simple-->
 
 
 #### lukin sijelo (k10)
+
 | | | | |
 | --- | --- | --- | --- |
 | 1        | wawa     | 6    | wawa lili  |
@@ -677,6 +678,7 @@ some translation are changed to keep the toki simple-->
 | None  | Brigandine | Chainmail | Plate |-->
 
 #### len awen (k20)
+
 |     |     |     |     |
 | --- | --- | --- | --- |
 |  1-3  |    4-14    |   15-19   |  20   |
@@ -689,6 +691,7 @@ some translation are changed to keep the toki simple-->
 |       None        | Helmet | Shield | Helmet & Shield |-->
 
 #### len lawa kiwen + supa kiwen luka (k20)
+
 |  |  |  |  |
 | --- | --- | --- | --- |
 | 1-13 | 14-16 | 17-19  | 20 |
@@ -717,6 +720,7 @@ some translation are changed to keep the toki simple-->
 | 5    | Dowsing Rod            | 10   | Lockpicks      | 15   | Repellent   | 20   | Wolfsbane   |-->
 
 #### ilo pi jan tawa (k20)
+
 | | | | | | | | |
 | - | - | - | - | - | - | - | - |
 |1|poki kon |6|telo ko pi pali seli|11|ilo pi awen luka|16|linja wawa (25ft/8m)|
@@ -735,6 +739,7 @@ some translation are changed to keep the toki simple-->
 | 5    | Chisel   | 10   | Glue           | 15   | Nails      | 20   | Tongs   |-->
 
 #### ilo (k20)
+
 | | | | | | | | |
 | - | - | - | - | - | - | - | - |
 | 1    | ilo pi pana kon  | 6    | poki pi pali moku | 11   | ko moku     | 16   | kulupu linja alasa |
@@ -809,13 +814,14 @@ some translation are changed to keep the toki simple-->
 (nanpa li wile ona pi mani jelo)
 
 | | |
-|----------------------------|-----|
+|---|---|
 |supa kiwen luka (nanpa awen +1) |10   |
 |len lawa kiwen (nanpa awen +1)  |10   |
 |len utala insa (nanpa awen +1)  |15   |
 |len utala (nanpa awen 1, suli a)|20   |
 |len pi linja kiwen (anpa awen 2, suli a)|40 |
 |len pi lipu kiwen (nanpa awen 3, suli a)|60 |
+
 #### ilo utala
 
 | | |
