@@ -401,27 +401,28 @@ o tawa sin pi [lukin lipu](#lukin-lipu).
 |5           |jan pi pali supa |10         |jan alasa     |15        |jan pi nasin lawa ala   |20    |jan pi mama soweli    | -->
 
 #### pali (k20)
+
 | | | 
 | --- | --- |
-| 1   | ona li pali e telo pi nasa wawa.                          |
-| 2   | ona li pali e ilo.                                        |
+| 1   | ona li pali e telo pi nasa wawa.    |
+| 2   | ona li pali e ilo.               |
 | 3   | jan ike ni li tawa insa pi tomo ante li kama jo e ijo.    |
 | 4   | jan ni li pali e moku pi sijelo soweli.                   |
 | 5   | ona li pali e supa lape e supa monsi kepeken kiwen kasi.  |
-| 6   | tomo pi nasin sewi la ona li jan lawa.                    |
+| 6   | tomo pi nasin sewi la ona li jan lawa.|
 | 7   | tenpo mute la ona li musi, taso mani ona li ken weka.     |
 | 8   | jan li moli la ona li pali e lupa lon ma moli.            |
-| 9   | ona li mama e kasi li telo e kasi.                        |
-| 10  | ona li alasa e soweli.                                    |
-| 11  | ona li sona suli e nasa wawa.                             |
+| 9   | ona li mama e kasi li telo e kasi. |
+| 10  | ona li alasa e soweli.            |
+| 11  | ona li sona suli e nasa wawa.    |
 | 12  | jan ante li pana e mani la jan ni li utala lon poka ona.  |
-| 13  | ona li jan esun.                                          |
-| 14  | jan ni li pali e kiwen lon nena.                          |
-| 15  | ona li kute ala e nasin lawa.                             |
+| 13  | ona li jan esun.                  |
+| 14  | jan ni li pali e kiwen lon nena.  |
+| 15  | ona li kute ala e nasin lawa.     |
 | 16  | ona li kalama musi li pana e musi tawa jan ante.          |
 | 17  | jan ike ni li kama jo e poki mani pi jan ante.            |
 | 18  | ona li tawa pi ma ante e ijo pi nasin lawa ala.           |
-| 19  | ona li pali lon tomo pi jan mani a.                       |
+| 19  | ona li pali lon tomo pi jan mani a. |
 | 20  | ma pi kasi suli la ona li lawa li alasa li mama e soweli. |
 
 
